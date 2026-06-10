@@ -1,0 +1,34 @@
+# OntoRAG MCP server — generic RAG over any <org>/<repo> OntoRAG dataset, read
+# through Mirage's GitHub resource (GitHub surfaced as a virtual disk).
+#
+#   GITHUB_TOKEN=$(gh auth token) docker compose up server
+#   # MCP (streamable-http) at http://localhost:8765/mcp
+#
+# Embeddings come from the host ollama (same model the dataset was built with).
+
+services:
+  server:
+    build: .
+    image: ontorag-mcp:latest
+    ports:
+      - "8765:8765"
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    environment:
+      ONTORAG_TRANSPORT: ${ONTORAG_TRANSPORT:-streamable-http}
+      ONTORAG_HOST: 0.0.0.0
+      ONTORAG_PORT: "8765"
+      ONTORAG_DEFAULT_REPO: ${ONTORAG_DEFAULT_REPO:-openfantasymap/amol-ontorag}
+      ONTORAG_REF: ${ONTORAG_REF:-main}
+      ONTORAG_RETRIEVAL: ${ONTORAG_RETRIEVAL:-vector}
+      OLLAMA_URL: ${OLLAMA_URL:-http://host.docker.internal:11434}
+      GITHUB_TOKEN: ${GITHUB_TOKEN:-}
+      # set to redis://redis:6379 (or an Upstash rediss:// URL) for serverless ontology mode
+      REDIS_URL: ${REDIS_URL:-}
+
+  # `docker compose --profile redis up` runs a local Redis for the serverless mode
+  redis:
+    image: redis:7-alpine
+    profiles: ["redis"]
+    ports:
+      - "6379:6379"
