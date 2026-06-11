@@ -36,7 +36,10 @@ RETRIEVAL = os.environ.get("ONTORAG_RETRIEVAL", "vector").strip()
 REDIS_URL = os.environ.get("REDIS_URL") or None
 REDIS_TTL = int(os.environ.get("ONTORAG_REDIS_TTL", str(24 * 3600)))
 
-mcp = FastMCP("ontorag")
+# Stateless HTTP (no session persistence, JSON responses) is required for
+# serverless/per-request invocation (Vercel). Local `mcp.run` works either way.
+STATELESS = os.environ.get("ONTORAG_STATELESS", "").lower() in ("1", "true", "yes")
+mcp = FastMCP("ontorag", stateless_http=STATELESS, json_response=STATELESS)
 _loaded = {}              # spec -> Dataset | RedisDataset
 _lock = asyncio.Lock()
 _redis = None
@@ -138,6 +141,12 @@ async def entity_chunks(name_or_iri: str, repo: str = "", k: int = 8) -> list:
     entity (no vector search) — read everything the corpus says about a specific
     Character, Spell, House, etc."""
     return await _result((await _get(repo)).entity_chunks(name_or_iri, k=k))
+
+
+def build_asgi():
+    """Return the stateless streamable-http MCP app (endpoint at /mcp) for
+    serverless hosts like Vercel. Requires ONTORAG_STATELESS=1 at import time."""
+    return mcp.streamable_http_app()
 
 
 def main():

@@ -160,6 +160,47 @@ GITHUB_TOKEN=$(gh auth token) docker compose up server
 
 Locally, `docker compose --profile redis up` starts a Redis alongside the server.
 
+## Deploy to Vercel (serverless)
+
+The server ships a stateless ASGI entrypoint (`api/index.py`) so Vercel can invoke
+it per request. Use the **Redis-backed** retrieval (`ontology` recommended — no
+embedder; or `hybrid` with a hosted embedder), with a hosted Redis like Upstash.
+
+Files: `api/index.py` (stateless MCP at `/mcp`), `vercel.json` (routes `/mcp`,
+`maxDuration` 300 s, 2 GB), `requirements.txt`.
+
+```bash
+vercel link        # or import the repo in the Vercel dashboard
+vercel deploy --prod
+```
+
+Set these Environment Variables in the Vercel project:
+
+| var | value |
+|-----|-------|
+| `REDIS_URL` | `rediss://…upstash.io:6379` (hosted Redis) |
+| `ONTORAG_RETRIEVAL` | `ontology` (no embedder) — or `hybrid` |
+| `ONTORAG_DEFAULT_REPO` | e.g. `openfantasymap/amol-ontorag` |
+| `ONTORAG_REF` | `main` |
+| `GITHUB_TOKEN` | token for Mirage to read the dataset repo |
+| `OLLAMA_URL` | hosted embedder URL — **only** for `hybrid` |
+
+`ONTORAG_STATELESS=1` is set automatically by `api/index.py`. The MCP endpoint is
+`https://<deployment>/mcp`; connect with
+`claude mcp add --transport http ontorag https://<deployment>/mcp`.
+
+**Caveats (serverless):**
+- *Cold populate.* The first request after the 24 h TTL repopulates Redis from the
+  dataset via Mirage — ~25 s for `ontology`, longer for `hybrid` (reads the
+  vectors). It fits within `maxDuration` 300 s, but add a **Vercel Cron** that pings
+  the endpoint to pre-warm Redis so user requests never pay it (and to avoid GitHub
+  API rate-limits during the paged read).
+- *`hybrid` needs a hosted embedder* — `ollama` isn't on Vercel; either point
+  `OLLAMA_URL` at a hosted ollama, build the dataset with the `hashed` provider, or
+  use `ontology` mode (embedder-free).
+- *Bundle size.* `mirage-ai` + `numpy` are sizable but within Vercel's limit;
+  `.vercelignore` drops `tests/`, `Dockerfile`, and compose.
+
 ## Notes
 
 - A loaded dataset is held in memory (~55 MB of vectors for 18k × 768-dim) and
