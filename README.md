@@ -162,12 +162,15 @@ Locally, `docker compose --profile redis up` starts a Redis alongside the server
 
 ## Deploy to Vercel (serverless)
 
-The server ships a stateless ASGI entrypoint (`api/index.py`) so Vercel can invoke
-it per request. Use the **Redis-backed** retrieval (`ontology` recommended — no
-embedder; or `hybrid` with a hosted embedder), with a hosted Redis like Upstash.
+Vercel loads the stateless ASGI app declared in `pyproject.toml`
+(`[tool.vercel] entrypoint = "ontorag_mcp.asgi:app"`); the app serves the MCP
+endpoint at `/mcp`. Use the **Redis-backed** retrieval (`ontology` recommended —
+no embedder; or `hybrid` with a hosted embedder), with a hosted Redis like Upstash.
 
-Files: `api/index.py` (stateless MCP at `/mcp`), `vercel.json` (routes `/mcp`,
-`maxDuration` 300 s, 2 GB), `requirements.txt`.
+Files: `pyproject.toml` (entrypoint, `requires-python >=3.12`, deps),
+`ontorag_mcp/asgi.py` (`app = build_asgi()`, sets `ONTORAG_STATELESS=1`),
+`.vercelignore`. No `/api` directory and no `functions`/`rewrites` config are
+needed — Vercel builds the entrypoint and serves all routes through it.
 
 ```bash
 vercel link        # or import the repo in the Vercel dashboard
@@ -185,9 +188,11 @@ Set these Environment Variables in the Vercel project:
 | `GITHUB_TOKEN` | token for Mirage to read the dataset repo |
 | `OLLAMA_URL` | hosted embedder URL — **only** for `hybrid` |
 
-`ONTORAG_STATELESS=1` is set automatically by `api/index.py`. The MCP endpoint is
-`https://<deployment>/mcp`; connect with
+The MCP endpoint is `https://<deployment>/mcp`; connect with
 `claude mcp add --transport http ontorag https://<deployment>/mcp`.
+Default function duration on Fluid is 300 s (enough for the cold populate); set
+`maxDuration` via a `vercel.json` `functions` glob (`api/**/*.py` style targeting
+the entrypoint) only if you need to raise it.
 
 **Caveats (serverless):**
 - *Cold populate.* The first request after the 24 h TTL repopulates Redis from the

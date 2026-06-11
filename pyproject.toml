@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ontorag-mcp"
+version = "0.1.0"
+description = "Generic MCP RAG server over any <org>/<repo> OntoRAG dataset"
+requires-python = ">=3.12"
+dependencies = [
+  "mcp>=1.2",
+  "numpy>=1.24",
+  "mirage-ai",
+  "redis>=5",
+]
+
+[tool.setuptools]
+packages = ["ontorag_mcp"]
+
+# Vercel loads this ASGI app as the function entrypoint (it serves the MCP
+# endpoint at /mcp). See https://vercel.com/docs/functions/runtimes/python
+[tool.vercel]
+entrypoint = "ontorag_mcp.asgi:app"
