@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>OntoRAG — ontology-grounded RAG over GitHub-as-storage datasets</title>
+<meta name="description" content="OntoRAG: a reusable GitHub-as-storage dataset layout (ontology + content + embeddings) and a generic MCP server that serves graph-aware RAG over any &lt;org&gt;/&lt;repo&gt;.">
+<style>
+  :root { --fg:#1a1a1a; --muted:#666; --bg:#fff; --accent:#0b6; --line:#e6e6e6; --code:#f5f5f5; }
+  @media (prefers-color-scheme: dark){ :root{ --fg:#e8e8e8; --muted:#9aa; --bg:#111; --accent:#2db47d; --line:#262626; --code:#1b1b1b; } }
+  * { box-sizing: border-box; }
+  body { margin:0; color:var(--fg); background:var(--bg); font:16px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; }
+  .wrap { max-width:820px; margin:0 auto; padding:3rem 1.25rem 5rem; }
+  h1 { font-size:2rem; margin:.2rem 0 .3rem; letter-spacing:-.02em; }
+  h2 { font-size:1.25rem; margin:2.4rem 0 .6rem; padding-top:.4rem; border-top:1px solid var(--line); }
+  .tag { color:var(--muted); font-size:1.05rem; margin:0 0 1.4rem; }
+  p { margin:.6rem 0; }
+  a { color:var(--accent); text-decoration:none; }
+  a:hover { text-decoration:underline; }
+  code { background:var(--code); padding:.1em .35em; border-radius:4px; font-size:.9em; }
+  pre { background:var(--code); padding:.9rem 1rem; border-radius:8px; overflow:auto; font-size:.85rem; }
+  table { border-collapse:collapse; width:100%; margin:.8rem 0; font-size:.92rem; }
+  th,td { text-align:left; padding:.4rem .6rem; border-bottom:1px solid var(--line); }
+  th { color:var(--muted); font-weight:600; }
+  .lead { font-size:1.08rem; }
+  .pills a { display:inline-block; border:1px solid var(--line); border-radius:999px; padding:.3rem .8rem; margin:.2rem .3rem .2rem 0; font-size:.9rem; }
+  .muted { color:var(--muted); }
+  .grid { display:grid; grid-template-columns:1fr 1fr; gap:.4rem 1.4rem; }
+  @media (max-width:640px){ .grid{ grid-template-columns:1fr; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <h1>OntoRAG</h1>
+  <p class="tag">Ontology-grounded RAG over <em>GitHub-as-storage</em> datasets.</p>
+
+  <p class="lead">A reusable repository layout — an <strong>ontology</strong> (knowledge
+  graph), <strong>content</strong> (chunked text), and <strong>embeddings</strong> —
+  that a service reads to answer questions, plus a generic MCP server that serves
+  graph-aware retrieval over <em>any</em> such dataset addressed by
+  <code>&lt;org&gt;/&lt;repo&gt;</code>. The git repository <em>is</em> the database.</p>
+
+  <div class="pills">
+    <a href="https://github.com/ontorag/ontorag-mcp">github.com/ontorag/ontorag-mcp</a>
+    <a href="https://github.com/ontorag/ontorag-mcp#readme">Server README</a>
+    <a href="https://modelcontextprotocol.io">Model Context Protocol</a>
+  </div>
+
+  <h2>The dataset contract</h2>
+  <p>A consumer reads <code>manifest.json</code> and follows the paths it declares.
+  Everything is plain text / NDJSON / Turtle — diffable, versionable, host-agnostic.</p>
+  <div class="grid">
+    <div><code>ontology/world.ttl</code> — RDF knowledge graph</div>
+    <div><code>ontology/entities.jsonl</code> — flat entity index</div>
+    <div><code>content/chunks/*.jsonl</code> — retrievable text, entity-linked</div>
+    <div><code>embeddings/vectors/*.jsonl</code> — vectors, joined by id</div>
+    <div><code>schema/*.schema.json</code> — the record contracts</div>
+    <div><code>manifest.json</code> — the entry point</div>
+  </div>
+
+  <h2>Three retrieval modes</h2>
+  <table>
+    <tr><th>mode</th><th>how</th><th>needs an embedder?</th></tr>
+    <tr><td><strong>vector</strong></td><td>dense cosine over the embeddings</td><td>yes</td></tr>
+    <tr><td><strong>ontology</strong></td><td>entity-graph (idf) + BM25 fallback — embedding-free</td><td>no</td></tr>
+    <tr><td><strong>hybrid</strong></td><td>sparse candidates → fetch their vectors → cosine re-rank</td><td>yes</td></tr>
+  </table>
+  <p class="muted">Retrieval eval on the Ars Magica reference dataset (recall@1) — for
+  entity- and book-anchored queries, the graph modes far outrun plain vector:</p>
+  <table>
+    <tr><th>query kind</th><th>ontology</th><th>hybrid</th><th>vector</th></tr>
+    <tr><td>entity-named</td><td>1.00</td><td>0.93</td><td>0.39</td></tr>
+    <tr><td>book needle (NIAH)</td><td>1.00</td><td>0.86</td><td>0.34</td></tr>
+    <tr><td>paraphrase (name masked)</td><td>0.55</td><td>0.39</td><td>0.42</td></tr>
+  </table>
+
+  <h2>Composition — packs you can add or remove</h2>
+  <p>A dataset decomposes into a <strong>core</strong> plus modular <strong>packs</strong>
+  (one per source document group), linked by a <code>dc:requires</code> dependency
+  graph. Selecting packs and closing over their dependencies reconstructs a scoped
+  world — the basis for access-scoping and per-source evaluation.</p>
+  <pre>compose.py --packs covenants     # dc:requires pulls in the core
+compose.py --validate            # integrity + soundness of the whole dataset</pre>
+
+  <h2>Run it</h2>
+  <pre># HTTP MCP server (Docker), reading a dataset via Mirage's GitHub resource
+docker compose up server                       # http://localhost:8765/mcp
+claude mcp add --transport http ontorag http://localhost:8765/mcp</pre>
+  <p>Serverless: with <code>REDIS_URL</code> + <code>ONTORAG_RETRIEVAL=ontology</code>,
+  the index is materialized into Redis on a cache miss with a 24&nbsp;h TTL and each
+  request probes only the keys it needs — deployable on Vercel and friends.</p>
+
+  <p class="muted" style="margin-top:2.5rem">Content of the reference dataset is derived
+  from the Ars Magica Open License corpus (CC-BY-SA-4.0, © Atlas Games).</p>
+
+</div>
+</body>
+</html>
