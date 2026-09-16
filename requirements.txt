@@ -1,4 +1,4 @@
-mcp>=1.2
+mcp>=1.6,<2  # 2.x renamed FastMCP -> MCPServer; server.py uses the 1.x API
 numpy>=1.24
 # Datasets are read through Mirage's GitHub resource (GitHub-as-virtual-disk).
 mirage-ai

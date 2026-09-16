@@ -287,14 +287,16 @@ class Dataset:
                 "heading_path": c.get("heading_path", []),
                 "entities": self._entity_labels(c.get("entities", [])), "text": c["text"]}
 
-    def search(self, query, k=6):
+    def search(self, query, k=6, qvec=None):
+        # qvec: optional precomputed query embedding (skips self.embed) — used by
+        # the eval harness to batch-embed queries once.
         if self.retrieval == "ontology":
             return self.search_ontology(query, k=k)
         if self.retrieval == "hybrid":
-            return self.search_hybrid(query, k=k)
+            return self.search_hybrid(query, k=k, qvec=qvec)
         if not self.ids:
             return []
-        q = self.embed(query)
+        q = qvec if qvec is not None else self.embed(query)
         scores = self.mat @ q
         k = min(k, len(self.ids))
         top = np.argpartition(-scores, k - 1)[:k]
@@ -365,18 +367,18 @@ class Dataset:
             cand.update(self._ent_chunks.get(e, []))
         return qe, cand
 
-    def _hybrid_rank(self, query, k):
+    def _hybrid_rank(self, query, k, qvec=None):
         qe, cand = self._candidate_cids(query)
         row = {cid: r for r, cid in enumerate(self.ids)}
         cids = [c for c in cand if c in row] or list(self.ids)  # fall back to full dense
-        qv = self.embed(query)
+        qv = qvec if qvec is not None else self.embed(query)
         idx = np.fromiter((row[c] for c in cids), dtype=np.int64, count=len(cids))
         sims = self.mat[idx] @ qv
         order = np.argsort(-sims)[:k]
         return [(cids[i], float(sims[i])) for i in order], qe
 
-    def search_hybrid(self, query, k=6):
-        ranked, _qe = self._hybrid_rank(query, k)
+    def search_hybrid(self, query, k=6, qvec=None):
+        ranked, _qe = self._hybrid_rank(query, k, qvec=qvec)
         return [self._hit(cid, s) for cid, s in ranked]
 
     def answer_hybrid(self, query, k=6, expand=3):
