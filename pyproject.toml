@@ -8,7 +8,7 @@ version = "0.1.0"
 description = "Generic MCP RAG server over any <org>/<repo> OntoRAG dataset"
 requires-python = ">=3.12"
 dependencies = [
-  "mcp>=1.2",
+  "mcp>=1.6,<2",  # 2.x renamed FastMCP -> MCPServer; server.py uses the 1.x API
   "numpy>=1.24",
   "mirage-ai",
   "redis>=5",

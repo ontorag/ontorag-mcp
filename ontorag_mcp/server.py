@@ -76,6 +76,13 @@ async def _result(x):
     return await x if asyncio.iscoroutine(x) else x
 
 
+# Every retrieval tool takes an optional pack scope (see store.resolve_scope):
+#   scope                list of pack ids (the dataset's composition registry keys /
+#                        chunk `doc` values); omitted = the whole dataset
+#   close_over_requires  also include packs the given ones require (composition);
+#                        leave False for access control
+
+
 @mcp.tool()
 async def list_datasets() -> dict:
     """List datasets currently loaded into this server, plus the configured default."""
@@ -105,42 +112,62 @@ async def load_dataset(repo: str, ref: str = "", retrieval: str = "") -> dict:
 
 
 @mcp.tool()
-async def search(query: str, repo: str = "", k: int = 6) -> list:
+async def search(query: str, repo: str = "", k: int = 6, scope: list[str] | None = None,
+                 close_over_requires: bool = False) -> list:
     """Semantic search: top-k most relevant chunks (text, heading path, similarity
-    score, and the ontology entities each chunk mentions)."""
-    return await _result((await _get(repo)).search(query, k=k))
+    score, and the ontology entities each chunk mentions).
+    `scope` limits results to the given packs plus the shared spine;
+    `close_over_requires` also adds the packs they depend on (composition, not access)."""
+    return await _result((await _get(repo)).search(
+        query, k=k, scope=scope, close_over_requires=close_over_requires))
 
 
 @mcp.tool()
-async def answer(query: str, repo: str = "", k: int = 6, expand: int = 3) -> dict:
+async def answer(query: str, repo: str = "", k: int = 6, expand: int = 3,
+                 scope: list[str] | None = None, close_over_requires: bool = False) -> dict:
     """Graph-aware RAG retrieval. Returns a grounded, cited context bundle
     (ontology_facts + passages) for you to compose the final answer from — cite
     passages by their `cite` id. `expand` pulls in sibling chunks sharing the same
-    ontology entities as the top hits."""
-    return await _result((await _get(repo)).answer(query, k=k, expand=expand))
+    ontology entities as the top hits.
+    `scope` limits results to the given packs plus the shared spine;
+    `close_over_requires` also adds the packs they depend on (composition, not access)."""
+    return await _result((await _get(repo)).answer(
+        query, k=k, expand=expand, scope=scope, close_over_requires=close_over_requires))
 
 
 @mcp.tool()
-async def search_entities(query: str, repo: str = "", limit: int = 20) -> list:
+async def search_entities(query: str, repo: str = "", limit: int = 20,
+                          scope: list[str] | None = None, close_over_requires: bool = False) -> list:
     """Find ontology entities (Characters, Spells, Houses, Covenants, Creatures,
-    concepts, …) whose name/alias/summary matches `query`, ranked by chunk references."""
-    return await _result((await _get(repo)).search_entities(query, limit=limit))
+    concepts, …) whose name/alias/summary matches `query`, ranked by chunk references.
+    `scope` limits results to the given packs plus the shared spine;
+    `close_over_requires` also adds the packs they depend on (composition, not access)."""
+    return await _result((await _get(repo)).search_entities(
+        query, limit=limit, scope=scope, close_over_requires=close_over_requires))
 
 
 @mcp.tool()
-async def get_entity(name_or_iri: str, repo: str = "") -> dict:
+async def get_entity(name_or_iri: str, repo: str = "", scope: list[str] | None = None,
+                     close_over_requires: bool = False) -> dict:
     """Look up one ontology entity by IRI or name/alias: its type, tags, aliases,
-    description, and how many chunks reference it."""
-    e = await _result((await _get(repo)).get_entity(name_or_iri))
+    description, and how many chunks reference it.
+    `scope` limits results to the given packs plus the shared spine;
+    `close_over_requires` also adds the packs they depend on (composition, not access)."""
+    e = await _result((await _get(repo)).get_entity(
+        name_or_iri, scope=scope, close_over_requires=close_over_requires))
     return e or {"error": "entity not found: %s" % name_or_iri}
 
 
 @mcp.tool()
-async def entity_chunks(name_or_iri: str, repo: str = "", k: int = 8) -> list:
+async def entity_chunks(name_or_iri: str, repo: str = "", k: int = 8,
+                        scope: list[str] | None = None, close_over_requires: bool = False) -> list:
     """Graph-grounded retrieval: chunks explicitly linked to a given ontology
     entity (no vector search) — read everything the corpus says about a specific
-    Character, Spell, House, etc."""
-    return await _result((await _get(repo)).entity_chunks(name_or_iri, k=k))
+    Character, Spell, House, etc.
+    `scope` limits results to the given packs plus the shared spine;
+    `close_over_requires` also adds the packs they depend on (composition, not access)."""
+    return await _result((await _get(repo)).entity_chunks(
+        name_or_iri, k=k, scope=scope, close_over_requires=close_over_requires))
 
 
 def build_asgi():

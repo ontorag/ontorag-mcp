@@ -46,15 +46,42 @@ by its GitHub `<org>/<repo>` (or a local path).
 
 | tool | purpose |
 |------|---------|
-| `load_dataset(repo, ref?, refresh?)` | clone/cache a dataset by `<org>/<repo>` (or path); returns its manifest summary |
+| `load_dataset(repo, ref?, retrieval?)` | load a dataset by `<org>/<repo>` (read in place via Mirage, no clone) or a local path; `ref` picks a branch/tag, `retrieval` overrides the mode (`vector` \| `ontology` \| `hybrid` \| `auto`); returns its manifest summary |
 | `list_datasets()` | datasets currently loaded + the configured default |
-| `search(query, repo?, k?)` | semantic top-k chunks (text, heading path, score, linked entities) |
-| `answer(query, repo?, k?, expand?)` | **graph-aware RAG bundle**: ontology facts + cited passages to compose an answer from |
-| `search_entities(query, repo?, limit?)` | find ontology entities by name/alias/summary, ranked by chunk references |
-| `get_entity(name_or_iri, repo?)` | one entity: type, tags, aliases, description, #linked chunks |
-| `entity_chunks(name_or_iri, repo?, k?)` | chunks explicitly linked to an entity (graph-grounded, no vector search) |
+| `search(query, repo?, k?, scope?, close_over_requires?)` | top-k chunks (text, heading path, score, linked entities) |
+| `answer(query, repo?, k?, expand?, scope?, close_over_requires?)` | **graph-aware RAG bundle**: ontology facts + cited passages to compose an answer from |
+| `search_entities(query, repo?, limit?, scope?, close_over_requires?)` | find ontology entities by name/alias/summary, ranked by chunk references |
+| `get_entity(name_or_iri, repo?, scope?, close_over_requires?)` | one entity: type, tags, aliases, description, #linked chunks |
+| `entity_chunks(name_or_iri, repo?, k?, scope?, close_over_requires?)` | chunks explicitly linked to an entity (graph-grounded, no vector search) |
+
+Retrieval modes: `vector` (dense, needs the dataset's embeddings), `ontology`
+(embedding-free: entity graph + BM25), `hybrid` (entity/lexical candidates re-ranked
+densely) and `auto` (`vector` when the dataset has embeddings, otherwise `ontology`).
 
 `repo` defaults to `ONTORAG_DEFAULT_REPO`, so clients can omit it.
+
+### Pack scope
+
+Datasets that decompose into **packs** (one per source book, declared in the
+manifest's `composition.registry`) can be queried within a subset of them. Pass
+`scope=["pack-id", ...]` (the registry keys, which are also the chunks' `doc`):
+
+- chunks and vectors are returned only if their pack is in scope;
+- entities are visible only if attested in an in-scope pack (`attestedIn`), or if
+  they belong to the shared **spine** (no `definedIn`);
+- ontology facts, entity lookups and `linked_chunks` counts are filtered the same way;
+- the filter is applied **before** top-k, so you still get `k` results when the
+  scope has them.
+
+`close_over_requires=true` first expands the scope over the packs' `requires`
+dependencies (a supplement pulls in its core book). That is **composition**, for
+building or evaluating a coherent world — not access control: holding a
+supplement does not grant its core book, so leave it `false` when the scope comes
+from what a user is entitled to.
+
+The server does not decide who may see what; whatever fronts it (an application
+that knows its users' entitlements) supplies the scope, and should not let clients
+choose it. Rules: <https://ontorag.org/provenance/#packs>.
 
 ## Quick start — HTTP transport (default)
 

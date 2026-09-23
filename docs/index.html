@@ -80,6 +80,13 @@
   (one per source document group), linked by a <code>dc:requires</code> dependency
   graph. Selecting packs and closing over their dependencies reconstructs a scoped
   world — the basis for access-scoping and per-source evaluation.</p>
+  <p>Every retrieval tool (<code>search</code>, <code>answer</code>,
+  <code>search_entities</code>, <code>get_entity</code>, <code>entity_chunks</code>)
+  takes an optional <code>scope</code>: a list of pack ids. Only chunks from those
+  packs, and entities attested in them (plus the shared spine), are returned —
+  filtered before top-k. <code>close_over_requires</code> adds the packs they depend
+  on; leave it off for access control, since holding a supplement does not grant its
+  core book. See <a href="https://ontorag.org/provenance/#packs">the composition rules</a>.</p>
   <pre>compose.py --packs covenants     # dc:requires pulls in the core
 compose.py --validate            # integrity + soundness of the whole dataset</pre>
 

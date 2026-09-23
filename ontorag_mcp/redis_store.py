@@ -10,7 +10,10 @@ which also refreshes the dataset.
 
 Key space (prefix `ontorag:<spec>:`):
   meta                 JSON dataset summary
-  ready                marker; expires ~10 min before data keys
+  ready:v2             marker; expires ~10 min before data keys (bumped when the
+                       key layout changes, so older caches repopulate)
+  registry             JSON pack registry (pack -> {requires, ...})
+  cdoc     (hash)      chunk_id -> pack (the chunk's doc), for scope filtering
   ent:<iri>            JSON entity record
   alias:<norm>         JSON [iri,...]            (query entity matching)
   echunks:<iri>        JSON [chunk_id,...]       (entity -> chunks)
@@ -31,13 +34,15 @@ from collections import Counter
 import numpy as np
 import redis.asyncio as aioredis
 
-from .store import Dataset, _embed_hashed, _embed_ollama, _norm_name, _tokenize
+from .store import (Dataset, _embed_hashed, _embed_ollama, _norm_name, _tokenize,
+                    entity_in_scope, resolve_scope)
 
 TTL = 24 * 3600
 READY_EARLY = 600          # ready marker expires this many seconds before data
 NGRAM = 4                  # longest entity-name phrase to probe
 POSTINGS_CAP = 400         # max chunks stored per lexical token
 CAND_CAP = 800             # max candidate chunks scored per query
+READY = "ready:v2"
 _pop_lock = asyncio.Lock()
 
 
@@ -70,6 +75,7 @@ async def populate_redis(source, r, spec, ttl=TTL, mode="ontology", ollama_url="
         n += 1
 
     setk("meta", json.dumps(ds.info()))
+    setk("registry", json.dumps(ds.registry))
     setk("N", str(ds._N))
     setk("avgdl", str(ds._avgdl))
 
@@ -112,6 +118,15 @@ async def populate_redis(source, r, spec, ttl=TTL, mode="ontology", ollama_url="
             postings.setdefault(t, []).append((cid, f))
         await flush()
 
+    cdoc = {cid: c["doc"] for cid, c in ds.chunks.items()}
+    if cdoc:
+        items = list(cdoc.items())
+        for i in range(0, len(items), 4000):
+            pipe.hset(P + "cdoc", mapping=dict(items[i:i + 4000]))
+            n += 1
+            await flush()
+        pipe.expire(P + "cdoc", ttl); n += 1
+
     if doclen:
         # doclen hash can be large; write in field-batches
         items = list(doclen.items())
@@ -148,7 +163,7 @@ async def populate_redis(source, r, spec, ttl=TTL, mode="ontology", ollama_url="
 
     await flush(force=True)
     # ready marker expires slightly earlier so refresh happens before data keys drop
-    await r.set(P + "ready", "1", ex=max(60, ttl - READY_EARLY))
+    await r.set(P + READY, "1", ex=max(60, ttl - READY_EARLY))
     return ds.info()
 
 
@@ -168,10 +183,10 @@ class RedisDataset:
         self._emb = None
 
     async def ensure(self):
-        if await self.r.exists(self.P + "ready"):
+        if await self.r.exists(self.P + READY):
             return
         async with _pop_lock:
-            if not await self.r.exists(self.P + "ready"):
+            if not await self.r.exists(self.P + READY):
                 await populate_redis(self.source, self.r, self.spec, self.ttl,
                                      mode=self.mode, ollama_url=self.ollama_url)
 
@@ -192,6 +207,30 @@ class RedisDataset:
         await self.ensure()
         meta = await self.r.get(self.P + "meta")
         return json.loads(meta) if meta else {}
+
+    # ---- scope (see store.resolve_scope) ----
+    async def scope(self, scope=None, close_over_requires=False):
+        if scope is None:
+            return None
+        registry = {}
+        if close_over_requires:
+            raw = await self.r.get(self.P + "registry")
+            registry = json.loads(raw) if raw else {}
+        return resolve_scope(scope, registry, close_over_requires)
+
+    async def _in_scope_cids(self, cids, packs):
+        """Keep only chunk ids whose pack is in scope (before any capping)."""
+        cids = list(cids)
+        if packs is None or not cids:
+            return cids
+        docs = await self.r.hmget(self.P + "cdoc", cids)
+        return [c for c, d in zip(cids, docs) if d in packs]
+
+    async def _in_scope_iris(self, iris, packs):
+        if packs is None or not iris:
+            return set(iris)
+        ents = await self._mget("ent:", list(iris))
+        return {i for i, e in ents.items() if entity_in_scope(e, packs)}
 
     async def _mget(self, prefix, ids):
         if not ids:
@@ -217,9 +256,9 @@ class RedisDataset:
         ents = await self._mget("ent:", list(iris))
         return [ents[i]["label"] for i in iris if i in ents]
 
-    async def _rank(self, query, k):
+    async def _rank(self, query, k, packs=None):
         await self.ensure()
-        qe = await self._match_entities(query)
+        qe = await self._in_scope_iris(await self._match_entities(query), packs)
         qterms = set(_tokenize(query))
         cand = set()
         if qe:
@@ -228,7 +267,7 @@ class RedisDataset:
         else:
             for lst in (await self._mget("tok:", list(qterms))).values():
                 cand.update(cid for cid, _tf in lst)
-        cand = list(cand)[:CAND_CAP]
+        cand = (await self._in_scope_cids(cand, packs))[:CAND_CAP]
         if not cand:
             return [], qe, {}
 
@@ -267,17 +306,18 @@ class RedisDataset:
                 "heading_path": c.get("heading_path", []),
                 "entities": labels, "text": c["text"]}
 
-    async def search(self, query, k=6):
+    async def search(self, query, k=6, scope=None, close_over_requires=False):
+        packs = await self.scope(scope, close_over_requires)
         if self.mode == "hybrid":
-            return await self.search_hybrid(query, k=k)
-        rows, _qe, chunks = await self._rank(query, k)
+            return await self.search_hybrid(query, k=k, packs=packs)
+        rows, _qe, chunks = await self._rank(query, k, packs)
         labelmap = await self._labels_for(chunks, [r[0] for r in rows])
         return [self._hit(cid, s, chunks, labelmap[cid]) for cid, _e, _l, s in rows]
 
     # ---- hybrid: sparse candidates -> fetch only their vectors -> cosine re-rank ----
-    async def _hybrid_rank(self, query, k):
+    async def _hybrid_rank(self, query, k, packs=None):
         await self.ensure()
-        qe = await self._match_entities(query)
+        qe = await self._in_scope_iris(await self._match_entities(query), packs)
         qterms = set(_tokenize(query))
         cand = set()
         if qe:
@@ -286,7 +326,7 @@ class RedisDataset:
         else:
             for lst in (await self._mget("tok:", list(qterms))).values():
                 cand.update(cid for cid, _tf in lst)
-        cand = list(cand)[:CAND_CAP]
+        cand = (await self._in_scope_cids(cand, packs))[:CAND_CAP]
         if not cand:
             return [], qe
         vraw = await self.r.mget([self.P + "vec:" + c for c in cand])
@@ -302,15 +342,15 @@ class RedisDataset:
         order = list(np.argsort(-sims)[:k])
         return [(cids[i], float(sims[i])) for i in order], qe
 
-    async def search_hybrid(self, query, k=6):
-        ranked, _qe = await self._hybrid_rank(query, k)
+    async def search_hybrid(self, query, k=6, packs=None):
+        ranked, _qe = await self._hybrid_rank(query, k, packs)
         cids = [c for c, _ in ranked]
         chunks = await self._mget("chunk:", cids)
         labelmap = await self._labels_for(chunks, [c for c in cids if c in chunks])
         return [self._hit(cid, s, chunks, labelmap[cid]) for cid, s in ranked if cid in chunks]
 
-    async def answer_hybrid(self, query, k=6, expand=3):
-        ranked, qe = await self._hybrid_rank(query, k)
+    async def answer_hybrid(self, query, k=6, expand=3, packs=None):
+        ranked, qe = await self._hybrid_rank(query, k, packs)
         chosen = [c for c, _ in ranked]
         chunks = await self._mget("chunk:", chosen)
         seed = set(qe)
@@ -326,7 +366,7 @@ class RedisDataset:
                         continue
                     seen.add(cid)
                     pool.append(cid)
-            more = await self._mget("chunk:", pool[:CAND_CAP])
+            more = await self._mget("chunk:", (await self._in_scope_cids(pool, packs))[:CAND_CAP])
             scored = sorted(((len(set(more[cid].get("entities", [])) & seed), cid) for cid in more),
                             reverse=True)
             expanded = [cid for _, cid in scored[:expand]]
@@ -336,7 +376,8 @@ class RedisDataset:
         all_iris = sorted({i for cid in used for i in chunks[cid].get("entities", [])} | set(qe))
         ents = await self._mget("ent:", all_iris)
         facts = [{"label": ents[i]["label"], "tags": ents[i].get("tags", []),
-                  "summary": ents[i].get("summary", "")} for i in all_iris if i in ents]
+                  "summary": ents[i].get("summary", "")} for i in all_iris
+                 if i in ents and entity_in_scope(ents[i], packs)]
         passages = [{"cite": cid, "doc": chunks[cid]["doc"],
                      "heading_path": chunks[cid].get("heading_path", []),
                      "entities": labelmap.get(cid, []), "text": chunks[cid]["text"]} for cid in used]
@@ -353,10 +394,11 @@ class RedisDataset:
         return {cid: [ents[i]["label"] for i in chunks[cid].get("entities", []) if i in ents]
                 for cid in cids}
 
-    async def answer(self, query, k=6, expand=3):
+    async def answer(self, query, k=6, expand=3, scope=None, close_over_requires=False):
+        packs = await self.scope(scope, close_over_requires)
         if self.mode == "hybrid":
-            return await self.answer_hybrid(query, k=k, expand=expand)
-        rows, qe, chunks = await self._rank(query, k)
+            return await self.answer_hybrid(query, k=k, expand=expand, packs=packs)
+        rows, qe, chunks = await self._rank(query, k, packs)
         chosen = [r[0] for r in rows]
         seed = set(qe)
         for cid in chosen:
@@ -371,7 +413,7 @@ class RedisDataset:
                         continue
                     seen.add(cid)
                     ranked.append(cid)
-            more = await self._mget("chunk:", ranked[:CAND_CAP])
+            more = await self._mget("chunk:", (await self._in_scope_cids(ranked, packs))[:CAND_CAP])
             scored = sorted(((len(set(more[cid].get("entities", [])) & seed), cid)
                              for cid in more), reverse=True)
             expanded = [cid for _, cid in scored[:expand]]
@@ -381,7 +423,8 @@ class RedisDataset:
         all_iris = sorted({i for cid in used for i in chunks[cid].get("entities", [])} | set(qe))
         ents = await self._mget("ent:", all_iris)
         facts = [{"label": ents[i]["label"], "tags": ents[i].get("tags", []),
-                  "summary": ents[i].get("summary", "")} for i in all_iris if i in ents]
+                  "summary": ents[i].get("summary", "")} for i in all_iris
+                 if i in ents and entity_in_scope(ents[i], packs)]
         passages = [{"cite": cid, "doc": chunks[cid]["doc"],
                      "heading_path": chunks[cid].get("heading_path", []),
                      "entities": labelmap[cid], "text": chunks[cid]["text"]} for cid in used]
@@ -390,7 +433,8 @@ class RedisDataset:
                 "instruction": "Answer the query using ONLY these passages; cite by [cite]. "
                                "Use ontology_facts for grounding. Say so if insufficient."}
 
-    async def get_entity(self, key):
+    async def get_entity(self, key, scope=None, close_over_requires=False):
+        packs = await self.scope(scope, close_over_requires)
         await self.ensure()
         iri = key
         if not (await self.r.exists(self.P + "ent:" + key)):
@@ -402,28 +446,40 @@ class RedisDataset:
         if not raw:
             return None
         e = json.loads(raw)
-        df = await self.r.hmget(self.P + "edf", [iri])
-        e["linked_chunks"] = int(df[0]) if df and df[0] else 0
+        if not entity_in_scope(e, packs):
+            return None
+        if packs is None:
+            df = await self.r.hmget(self.P + "edf", [iri])
+            e["linked_chunks"] = int(df[0]) if df and df[0] else 0
+        else:
+            cidsraw = await self.r.get(self.P + "echunks:" + iri)
+            e["linked_chunks"] = len(await self._in_scope_cids(json.loads(cidsraw) if cidsraw else [], packs))
         return e
 
-    async def search_entities(self, query, limit=20):
+    async def search_entities(self, query, limit=20, scope=None, close_over_requires=False):
+        packs = await self.scope(scope, close_over_requires)
         await self.ensure()
-        iris = await self._match_entities(query)
+        iris = await self._in_scope_iris(await self._match_entities(query), packs)
         ents = await self._mget("ent:", list(iris))
-        dfs = await self.r.hmget(self.P + "edf", list(iris)) if iris else []
-        dfmap = {i: int(v) for i, v in zip(iris, dfs) if v}
+        if packs is None:
+            dfs = await self.r.hmget(self.P + "edf", list(iris)) if iris else []
+            dfmap = {i: int(v) for i, v in zip(iris, dfs) if v}
+        else:
+            echunks = await self._mget("echunks:", list(iris))
+            dfmap = {i: len(await self._in_scope_cids(c, packs)) for i, c in echunks.items()}
         out = [{"iri": e["iri"], "label": e["label"], "types": e.get("types", []),
                 "tags": e.get("tags", []), "summary": e.get("summary", ""),
                 "linked_chunks": dfmap.get(e["iri"], 0)} for e in ents.values()]
         out.sort(key=lambda x: -x["linked_chunks"])
         return out[:limit]
 
-    async def entity_chunks(self, key, k=8):
-        e = await self.get_entity(key)
+    async def entity_chunks(self, key, k=8, scope=None, close_over_requires=False):
+        e = await self.get_entity(key, scope=scope, close_over_requires=close_over_requires)
         if not e:
             return []
+        packs = await self.scope(scope, close_over_requires)
         cidsraw = await self.r.get(self.P + "echunks:" + e["iri"])
-        cids = json.loads(cidsraw)[:k] if cidsraw else []
+        cids = (await self._in_scope_cids(json.loads(cidsraw) if cidsraw else [], packs))[:k]
         chunks = await self._mget("chunk:", cids)
         labelmap = await self._labels_for(chunks, [c for c in cids if c in chunks])
         return [self._hit(cid, 1.0, chunks, labelmap[cid]) for cid in cids if cid in chunks]
