@@ -24,7 +24,50 @@ docker run --rm -v $PWD:/app -w /app -v /srv/ofm/amol-ontorag:/srv/ofm/amol-onto
   -e PYTHONPATH=/app --entrypoint python ontorag-mcp:latest eval/run_eval.py
 ```
 
-## Results — amol-ontorag v0.4.2 (n: 120 named / 120 paraphrase / 80 niah)
+## Results — amol-ontorag v0.6.0 (n: 120 named / 120 paraphrase / 80 niah)
+
+Since v0.6.0, entities are extracted from **all 25 books** (before: 8), and the query
+set covers every book: the needle (niah) queries target all 25 books (3–4 each),
+where the v0.4.2 set could only reach 17.
+
+| kind | mode | recall@1 | recall@10 | MRR |
+|------|------|---------:|----------:|----:|
+| entity_named | ontology | **0.99** | 1.00 | 1.00 |
+| | hybrid | 0.82 | 0.92 | 0.87 |
+| | vector | 0.42 | 0.62 | 0.49 |
+| niah | ontology | **0.97** | 1.00 | 0.98 |
+| | hybrid | 0.75 | 0.94 | 0.80 |
+| | vector | 0.28 | 0.62 | 0.37 |
+| paraphrase | ontology | **0.65** | 0.85 | 0.72 |
+| | hybrid | 0.49 | 0.81 | 0.59 |
+| | vector | 0.48 | 0.78 | 0.58 |
+
+(`results.json`, from `queries.jsonl`.)
+
+### Same questions, old vs new dataset
+
+The two query sets differ, so the tables are not comparable row by row. Running the
+**v0.4.2 question set** against both datasets isolates the effect of the new
+entities (`results.amol-v0.4.2.json` → `results.oldqueries-on-v0.6.0.json`):
+
+| kind | mode | recall@1 | recall@10 | MRR |
+|------|------|---------:|----------:|----:|
+| entity_named | ontology | 1.00 → 0.99 | 1.00 → 1.00 | 1.00 → 1.00 |
+| | hybrid | 0.93 → **0.86** | 0.95 → 0.93 | 0.94 → 0.89 |
+| | vector | 0.39 → 0.39 | 0.60 → 0.60 | 0.46 → 0.46 |
+| niah | ontology | 1.00 → 0.99 | 1.00 → 1.00 | 1.00 → 0.99 |
+| | hybrid | 0.86 → **0.76** | 0.94 → 0.90 | 0.88 → 0.80 |
+| | vector | 0.34 → 0.34 | 0.62 → 0.62 | 0.42 → 0.42 |
+| paraphrase | ontology | 0.55 → 0.55 | 0.73 → 0.77 | 0.61 → 0.62 |
+| | hybrid | 0.39 → 0.38 | 0.65 → 0.65 | 0.49 → 0.49 |
+| | vector | 0.42 → 0.42 | 0.67 → 0.67 | 0.51 → 0.51 |
+
+Vector is unchanged (same embeddings) and ontology holds. **Hybrid regresses:** with
+three times as many entities, a query matches more of them, so the candidate set
+hybrid re-ranks is larger and noisier. Its candidate selection needs tightening
+(e.g. weight matches by entity specificity) before hybrid is the default.
+
+### Previous results — amol-ontorag v0.4.2 (8 books extracted) (n: 120 named / 120 paraphrase / 80 niah)
 
 | kind | mode | recall@1 | recall@10 | MRR |
 |------|------|---------:|----------:|----:|
@@ -44,8 +87,9 @@ docker run --rm -v $PWD:/app -w /app -v /srv/ofm/amol-ontorag:/srv/ofm/amol-onto
   corpus this entity-dense, naming the entity and walking the graph beats dense
   cosine by a wide margin (vector recall@1 ≈ 0.34–0.39). `hybrid` recovers almost
   all of ontology's win while adding dense re-ranking.
-- **`ontology` scores 1.00 on named/niah *by construction*** — the query names the
-  entity, and gold is that entity's chunks, so the entity-matcher can't miss. Treat
+- **`ontology` scores ~1.00 on named/niah *nearly by construction*** — the query names
+  the entity, and gold is that entity's chunks, so the entity-matcher rarely misses
+  (0.99/0.97 on v0.6.0, where more entities share names and aliases). Treat
   those as an upper reference, not a fair fight; the informative number there is how
   close `vector`/`hybrid` get.
 - **The paraphrase result is confounded and inconclusive.** Summaries are

@@ -1,0 +1,71 @@
+{
+  "ontology": {
+    "entity_named": {
+      "n": 120,
+      "recall@1": 0.992,
+      "recall@5": 1.0,
+      "recall@10": 1.0,
+      "MRR": 0.996
+    },
+    "niah": {
+      "n": 80,
+      "recall@1": 0.988,
+      "recall@5": 1.0,
+      "recall@10": 1.0,
+      "MRR": 0.992
+    },
+    "paraphrase": {
+      "n": 120,
+      "recall@1": 0.55,
+      "recall@5": 0.7,
+      "recall@10": 0.767,
+      "MRR": 0.618
+    }
+  },
+  "vector": {
+    "entity_named": {
+      "n": 120,
+      "recall@1": 0.392,
+      "recall@5": 0.542,
+      "recall@10": 0.6,
+      "MRR": 0.463
+    },
+    "niah": {
+      "n": 80,
+      "recall@1": 0.338,
+      "recall@5": 0.512,
+      "recall@10": 0.625,
+      "MRR": 0.418
+    },
+    "paraphrase": {
+      "n": 120,
+      "recall@1": 0.417,
+      "recall@5": 0.625,
+      "recall@10": 0.667,
+      "MRR": 0.509
+    }
+  },
+  "hybrid": {
+    "entity_named": {
+      "n": 120,
+      "recall@1": 0.858,
+      "recall@5": 0.925,
+      "recall@10": 0.933,
+      "MRR": 0.887
+    },
+    "niah": {
+      "n": 80,
+      "recall@1": 0.762,
+      "recall@5": 0.85,
+      "recall@10": 0.9,
+      "MRR": 0.8
+    },
+    "paraphrase": {
+      "n": 120,
+      "recall@1": 0.383,
+      "recall@5": 0.608,
+      "recall@10": 0.65,
+      "MRR": 0.488
+    }
+  }
+}

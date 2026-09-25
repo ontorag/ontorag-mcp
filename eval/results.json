@@ -2,70 +2,70 @@
   "ontology": {
     "entity_named": {
       "n": 120,
-      "recall@1": 1.0,
+      "recall@1": 0.992,
       "recall@5": 1.0,
       "recall@10": 1.0,
-      "MRR": 1.0
+      "MRR": 0.996
     },
     "niah": {
       "n": 80,
-      "recall@1": 1.0,
-      "recall@5": 1.0,
+      "recall@1": 0.975,
+      "recall@5": 0.988,
       "recall@10": 1.0,
-      "MRR": 1.0
+      "MRR": 0.983
     },
     "paraphrase": {
       "n": 120,
-      "recall@1": 0.55,
-      "recall@5": 0.692,
-      "recall@10": 0.733,
-      "MRR": 0.608
+      "recall@1": 0.65,
+      "recall@5": 0.817,
+      "recall@10": 0.85,
+      "MRR": 0.719
     }
   },
   "vector": {
     "entity_named": {
       "n": 120,
-      "recall@1": 0.392,
-      "recall@5": 0.542,
-      "recall@10": 0.6,
-      "MRR": 0.463
+      "recall@1": 0.417,
+      "recall@5": 0.608,
+      "recall@10": 0.617,
+      "MRR": 0.49
     },
     "niah": {
       "n": 80,
-      "recall@1": 0.338,
-      "recall@5": 0.512,
+      "recall@1": 0.275,
+      "recall@5": 0.487,
       "recall@10": 0.625,
-      "MRR": 0.418
+      "MRR": 0.373
     },
     "paraphrase": {
       "n": 120,
-      "recall@1": 0.417,
-      "recall@5": 0.625,
-      "recall@10": 0.667,
-      "MRR": 0.509
+      "recall@1": 0.483,
+      "recall@5": 0.733,
+      "recall@10": 0.775,
+      "MRR": 0.582
     }
   },
   "hybrid": {
     "entity_named": {
       "n": 120,
-      "recall@1": 0.933,
-      "recall@5": 0.95,
-      "recall@10": 0.95,
-      "MRR": 0.942
+      "recall@1": 0.825,
+      "recall@5": 0.908,
+      "recall@10": 0.917,
+      "MRR": 0.866
     },
     "niah": {
       "n": 80,
-      "recall@1": 0.863,
-      "recall@5": 0.9,
+      "recall@1": 0.75,
+      "recall@5": 0.85,
       "recall@10": 0.938,
-      "MRR": 0.884
+      "MRR": 0.801
     },
     "paraphrase": {
       "n": 120,
-      "recall@1": 0.392,
-      "recall@5": 0.6,
-      "recall@10": 0.65,
-      "MRR": 0.487
+      "recall@1": 0.492,
+      "recall@5": 0.725,
+      "recall@10": 0.808,
+      "MRR": 0.592
     }
   }
 }
