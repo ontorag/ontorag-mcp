@@ -95,7 +95,9 @@ async def load_dataset(repo: str, ref: str = "", retrieval: str = "") -> dict:
     """Load an OntoRAG dataset by '<org>/<repo>' (read via Mirage's GitHub resource)
     or a local path, and return its manifest summary. `ref` selects a branch/tag.
     `retrieval` overrides the mode: 'vector' (dense embeddings), 'ontology'
-    (embedding-free entity-graph + lexical), or 'auto'."""
+    (embedding-free entity-graph + lexical), 'hybrid', 'entity' (nearest entity
+    descriptions, then their chunks — for questions that describe a thing without
+    naming it), or 'auto'."""
     spec = repo.strip()
     src = resolve_source(spec, ref=ref or DEFAULT_REF, token=GITHUB_TOKEN)
     mode = retrieval or RETRIEVAL

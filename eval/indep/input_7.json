@@ -1,0 +1,590 @@
+[
+ {
+  "qid": "indep-007",
+  "entity": "Medicus",
+  "kind_of_thing": "Character Type",
+  "aliases": [
+   "Medicus"
+  ],
+  "book": "art-academe",
+  "passages": [
+   {
+    "heading_path": [
+     "Contents"
+    ],
+    "text": "**I. Introduction** Intellectual Background Neoplatonism Charlemagne's Educational Reforms The Age of Translation Wandering Scholars The Scholastic Method The New Aristotle The Hermetic Intellectual Landscape Hermetic Magic and Philosophical Breakthroughs **II. Artes Liberales** Grammar Rhetoric Preaching Logic Arithmetic Music Geometry Astronomy Writing Systems **III. Philosophiae** Metaphysics Forms, Matter, and Substance Cosmology Causality and Change Change in Substance: Generation and Destruction Consequences of Generation and Destruction Change in Quality: Alteration Consequences of Alteration Change in Quantity: Growth and Diminution Consequences of Growth and Diminution Change in Place: Motion Consequences of Motion Natural Philosophy Geography Meteorology Living Things Plants Living Creatures of the Waters Living Creatures of the Air Living Creatures of the Earth Worms The Human Mind Cognition Estimation Memory The Hermetic Art of Mente Creo Mentem Spells Intellego Mentem Spells Muto Mentem Spells Perdo Mentem Spells Rego Mentem Spells Moral Philosophy Ethics Conscience **IV. Medicine** The Natural Faculty The Four Humors Blood Choler Melancholy Phlegm The Organs and the Concoctions The Vital Faculty The Sensitive Faculty Complexion Complexion and Personality States of Ill-Health The Non-Naturals Air and Climate Diet Exercise and Rest Sleep and Wakefulness Retention and Evacuation of Waste Emotional States Sensory Species The Contra-Naturals Injury Crushing Damage Pi"
+   },
+   {
+    "heading_path": [
+     "Contents"
+    ],
+    "text": "Contracting a Disease Disease Progression and Recovery Crises Calculating the Severity of a Disease Some Common Diseases Other Diseases The Physicians The Medicus The Chirurgeon Physicians in Holy Orders The Apothecary The Empiricus The Herbwife New Virtues Herbalism Physician of Salerno Magister in Medicina New Flaw Surgical Empiricus The Practice of Medicine Treatment of Disease Diagnosis and Prognosis Therapy Prevention of Disease The Practice of Chirurgy Phlebotomy and Cautery Surgery Treatment of Wounds First Aid Palliative Care Surgical Intervention Midwifery The Practice of the Apothecary Medicinals Poisons The Apothecary's Store **V. Experimental Philosophy** Natural Principles Prime Qualities Contagion Affinity Similarity Hidden Virtues Astrology Ligatures Formulae Researching Formula Concocting a Formula The Lab Total Laboratory Texts Astrological Inceptions Example Inceptions Alchemical Reagents Example Reagents Pharmaceutical Theriacs Example Theriacs **VI. Institutional Education** Parish Schools Cathedral Schools Monastic Schools The Rules of Silence and Reading Urban Schools Private Instructors Muslim Schools Jewish Schools Acquiring a Teaching Position **VII. Universities** New Virtues and Flaws New Virtues New Flaws The University Student-Run University University of Masters University Structure Faculties Nations Hospices Outside Relationships The Church The King The Order of Hermes Student Life Town vs. Gown Examinations Passing Examinations Careers The Life"
+   }
+  ]
+ },
+ {
+  "qid": "indep-015",
+  "entity": "Lorris",
+  "kind_of_thing": "Place",
+  "aliases": [
+   "Lorris"
+  ],
+  "book": "city-guild",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter One: Towns & Cities",
+     "Town Charters",
+     "Common Privileges"
+    ],
+    "text": "improvement over the serfdom of rural peasants. Most charters, however, do allow the sale of land, but place restrictions on to whom it can be sold; for example, it might only be permissible to sell land to residents, or certain groups might be prohibited from owning land. Some ecclesiastical lords have banned the sale of town land to the Order of Hermes. >#### The Customs of Lorris >Lorris, a small town in France, was first granted customary rights by King Louis VI, which were later confirmed by Louis VII in 1155. The grant of rights included: > >The townsmen have the status of freemen, and anyone from another settlement, including a rural serf, who remains in the town for a year and a day, also becomes a freeman. > >Each man in the town has the right to sell and trade produce and goods. > >The men of the town are exempted from service in the royal army. (This is a *very* rare right in France.) > >The men of the town are also exempted from other customs and taxes. The exception is that they must carry wine, wood, or corn for the king once a year — although by 1220 townsmen can pay a \"fine\" of one penny instead. > >Each household must pay the king an annual rent of six pence. This is a significant expense for most burgesses, but they consider the rent fair. > >The town is subject to royal justice. This"
+   },
+   {
+    "heading_path": [
+     "Chapter One: Towns & Cities",
+     "Town Charters",
+     "Town Governance"
+    ],
+    "text": "may have an official tasked with running a mine near the town. Another town, on the route of an important pilgrimage, may have an official who works with local churches to ensure that pilgrims are fed and housed, without causing aggravation to the burgesses of the town. The Customs of Lorris (see insert), the Law of Freiburg (see insert), and some of the illustrative town profiles (see Profiles, below) include examples of how town officials are organized in particular towns. >#### Town Officials >As being a town official is usually a temporary office it is not really suitable as a Virtue or Flaw, and is perhaps better incorporated into a saga as part of a story. If a troupe desires, however, a Virtue modeled upon the Minor Social Status Virtue: Town Magistrate (see Crime) can be used. For a more general town official, the requirement to have a score in the Civil and Canon Law Ability and the benefit of being able to access Academic Abilities during character generation should both be dropped. During the 13th century, most towns are growing rapidly, and although town officials are invariably wealthy they are not drawn exclusively from established town-families: new townsmen are equally acceptable as officials. Town officials may also be members of craft or merchant guilds, and in many towns the boundary between town and guild business is very vague; indeed, town charters and guild charters are often intimately entwined. Church representatives can sometimes serve as town"
+   }
+  ]
+ },
+ {
+  "qid": "indep-023",
+  "entity": "Realia",
+  "kind_of_thing": "Hermetic Concept",
+  "aliases": [
+   "Realia"
+  ],
+  "book": "covenants",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Seven: Library",
+     "Alternatives to Books",
+     "Phenomena",
+     "Realia"
+    ],
+    "text": "Some covenants collect **realia**: mundane objects, or magical examples of usually-mundane things, so that magi can study them. Realia have several uses. Many magi cannot create a thing unless they are aware, in general, of that thing's nature. A magus who has never heard of an aloe or a cameleopard cannot create an aloe or a cameleopard. There are books which contain descriptions of such things but a serious student of an Art would prefer to gain a compendious knowledge of her field quickly, not piecemeal from books that — in this and many other cases — are trying to teach something else. Studying collections of preserved animals, leaves, minerals, herbs, gemstones, and so on allow magi to become more powerful, because the spells that they already know, particularly of the Creo Art, gain increased scope by their experience. Realia can be used in certain types of research, although Intellego magic usually makes this unnecessary. Realia can provide clues when a magus lacks the physical object required for Intellego spells. A magus wanting to know the type of the butterfly that attended the faerie queen who stole his apprentice, where it lives, and what it eats, can compare it to a collection of realia, for example, and question the collection's keeper. A suitable collection of realia adds up to +1 on a research roll. There are many collections of realia because many magi collect objects related to their Arts and interests as a form of recreation."
+   },
+   {
+    "heading_path": [
+     "Chapter Seven: Library",
+     "Alternatives to Books",
+     "Phenomena",
+     "Realia"
+    ],
+    "text": "keeper. A suitable collection of realia adds up to +1 on a research roll. There are many collections of realia because many magi collect objects related to their Arts and interests as a form of recreation. Some covenants have extensive realia collections that are composed of objects taken as trophies by magicians exploring and fighting on behalf of the covenant. These realia collections are often accessible to others, since part of their purpose is display. Collectors of realia tend to be aware of others with similar collections, and their interactions vary from hostility, through envy, to congeniality. The objects of collection seems not to influence the relationships of collectors: the Order's collectors of rare gemstones tend to be deeply suspicious of each other, while the Order's physical necromancers, who collect bones, parasites, and preserved organs with interesting diseases, meet regularly at symposia and socialize. A realia collection is studied as a tractatus. The number of unique and highly informative pieces in the collection determines its quality score. A single, quintessential object can be studied as a tractatus of quality 1, two as a tractuatus of quality 2, four as a tractatus of quality 3, and so on. Realia collections rarely rise above quality 6, which requires 64 excellent specimens. An object is suited to this style of collection only if it is so unique that it would make an absolutely ideal vessel for enchantment. Purchasing realia at covenant creation"
+   }
+  ]
+ },
+ {
+  "qid": "indep-031",
+  "entity": "Immunity to Cold",
+  "kind_of_thing": "Virtue",
+  "aliases": [
+   "Immunity to Cold"
+  ],
+  "book": "definitive-edition-core-rules",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter 4: Virtues and Flaws",
+     "List of Virtues",
+     "Supernatural, Minor"
+    ],
+    "text": "Amorphous Animal Ken Crafter's Healing Demonic Might Demonic Powers Dowsing Dust Devil Enchanting (Ability) Eye of Hephaestus Fabric Ripper Faerie Blood Familiarity with the Fae Feather Messenger Folk Magic Font of Knowledge Frightful Presence Gender Shift Homing Instinct Immunity to Cold Infernal Heirloom Kassalan Exorcism (Land) Regio Network Leather Ripper Lesser Benediction Lesser Immunity Lesser Power Lesser Purifying Touch Magic Sensitivity Magical Blood Maker of Textured Vessels Maker of Water Vessels Master of (Form) Creatures Muse Persona Personal Power Premonitions Ripper Second Sight See in Darkness Sense Holiness and Unholiness Skinchanger Strong Angelic Heritage Sufi Unaging Unbound Tongue Variable Power Voice of the (Land) Wilderness Sense Wisdom from Ignorance"
+   },
+   {
+    "heading_path": [
+     "Reference Guide",
+     "Traditional Index"
+    ],
+    "text": "High-Research Saga | 532 | | Higher Purpose (Flaw) | 133 | | Hippocrates | 168 | | Historical Accuracy | 495 | | History | 523–524 | | Hobbled (Flaw) | 133 | | Holy Grail | 522 | | Holy Orders | 74, 500 | | Homing Instinct (Virtue) | 85 | | Hooks | 181–182, 516 | | Hope | 499 | | Horoscope | 220 | | Horrifying Appearance – Snake Legs (Flaw) | 133 | | Hospitallers | 73 | | Host, The | 500 | | House Rules | 524 | | Houses of Hermes | 10–17, 46 | | Hubris | 241 | | Humble (Flaw) | 133 | | Humors | 168, 497 | | Hunchback (Flaw) | 133 | | Hunger for (Form) Magic (Flaw) | 133 | | Hunt (Ability) | 166 | | Hunter (Template) | 32 | | Ice | 407 | | Ignem (Art) | 209, 343–347 | | Imagined Folk Tradition Vulnerability (Flaw) | 133 | | Imaginem (Art) | 209, 347–352 | | Imbued with the Spirit of (Form) (Virtue) | 85 | | Immune to Disease (Virtue) | 86 | | Immunity to Cold (Virtue) | 86 | | Impact | 407 | | Imperturbable Casting | 225 | | Impious Friend (Flaw) | 133 | | Improved Characteristics (Virtue) | 86 | | Incapacitation | 404 | | Incarnation | 498 | | Income | 188 | | Incompatible"
+   }
+  ]
+ },
+ {
+  "qid": "indep-039",
+  "entity": "The Magic Fountain",
+  "kind_of_thing": "Place",
+  "aliases": [
+   "The Magic Fountain"
+  ],
+  "book": "guardians-of-the-forests-the-rhine-tribunal",
+  "passages": [
+   {
+    "heading_path": [
+     "Central Germany",
+     "The Harz Mountains",
+     "The Brocken"
+    ],
+    "text": "The highest mountain of the Harz, the Brocken, at 3750 feet is one of the most potent supernatural sites in Germany. The bare peak is topped with a mass of huge granite blocks called the Witches' Altar, which every Walpurgis Night bears witness to a great ritual where the fertility goddess Walpurga summons the spirits of summer to defeat those of winter. Walpurgis Night is the 30th of April — the eve of May Day — and in Germany is even more important for witchcraft than its opposite in the calendar — All Hallow's Eve. Witches from many miles around gather on this day on the Brocken's slopes, followed by many dozens of those villagers who still believe in the old traditions. Fires are lit to drive out the spirits of winter, and hymns are sung to the old forgotten gods. Only the most powerful of witches are allowed to approach the Witches' Altar, where the ritual takes place. At other times of the year, the Brocken is still a popular meeting place for witches. In Hermetic circles, it is known to be a good place at which to find a potential apprentice. A nearby spring is called the Magic Fountain and grants visions to those who drink from it. On the rugged slopes grows a pale violet anemone dubbed the Sorcerer's Flower, reputed to be a source of vis. The lower slopes of the Brocken have a Faerie aura of 2, with 4 at the"
+   }
+  ]
+ },
+ {
+  "qid": "indep-047",
+  "entity": "Gwenn (the white mantle)",
+  "kind_of_thing": "Magic Item",
+  "aliases": [
+   "Gwenn",
+   "Gwenn (the white mantle)",
+   "the white mantle"
+  ],
+  "book": "heirs-to-merlin-stonehenge-tribunal",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter 9: Wales",
+     "The Church"
+    ],
+    "text": "have mercy,\" replied his captor. \"I am Iddawg son of Mynyo, and I will take you to Arthur's court.\" He led Rhonabwy across the sea, to the fort where Arthur was holding court. Iddawg took Rhonabwy into the presence of the king and said, > >\"Do you see that stone, in the ring on his finger?\" \"Yes, I do,\" replied Rhonabwy. > >\"Because you have seen that stone, you will remember everything you see here. If you had not seen it, you would have remembered nothing.\" > >Gwenn, the white mantle, was spread on the ground, and Arthur sat on it. One of the properties of the mantle is this: that anyone wrapped in it can see everyone, although no one can see him. Owein, son of Uryen stood before Arthur, and the king said to him, > >\"Come, let us play gwyddbwyll.\" Owein agreed and sat down, and the servants brought a gwyddbwyll set whose men were of gold and whose board was of silver. > >They were deep in the game when a messenger came into the hall and spoke to Owein. > >\"Lord, is it with your permission that Arthur's young lads and servants are harassing your ravens? If not, please have him call them off,\" he said. Owein spoke to Arthur. > >\"Do you hear what he is saying, lord? Please call them off.\" But Arthur merely said, > >\"Your move.\" > >They finished their game and started another, and half way"
+   }
+  ]
+ },
+ {
+  "qid": "indep-055",
+  "entity": "Huntress in the Wood Lore",
+  "kind_of_thing": "Hermetic Ability",
+  "aliases": [
+   "Huntress Lore",
+   "Huntress in the Wood Lore"
+  ],
+  "book": "houses-of-hermes-mystery-cults",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter One: House Bjornaer",
+     "The Huntress in the Wood",
+     "Structure of the Huntress"
+    ],
+    "text": "The Huntress possesses three levels of Initiation, the outer **kerykes**, the inner **eumolpids**, and the innermost **hierophants**. The Ability Huntress in the Wood Lore (abbreviated to Huntress Lore) is necessary for the Initiation of these grades."
+   },
+   {
+    "heading_path": [
+     "Chapter One: House Bjornaer",
+     "The Huntress in the Wood",
+     "Structure of the Huntress",
+     "Kerykes"
+    ],
+    "text": "Members of this rank are devoted to the study of nature, and they do not concern themselves with the overall goal of the society; indeed, they are only aware of the goals of the cult if they take a personal interest. They are charged with recovering the lore of nature known to the ancients, but lost in modern times. To become a member of the society and join the kerykes, it is necessary undergo an Initiation which grants the Mystery of Nature Lore (see House Merinita: Nature Mysteries) at one of the yearly meetings of the cult. A Bjornaer magus inducted into the cult will probably be Initiated by his sept members, but not until after his Initiation into the Order of Hermes. **Initiation to the Rank of Kerykis and the Mystery of Nature Lore** **Ease Factor**: 15 (Minor Virtue known to the Mystagogue) **Script Bonus**: +9 **Script Details**: The Initiate must acquire Huntress Lore 1 through at least one season's tutelage under the Mystagogue (+3); discover and give to the hierophants a piece of magical lore related to the study or worship of nature hitherto unknown to them, such as a new (or old) spell, an ancient book, or an invested item made by House Diedne (+3); and take an Oath of obedience to the hierophants of the cult (Vow Flaw, +3)."
+   }
+  ]
+ },
+ {
+  "qid": "indep-063",
+  "entity": "Major Magical Focus in Spirits",
+  "kind_of_thing": "Virtue",
+  "aliases": [
+   "Magical Focus in Spirits",
+   "Major Magical Focus in Spirits"
+  ],
+  "book": "houses-of-hermes-societates",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Three: House Tytalus",
+     "Characters",
+     "Titanoi"
+    ],
+    "text": "Titanoi. These theurgists reformed the Titanoi into a Mystery Cult, but it subsequently lost most of its religious elements due to the strong Sophist leanings of House Tytalus. The cult now serves to offer praise and honor to the governors of the Universe, rather than give them worship. Consequently, not all the members of the cult are pagan, but all have decidedly heterodox views about how the universe was created and is run. The Titanoi excel in the summoning and control of spiritual entities. They concentrate on the Titans and their children (see insert), but no Titanos is adverse to spells relating to other spirits, such as ghosts, elemental spirits, and the like. A magus raised in the cult develops a Major Magical Focus in Spirits during his apprenticeship, which applies to all supernatural entities that have a naturally insubstantial form. This includes ghosts, but does not extend to other aspects of necromancy such as the animation of corpses. He is also taught Magic Lore and Titanoi Cult Lore. Many Titanoi do not seek further Initiation into the Mysteries of the cult due to the social stigma attached to its practices since the Betrayal. Nevertheless, the lure of more powerful magics offered by the cult often attracts a Titanos after he has had the chance to develop a few powerful enemies. The cult can Initiate the following Virtues: Hermetic Theurgy, Invocation Magic, Names of Power, Theurgic Spirit Familiar, and Student of Magic Realm. For details of"
+   }
+  ]
+ },
+ {
+  "qid": "indep-071",
+  "entity": "Skull of Guorna the Fetid",
+  "kind_of_thing": "Magic Item",
+  "aliases": [
+   "Skull of Guorna the Fetid"
+  ],
+  "book": "houses-of-hermes-true-lineages",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Three: House Mercere",
+     "Designing Magi of House Tremere",
+     "Arts and Spells",
+     "The Art of Mentem"
+    ],
+    "text": "casualties of Hannibal's three victories against the Romans in Italy (150,000 dead) and the victims of the storm that destroyed the Roman invasion fleet off Cape Pachynus in 255 BC (100,000 soldiers and over 250 ghostly ships). These claims were never tested, but were not novel, because Guorna the Fetid claimed to be able to rouse the spirits of those who died when Belisarius's troops sacked Naples. The House continues to encourage young magi to find such useful sites. > > Young magi are also encouraged to find remains, which summon ghosts away from their burial sites. The senior necromancer in the House, for example, carries a torc crafted from the teeth of a Scythian chieftain and his warriors, which allows him to summon thirty-four ghostly horsemen, away from the site of their internment. Kore, the fifth and only necromantic Prima, created the torc and for years afterward had young magi looking for an enormous bronze vessel made from the census arrowheads of the Scythian army. She hoped to bring an entire nation of dead to the battlefield. Kore was the first Primus replaced by force, on the grounds of insanity. Some necromancers search for the skull of Guorna the Fetid, hoping to learn the techniques of the archnecromantrix. Others fear she would find a way to claim the body of her pupil. > > ### Varieties of Ghost > > Tremere magi have noted that there are many types of ghost. The commonest, those linked"
+   }
+  ]
+ },
+ {
+  "qid": "indep-079",
+  "entity": "Scartaris",
+  "kind_of_thing": "Covenant",
+  "aliases": [
+   "Scartaris",
+   "Scartaris Sanctum",
+   "Scartaris complex"
+  ],
+  "book": "icelandic-wars-land-of-fire-and-ice",
+  "passages": [
+   {
+    "heading_path": [
+     "The Choice"
+    ],
+    "text": "The War Tribunal ends with the declaration that, in revenge for the death of Hadrianus, all Icelandic magicians are enemies of the Order and their lives are forfeit. Quaesitor Lavinia declares the tribunal legal and binding. Depending on events driven by player characters, the crusade may still have the support of many senior magi or it may be reduced to a very controversial venture. In the latter case, a number of elder magi pledge to take the matter to the Grand Tribunal. The player characters are now left with a decision. The arguments presented during the debate may have changed their position. Pro-crusaders could now be in doubt over the very existence of the Order of Odin; a simple campaign of murderous conquest may not be to their taste. Anti-crusaders may now believe the threat is real or that opposing the war is suicidal. **Story Seed (Vindolanda, pro-crusader):** With Vindolanda as a base an immediate confrontation with the guardians is avoided. With the information the player characters can provide, the Hermetic expedition is able to slay many of Iceland's leading magicians in the first strike. Bard's counterattack (see below) is likely to fail against Scartaris and in this event Iceland quickly falls to the crusader force. Should this occur the \"Crusader Victory\" sections should be consulted. Alternatively, if the player characters do not suggest that the *Aegis of the Heath* is re-cast at 75th level then Bard may be able to violently flood Scartaris. This should"
+   },
+   {
+    "heading_path": [
+     "The Choice"
+    ],
+    "text": "\"Crusader Victory\" sections should be consulted. Alternatively, if the player characters do not suggest that the *Aegis of the Heath* is re-cast at 75th level then Bard may be able to violently flood Scartaris. This should be done while the player characters are away, so as to avoid killing them all. In this case the \"Bard is Victorious\" sections should be consulted. Bishop Magnus's delegation sets out in either event. **Story Seed (Vindolanda, anti-crusader):** If the player characters revealed their connection to Iceland, Lavinia demands their cooperation and gives them a season to comply. If the Vindolanda council decides to defy Lavinia, they face the abandonment of their mainland site. Iain can command the gate spirit to swallow the gatestone on one side and deliver it to the other; thus sealing off the Scartaris complex from the mainland. However, if the characters never reveal their location this is unnecessary. Maintaining the mainland site enables the characters to keep informed as to the progress of the Hermetic forces. If Bard and Pan Caudarax are informed of the invasion, they are better prepared to confront it. They in turn inform Vindsvall and the Gray Bull (if free). This may prompt the magi to free the Gray Bull and Bard suggests this, if it has not already been done. Given that foresight talents are not uncommon among Icelandic magicians (Premonitions, Visions, Divination), there is a great disquiet over predictions of death and destruction. The report by the"
+   }
+  ]
+ },
+ {
+  "qid": "indep-087",
+  "entity": "Loch Oadh",
+  "kind_of_thing": "Place",
+  "aliases": [
+   "Loch Oadh"
+  ],
+  "book": "lion-of-the-north-the-loch-leglean-tribunal",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter 3: Hermetic History",
+     "The War Against Damhan-allaidh"
+    ],
+    "text": "In the late 8th century, a threat to the Order lived in Brittany. A Scottish wizard named Damhan-allaidh discovered principles of magic based on blood and sacrifices, and his rites gave him access to magic unknown to the Order of Hermes. His refusal to join the Order and obey its restrictive rules regarding mundane society forced it to act. Several followers of Flambeau and Tremere gathered to oppose the wizard, whom they called by the Latin version of his name, Dav'nalleous. Damhan-allaidh defeated the Hermetic magi in battle at Carnac. Knowing that the Order would do all in its power to kill him, he fled to Scotland. There the Order had no followers, and he hoped to induce the local magicians to join him. The Order of Hermes spent several years preparing for the fight against Damhan-allaidh, though a few magi attempted to challenge him on their own. These magi met their end at the hands of the wizard, whose spy network usually had knowledge of where and when the magi reached the Islands. In May of 814, the maga Pralix of House Tytalus landed in Northumbria, accompanied by half a hundred grogs and several magi: of Houses Tremere, Flambeau, and Tytalus. The first battle between the two sides came a few weeks later in June, as Pralix was traveling along the shores of Loch Oadh. Even though all her forces were with her, Damhan-allaidh attacked. He had allied with giants, creatures standing more than thirty"
+   },
+   {
+    "heading_path": [
+     "Chapter 3: Hermetic History",
+     "The War Against Damhan-allaidh"
+    ],
+    "text": "a few weeks later in June, as Pralix was traveling along the shores of Loch Oadh. Even though all her forces were with her, Damhan-allaidh attacked. He had allied with giants, creatures standing more than thirty feet tall, who threw mighty boulders and crushed men and horses alike with tree trunks. All the grogs were killed or scattered, and only one magus other than Pralix, Ignes Festi of House Flambeau, managed to survive the carnage. The battle ended only when two giants started hitting each other, soon involving all the others in a grand fistfight. Pralix and Ignes Festi escaped under the feet of the giants, and fled away to patch their wounds and plan a new strategy."
+   }
+  ]
+ },
+ {
+  "qid": "indep-095",
+  "entity": "Phillip Augustus",
+  "kind_of_thing": "Character",
+  "aliases": [
+   "Phillip Augustus"
+  ],
+  "book": "lords-of-men",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Three: A Comparison of Titles",
+     "The French (and English) System",
+     "King (Rex, Roi)"
+    ],
+    "text": "A king is defined in his role by the fact that he pays allegiance to no living man, except perhaps the pope or emperor. Kings were initially the war leaders elected to lead powerful tribal groups in wars against their neighbors. This process of electing the king led, in earlier times, to civil wars, as the group of possible claimants to the throne thinned each other out before the decision could be made. In the current generation, elective kingship will die out in most of Western Europe. The principle of hereditary kingship was forced on the English nobility in 1215, when William Marshal defeated the forces of Prince Louis of France, who had been offered the crown by the barons of England. In France it has been traditional, for several generations, to force the electors to vote and acclaim the heir while the incumbent still lives. The electors, in theory, freely choose that the eldest son of the king will be the next king. The current king, Phillip Augustus, is the first in the current dynasty not to bother with this. He is able to do this in part because he has crushed so many of his vassals and taken their land into demesne that his heir will be the most significant landholder in his kingdom. > ## How Powerful is a King? > > Strong kings are often the most significant secular landowners in their kingdoms. The King of England, for example, holds between 15"
+   }
+  ]
+ },
+ {
+  "qid": "indep-103",
+  "entity": "Gifted Lab Assistant",
+  "kind_of_thing": "Character Type",
+  "aliases": [
+   "Gifted Lab Assistant"
+  ],
+  "book": "magic-apprentices",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Four: Pueritia: Ages 8 to 14",
+     "Hermetic Apprenticeship",
+     "Opening the Arts",
+     "Delaying Opening the Arts"
+    ],
+    "text": "Not every magus Opens the Arts of his apprentice immediately. He might want the child trained in Academic or Arcane Abilities first, need to increase his own low Art score before Opening the Arts, or have other pressing matters on hand. He can declare the child his apprentice, but she isn't legally bound to him until he Opens her Arts. This is a gamble; until the child is officially his, she can be taken by other magi. His friends and sodales will probably honor his decision and not snatch up the child, but that isn't a guarantee, nor does it prevent other magi from taking the child. If a magus does snatch the child and quickly make her an apprentice, there are few options for the deprived magus. He could declare Wizard's War and hope to take the child back, but this is risky and he could lose the child as a casualty of the war. He could also offer to trade the magus something more valuable, and perhaps even go into debt to secure the apprentice's return. There is also the chance that the magus never intended to Open the Arts of the Gifted child and is merely keeping her as a Gifted lab assistant. The Order frowns on this practice and most Tribunals declare that keeping a Gifted lab assistant is a low crime. While this is fine in legal theory, it is difficult to prosecute, because the defendant can always say that he"
+   },
+   {
+    "heading_path": [
+     "Chapter Four: Pueritia: Ages 8 to 14",
+     "Hermetic Apprenticeship",
+     "Opening the Arts",
+     "Delaying Opening the Arts"
+    ],
+    "text": "this practice and most Tribunals declare that keeping a Gifted lab assistant is a low crime. While this is fine in legal theory, it is difficult to prosecute, because the defendant can always say that he was merely delaying Opening the child's Arts until the child was properly trained. Rather than a cumbersome and uncertain trial, magi prefer that an individual act decisively and simply take the lab assistant as an apprentice. If the timing is right, and the lab assistant is taken a day or two before a new season begins, the rescuer could immediately begin Opening her Arts. This automatically makes her an apprentice, and immediately grants both magus and apprentice the legal protection offered by the Code of Hermes. Specifically, the former magus cannot charge in and demand his lab assistant be returned. >### Teaching Schedule > >To ensure that a new apprentice learns everything necessary to become a magus, most new masters follow the following schedule, which is believed to come from letters Bonisagus wrote to Trianoma, and is more or less what the traditions of the Order dictate. > >*\"The life of the Art requires a master and student. The student gives her magic to her master to shape, and to be worthy of this gift, he must first achieve a master's understanding of all of the Techniques and Forms.\"* > >If a magus does not have at least a score of 5 in every Technique and Form when he Opens"
+   }
+  ]
+ },
+ {
+  "qid": "indep-111",
+  "entity": "Aesc",
+  "kind_of_thing": "Hermetic Concept",
+  "aliases": [
+   "Aesc"
+  ],
+  "book": "magic-hedge-magic-revised",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Seven: Vitkir",
+     "The Runes",
+     "Hermetic Integration"
+    ],
+    "text": "I | ᛁ | Is | EES | \"Ice\" | Isa | >| J | ᛄ | Ger | YER | \"Year\" | Jera | >| Y | ᛇ | Eoh | EE-oh | \"Yew\" | Ihwaz | >| P | ᛈ | Peordh | POHR-th | \"Cup\" | Perth | >| X | ᛉ | Eolhx | OHLHK | \"Elk\" | Algiz | >| S | ᛋ | Sigel | SEE-wel | \"Sun\" | Sowilo | >| T | ᛏ | Tir | TEER | \"Star\" | Tiwaz | >| B | ᛒ | Beorc | BORK | \"Birch\" | Berkanan | >| E | ᛖ | Eh | EH | \"Horse\" | Ehwaz | >| M | ᛗ | Mann | MAHN | \"Man\" | Mannaz | >| L | ᛚ | Lagu | LAH-wuh | \"Water\" | Laguz | >| Ng | ᛝ | Ing | ING | \"Hero\" | Ingwaz | >| D | ᛞ | Daeg | DAY | \"Day\" | Dagaz | >| Oe | ᛟ | Ethel | EE-thell | \"Homeland\" | Othila | >| A | ᚪ | Ac | AWK | \"Oak\" | — | >| Ae | ᚫ | Aesc | ASH | \"Ash\" | — | >| Yr | ᚣ | Yr | YAHR | \"Bow\" | — | >| Ea | ᛠ | Ear | EAR | \"Grave\" | — | >| G | ᚸ | Gar | GAR | \"Spear\" | — |"
+   }
+  ]
+ },
+ {
+  "qid": "indep-119",
+  "entity": "Puissant Carouse",
+  "kind_of_thing": "Virtue",
+  "aliases": [
+   "Puissant Carouse"
+  ],
+  "book": "mythic-locations",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Two: Bath",
+     "Introducing Bath into the Saga",
+     "The Process of Bathing in Bath in 1220"
+    ],
+    "text": "coated with the magical mud of the area or with oils suggested by his physicians. After a pause to allow the treatments to have effect, he stews in the water for a suitable time, then is lifted from the water and again coated with suitable medicines. He is finally swaddled in thick fabric and carried to bed. The bedclothes may be treated with strong-smelling herbs. Further treatment may follow under the care of his physician. Poor people may be bathed in a way similar to this, if monks are providing the services through a hospital. >#### Balneator: Lord of the Merry Devils > >Balneator is a Merry Devil, a sort of demon that encourages the hedonism of groups. Balneator particularly encourages conspiracy and fornication. He takes the form of a young nobleman often found in the baths. > >**Order:** Vessel of Iniquity (Merry Devil) > >**Infernal Might:** 25 (Mentem) > >**Characteristics:** Int 0, Per +1, Pre +3, Com +3, Str +1, Sta +4, Dex +3, Qik +4 > >**Confidence:** 2 (6 points) > >**Size:** 0 > >**Virtues and Flaws:** Improved Characteristics, Puissant Carouse. > >**Personality Traits:** Depraved +6, Merry +6, Back-biting +5, Stimulated +2 > >**Reputations:** Reveler with a pack of mortal puppets 2 (Infernal) > >**Hierarchy:** 2 > >**Combat:** > >*Sharp Nails:* Init +3, Attack +7, Defense +7, Damage +5 > >He prefers to get his humans to fight for him. Balneator's physically capable of battle, but only really enjoys it when he knows he's"
+   }
+  ]
+ },
+ {
+  "qid": "indep-127",
+  "entity": "Touch of Faerie",
+  "kind_of_thing": "Hermetic Concept",
+  "aliases": [
+   "Touch of Faerie"
+  ],
+  "book": "realms-of-power-faerie",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Four: Faerie Bestiary",
+     "Faeries Drawn To Life Stages",
+     "Birth",
+     "Child Stealers"
+    ],
+    "text": "The children stolen by faeries often share a few distinctive features. Single parents are usually raising them, in a household that faerie areas instead of being stolen. Children who survive being stolen have a Touch of Faerie, as described in Chapter 5. Many types of faerie are unable to reproduce. The most human–like — the kings and queens of the courts of faeries — yearn for children and steal them from humans. Each king or queen has a distinctive set of powers, based on the demesne of which her or she is ruler. Many are neglectful parents, and the children they steal often die for lack of milk, warmth, or shelter. Sometimes the death of a child generates a dependent role: a minor courtier that is the heir of the noble. Scholars differ on whether this is the spirit of the dead child, or just a faerie pretending to be. Many faeries that steal children leave behind an enchanted stick or statue that seems to be a sickly version of the child. It simulates death, allowing the faerie time to steal the child away. But, more importantly, it may severe the bonds of longing that could otherwise allow the family and child to find each other again."
+   },
+   {
+    "heading_path": [
+     "Chapter Four: Faerie Bestiary",
+     "Faeries Drawn To Life Stages",
+     "Birth",
+     "Protectors"
+    ],
+    "text": "Protectors are faeries that watch over small children. They are fervently courted by mothers and, once their charges are grown, are kept vital by occasional visits to the children they have helped. **Faerie Godmothers:** A godmother is a person who promises to guard the child from the wiles of the Infernal, and to raise it in the Christian faith. Godparents also traditionally give gifts to their godchildren, and may adopt them if their parents die. These are some of the most innocuous faeries, but they can turn nasty if they feel slighted, using their intimate knowledge of the godchild to cause them enormous pain. Faerie godmothers can be designed as Courtly Faeries, the statistics for which are given later. Fairy godmothers are particularly noted for supplying magical gifts to their godchildren, so the statistics of the Courtly Faeries might be modified to allow for this. Godchildren raised by faeries have a Touch of Faerie, as given in Chapter 5. **Imaginary Friends:** Characters who gain the Faerie Friend virtue at this age often have friends that are toy-like, or belong to one of the classes of faerie that children believe in, but not adults."
+   }
+  ]
+ },
+ {
+  "qid": "indep-135",
+  "entity": "Barcas",
+  "kind_of_thing": "Character",
+  "aliases": [
+   "Barcas",
+   "Barcas the Giant"
+  ],
+  "book": "realms-of-power-magic",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Six : Magic Humans",
+     "Magical Giants"
+    ],
+    "text": "sword, albeit while mounted. Thus, Harpin was probably Size +3 or less. In the romances, giants are invariably armed with clubs, and usually wear heavy furs for protection. They tend not to display any overt magical powers. > >The example giant Barcas in this chapter is based on Ferragus, a giant who fought the hero Roland in one of the romances (*History of the Life of Charlemagne and Roland,* also known as the pseudo-Turpin)."
+   },
+   {
+    "heading_path": [
+     "Chapter Six : Magic Humans",
+     "Magical Giants",
+     "Designing Giants",
+     "Barcas, the Giant"
+    ],
+    "text": "**Magic Might:** 16 (Terram) **Characteristics:** Int –2, Per 0, Pre +1, Com –2, Str +6, Sta +2, Dex +2, Qik 0 **Size:** +2 **Season:** Summer **Confidence Score:** 1 (3) **Virtues and Flaws:** Magic Human; Puissant Brawl, Tough; Overconfident (minor), Weakness (alcohol) **Magic Qualities and Inferiorities:** Gigantic; Improved Might (x6), Personal Power (x2), Terram Resistance; Minor Flaw (Lesser Malediction: vulnerable spot), Susceptible to Deprivation **Personality Traits:** Boastful +4, Brave +2, Impulsive +2 **Combat:** *Grapple:* Init 0, Attack +11, Defense +9, Damage n/a *Fist:* Init 0, Attack +10, Defense +8, Damage +6 **Soak:** +9 **Wound Penalties:** –1 (1–7), –3 (8–14), –5 (16–21), Incapacitated (22+), Dead (29+) **Fatigue Levels:** OK, 0, –1, –3, –5, Unconscious **Abilities:** (Area) Lore 3 (famous wrestlers), Brawl 6+2 (grappling), Animal Handling 4 (sheep), Carouse 3 (drinking wine), Craft (Carpentry) 1 (building lean-tos), Leadership 2 (intimidation), (Living Language) 4 (rustic dialect), Survival 3 (mountains), Terram Resistance 4 (metal) **Powers:** *Invulnerability to Metal*, 0 points, Init n/a, Terram Barcas cannot be harmed by metal weapons of any kind; they simply bounce off his skin. There is one weakness in this defense (see below). ReTe 30 (Base 5, +2 Sun, +2 affect metal, +1 continuous effect): Lesser Power x2 (35 levels, –3 Might cost) **Equipment:** Sheepskin clothing, empty wineskin **Encumbrance:** 0 **Vis:** 4 Terram in skin **Appearance:** Barca"
+   }
+  ]
+ },
+ {
+  "qid": "indep-143",
+  "entity": "Avenging Angels",
+  "kind_of_thing": "Creature",
+  "aliases": [
+   "Avenging Angels"
+  ],
+  "book": "realms-of-power-the-divine-revised",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Two: Heaven and Earth"
+    ],
+    "text": "harvests. > >**Raqia**: The Second Heaven imprisons many evil angels who have not been yet thrown to Hell and is ruled by Raphael, Galizur, and Zachariel. Also in Raqia are the planets. > >**Shehaqin**: Shehaqin is ruled over by Jabniel, Rabacyl, and Dalquiel, and the Archangel Anahel. It is in the Third Heaven that the Garden of Eden now resides and the Tree of Life grows (from this tree came the manna that delivered the children of Israel). > >**Machonon**: In the Fourth Heaven can be found the City of Christ and the heavenly Jerusalem, ruled over by Michael. Here is also found Sandalphon, angel of tears. > >**Mathey**: The true Empyrean and home of the Avenging Angels, the Fifth Heaven is the dwelling of Metatron and is ruled by Shatqiel. It is a great void filled with fire and smoke. > >**Zebul**: The Sixth Heaven is a place of icy storms and snow-ridden angelic palaces, home of Cherubim and Phoenixes. Zachiel and Sabath are the rulers of Zebul. > >**Araboth**: The Seventh Heaven is the dwelling of the Angels of Judgement, Seraphim, Cherubim, and Thrones, ruled over by Cassiel. Araboth is the closest thing in creation to God Himself, and is the location of his Throne. >#### The Four Worlds > >According to Jewish kabbalists and certain Hermetic theorists, there are four stages of emanation from the Divine realm, known from *Isaiah 43:7*: \"All that is called in My name, for My Glory [Atzilut], I"
+   }
+  ]
+ },
+ {
+  "qid": "indep-151",
+  "entity": "Good Characteristics",
+  "kind_of_thing": "Virtue",
+  "aliases": [
+   "Good Characteristics"
+  ],
+  "book": "realms-of-power-the-infernal",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter 11 : Ars Goetia",
+     "The Goetic Arts",
+     "Ablating",
+     "Bargaining with Demons"
+    ],
+    "text": "receives a number of Ablation Points equal to this number divided by five, rounded down. If this total is greater than the spirit's Might Score, use the Might Score instead. **Ablation Points: (Ablation Total – Ablation Target Level) / 5, or spirit's Might / 5** These Ablation Points may be spent on one of the effects that follow, which represent the different ways the sorcerer can channel the spirit's power and so harness the Might he has drawn from it. Unless stated otherwise, all of these effects are permanent. - **Confidence:** The sorcerer gains this many Confidence Points, though no more than his (Confidence Score x 5). You can also spend these Ablation Points on his Confidence Score like experience points, increasing it as if it were an Ability. **•** - **Capability:** You may spend Ablation Points on appropriate Characteristics, just like the points received during character creation or from the Good Characteristics Virtue. These cannot raise his scores above the spirit's scores. **•** - **Health:** The sorcerer can instantly heal his injuries: 5 points heals a Heavy Wound, 3 points heals a Medium Wound, and 1 point heals a Light Wound. One point can also immediately restore a long-term Fatigue level. **•** - **Immortality:** Add this amount as a Longevity bonus to the sorcerer's Aging rolls (though not those associated with Vituperation). This bonus is not cumulative, and lasts only until he suffers an aging crisis. **•** - **Insight:** The sorcerer receives some of "
+   }
+  ]
+ },
+ {
+  "qid": "indep-159",
+  "entity": "Vervay",
+  "kind_of_thing": "Place",
+  "aliases": [
+   "Vervay"
+  ],
+  "book": "sanctuary-of-ice-the-greater-alps-tribunal",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter 9: Geography and History of the Greater Alps Tribunal",
+     "Geography",
+     "The Western Alps",
+     "Vervay"
+    ],
+    "text": "A society dedicated to the cultivation of the grape, called the Abbaye des Vignerons, is centered on Vervay. Every fifteen to twenty years the society sponsors a festival to celebrate viticulture. The finest grape-grower is crowned and presides over a procession and festival, and the most beautiful girl in the village is given a large dowry and is allowed to select the husband of her choice. The society acts like a guild, rewarding skilled growers with medals and pruning shears. Bronze tools were a traditional sacrifice to the goddess of the Rhaetians, so this festival may be very ancient."
+   },
+   {
+    "heading_path": [
+     "Index",
+     "General Index"
+    ],
+    "text": "quartz 54 Sourdine filia Bronwyn 87 spindle 70 Standard of the Shadowy Men 85 Staubbach Fall 117 stola 19 Styria 117 Tarragon Vale 75 Tatzelwurmli 97 Tobias 48 toga virilis 19 Tower of Ashes 52 trabea 19 training with Primi 39 Val Fanes 109 Valnastium 79 Veil of Fire 85 Vervay 109 Vienna 117 Vincent, Archmage 49 Vindonossa 97 vis sources 5, 9 Viscus filius Circum Perfico 36 Voralberg 110 voting rights 9 Werfen 118 Where Journeys End, covenant 55, 105, 114 whitlam 20, 22 Winterthur 110 Wörthsee 118 Yselt filia Rosalia 58 Zähringers 100, 123 Zurich 111"
+   }
+  ]
+ },
+ {
+  "qid": "indep-167",
+  "entity": "John of Capella",
+  "kind_of_thing": "Character",
+  "aliases": [
+   "John of Capella"
+  ],
+  "book": "the-church",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Eight: The Franciscans",
+     "Francis' Life & Growth of the Franciscans"
+    ],
+    "text": "and requested an audience with Pope Innocent III. The pope was expecting them, as the Holy Spirit had sent him a prophetic dream the previous night in which he saw the Lateran Basilica about to collapse, but held firm by a small man dressed in rags, who propped the walls up with his own back. So, when Francis asked for approval of his new way of living the gospel message, the pope gave his blessing, although he gave permission only for preaching on morality, leaving theology to the ordained clergy. Francis and his followers returned to the valley close to Assisi, where their life of prayer, fasting, and good works continued. Further mystical experiences awoke the Supernatural Abilities of Purity and Intervention in Francis, and he began to teach some of the brothers. Player characters may meet one or more of the founder members, such as Sylvester of Assisi or Bernard of Quintavalle, Rufino — both priests and cousins of Clare (see this chapter, Clare of Assisi). There is also Leo, another priest; he is known to some as Brother Lamb of God, and is Francis' confessor and scribe. Among the early followers are also Giles of Assisi (a farmer's son, noted for his fervent prayer and mysticism), Masseo (known for his eloquence and courtesy), Anthony of Padova, Simon of Assisi, Christopher of Romagna, Peter Catanio, Sabbatinus, Moricus the short, John of Capella, Philip the tall, John of San Costanzo, Juniper, Barbarus, Bernard Vigilante de Vida,"
+   },
+   {
+    "heading_path": [
+     "Chapter Eight: The Franciscans",
+     "Francis' Life & Growth of the Franciscans"
+    ],
+    "text": "for his eloquence and courtesy), Anthony of Padova, Simon of Assisi, Christopher of Romagna, Peter Catanio, Sabbatinus, Moricus the short, John of Capella, Philip the tall, John of San Costanzo, Juniper, Barbarus, Bernard Vigilante de Vida, and Angelo Tancredi from Rieti (a noble knight before joining). >#### Francis of Assisi > >**Characteristics:** Int +1, Per 0, Pre +4, Com +2, Str 0, Sta –1 (1), Dex –1, Qik –1 > >**Size:** 0 > >**Age:** 39 (39) > >**Decrepitude:** 0 > >**Warping Score:** 1 (0) > >**Confidence:** 1 (3) > >**Virtues and Flaws:** Mendicant Friar; True Faith (Faith Score 5; Faith Points: 8); Animal Ken, Great Presence, Inspirational, Premonitions; Driven (Live like the apostles), Monastic Vows; Ability Block: logic, Compassionate, Fragile Constitution, Social Handicap (Unworldliness) > >**Personality Traits:** Compassionate +3, Humble +3, Pious +3 > >**Reputations:** Saintly (most of Western Europe and parts of Arab lands) 3 > >**Combat:** > >*Dodge:* Init: –1, Atk n/a, Def –1, Dam n/a > >Soak: –1 > >**Fatigue Levels:** OK, 0, –1, –3, –5, Unconscious > >**Wound Penalties:** –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20) > >**True Faith Magic Resistance:** 50 > >**Abilities:** Animal Handling 1 (birds), Animal Ken 3 (birds), Area Lore: Northern and Central Italy 3 (towns), Area Lore: Holy Land 1 (towns), Artes Liberales 2 (Bible), Awareness 2 (the sick), Bargain 2 (cloth), Carouse 2 (entertaining), Charm 3 (preaching), Church Lore 3 (monks), Concentrat"
+   }
+  ]
+ },
+ {
+  "qid": "indep-175",
+  "entity": "Blood Haze",
+  "kind_of_thing": "Flaw",
+  "aliases": [
+   "Blood Haze"
+  ],
+  "book": "the-lion-and-the-lily-the-normandy-tribunal",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Ten: Normandy Sagas",
+     "The Boar and The Dragon",
+     "The Children of Odin",
+     "Mystery Scripts"
+    ],
+    "text": "The cult currently has Initiation Scripts that grant the following Virtues: **Minor Hermetic Virtue, Life Boost:** see ArM5, page 44. **Minor Hermetic Virtue, Minor Magical Focus (Shape-shifting):** see ArM5, page 46. **Major Hermetic Virtue, Life-Linked Spontaneous Magic:** see ArM5, page 44. Ordeals endured during the cult's Initiations may include gaining the Flaws: **Minor Hermetic Flaw, Blood Haze:** The maga is crazed by bloodshed, and if she is directly involved in a combat situation she has a –10 penalty to Formulaic magic and has a –3 penalty to her Concentration Ability Score. The character is considered in a combat situation if she is close enough to smell blood that has been shed through violence (about a dozen paces). **Minor Hermetic Flaw, Flawed Parma Magica (Vim):** see ArM5, page 54. **Major Hermetic Flaw, Deficient Technique (Creo):** see ArM5, page 53."
+   }
+  ]
+ },
+ {
+  "qid": "indep-183",
+  "entity": "Demiurge",
+  "kind_of_thing": "Creature",
+  "aliases": [
+   "Demiurge"
+  ],
+  "book": "the-mysteries-revised",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter 9: Hermetic Theurgy",
+     "Names of Power — Minor Hermetic Mystery Virtue",
+     "Hermetic Theurgy and Names of Power"
+    ],
+    "text": "(and cannot use quiet or silent casting), although this takes no longer than normal casting of the *Invoke* spell. **Theurgic Name Bonus = Total Name of Power Bonuses, Limited by Magic Theory** **Add Theurgic Name Bonus to Theurgic Lab Total** **Add Theurgic Name Bonus to Theurgic Casting Score** When using Names of Power in Hermetic theurgy, a maga does not cast them as actual spells. If a maga writes a Lab Text for an *Invoke* spell that includes Names of Power, they are part of the formula for the spell but convey no special benefit to other magi when learning or casting the spell. Many *Invoke* spells that have been handed down contain Names as part of the Invocation. > ## Gnosticism and Theurgy > > Those who practice the magical beliefs of Gnosticism are concerned with the magic of synthemata, and the school associated with learning these true names and using these names and pursuing a magical religion, is also known as Hermetic theurgy. The Divine aura's interference with magic has led to many radical ideas among the Order's theurgists, and some believe the Divine aura to be the product of the Demiurge, God's intermediary, but different schools of theurgy see the Demiurge in different roles. > > Most monotheistic theurgists believe in one, good Demiurge. For them, the Divine aura is a product of mortals living lives without the spiritual rites of theurgy. By living lives devoted more to bodily needs than spiritual, mortals"
+   },
+   {
+    "heading_path": [
+     "Chapter 9: Hermetic Theurgy",
+     "Names of Power — Minor Hermetic Mystery Virtue",
+     "Hermetic Theurgy and Names of Power"
+    ],
+    "text": "monotheistic theurgists believe in one, good Demiurge. For them, the Divine aura is a product of mortals living lives without the spiritual rites of theurgy. By living lives devoted more to bodily needs than spiritual, mortals wrap their surroundings in the Demiurge's terrestrial influence. Monotheistic theurgists pray to the Demiurge and even to the pagan gods in much the same way as medieval Christians pray to saints, and see these beings as heralds or intermediaries between humanity and God. > > Some monotheistic theurgists believe in various Gnostic principles. For them, the Demiurge is an evil spirit blocking the path to the true god. The Demiurge creates Divine and Infernal auras to thwart humanity's attempts at true salvation, which is attained not by conventional religious means but by magical mastery of secret knowledge and hidden rites. > > Many pagan polytheists, on the other hand, simply see the Divine as one power amongst many that has risen to dominance. For them, the Divine auras are nothing more than the flexing might of a powerful god named Jehovah, who has become so powerful that he has claimed to be the only true god. Such polytheists are fond of citing the opening verses of Psalm 82 and other early traditions that seem to imply the Jewish and Christian god as merely the most potent of the deities, but not the only deity. > > The idea of attaining salvation by practicing rites and magical secrets takes many forms,"
+   }
+  ]
+ },
+ {
+  "qid": "indep-191",
+  "entity": "Craft: Bookbinding",
+  "kind_of_thing": "Hermetic Ability",
+  "aliases": [
+   "Craft: Bookbinding"
+  ],
+  "book": "transforming-mythic-europe",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Two: The Fourth Estate",
+     "The Tools of Politics",
+     "Writing and Responding to Polemic",
+     "Taking the Debate to Tribunal"
+    ],
+    "text": "0 > >**Size:** 0 > >**Age:** 75 (50) > >**Decrepitude:** 0 > >**Warping Score:** 6 (15) > >**Confidence Score:** 1 (3) > >**Virtues and Flaws:** The Gift; Hermetic Magus; Major Magical Focus (Books); Affinity with Magic Theory, Personal Vis Source (Vim), Puissant Magic Theory, Reforging Enchanted Items\\*\\*, Skilled Parens, Social Contacts (magi), Verditius Magic\\*; Dark Secret (frequent sale of enchanted books to mundanes), Magic Addiction; Averse to Risk\\*\\*\\*, Hubris, Limited Magic Resistance (Mentem) > >\\* Free House Virtue >\\*\\* Verditius Inner Mystery >\\*\\*\\* Flaw gained as part of Mystery Initiation > >**Personality Traits:** Generous +2, Hubris +2, Manipulative +1 > >**Reputations:** None > >**Combat:** > >*Dodge*: Init +0, Attack N/A, Defense +0, Damage N/A > >*Fist*: Init +0, Attack +1, Defense +0, Damage +0 > >**Soak:** +0 > >**Fatigue Levels:** OK, 0, –1, –3, –5, Unconscious > >**Wound Penalties**: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+) > >**Abilities:** Artes Liberales 4 (astronomy), Awareness 2 (alertness), Bargain 2 (magical services), Charm 3 (being witty), Code of Hermes 3 (mundane relations), Concentration 4 (lab work), Craft: Blacksmith 2 (enchanted items), Craft: Bookbinding 5 (books for enchantment), Finesse 5 (craft magic), Intrigue 3 (alliances), Latin 5 (Hermetic usage), Leadership 3 (laboratory work), Living Language 5 (local dialect), Magic Theory 12+2 (enchanting items), Parma Magica 3 (Mentem), Penetration 2 (Corpus), Phi"
+   }
+  ]
+ },
+ {
+  "qid": "indep-199",
+  "entity": "Sicilian Vespers",
+  "kind_of_thing": "Hermetic Concept",
+  "aliases": [
+   "Sicilian Vespers"
+  ],
+  "book": "tribunals-of-hermes-rome",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Two: Mythic History",
+     "Charles of Anjou",
+     "The Sicilian Vespers"
+    ],
+    "text": "On March 31, 1282, at the hour of Vespers, the people of Palermo stage a bloody revolution, known as the Sicilian Vespers. They seek to free the island of Sicily from French rule. The revolt is ignited by brash Frenchmen who seek to have their way with a Sicilian bride, daughter of the influential Don Corleone. Indeed, in a rare demonstration of cooperation, feuding criminal families put aside their differences. Magi from Provençal's Covenant of Mistridge, Windgraven's traditional enemy, are involved in this revolt, trying to destroy Windgraven's power in Italy. Of course, this increased foreign influence in Rome only intensifies animosity between the two Tribunals. By their own efforts, the ruthless Sicilians are freed of French rule and invite Don Pedro, King of Aragon, to take their throne. Spanish aid further confounds the French, as does the song of the sirens, heard on the Straits of Messina, which lures French sailors to their deaths. The French are thus denied rule of Sicily."
+   },
+   {
+    "heading_path": [
+     "Chapter Two: Mythic History",
+     "Timeline of Mundane History"
+    ],
+    "text": "Frederick II becomes King of Sicily | | 1198 to 1218 | Pontificate of Innocent III | | 1201 to 1204 | The Fourth Crusade | | 1212 | The Children's Crusade | | 1217 to 1221 | The Fifth Crusade | | 1236 to 1255 | The wars of Eccelino da Romana | | 1248 | The Sixth Crusade | | 1250 | Death of Frederick II | | 1266 | Charles of Anjou's French crusade against Sicily | | 1270 | The Seventh Crusade | | 1282 | The Sicilian Vespers |"
+   }
+  ]
+ }
+]

@@ -24,6 +24,46 @@ docker run --rm -v $PWD:/app -w /app -v /srv/ofm/amol-ontorag:/srv/ofm/amol-onto
   -e PYTHONPATH=/app --entrypoint python ontorag-mcp:latest eval/run_eval.py
 ```
 
+## Independent paraphrase set (the honest paraphrase test)
+
+The `paraphrase` queries below are built from each entity's own stored summary with
+the name masked, so they share wording with the data — and an index of those
+summaries would match them almost verbatim. `queries.indep.jsonl` fixes that:
+**200 questions**, 8 per book across all 25 books, about entities specific to one
+book, written by separate Claude agents who saw only the entity's name, type and
+source passages — never the stored description (`indep/`: inputs, outputs and the
+answer key). A code check rejects any question that uses the entity's name or an
+alias; **`indep_strict`** (148) further drops questions sharing any 4-word run with
+the source passages or the description.
+
+| set | mode | recall@1 | recall@5 | recall@10 | MRR |
+|-----|------|---------:|---------:|----------:|----:|
+| indep (200) | ontology | **0.77** | 0.85 | 0.86 | **0.80** |
+| | entity | 0.69 | 0.78 | 0.84 | 0.73 |
+| | hybrid | 0.54 | 0.73 | 0.76 | 0.61 |
+| | vector | 0.51 | 0.69 | 0.75 | 0.58 |
+| | ontology + entity (RRF) | 0.70 | **0.89** | **0.93** | 0.78 |
+| indep_strict (148) | ontology | **0.72** | 0.82 | 0.84 | **0.77** |
+| | entity | 0.66 | 0.76 | 0.82 | 0.70 |
+| | hybrid | 0.51 | 0.69 | 0.72 | 0.58 |
+| | vector | 0.50 | 0.67 | 0.73 | 0.57 |
+| | ontology + entity (RRF) | 0.66 | **0.87** | **0.91** | 0.75 |
+
+(`results.indep.json`, `results.fusion.json`; fusion by `fuse_eval.py`,
+reciprocal-rank fusion of the two modes' top 50.)
+
+- **`entity` mode** (question → nearest entity descriptions → their chunks) beats
+  `vector` by 0.16–0.18 recall@1: comparing a question with short entity
+  descriptions works better than comparing it with rulebook prose.
+- **`ontology` still wins at rank 1.** Real questions carry other names ("Bologna",
+  "Rego Terram", "Pyrenean") that the entity matcher and BM25 exploit.
+- **Fusion is best for retrieval-augmented answers:** recall@5 0.89 / @10 0.93
+  (strict 0.87 / 0.91) — the correct passage is in the context handed to the model
+  far more often than with any single mode, at a small cost at rank 1.
+- On the **old, leaky `paraphrase` set**, `entity` scores 0.975 recall@1 — exactly
+  the inflation expected when the index embeds the texts the questions were made
+  from. Don't use that set to judge description-based retrieval.
+
 ## Results — amol-ontorag v0.6.0 (n: 120 named / 120 paraphrase / 80 niah)
 
 Since v0.6.0, entities are extracted from **all 25 books** (before: 8), and the query
@@ -42,7 +82,9 @@ where the v0.4.2 set could only reach 17.
 | | hybrid | 0.49 | 0.81 | 0.59 |
 | | vector | 0.48 | 0.78 | 0.58 |
 
-(`results.json`, from `queries.jsonl`.)
+(`results.json`, from `queries.jsonl`.) With `entity` mode added on the same set:
+entity_named 0.94, niah 0.94 recall@1 (below `ontology` but far above `vector`),
+and paraphrase 0.975 — inflated, see above.
 
 ### Same questions, old vs new dataset
 

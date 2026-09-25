@@ -1,0 +1,39 @@
+{
+ "ontology+entity (RRF)": {
+  "indep": {
+   "n": 200,
+   "recall@1": 0.7,
+   "recall@5": 0.885,
+   "recall@10": 0.925,
+   "MRR": 0.775
+  },
+  "indep_strict": {
+   "n": 148,
+   "recall@1": 0.662,
+   "recall@5": 0.865,
+   "recall@10": 0.912,
+   "MRR": 0.746
+  },
+  "entity_named": {
+   "n": 120,
+   "recall@1": 0.992,
+   "recall@5": 0.992,
+   "recall@10": 0.992,
+   "MRR": 0.992
+  },
+  "paraphrase": {
+   "n": 120,
+   "recall@1": 0.85,
+   "recall@5": 0.967,
+   "recall@10": 0.992,
+   "MRR": 0.901
+  },
+  "niah": {
+   "n": 80,
+   "recall@1": 0.963,
+   "recall@5": 1.0,
+   "recall@10": 1.0,
+   "MRR": 0.981
+  }
+ }
+}

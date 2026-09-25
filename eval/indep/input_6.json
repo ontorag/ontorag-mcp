@@ -1,0 +1,598 @@
+[
+ {
+  "qid": "indep-006",
+  "entity": "Sons of the Peters",
+  "kind_of_thing": "Faction",
+  "aliases": [
+   "Sons of the Peters",
+   "filii petrorum"
+  ],
+  "book": "art-academe",
+  "passages": [
+   {
+    "heading_path": [
+     "Contents",
+     "Sidebars"
+    ],
+    "text": "**I. Introduction** Story Seed: The Spoils of Gerbert Hermetic Societas: The Lyceum Story Seed: The Academic's Demand Hermetic Societas: The Collegium Story Seed: A Living Library **II. Artes Liberales** New Virtues Story Seed: The Sons of the Peters Story Seed: An Authoritative Voice Story Seed: The Golden Section Leonardo Fibonacci of Pisa Musica Mundana Story Seed: Flying to the Moon **III. Philosophiae** Fact vs. Theory The Lyceum on Substance and Categories The Collegium and Platonic Metaphysics Story Seed: Fire from Heaven Causality and Spell Design Story Seed: A Sizable Matter Story Seed: Up and Away Encyclopedias Journeys into the Unknown The Collegium on Meteorology The Collegium on Living Things Story Seed: A Cure by Proxy Story Seed: The Unremarkable Tree Generating Worms (with New Rego Animal Guideline) Creo Mentem Guidelines Intellego Mentem Guidelines Muto Mentem Guidelines Perdo Mentem Guidelines Rego Mentem Guidelines Magic Affecting Conscience (with Creo Mentem Guidelines) **IV. Medicine** Babies of Hermes The Reality of the Humors Story Seed: The True Homunculus Story Seed: A Bitter Harvest Correspondences of the Humors The Vital Faculty and Hermetic Limits Story Seed: Breath of Life Complexional Magic Physical Qualities of the Four Complexions Personality Traits for the Four Complexions Qualities of Common Foods Forms of Exercise Effects of the Non-Naturals Optional Rule: Lasting Consequences of Serious Damage Flaws Representing Malformations Symptoms Demon"
+   },
+   {
+    "heading_path": [
+     "Chapter Two: Artes Liberales",
+     "Grammar",
+     "Preaching"
+    ],
+    "text": "the preacher's instructions for a limited time. Failure means that the group listens but takes no action, and botching the roll means that the group reacts negatively to the preacher, perhaps even removing him from the premises. The behavior has to be one that the group might practice under its own volition: following religious doctrines, not eating meat on Good Friday, or traveling to a distant land to fight God's heathen enemies. The storyguide should make the Ease Factor higher for behaviors or actions that seem counter to the tenets of the preacher's religion. The group can be no larger than the character's Leadership score times ten. **Giving a Sermon:** Communication + Preaching + stress die vs. 12 A preaching character can also instruct his listeners, teaching them Theology. Listeners must attend weekly sermons preached during an entire season to receive instruction in this way. Those who attend receive 1 experience point in Theology, in addition to whatever other experience points they may be eligible for according to their seasonal activities, although this may not raise their score above that of the preacher. >#### Story Seed: The Sons of the Peters, filii petrorum > >The Sons of the Peters are a group of northern speculative grammarians who claim superiority over other academic instructors, insisting that their grammatical method is nearer and dearer to God, and should be taught exclusively. They base their studies on the various manners, or *modes*, of language. T"
+   }
+  ]
+ },
+ {
+  "qid": "indep-014",
+  "entity": "Writ of Reprisal",
+  "kind_of_thing": "Hermetic Concept",
+  "aliases": [
+   "Writ of Reprisal"
+  ],
+  "book": "city-guild",
+  "passages": [
+   {
+    "heading_path": [
+     "Table of Contents"
+    ],
+    "text": "OF TRANSPORT Roads Bridges Construction Defense Ferries and Fords Stops Innkeepers Rivers River Folklore Area Lore: The Hinterland as a Resource. VESSELS Land Vessels River Barges AREA LORE EASE FACTORS Seagoing Ships Comparison of Traveling Speeds Comparison of Traveling Costs SEA COMBAT Softening the Enemy Boarding and Melee Sea Monsters SEA TRADE Adding Places to the Land Trade Map and Navel Trade Tables **VI. Fairs & Markets** MARKETS COMPETITION GOODS ON SALE GOD OF COMMERCE INFERNAL TRADING FAERIE TRADING FAIRS LAW & FINAN Grant of a Fair Trading Law Weights and Measurements The Group Responsibility for Quality Control Royal Prise Paying Up Justification at the Fair TRADES AND GOODS THE GREAT FAIR CYCLES The Champagne Cycle The Five Fairs of Flandrs Englands's Great Fairs Hermetic Mid-Summer Fair Thessalomica REGIONAL AND LOCAL FAIRS Examples **VII. Trade** VIRTUES AND FLAWS FOR TRADERS Companies New Virtues New Flaws THE URBAN MERCHANT Scale of Affluence Investments Suited to all Merchants Charity Commodity Speculation Drawings Marriage Broker Stories Suited to All Merchants Archeological Find Market Changes Marriage and Dowries Hard Time Legal Action Legacy Puzzle Magical Item Mania Murder of or by Benefactor Natural Disaster The Prodigal Returns Public Snub Street Gang of Children Superior Going to Pieces Unraveling Economy THE LOCAL CARRIER SCALE OF ABUNDANCE STORIES WITH LOCAL CARRIERS Abduction or Elopement Accidents Brigands Oasis Smuggling Transporting the Dead "
+   },
+   {
+    "heading_path": [
+     "Table of Contents"
+    ],
+    "text": "ABUNDANCE STORIES WITH LOCAL CARRIERS Abduction or Elopement Accidents Brigands Oasis Smuggling Transporting the Dead Vanished Village Writ of Reprisal THE MERCHANT ADVENTURER Stories for Merchant Adventurers Ventures Amphibious Assault Antique Sailing Instructions Convoys and Caravans Customs Agents Finding Investors Pirate Hunting Remittance Shipments Seeking Things Warfare and Blockades THE FACTOR Scale of Affluence Stories with Factors Change of Government Company Neighborhood Exercising Power Foreign Rivals House Reputation Assassination Bribes Piracy Sabotage Spying Theft Treachery Loss of Capo Recovering Wrecks Repossession Resisting Nobles Setting Up a Factory or Town Withdrawal from a Region Young Talent THE CAPO Scale of Affluence Stories for Capos Factor Work Personal Pleasure and Aggrandizement Political Activity Selecting Factors and Founding Branches TRADE AND THE ORDER OF HERMES Creating Wealth Using Magic Novelties Stories for Magi Cheap and Missing Ships The Dead of Ascalon Espousal to the Sea Rhine-Main-Danube Canal Silver and Serica **VIII. The Goods of Europe** BULK GOODS MANUFACTURED GOODS LUXURY GOODS COMMERCIAN SOURCES OF TRADE GOODS Africa Baltic Sea Black Sea British Isles France Germany The Holy Land and Ionian Asia Minor Iberia Italy, Adjacent Islands, and Dalmatia Low Countries Romania and the Byzantine Successor States in Europe and Aegean Islands Southern Russia, Poland, and Hungary Places So Far as to Verge on the Mythical PRICES OF GOODS Weight"
+   }
+  ]
+ },
+ {
+  "qid": "indep-022",
+  "entity": "Ward Against Flame",
+  "kind_of_thing": "Named Spell",
+  "aliases": [
+   "Ward Against Flame"
+  ],
+  "book": "covenants",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Eight: Sanctum",
+     "Ring and Circle Wards"
+    ],
+    "text": "early archimagi. Their story seems more likely because he was a vallationist, a builder of magical walls, which explains why the army was not able to deface the ring and escape. It is possible that this is a trick of Guorna the Fetid's, which both magi knew. The second name also hints at an alternative use of the spell in a magus's sanctum: to imprison an apprentice inside. > > (Base 3 \\[move \"away\"]\\, +1 Touch, +2 Ring) > > ##### Ward Against Flame > > ReIg 15 > > R: Touch, D: Ring, T: Circle > > This spell creates a circle that mundane fires cannot cross. It is used, in many laboratories, around heat sources that could tip or spill. It is also popular around grain stores. The fine dust that is found wherever people store flour is highly flammable, and many magi use this spell to quarantine areas in mills and granaries from the fires that are used in other parts of the buildings. Hermetic librarians use this spell far more than is necessary: in one covenant, for example, the drip catcher on every candleholder has a circle for this spell etched into its surface. > > This spell sometimes encloses an entire laboratory, but is of limited usefulness in that application. The fires caused by laboratory accidents are often magically powerful enough to overcome this ward, or hot enough to burn through the wooden boards used as floors and ceilings in many"
+   },
+   {
+    "heading_path": [
+     "Chapter Eight: Sanctum",
+     "Ring and Circle Wards"
+    ],
+    "text": "limited usefulness in that application. The fires caused by laboratory accidents are often magically powerful enough to overcome this ward, or hot enough to burn through the wooden boards used as floors and ceilings in many covenants. The spell does keep fires bottled, but this makes them more intense, until they burn through their supply of fuel and air. > > (Base 4, +1 Touch, +2 Ring) > > ##### Ward Against Mundane Intrusions Rego Ignem 35 > > Req: Corpus, Animal, Aquam, Herbam > > R: Touch, D: Ring, T: Circle > > This spell conglomerates other wards into a single working. It holds at bay many of the things likely to damage Hermetic sancta: flame, excessive light, thieves, pests, moisture, and mildew. > > (As *Ward Against Flame*, +4 requisites)"
+   }
+  ]
+ },
+ {
+  "qid": "indep-030",
+  "entity": "Uncertain Faith",
+  "kind_of_thing": "Flaw",
+  "aliases": [
+   "Uncertain Faith"
+  ],
+  "book": "definitive-edition-core-rules",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter 4: Virtues and Flaws",
+     "List of Flaws",
+     "General, Minor"
+    ],
+    "text": "Ability Block Afflicted Tongue Anchored to the (Land) Apostate Arthritis Careless with (Ability) Castratus Clumsy Craving for Travel Curse of Slander Devoted Parent/Child Dhimmi Disfigured Environmental Sensitivity Failed Student Feral Scent Feral Upbringing Fish Out of Water (Terrain) Flashbacks Fragile Constitution Frail Gullible Hallucinations Hobbled Hunchback Incomprehensible Independent Craftsman Infamous Jinxed Judged Unfairly Lame Lingering Injury Low Tolerance Master of None Missing Ear Missing Eye Missing Hand Motion Sickness Night Terrors No Sense of Direction Nocturnal Obese Offensive to (Beings) Palsied Hands Poor (Characteristic) Poor Concentration Poor Eyesight Poor Hearing Poor Living Conditions Poor Student Primitive Equipment Raised in the Gutter Regular Restricted Learning Rolling Stone Savantism Short of Breath Sleep Disorder Slow Reflexes Small Frame Social Handicap Stuck in Your Ways Tainted with Evil Unbearable to (Beings) Uncertain Faith Uncontrollable Strength Uninspirational Unlucky Unspecialized Warped Senses Weak Characteristics Witch Marks"
+   },
+   {
+    "heading_path": [
+     "Chapter 4: Virtues and Flaws",
+     "Flaws",
+     "Uncertain Faith"
+    ],
+    "text": "*Minor, General* Whether through a flaw in the character's understanding of doctrine, a moral turmoil, the disheartening absolution of repeated sins, or exposure to conflicting philosophies, he finds it hard to fully express devotion to his faith. Some element of doubt stands between him and the Divine, and all rolls for holy influence, tempering an aura, invoking God's aid, or invoking a saint or baraka (see Realms of Power: The Divine Revised Edition, pages 38-41, 87, and 103) suffer a -3 penalty. The character also has an \"Uncertain Faith\" Personality Trait at +1 that describes this conflict or doubt, which always provides demons with an opportunity to sow further doubt through their Obsession power (Realms of Power: The Infernal, page 31). Supernatural Abilities originating from the Divine, including Methods and Powers, are not penalized. This Flaw is not compatible with the True Faith Virtue."
+   }
+  ]
+ },
+ {
+  "qid": "indep-038",
+  "entity": "Linden Gild",
+  "kind_of_thing": "Faction",
+  "aliases": [
+   "Linden Gild",
+   "Linden Gild Trained",
+   "Lindengilde"
+  ],
+  "book": "guardians-of-the-forests-the-rhine-tribunal",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Three Tribunal History \\& Customs",
+     "Upon Being a Rhine Magus",
+     "MINOR HERMETIC FLAW"
+    ],
+    "text": "who were magically powerful enough for them to be offered a place in the nascent Order. When the Order was founded, this self-effacing woman declined the honor of being one of the twelve Founders (perhaps fearing to be the unlucky thirteenth), instead becoming the first follower of Bonisagus. > >In the early days of the Order, a number of apprentices took instruction from Trianoma, thus establishing a distinct lineage of politically-inclined magi within House Bonisagus. Some of her early followers traveled widely, contacting and recruiting many hedge wizards. Prominent among these was Trianoma's third filia, Irmele, who traveled and recruited in German lands. Now there are fewer potential new recruits in the Rhine Tribunal, and more suspicion of hedge wizardry, but this tradition of wandering still persists within the lineage founded by Irmele in the Tribunal. These few magi are prominent members of the peregrinatores, sometimes accompanied by Redcaps, but often travelling alone. They tend to spend only short periods of time as guests, and since many are members of the Linden Gild, their selfappointed function is to strengthen diplomatic ties between covenants and promote fellowship. These magi are likely to express magics similar to Irmele herself — she was a *tempestarius*, a native German spellcaster skilled in the manipulation of weather; such spells prove very useful when out on the road at all times of the year. Her descendants tend to be strong in Arts and rich in vis,"
+   },
+   {
+    "heading_path": [
+     "Chapter Three Tribunal History \\& Customs",
+     "Upon Being a Rhine Magus",
+     "Master"
+    ],
+    "text": "sponsors from among the grateful magi of the covenants he serves, although a lazy Redcap may find it harder. Partially because of these somewhat easier requirements, and also due to the need to take apprentices earlier, Redcaps usually achieve the rank of master at an earlier age, typically 15 or 20 years after their Gauntlet. This grants significant authority to the Rhine's senior Redcaps, and the status of master is a matter of some prestige within House Mercere, just as it is for others. >#### Felicia, follower of Bonisagus >**Characteristics:** Int +2, Per 0, Pre 0, Com 0, Str 0, Sta +1, Dex +2, Qik 0 >**Size:** 0 >**Age:** 24 (24) (Journeyman) >**Decrepitude:** 0 >**Warping Score:** 0 (0) >**Confidence Score:** 1 (3) >**Virtues and Flaws:** The Gift; Journeyman; Major Magical Focus (weather); Cyclic Magic (Positive) — Winter months, Free Study, Linden Gild Trained, Personal Vis Source, Puissant Intrigue, Skilled Parens; Favors (to Fengheld), Study Requirement; Busybody, Cyclic Magic (Negative) — Summer months >**Personality Traits:** Loner +2, Self-Reliant +1, Suspicious –2 >**Reputations:** None >**Combat:** >*Dodging:* Init 0, Attack n/a, Defense 0, Damage n/a >**Soak:** +1 >**Fatigue Levels:** OK, 0, –1, –3, –5, Unconscious >**Wound Penalties:** –1 (1-5), –3 (6-10), –5 (11-15), Incapacitated (16-20) > **Abilities:** Artes Liberales 2 (Latin script), Athletics 1 (sprinting), Awareness 1 (ambushes), Bargain 2 (food), Bavaria Lore 1 (woods), Chirurgy 1 (sprains), Civil a"
+   }
+  ]
+ },
+ {
+  "qid": "indep-046",
+  "entity": "St. Erkenwald",
+  "kind_of_thing": "Character",
+  "aliases": [
+   "St. Erkenwald"
+  ],
+  "book": "heirs-to-merlin-stonehenge-tribunal",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter 6: The Church",
+     "Popular Religion",
+     "Saints"
+    ],
+    "text": "canonized.) >#### A Miracle of St. Thomas Becket > >A bird that had learned human speech was being chased by a hawk. As it fled, it cried out a phrase it had been taught, \"Saint Thomas, help me!\" At once, the hawk fell dead from the sky, and the bird escaped. > >*— From the Legenda Aurea of Jacobus de Voragine* >#### A Miracle of St. Erkenwald > >After a fire in London, a new reliquary was being constructed for St. Erkenwald, whose relics had miraculously survived. A foolish man named Eustace was in the habit of visiting the place where it was being built, and distracting the laborers with drunken jokes and antics. > >One day, he entered while the wooden sepulcher that was to hold the saint's relics stood open and, seized by a greater madness than usual, he lay down in the open shrine and began to call out, \"I am the most holy Erkenwald; bring me gifts; ask for my help; make me a sepulcher of silver!\" > >As he was shouting these blasphemies, he was suddenly seized by a severe pain. His friends snatched him from the coffin and took him home, but he died within a few days, struck down by divine judgment. > >*— From The Miracles of St. Erkenwald* > >*(St. Erkenwald was bishop of London in the seventh century, and is the patron saint of the city.)*"
+   },
+   {
+    "heading_path": [
+     "Bibliography",
+     "The Church"
+    ],
+    "text": "[Whatley, E. Gordon, ed. & trans *(1989)]The Saint of London: The Life and Miracles of St. Erkenwald* (Binghamton, NY: Medieval & Renaissance Texts & Studies) Jacobus de Voragine [1993] *The Golden Legend* (Princeton, NJ: Princeton University Press) William of Malmesbury [1934] *The Life of St. Wulfstan* (Oxford: Basil Blackwell) Barber, M. (1994) *The New Knighthood* (Cambridge: Cambridge University Press) Brundage, J. A. (1995) *Medieval Canon Law* (London: Longman) Burton, J. (1994) *Monastic and Religious Orders in Britain, 1000–1300* (Cambridge: Cambridge University Press) Dickinson, J. C. (1956) *The Shrine of Our Lady of Walsingham (Cambridge:* Cambridge University Press) Geary, P. J. (1989) *Readings in Medieval History* (Ontario: Broadview Press) Gurevich, A. (1988) *Medieval Popular Culture* (Cambridge: Cambridge University Press) Hole, C. (1976) *British Folk Customs* (London: Hutchinson) Hutton, R. (1996) *Stations of the Sun* (Oxford: Oxford University Press) Lynch, J. H. (1992) *The Medieval Church* (London: Longman) Moorman, J. R. H. (1945) *Church Life in England in the Thirteenth Century* (Cambridge: Cambridge University Press) Powicke, Sir Maurice (1928) *Stephen Langton* (Oxford: Oxford University Press) Schulman, N. M. (1997) \"Husband, Father, Bishop? Grosseteste in Paris.\" *Speculum 72,* 330-346 Southern, R. W. (1992) *Robert Grosseteste Second Edition* (Oxford: Clarendon Press) Swanson, R. N. (1995) *Religion and Devotion in Europe, c. 1215 – c. 1515* (C"
+   }
+  ]
+ },
+ {
+  "qid": "indep-054",
+  "entity": "Craft Automata",
+  "kind_of_thing": "Virtue",
+  "aliases": [
+   "Craft Automata"
+  ],
+  "book": "houses-of-hermes-mystery-cults",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Four: House Verditius",
+     "Verditius Elder Runes",
+     "Automata (Major House Mystery)"
+    ],
+    "text": "For three centuries, the making of automata — mechanized beasts, birds, women, and men, creations designed for emperors and Caesars — was regarded as the greatest Mystery of the House. This changed in the 12th century, when Icilius the Traitor began teaching magi of other Houses how to make automata. Anyone prosperous enough to pay for an automaton could own one. By the 13th century, several powerful nobles and affluent clergymen have automata. Although still prized, the reputation of those building these devices has diminished. Knowing this Mystery grants the Major Hermetic Virtue Craft Automata, an Ability with an initial score of 1. Verditius magi learn this through Initiation and Ordeal, but other Hermetic magi can learn this as a Supernatural Ability. Because this Mystery was developed with Hermetic magi in mind, magi wishing to learn it do not have to subtract the total of their Arts scores from the source's Study Total (ArM5, page 166), although they do have to subtract the total of any other Supernatural Virtues they may have. In theory, Verditius magi could also learn it this way, but the memory of Icilius's treachery is still fresh, and any magus who does so can expect to be shunned by his House, if not formally cast out. Automata are constructed facsimiles made from a base material, usually wood, stone, or metal, resembling beasts or humans and consisting of miniature gears, rope and pulley apparatuses, articulated joints, interior arrangements of strings, and care"
+   },
+   {
+    "heading_path": [
+     "Chapter Four: House Verditius",
+     "Verditius Elder Runes",
+     "Automata (Major House Mystery)",
+     "Creating an Automaton"
+    ],
+    "text": "The magus must first decide what form and material he wants his automata to have. The size of the automaton and its material are important. Choose a facsimile of a species, including man, and determine its Size, consulting either the Size Example Table Size (ArM5, page 192) or the Mundane Beasts section of the Bjornaer chapter. Next, choose a material using the Material and Size Table (ArM5, page 97) to determine the automaton's base points calculation. Automata are magic creations and thus have Magic Might. These numbers determine the thing's Magic Might score, a vital calculation that is used throughout the automaton creation process. **AutoMaton's Magic MigHt: 10 + Size + Material Base Points** Magic Might determines the Ease Factor needed to construct an automaton and the limit on pawns of vis that may be used to instilled spell-like effects in it. Since this is a magical creation, Magic Might is also the automaton's Magic Resistance. Having determined the form and material of the construction, the magus spends a season making it. Besides time, this costs money. Use the standard conversion you have set for the price of a pawn of vis in your saga, and multiply this base price by the automaton's Magic Might. Depending on your saga, your troupe might have to modify this cost, bearing in mind that this is an expensive project. You then make an Intelligence + Craft Automata + a stress die roll against an Ease Factor of the automaton's"
+   }
+  ]
+ },
+ {
+  "qid": "indep-062",
+  "entity": "First Singer",
+  "kind_of_thing": "Character Type",
+  "aliases": [
+   "First Singer"
+  ],
+  "book": "houses-of-hermes-societates",
+  "passages": [
+   {
+    "heading_path": [
+     "The Lineage of Pralix",
+     "Seirenes",
+     "Culture"
+    ],
+    "text": "a Seirene discovers a woman ruling her own lands, running her own business, or performing any role traditionally limited to men, she surreptitiously assists the woman or hinders her male rivals. The Seirenes also attempt to make their covenants more egalitarian. To do this, Seirenes ensure that their covenants recruit exceptional women wherever they find them. They also encourage female grogs and covenfolk to perform traditional male roles whenever they show any aptitude. Seirenes are not virulently anti-male, merely vigorously pro-female. The Seirenes entered the Order relatively early in its history. Although their magic was powerful against mundane men, a magus of only moderate power or anyone familiar with the tale of Odysseus could easily defeat it. The Seirenes realized this and accepted the offer of membership in the Order for access to Bonisagus's versatile magic and the protection of the Parma Magica. The Seirenes also recognized that the Order was essentially a meritocracy where all members were given an equal voice. At Tribunal, the Seirenes tend to vote at the direction of their leadership. This practice is not followed as rigidly as it is by House Tremere, and each member retains her own sigil. The leadership of the tradition is determined every 12 years at a grand competition. All Seirenes compete for the titles of First Singer, First Lyrist, and First Flautist. The winners are chosen by vote of all members present at the grand competition, which is held at the "
+   },
+   {
+    "heading_path": [
+     "The Lineage of Pralix",
+     "Seirenes",
+     "Culture"
+    ],
+    "text": "Seirenes compete for the titles of First Singer, First Lyrist, and First Flautist. The winners are chosen by vote of all members present at the grand competition, which is held at the covenant of the reigning First Singer. Other than this honor, the three Firsts are treated equally and have equal authority. Although someone without The Gift has never won the competition, the possibility exists. > ### Islands of the Sirens > > The legends list several possible islands where the sirens made their home. These include Anthemoessa, between Sicily and the Italian Peninsula; Cape Peloris; Capri; and Sirenum Scopuli. The island that was the final home of the sirens is unknown. It is said to be white with the bleached bones of sailors who were drawn to their deaths by the sirens. It is likely to posses a Magic aura or possibly a regio. > > The sirens were powerful magical creatures and the stone remains of their bodies are a treasure trove of vis. If the Seirenes ever discover that someone has harvested those remains, that person gains a very dedicated enemy. When the sirens died, they also left behind their magical instruments. Legend tells that the trio was comprised of a vocalist accompanied by sirens playing the lyre and the flute. Their instruments were allegedly made from the bones of dead sailors. Not only would these instruments have great historical value to a member of the Seirenes tradition, but they are also powerful"
+   }
+  ]
+ },
+ {
+  "qid": "indep-070",
+  "entity": "Roman Army Lore",
+  "kind_of_thing": "Hermetic Ability",
+  "aliases": [
+   "Roman Army Lore"
+  ],
+  "book": "houses-of-hermes-true-lineages",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Three: House Mercere",
+     "Designing Magi of House Tremere",
+     "Arts and Spells",
+     "The Art of Mentem"
+    ],
+    "text": "sword (spatha) and shield (on foot):* Init +4, Atk +12, Def +11, Dam +7 > > *Lance (mounted):* Init +4, Atk +17, Def +8, Dam +6\\* *Bow (mounted):* Init +1, Atk +14, Def +11, Dam +7 *Bow (on foot):* Init +1, Atk +11, Def +8, Dam +7 > > *Dagger:* Init +2, Atk +7, Def +5, Dam: +4 > > \\* Cataphracts charge slowly in tight formation, because they lack stirrups. > > **Soak:** usually +10 for chainmail or +8 for scale. Rare examples of plate (+12) are known known. > > **Fatigue:** Tireless > > **Wound Penalties**: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20) > > **Abilities:** Animal Handling 2 (horses), \\[Area\\] Lore 3 (posting), Athletics 2 (hiking), Awareness 3 (battle), Bow 5 (short bow), Brawl 1 (dagger), Chirurgy 1 (arrow wounds), Etiquette (archaic Byzantine) 3, Hunt 2 (varies by posting), Intrigue 1 (Byzantine court), Leadership 4 (soldiers), Roman Army Lore 2 (duties of ofﬁcers), Greek 5 (giving orders), Ride 5 (in combat), Single Weapon 5 (spatha), Survival 1 (deserts), > > **Equipment:** Full chain mail, cavalry sword, mediumsized shield, bow, lance. > > **Encumbrance:** 0 (0) > > **Vis:** 2 pawns Mentem, engagement ring or keepsake. **Appearance:** An impressive warrior, obscured by his armor. Sometimes the armor contains an ethereal skeleton. Sometimes it is empty. > > #### Wili > > These dark faeries are the ghosts of maidens who died on their wedding day. They are often found in graveyards, singly or"
+   }
+  ]
+ },
+ {
+  "qid": "indep-078",
+  "entity": "War Tribunal",
+  "kind_of_thing": "Tribunal",
+  "aliases": [
+   "War Tribunal"
+  ],
+  "book": "icelandic-wars-land-of-fire-and-ice",
+  "passages": [
+   {
+    "heading_path": [
+     "The War Tribunal",
+     "Negotiate Peace"
+    ],
+    "text": "Obviously these magi are deluded or in league with the enemy. It is the duty of loyal magi to investigate their contacts. Given the threat against the Order a little scrying may be justified. **Story Seed (Vindolanda, anti-crusader):** Before the War Tribunal begins the player characters may hit on an idea that might pull the rug from beneath the crusade's feet. The player characters may suggest that the hreppur join the Order en masse. This would bring them under the protection of the Code and make the conflict illegal. However, the proud Norsemen are very reluctant to surrender their independence: just as they refuse to serve a jarl or a king, so they balk at serving a primus. If the player characters manage to convince the hreppur to swear the Oath and present this fact at the War Tribunal, Julius and Lavinia are caught flat-footed. However, Lavinia recovers quickly, pointing out that members of the Order are required to join a House and this technically requires the agreement of the House primus. Normally this is taken for granted if a magician joins House Ex Miscellanea. However, the archmaga Lavinia insists that the prima of House Ex Miscellanea approve each candidate before accepting them as members. This is an impossible request as the prima of Ex Miscellanea is currently refusing all contact with the outside world as she prepares for the apocalypse she has been predicting for decades. Therefore, Lavinia declares their membership invalid. This ruling causes"
+   },
+   {
+    "heading_path": [
+     "The Choice"
+    ],
+    "text": "The War Tribunal ends with the declaration that, in revenge for the death of Hadrianus, all Icelandic magicians are enemies of the Order and their lives are forfeit. Quaesitor Lavinia declares the tribunal legal and binding. Depending on events driven by player characters, the crusade may still have the support of many senior magi or it may be reduced to a very controversial venture. In the latter case, a number of elder magi pledge to take the matter to the Grand Tribunal. The player characters are now left with a decision. The arguments presented during the debate may have changed their position. Pro-crusaders could now be in doubt over the very existence of the Order of Odin; a simple campaign of murderous conquest may not be to their taste. Anti-crusaders may now believe the threat is real or that opposing the war is suicidal. **Story Seed (Vindolanda, pro-crusader):** With Vindolanda as a base an immediate confrontation with the guardians is avoided. With the information the player characters can provide, the Hermetic expedition is able to slay many of Iceland's leading magicians in the first strike. Bard's counterattack (see below) is likely to fail against Scartaris and in this event Iceland quickly falls to the crusader force. Should this occur the \"Crusader Victory\" sections should be consulted. Alternatively, if the player characters do not suggest that the *Aegis of the Heath* is re-cast at 75th level then Bard may be able to violently flood Scartaris. This should"
+   }
+  ]
+ },
+ {
+  "qid": "indep-086",
+  "entity": "Destroy Fur and Hide",
+  "kind_of_thing": "Named Spell",
+  "aliases": [
+   "Destroy Fur and Hide"
+  ],
+  "book": "lion-of-the-north-the-loch-leglean-tribunal",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter 5: Covenants",
+     "Covenant of Horsingas",
+     "The Inhabitants",
+     "Sir Edwin of Hexham",
+     "Spells of Edwin's Invention"
+    ],
+    "text": "strands of light pass from his fingers to the target. The color depends on the arts used. > >#### Spells Known >Rally the Defeated Troops (ReMe 20) +14. Sharp Shriek of Pain (PeCo 20) +23. Sure Strike of the Sword (ReCo 20) +21, Trap the Treacherous Tonque (PeCo 20) +23, Endurance of the Berserkers (ReCo 15) +21, Panic of the Elephant's Mouse (ReAn 15) +10, Rusted Decay of Ten-score Years (PeTe 15) +9, Unseen Porter (ReTe 15) +8, The Wound that Weeps (PeCo 15) +23, Bind the Wound (CrCo 10) +16, Eyes of the Cat (MuCo 10) +13, Grip of the Choking Hand (PeCo 10) +23, Sight of the True Form (InCo 10) +13, Curse of Rotting Wood (PeHe 5) +9, Destroy Fur and Hide (PeAn 5) +11, Invocation of Weariness (PeCo 5) +23 > >#### Combat Information >| | | | | | | >| -------------- | ------------ | ------ | ------ | ----- | -------------------------- | >| Weapon | First Strike | Attack | Damage | Parry | Dodge Defense: +1/-2 | >| Lance Totals: | +8 | +5 | +13 | -5 | Soak: 0/+7 | >| Mace Totals: | +2 | +6 | +9 | -5 | Fatigue: 0/-3 | >| Shield Totals: | -3 | -2 | -1 | +7 | Encumbrance: 0/-3 in Armor | > >#### Weapons, Armor, and Items >Helmet, knight shield, lance, ring hauberk, sword, broad sword enchanted with Edge of the Razor (MuTe 5) >### Heard"
+   }
+  ]
+ },
+ {
+  "qid": "indep-094",
+  "entity": "Seal the Breach",
+  "kind_of_thing": "Named Spell",
+  "aliases": [
+   "Seal the Breach"
+  ],
+  "book": "lords-of-men",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Eight: Massed Combat",
+     "Siegecraft",
+     "Aftermath"
+    ],
+    "text": "as the commander reviews the siege. On an Intelligence + Leadership simple roll against Ease Factor 12 the commander resists the suggestions made by the spell. > > (Base 5, +4 Arc, +1 Sun) > > ### Seal the Breach > > CrTe 20 > > R: Touch, D: Mom, T: Ind, Ritual > > This ritual conjures a section of wall in a shape marked out during the casting of the spell. It is designed to knit together with adjoining sections of existing fortifications to repair already standing walls. The spell is enough to repair a single section of wall collapsed through mining or artillery assault (restoring up to five damage levels). > > (Base 3, +1 Touch, +2 size, +1 finesse, ritual minimum level 20)"
+   }
+  ]
+ },
+ {
+  "qid": "indep-102",
+  "entity": "The Book of Nimiane",
+  "kind_of_thing": "Magic Item",
+  "aliases": [
+   "The Book of Nimiane"
+  ],
+  "book": "magic-apprentices",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Four: Pueritia: Ages 8 to 14",
+     "Hermetic Apprenticeship",
+     "Study",
+     "TRAINING"
+    ],
+    "text": "with a lookalike, providing he can bypass the librarian's magical guardian night owl. >### Tales of Wondrous Enchantments > >Stories of King Arthur are popular in the 13th century. Arthur's mystical companion, Merlin, is a master of self-transformation spells and prophesies, and his tales capture the imagination of apprentices. Child apprentices love the drama of the tales and the legendary proportions Merlin assumes. Adolescent apprentices like debating whether the tales are true, arguing the pros and cons with their masters, their peers, and anyone who has an opinion. > >Their favorite part of the story is when Merlin teaches magic to the young damsel Nimiane. In eight days, he tells her all his arcane secrets, including three great names used to power his most potent spells, which she records in a secret journal. Remembering this tale, adult magi have searched for this journal, called \"The Book of Nimiane,\" scouring the Stonehenge and Normandy Tribunals as they look for the book and the secret glen where Merlin's instructions were recorded. The Seekers, a society of magi within the Order who often search out such artifacts, claim there is no evidence that such a book exists, but few trust these secretive explorers. > >Whether these tales are true or not depends on your saga."
+   }
+  ]
+ },
+ {
+  "qid": "indep-110",
+  "entity": "Anne's House",
+  "kind_of_thing": "Place",
+  "aliases": [
+   "Anne's House"
+  ],
+  "book": "magic-hedge-magic-revised",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Three: Folk Witches",
+     "Covens",
+     "Creating a Coven",
+     "THE KILKENNY COVEN"
+    ],
+    "text": "the older of the two rival cousins. Her townhouse has a large secret basement of which half is used as an auxiliary warehouse by her husband, for particularly valuable goods. The other half is used by Janine as a kitchen. The basement has a Magic aura of 4, and a small spring rises in the center of the kitchen. The spring water is vis, but the amount of vis has declined over the last few years. **Hooks**: urban (major), dwindling resource (minor). **Boons**: aura (x4) (minor). **Vis Sources**: 5 pawns Aquam per year (from spring), 1 pawn Corpus per year (from town graveyard), 1 pawn Mentem per year (from merchant's account books). **Anne's House:** Anne has a manor a few miles out of town — her husband is the wealthier of the two merchants. Her laboratory is constructed in an outbuilding of the manor house, which has a Magic aura of 2. Unbeknownst to Anne, Janine has planted several spies on her staff. At the edge of the manor lands is a boggy ground out of which rises a number of large rocks. The large rocks pin a dving giant to the earth — which is damp as it is saturated with his blood. **Hooks**: monster (dying giant) (minor), spies (minor) **Boons**: aura (x2) (minor), manor house (free). **Vis Sources**: 5 pawns Corpus per year (from giant's blood), 1 pawn Auram per year (a warm breeze rising from a cave near the manor house). **Farmhouse:** Several"
+   }
+  ]
+ },
+ {
+  "qid": "indep-118",
+  "entity": "Enter the Sylvan Glen",
+  "kind_of_thing": "Hermetic Concept",
+  "aliases": [
+   "Enter the Sylvan Glen"
+  ],
+  "book": "mythic-locations",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Three: Bear Island",
+     "Hooks For Using Bear Island Again",
+     "Reestablishing the Balance"
+    ],
+    "text": "x Ritual Power (females), Spiritual Pact; Faerie Sight, Faerie Speech, Humanoid Faerie, Personal Power, Place of Power (Bear Island Faerie Regio); Sovereign Ward (Christian religious symbols); Small Frame > >**Personality Traits:** Haughty +3, Protective +2, Elusive +1 > >**Combat:** > >*Dodge:* Init –1, Attack n/a, Defense +3, Damage n/a > >*Mace (males):* Init +0, Attack +6, Defense +3, Damage +10 > >*Short Sword (females):* Init +0, Attack +6, Defense +3, Damage +7 > >**Soak:** +2 > >**Fatigue Levels:** OK, 0, –1, –3, –5, Unconscious > >**Wound Penalties**: –1 (1–4), –3 (5–8), –5 (9–12), Incapacitated (13–16), Dead (17+) > >**Pretenses:** Area Lore: Bear Island 3 (faerie elements), Awareness 2 (storms), Bargain 4 (trading favors), Brawl 3 (dodge), Carouse 3 (sacrifices), Etiquette 1 (faeries), Faerie Lore 5 (Theban faeries), Folk Ken 2 (old women), Guile 2 (false information), Leadership 3 (intimidation), Magic Lore 4 (titans), Single Weapon 3 (mace or short sword) > >**Male Daktyl's Powers:** > >*Enter the Sylvan Glen*, 1 point, Init –3, Vim: This power allows the target to enter any Faerie regio, instantly sensing the boundary and an existing entrance. > >(Base 3, Conc +1, Vision +4) > >*Smithying*, 1 point per magnitude, Init –11, Terram: Duplicates any Creo, Muto, or Rego Terram spell, at the cost of 1 Might point per magnitude of spell. Effects must be non-Ritual effects, but can incorporate the Duration: Until, providing long-lasting effects as long as the condition "
+   },
+   {
+    "heading_path": [
+     "Chapter Three: Bear Island",
+     "Hooks For Using Bear Island Again",
+     "Reestablishing the Balance"
+    ],
+    "text": "1 Might point per magnitude of spell. Effects must be non-Ritual effects, but can incorporate the Duration: Until, providing long-lasting effects as long as the condition they were constructed under isn't broken. The maximum effect level is 50. > >**Female Daktyl's Powers:** > >*Enter the Sylvan Glen*, 1 point, Init –3, Vim. *Physicianing*, 1 point per magnitude, Init –1 – (magnitude x 2), Corpus: Duplicates any Creo, Muto, or Rego Corpus spell, at the cost of 1 Might point per magnitude of spell. Ritual effects are possible and require the Daktyl to permanently reduce its Magic Might by the cost of the effect. Effects can also be temporary, which does not permanently reduce the Dakytl's Magic Might. The maximum effect level is 50. > >**Equipment:** Leather apron and tools necessary for the trade, either metal-crafting tools (hammer and anvil) or surgical tools and medicine (scalpel and powdered herbs). The male Daktyls carry a mace among their gear and the female Daktyls a short sword. > >**Vis:** Six pawns of Terram or Corpus vis located in the various tools and equipment each carries. > >**Appearance:** The Daktyls are weird little humans, with wiry hair, exaggerated facial features, and misshapen limbs. Each wears a white linen tunic and a heavier wool cloak. > >The Daktyls are more powerful in the Faerie regio, where their Faerie Might increases from 30 to 40. They are also more belligerent in their home, and are quick to foment disagreements among themselves. >"
+   }
+  ]
+ },
+ {
+  "qid": "indep-126",
+  "entity": "Faerie Antipathy",
+  "kind_of_thing": "Flaw",
+  "aliases": [
+   "Faerie Antipathy"
+  ],
+  "book": "realms-of-power-faerie",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Five : Touches of Faerie",
+     "New and Modified Virtues",
+     "Faerie Background"
+    ],
+    "text": "*Free, Supernatural* Due to something unusual about the character's birth or childhood, the character has a strong resonance with one aspect of the faerie realm. It grants the character two Sympathy Traits, one positive and the other negative, with initial values equal to the character's Warping Score. These Traits should be appropriate to the character's faerie background; for example, a character raised by faerie wolves might have Fear (positive) and Courage (negative) Sympathy Traits, perhaps to represent wolves' love of causing fear and their tendency to back down when challenged. See the Faerie Sympathy Virtue and Faerie Antipathy Flaw, below, for information about how these Traits increase and decrease. Players with this Virtue may freely increase their character's Warping Score during character creation, though they should have some idea of what in the character's past caused this Warping to occur. This Virtue is especially appropriate for characters who have the Faerie Blood or Strong Faerie Blood Virtues, or the Faerie Upbringing Flaw; see the expanded descriptions of the different types of Faerie Blood, earlier, for suggested Sympathy Traits."
+   },
+   {
+    "heading_path": [
+     "Chapter Five : Touches of Faerie",
+     "New and Modified Virtues",
+     "New and Modified Flaws",
+     "Faerie Upbringing"
+    ],
+    "text": "*Minor, General* (See ArM5, page 54) In addition, this Flaw raises the maximum score to which the character may increase Sympathy Traits by 1. Thus, a character with Faerie Upbringing and a Warping Score of 2 could increase a Sympathy Trait to +3. >## New and Modified Flaws > >### Major, Hermetic > > Homunculus Wizard > >### Minor, Hermetic > > Faerie Metamorphosis > >##\" Major, Story > > Faerie Heritage Greater Charm Homunculus Wizard **Minor, Supernatural** > > Faerie Antipathy Faerie Metamorphosis > > Lesser Charm > >### Major, Supernatural > > Faerie Antipathy > >### Minor, General > > Faerie Upbringing"
+   }
+  ]
+ },
+ {
+  "qid": "indep-134",
+  "entity": "Transformed Humans",
+  "kind_of_thing": "Character Type",
+  "aliases": [
+   "Transformed Humans"
+  ],
+  "book": "realms-of-power-magic",
+  "passages": [
+   {
+    "heading_path": [
+     "Table of Contents",
+     "Contents"
+    ],
+    "text": "**Chapter 1: Introduction** What is Magic? Magic and Other Realms **Chapter 2: Magic Auras** Tethers Natural Tethers Preternatural Tethers Aura Variation Rules Symptoms of Aura Variation Magic Regiones Aligned Auras Auras that Enhance Emotions Auras Aligned with Arts Other Aligned Auras **Chapter 3: The Magic Realm** Magic Perspectives Worlds Within Worlds The Magic Archipelago Pages of History Fact and Theory Rules of the Realm Into the Magic Realm Boundaries and Vestiges Magical Travel The Twilight Void Advancement Magic Realm Magic **Chapter 4: Magic Characters** Magic Character Creation Concept Season Magic Might Finishing Touches Qualities and Inferiorities Major Magic Qualities Minor Magic Qualities Major Magic Inferiorities Minor Magic Inferiorities Abilities, Virtues & Flaws New & Modified Virtues New & Modified Flaws New & Modified Abilities Advancement Transformation Acclimation Essential Traits **Chapter 5: Magic Animals** Beasts of Virtue Designing Beasts of Virtue Example Beasts of Virtue Creatures from the Bestiaries Birds of Nephelococcygia The Magical Lineages of Cats Magical Powers Cats’ Greater or Lesser Magical Powers Personal Magical Powers for Cats Dragons and Dragon-kind Dragons as Characters Transformed Animals Warping Example Warped Animals Training Creatures Taming Animals Tricks, Stunts, and Tasks **Chapter 6: Magic Humans** Magical Giants Designing Giants Norse Giants and Trolls Rok, the Storm Giant Non-Human Giants Spirit Votaries Magic Kin Atlante"
+   },
+   {
+    "heading_path": [
+     "Table of Contents",
+     "Contents"
+    ],
+    "text": "Kin Atlanteans Flame Dancers Forgotten Gods Loamwalkers Lost Children Men of the Lake Orphan Born People of the Clouds The Stoneskinned Warders of Mystery Transformed Humans Drowned Men Revenants, the Walking Dead Daimons and Heroes Living Ghosts Magi in Final Twilight **Chapter 7: Magic Spirits** Spirits as Characters Powers of the Spirits Airy Spirits Florae and Fauni Spirits of the Elements Imagines, the Spirits of Sensation Eidolons, the Spirits of Emotions Spirits of Place, Genii Loci Lugra, Spirits of Hardship The Named Spirits Theoi Astra Planeta The Leti Other Daimons Primal Spirits Spirits and Magic Spirits and Hermetic Magic Spirits and Non-Hermetic Magic Example Spirits of Places Mount Etna The Rhinefalls The Desert of al-Meraya Lake Brienz Aillwee Cave Ghosts Ghosts as Characters **Chapter 8: Magic Things** Vis Extraordinary Vis Dedicated Vis Vis Storage Herbs and Objects of Virtue Herbs of Virtue Objects of Virtue Formed Stones Awakened Trees Trees of Virtue Awakened Items Kelpie Elementals Magic and Elementals Designing Elementals Earth Elementals Water Elementals Air Elementals Fire Elementals **Appendix: Book of Mundane Beasts** Beast Statistics Modifying Beast Sizes Beast Virtues, Flaws, and Qualities New Virtues for Beasts Beasts in Combat Beasts of Mythic Europe Adder (Viperis) Bear (Ursus) Boar, Wild (Aper) Bull (Taurus) Cat (Felis) Falcon (Falco) Horse, Courser (Equus) Horse, Destrier (Equus) Hound (Canis) Lion (Leo) Stag (Cervus) Wolf (Lupus) >## Sidebar"
+   }
+  ]
+ },
+ {
+  "qid": "indep-142",
+  "entity": "Sunnis",
+  "kind_of_thing": "Faction",
+  "aliases": [
+   "Sunni",
+   "Sunnis"
+  ],
+  "book": "realms-of-power-the-divine-revised",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Three: Blessed By God",
+     "Holy Influence",
+     "Invoking God's Aid",
+     "Divine Aid Bonus Table"
+    ],
+    "text": "or fullscale battlefield encounters, but may only do so *if the enemy is seen as an infidel or heretic*. Thus Latin Christians, for example, may invoke God's aid against non-Latin Christians as well as Muslims, Jews, pagans, and so on, while Sunni Muslims may invoke God's aid against non-Sunni Muslims, Jews, Christians, pagans, and so forth. In the example given, Mansur can only invoke divine aid against his opponent because he is a Muslim and his opponent is a Christian. God's aid may also be invoked against supernatural menaces that are not affiliated to or do not belong to the Divine realm, such as faeries, demons, and magi. It is possible for both sides in a battle to invoke God's aid against each other and for both sides to be successful in doing so; in such cases the deity chooses to support both sides for reasons beyond the understanding of mere mortals. As a side note, the storyguide should feel free to apply this restriction in non-combat situations, should it seem appropriate. > >If a recipient of a Divine Aid bonus is part of a Trained Group (see **Ars Magica** 5th Edition, pages 172- 173) the character's Divine Aid bonus is added to the usual bonus to combat rolls generated by the group. This may cause the group's combat bonus to exceed the usual limit of three times the group leader's Leadership score, but if more than one character in the group is receiving God's aid,"
+   },
+   {
+    "heading_path": [
+     "Chapter Five: Mythic Islam",
+     "Beliefs and Practices",
+     "Theology"
+    ],
+    "text": "the behalf of the Muslims, but the outer of the seven circles of hell, named **Jahannam** (ja-HAN-nam, Gehenna), is a purgatory for guilty Muslims. Several teachings of Islamic theology have been hotly debated throughout the centuries. There has been particular debate over free will and predestination, the nature of the Qur'an, and how far it is accurate to anthropomorphize God. Space will not allow a full discussion of these debates, but currently the dominant mainstream **Sunni** (SUN-nee) doctrines on these subjects are those evolved by al-Ash'ari (d. 935) and al-Maturidi (d. 944) and are as follows. Firstly, although God has pre-ordained everything in creation, individuals still have free will. God creates the power for individuals to act in any given situation, but it is the individuals who choose to act and are responsible for their actions. Secondly, the Qur'an is the eternal and uncreated word of God. Finally, it is correct to speak of God in anthropomorphic terms, but how He can have human attributes and remain infinite, omnipotent, and omniscient, is beyond human understanding. >#### The Mu'tazilis > >At times the theological debate in Islam has become decidedly acrimonious. In the early ninth century a group of Muslim thinkers known as the **Mu'tazilis** (mu'-TA-zi-LEEZ) gained caliphal favour and took the opportunity to suppress those who opposed their beliefs in what was effectively an inquisition. However, the Mu'tazili victory was short-lived, and when their op"
+   }
+  ]
+ },
+ {
+  "qid": "indep-150",
+  "entity": "Rudolphus of House Bonisagus",
+  "kind_of_thing": "Character",
+  "aliases": [
+   "Rudolphus",
+   "Rudolphus of House Bonisagus"
+  ],
+  "book": "realms-of-power-the-infernal",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter 12 : Black Magic",
+     "Demon-Hunters",
+     "The Venatores"
+    ],
+    "text": "they delve too deeply into the lore of the Infernal realm, and thus make themselves susceptible to corruption. It is true that some of the spells that they know would be of equal use to diabolists. Secondly, the politicians of the Order are concerned that zealous demon-hunters antagonize Hell, and turn the attention of the Devil more fully towards Hermetic magi. Indeed, one of the most infamous Venatores of all time, Rudolphus of House Bonisagus, was Wizard's Marched in 1151 A.D. for persecuting demons to such an extent that he endangered the Order when they turned their wrath upon it (see *Houses of Hermes: True Lineages*, House Quaesitor, Deals with Devils). Demon-hunters may be disliked by some in the Order, but they are positively loathed by the Infernal. Each demon they defeat increases their poor Reputation among demons, so that Venatores usually have a powerful Hierarchy Score. This often works to their advantage."
+   }
+  ]
+ },
+ {
+  "qid": "indep-158",
+  "entity": "Rauhnachte",
+  "kind_of_thing": "Hermetic Concept",
+  "aliases": [
+   "Rauhnachte"
+  ],
+  "book": "sanctuary-of-ice-the-greater-alps-tribunal",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter 2: Hermetic Culture in the Greater Alps",
+     "The Alpine Hermetic Year",
+     "October",
+     "Rauhnachte"
+    ],
+    "text": "In Austria there is a festival late in October called Rauhnachte. On Rauhnachte some animals gain the ability to speak, and other magical powers. Rauhnachte is a traditional day of celebration for the familiars throughout the Tribunal. It is celebrated in a variety of ways at different covenants, for example the cats of Valnastium play a complicated scavenger hunt through the covenant's network of Hermes Portals. Bjornaer magi also have an affinity for Rauhnachte and withdraw from society on the day, but as with much of their House's tradition, what they do is not discussed."
+   },
+   {
+    "heading_path": [
+     "Index",
+     "General Index"
+    ],
+    "text": "Eve 25 Midsummer Fair 17, 24, 44, 56, 66, 103 Miklos filius Kosma 59 Mircalla 45 Mittenwald 112 Mons Voctieus 98 Mont Blanc 58 Mont Joux 54 Mount Pilatus 103 Munich 112 Muscaria filia Darius 35 Muse 92 Narrative Map 75 octagonal fluorite 54 Order of Miscellany 13 ostracism 12 patron virtue 5 Paxon filius Valentin, Archmagus 68 Pellam 38 Pennius 54 Peonn 54, 56 peril of excellence 36 Pfeffers 101 Phaelene 38 Philomena filia Rafe, Archmaga 67 Pierres de Niton 101 Pietrine Lineage 51 Pietro, Archmage 14 Pietro, Archmage 51 Pontius Pilate 103 praetexta 19 Pralix 13, 52 public vis source 5 pulla 19 Quaesitorial blindfold 48 quartz 54 Quinquennial 27 Ragoneda filia Elisa 70 rainbow fluorite 54 Rauhnachte 26 redcaps 20, 50 Regensberg 113 Regina 39 Reichenau Rhaetia 103 Rhaetian 78 Righi 63, 105 Rosegarten 108 Rowan Sisterhood 53 Sabina of Flambeau 102 Saint Beatus' Cave Saint Bernard Pass 96, 101, 106 Saint Gallen 50, 96, 97, 107 Saint Gotthard Pass 96, 100, 103, 109 Saint Maurice 109 Saint Pierre 108 Saint Wolfgang 117 Salzburg 116 Savoy 109 Schwyz 117 Sebastian filius Luise 69 Secundi 81 Shadow Flambeau 53 Sinews of Knowledge 65 Siobhan filia Vespasian the Avaricious 36 Sirocco filia Andru 87 slaying the Primus 31 smoky quartz 54 Sourdine filia Bronwyn 87 spindle 70 Standard of the Shadowy Men 85 Staubbach Fall 117 stola 19 Styria 117 Tarragon Vale 75 Tatzelwurmli 97 Tobias 48 toga virilis 19 Tower of Ashes 52 trabea"
+   }
+  ]
+ },
+ {
+  "qid": "indep-166",
+  "entity": "The Great Discord",
+  "kind_of_thing": "Named Spell",
+  "aliases": [
+   "The Great Discord"
+  ],
+  "book": "the-church",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Three: The Diocese",
+     "The Parish",
+     "The Benefice"
+    ],
+    "text": "natural or man-made boundaries, then the entire parish may be affected using spells that have the Boundary target. This is rare, but if so, then participating in the yearly perambulation is an opportunity for a magus to cast such spells. A rural parish of typical size requires a spell with a Boundary target, with a +4 Size Modifier. A typical urban parish requires a Boundary target with a +1 Size Modifier. > >An entire diocese might be affected by a Boundary target spell with a +7 Size Modifier, but the diocese's borders must also be very well defined (perhaps by rivers and forests) for such a spell to be possible. > >##### The Great Discord >CrVi 55 >R: Touch, D: Moon, T: Boundary, Ritual > >The whole parish is tainted by magic, and for the spell duration everyone in the parish suffers from the social penalties of The Gift: husbands and wives bicker and feud, brawls erupt in the fields, and animals flee from their masters. The parish is paralyzed by the social breakdown, and by the end of the spell several parishioners may have been murdered. The parish immediately gains a reputation for being cursed, and it can take years for harmony to be restored. Also, as the parish animals have fled and the fields have been only erratically tended, it is likely that the parish will suffer from famine and starvation in the following year. > >(Base 3, +1 Touch, +3 Moon, +4 Boundary,"
+   }
+  ]
+ },
+ {
+  "qid": "indep-174",
+  "entity": "Puissant Bows",
+  "kind_of_thing": "Virtue",
+  "aliases": [
+   "Puissant Bows"
+  ],
+  "book": "the-lion-and-the-lily-the-normandy-tribunal",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Six: Anjou and Aquitaine",
+     "Atsingani",
+     "Magi",
+     "Jacques of House Flambeau"
+    ],
+    "text": "Age: 44 (Apparent age 39) Personality Traits: Disciplined +2, Questionable Ethics +2, Greedy +1 Jacques leads the mercenary contingent of the covenant. He began his apprenticeship under the tutelage of an Ex Miscellanea eremite at the relatively late age of 18, by which time he was already an accomplished Brabançon warrior; thus he is only about ten years past his Gauntlet. Upon becoming a magus, he immediately left the covenant where his pater had settled to rejoin his kinfolk. Soon after, he joined House Flambeau. One of his burning goals is to exact revenge on the Capuchonnes who murdered his father in 1183. >#### Baudouin > >**Characteristics:** Int –2, Per 0, Pre 0, Com –1, Str +1, Sta +1, Dex +3, Qik +2 > >**Size:** 0 > >**Age:** 32 (32) > >**Decrepitude:** 0 > >**Virtues and Flaws:** Branded Criminal; Puissant Bows, Tough; Weakness (loose women), Depressed > >**Personality Traits:** Surly +2, Brave +1, Bored +1 > >**Combat:** > >*Dagger*: Init 0, Attack +9, Defense +6, Damage +4 > >*Axe and round shield (mounted)*: Init +1, Attack +17, Defense +14, Damage +7 > >*Axe and round shield (on foot)*: Init +1, Attack +14, Defense +11, Damage +7 > >*Crossbow*: Init +5, Attack +16, Defense +10, Damage +8 > >**Soak:** +7 > >**Fatigue Levels:** OK, 0, –1, –3, –5, Unconscious > >**Wound Penalties**: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20) > >**Abilities:** Animal Handling 3 (horses), Aquitaine Lore 2 (wilderness), Athletics 2 (running), Awareness 3 (keeping watch),"
+   }
+  ]
+ },
+ {
+  "qid": "indep-182",
+  "entity": "Languedoc Tribunal",
+  "kind_of_thing": "Tribunal",
+  "aliases": [
+   "Languedoc Tribunal"
+  ],
+  "book": "the-mysteries-revised",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter 14: Mystery Cults",
+     "Structure of the Fraternity of Samos",
+     "The Inner Order: Mathematikoi"
+    ],
+    "text": "Next the Initiate enters the Inner Order, the Mathematikoi, and wears robes of black or white, demonstrating her knowledge of the philosophical system, worldly renunciation and spiritual purity. She must abstain from the eating of meat, and that of green beans, which Pythagoras believed to have the potential to act as the recipient for the metempsychosis of souls. In the Languedoc Tribunal the robes have the unfortunate problem that it makes the maga appear to an uninitiated eye much like one of the perfecti of the Cathars, and marking her as a possible heretic. Members of the Mathematikoi must possess the mundane ability Teaching at a score of at least 2, and are responsible for imparting their knowledge to new Initiates. They must also, by Pythagorean tradition, dwell with other members of the Fraternity, but the requirement is interpreted loosely, and the normal process is to induct a suitable candidate into the Mystery from within one's own covenant, hence honoring the requirement without a need to travel and relocate. Another duty is the requirement to feed and house visiting Initiates, for as long as required, offering generous and unstinting hospitality. A covenant where an Inner Order member dwells becomes a School, and is publicly known, a focus for interested magi seeking Initiation and current members of the Akousmatics seeking further knowledge or teaching. There is also a requirement that members of the Mathematikoi should train as many apprentices as possible, a"
+   }
+  ]
+ },
+ {
+  "qid": "indep-190",
+  "entity": "Warding Circle",
+  "kind_of_thing": "Hermetic Concept",
+  "aliases": [
+   "Warding Circle"
+  ],
+  "book": "transforming-mythic-europe",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Two: The Fourth Estate",
+     "Using Magic for Political Leverage",
+     "Peace and Governance",
+     "Inheritance",
+     "Summoning the Ancestor Spirit"
+    ],
+    "text": "ReCo 45 **R:** Arcane Connection, **D:** Ring, **T:** Individual, ritual One way of determining the rightful heir to an inheritance is to defer to someone or something that already knows the answer. The magic realm is replete with spirits representing every aspect of God's creation including, conceivably, spirits of a given bloodline. Magical spirits of blood can be summoned through the form of Corpus using a base 15 effect as explained in *The Mysteries Revised Edition*, page 28. This is something that all magi can do and is not reliant on any Mystery initiations. The caster often prepares a warding circle and then summons the target spirit into that circle. The Arcane Connection used must intimately relate to the target bloodline; a crown for a royal line, a sword passed from father to son, earth from a family estate, and so on. Once summoned, the spirit can be questioned or commanded as normal and if it is powerful enough it should have knowledge of the true heir to the line. Should the magus wish it, he may also be able to command other information from the spirit concerning those who share its blood. (Base 15, +4 Arcane Connection, +2 Ring)"
+   }
+  ]
+ },
+ {
+  "qid": "indep-198",
+  "entity": "Robert Guiscard",
+  "kind_of_thing": "Character",
+  "aliases": [
+   "Robert Guiscard"
+  ],
+  "book": "tribunals-of-hermes-rome",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Two: Mythic History",
+     "Conquest of the South"
+    ],
+    "text": "While Italians and Germans squabbled to the north, southern Italy was wracked by its own wars, and rising from them came an unlikely Norman lord. The mercenary Robert Guiscard conquered much of southern Italy, and shared domination with his brothers. When \"envoys\" in Robert's employ intercepted a Papal caravan, and suggested that the Pope recognize Robert's authority over southern Italy, Nicholas II did so, naming Robert the Duke of Apulia and Calabria, and future Duke of Sicily. In return, for appearance's sake, the adventuring Robert and his allies devoted themselves to the Pope. In private circles, Nicholas II's servants claimed that after meeting with Robert's messengers, the Pope never slept properly, and after Robert became his \"ally,\" Nicholas' digestion never found a regular pattern. Seizing most of southern Italy, the Norman brothers turned their daring upon the Byzantine Empire itself, striking out at it as a land of \"heretics.\" After years of fighting, Robert Guiscard finally died, but not in battle. The success of his younger years led him to depravity and debauchery, making his death a happy if sinful one. The Norman conquest of southern Italy had great impact upon the mortal world, but also upon the Hermetic world. Throughout many of the wars that had plagued the peninsula, magic items were quietly sold to mundanes. In the Norman wars, however, this practice reached an all-time high. Thanks to items sold to Norman mercenaries, brigands and heroes, the very eleme"
+   },
+   {
+    "heading_path": [
+     "Chapter Two: Mythic History",
+     "Conquest of the South"
+    ],
+    "text": "magic items were quietly sold to mundanes. In the Norman wars, however, this practice reached an all-time high. Thanks to items sold to Norman mercenaries, brigands and heroes, the very elements became the enemies of the Byzantines. Few magical limitations were put upon items sold. As a result, many magical weapons of death exist among mundanes of southern Italy, even in the 13th century. It was the sale of these items that finally inspired Quaesitoris beyond the Tribunal to take action in Rome, forming the Treaty of the Roman Tribunal. As a result, the Norman conquest of Sicily was the last great conflict that Magi of Rome participated in, at least legally so. Beyond his effect upon Hermetic politics, Robert Guiscard left a great legacy. He forged the warring people of southern Italy into a unified force. The Byzantines, Lombards and even Saracens worked together under Norman rule. In the 12th century, this achievement was recognized when Robert's nephew, Roger the Great, was named King of Sicily and southern Italy. This new Kingdom of Sicily, with its capital in Palermo, would becomea great intellectual hope for all Mythic Europe."
+   }
+  ]
+ }
+]

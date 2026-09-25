@@ -1,0 +1,563 @@
+[
+ {
+  "qid": "indep-000",
+  "entity": "Peter Lombard",
+  "kind_of_thing": "Character",
+  "aliases": [
+   "Peter Lombard"
+  ],
+  "book": "art-academe",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Six: Institutional Education",
+     "Cathedral Schools"
+    ],
+    "text": "Cathedral schools were the acme of institutional learning in the eleventh and twelfth centuries, serving both as intellectual havens for brilliant scholars and their attendant students, and as a training facility for the academic skills essential to upcoming clerics. They still perform these functions, but have been surpassed as the definitive educational model by the universities, which are emancipated from direct ecclesiastical control. Many famous scholars received their education at cathedral schools, and most continued their careers teaching at their alma mater or other cathedral schools. They provided islands of learning in the haphazard wanderings of scholars, who would wring as much knowledge as they could from one cathedral school's instructor before moving on to the next. Several cathedral schools became famous for the topics they taught and the teachers they attracted. For example, the cathedral school of Chartres is still known for its courses on natural philosophy. The great church reformer, Pope Gregory VII, decreed in 1079 that all cathedrals must make schooling compulsory for priests. This laid the foundations for such scholastic luminaries as Peter Abelard, who taught at the cathedral school of St Geneviève in Paris; William of Conches and Thierry of Chartres, both of whom taught at Chartres; Peter Lombard, who taught at pre-university Bologna and Paris; and John of Salisbury, another graduate of the Parisian cathedral schools. Later ecclesiastical pressure s"
+   },
+   {
+    "heading_path": [
+     "Chapter Six: Institutional Education",
+     "Urban Schools"
+    ],
+    "text": "with mundanes, it would be ludicrous to think that magi won't interact with them. Some magi are interested in mundane legal practices, especially when those practices encroach upon their covenants and income properties. Urban schools are less expensive to attend — a quarter or third of a Mythic Pound a year — and the attending magus does not have to live with students or swear an oath of matriculation (a formal oath sworn to a master to be his student). The only drawback is overcoming the negative aspects of a magus' Gift. >#### Story Seed: An Unlikely Connection > >A monastic teacher has become convinced that there are similar styles and themes between Peter Lombard's biblical glosses and the commentaries of a famous Hermetic writer. He is collecting all the works of the Hermetic magus he can find, and discovers that the players' covenant houses an excellent copy of one of these works. Through letters and a personal visit, he asks the magi if he can borrow the book to make a copy. > >Characters should be suspicious. However, there are larger ramifications at play than the interests of a monk. Is there a connection between a prominent magus and a clerk famous throughout Mythic Europe? The monk suggests they may be the same person. If so, could reading Peter Lombard's *Sentences* lead to a breakthrough regarding the Divine realm's suppression of magic? Even if this connection is spurious, letting the monk borrow a book might"
+   }
+  ]
+ },
+ {
+  "qid": "indep-008",
+  "entity": "The Key of Theodorus",
+  "kind_of_thing": "Named Spell",
+  "aliases": [
+   "The Key of Theodorus"
+  ],
+  "book": "city-guild",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Four: Crafts",
+     "Damaged Goods"
+    ],
+    "text": "against an Ease Factor of 12. Add the damage modifier to the advantage over 12. That number is the Ease Factor for the stress check the lock must make to avoid losing a damage level. Botching the attack roll means that the striking weapon must make an immediate stress check to avoid being damaged. > >Pulling a lock apart —that is, physically separating the bar from the locking mechanism — requires a Strength + stress die roll against an Ease Factor of 12. This is a Herculean feat and only rarely accomplished. Add the advantage rolled over 12 to a character's Strength Characteristic to determine the Ease Factor for the lock's stress check. Botching this roll means that the character injures himself, sustaining a Light Wound for every actual botch. > >Picking a lock is the easiest method of unlawfully opening a lock. A character must have tools that allow him access to the lock's mechanisms, typically thin pieces of iron or steel. Make a Dexterity + Legerdemain + stress die roll against an Ease Factor of 12 to open a standard quality lock. The Ease Factor is 9 for a shoddy lock, 15 for a superior lock, and 18 for an excellent lock. Botching this roll means that the character has jammed the lock's inner mechanisms together, preventing further Legerdemain attempts. > >Hermetic magic can also easily open a lock with the following spell: > >##### The Key of Theodorus >ReTe 5 >R: Touch, D:"
+   },
+   {
+    "heading_path": [
+     "Chapter Four: Crafts",
+     "Damaged Goods"
+    ],
+    "text": "character has jammed the lock's inner mechanisms together, preventing further Legerdemain attempts. > >Hermetic magic can also easily open a lock with the following spell: > >##### The Key of Theodorus >ReTe 5 >R: Touch, D: Mom, T: Part > >This spell magically opens any single lock. Regardless of the lock's complexity or quality, it falls open at the end of this spell. Since the locking mechanism is designed to naturally move in a single direction to lock and unlock it, this is a base 1 effect. The sixth century Greek inventor, Theodorus of Samos, is credited with creating the first locks in Mythic Europe. > >(Base 1, +1 Touch, +1 Part, +2 for metal)"
+   }
+  ]
+ },
+ {
+  "qid": "indep-016",
+  "entity": "Excessive Lighting",
+  "kind_of_thing": "Virtue",
+  "aliases": [
+   "Excessive Lighting"
+  ],
+  "book": "covenants",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Nine: Laboratories",
+     "Laboratory Personalization Rules",
+     "Outfittings Virtues and Flaws",
+     "Minor Outfittings Virtues"
+    ],
+    "text": "**Excessive Heating**: The lab is kept far more warm than is necessary, and has the necessary facilities for it. For example, it has a half-dozen fireplaces. *+2 Upkeep, –1 Safety; +2 Ig.* **Excessive Lighting**: The lab is lit far more than is necessary. For example, there are several hundred candles or lamps, which take up more space than usual. *+2 Upkeep; +2 Im.* **Lesser Expansion**: The extent of the lab is increased, with some more specialized equipment. *+1 General Quality, +2 Upkeep; 1 point on any Specialization.* **Living Quarters**: The lab contains suitable furniture, such as a bed, a wardrobe, and so on, that the owner may live and sleep in it. There is a small benefit to lab work if you live in the lab proper, but it is not good for your health, and is considered somewhat obsessive. *+1 General Quality, –1 Safety, –2 Health, –2 Aesthetics.* **Menagerie**: The lab contains a collection of live animals. *+1 Upkeep, –1 Safety, –1 Aesthetics; +2 An.* **Opulent**: The lab is comfortable and well furnished. *+1 Upkeep, +1 Health, +2 Aesthetics; +1 Teaching.* **Pot Plants**: The lab contains dozens of potted plants. *+1 Upkeep, +1 Aesthetics; +1 He.* **Slaves**: Human slaves are employed in the lab, either as manual labor or as experimental subjects. *+1 Upkeep, –1 Safety, –1 Aesthetics; +2 Co or Me.* **Specimens\\***: The lab has a large collection of related things, stored in visible containers such as jars, or otherwise serving as objects of"
+   },
+   {
+    "heading_path": [
+     "Chapter Nine: Laboratories",
+     "Laboratory Personalization Rules",
+     "Supernatural Virtues and Flaws",
+     "Free Supernatural Virtues"
+    ],
+    "text": "Item\\***: A magic item is installed in the lab. It might be self-made, donated, purchased, or perhaps some kind of artifact which was found in the lab. If the item is very large, taking up a significant amount of space in the lab, then it should be treated as a Minor Virtue instead of a Free Virtue. This may grant Virtues or Flaws, alter Characteristics, or add to Specializations (see the guidelines below). **Magical Heating**: Heating is provided magically. This Virtue functions as either Superior Heating or Excessive Heating (but without the space and Upkeep cost). **Magical Lighting**: Lighting is provided magically. This Virtue functions as either Superior Lighting or Excessive Lighting (but without the space and Upkeep cost). **Preserved**: The lab, or part of its contents, is immune from natural decay. *–1 Upkeep, +1 Warping, +2 Health, +1 Aesthetics; +1 Cr.* **Regio\\***: The interior of the lab is in a regio, and there is another regio level, which the owner can navigate easily. If there are further regio levels, this Virtue may be taken more than once. *+3 Size, +1 Warping.* **Relocation**: The location of the lab in the physical world can be magically adjusted. For example, it is enchanted with a powerful Rego Terram effect. This may provide benefits for travel, but it also makes the lab and its occupant hard to find. *+1 Warping (if the relocation is in constant effect); +1 Experimentation.* **Sentient**: The lab seems to have developed an independent mind."
+   }
+  ]
+ },
+ {
+  "qid": "indep-024",
+  "entity": "Aedes Mercurii",
+  "kind_of_thing": "Covenant",
+  "aliases": [
+   "Aedes Mercurii"
+  ],
+  "book": "definitive-edition-core-rules",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter 6: Covenants",
+     "Customized Covenant Creation",
+     "Boons",
+     "Minor Boons"
+    ],
+    "text": "**Aura:** A minor Boon increases the Magic aura of the covenant by one point. The players may take this Boon up to seven times, for a covenant in any Magic aura up to ten. All the covenfolk must live within the aura. **Edifice:** An edifice is any major building erected to inspire awe. Covenants rarely need edifices: they could function equally well with many small buildings, made of cheaper and less ornamented materials. Many covenants, however, have at least one, to mark their wealth and power, to beautify their covenant, to arouse the envy of their peers, and to mark their covenant's priorities. Edifices do not require the Castle Hook unless several of them, grouped together, form a structure as threatening as a castle. The powerful covenant of Aedes Mercurii in the Provencal Tribunal has two sites, one of which is centered on a majestic stone edifice known as the Temple (*Templum*). The other site is carved out of the Pic du Midi d'Ossau, and contains many spectacular chambers (Faith & Flame, page 83). **Hidden Resources:** The covenant has 250 Build Points of resources that are not immediately available to the player characters. These might actually be lost within the covenant, or be sections of the library that are only open to more highly-ranked magi. This Boon may be taken multiple times. **Important Building:** The covenant has an additional large and important building, not mentioned in another Boon. This Boon may be taken multiple times, indicating"
+   }
+  ]
+ },
+ {
+  "qid": "indep-032",
+  "entity": "Henry the Fowler",
+  "kind_of_thing": "Character",
+  "aliases": [
+   "Henry the Fowler"
+  ],
+  "book": "guardians-of-the-forests-the-rhine-tribunal",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Two History of Mythic Germany",
+     "The Rise of the New Empire"
+    ],
+    "text": "Although united under the heirs of Louis the German, the great tribal groups of Saxons, Swabians, Bavarians, Burgundians, and east Franks (Franconians) were only prepared to acknowledge a nominal king provided that he did not interfere with their own internal affairs. Meanwhile, western Christendom was being harried by enemies from all directions. Moslem power was firmly entrenched in Spain, and Moslems were raiding the southern shores of Italy. The northern coasts were ravaged by Northmen and Danes. Then, across the plains of Europe appeared a new threat in the onward move of the Magyars. It was this last danger that caused the German clans to rally for a time under one leader, Henry the Fowler, duke of the Saxons, when the German crown passed to him in 919. In a battle at Riade on the River Unstrut in 933, he defeated the Magyar hordes. Such was the prestige gained by this victory that Henry was able to secure from the other tribes their consent to the succession of his son Otto, upon his death. The kingship was by no means hereditary, but the instinct of self-preservation made the other German tribes realize the wisdom of this strategy. Otto was crowned at Aachen in 936, and justified his election by a second victory over the Magyars at the Battle of the Lech in Bavaria in 955. The imperial coronation of Otto I in Rome (962) served to legitimize this vast acquisition; and the German kings, henceforth surnamed"
+   },
+   {
+    "heading_path": [
+     "Chapter Seven The Lowlands",
+     "Saxony",
+     "Quedlinburg"
+    ],
+    "text": "For a generation early in the 10th century, Quedlinburg was the effective German capital and base of operations for Henry the Fowler in his eastern campaigns. He erected a castle on the Burgberg at the southern end of the town and a palace, which frequently hosted his Imperial Diets. Upon his death, control of Quedlinburg passed to Henry's widow, Mathilde. She founded a collegiate foundation for noblewomen, and the abbesses have ruled the town ever since, although it has become rather overshadowed by the other, more important Saxon cities. >#### Boglin >**Magic Might**: 25 (Aquam) >**Characteristics:** Cun +1, Per –2, Pre –5, Com –3, Str +5, Sta +6, Dex –1, Qik +2 >**Size:** +3 (Body), 0 (Tentacle) >**Virtues and Flaws:** Greater Immunity, Ways of the Swamp; Tough; Blind, Greedy; Obese, Tainted With Evil >**Personality Traits:** Greedy +5, Reclusive +2, Guileful +1 >**Combat:** >*Tentacle*: Init +10, Attack +14, Defense +12, Damage +8 >*Bite*: Init +3, Attack +10, Defense +11, Damage +13 (includes bonus for Ways of the Swamp) >**Soak:** +12 (immune to damage from bludgeoning weapons) >**Fatigue Levels:** OK, 0, –1, –3, –5, Unconscious >**Wound Penalties**: (main body) –1 (1-8), –3 (9-16), –5 (17-24), Incapacitated (25-32); (each tentacle) –1 (1-5), –3 (6-10), –5 (11-15), Incapacitated (16-20) >**Abilities:** Awareness 5 (swamp), Brawl 8 (Tentacle), Stealth 3 (swamp), Survival 6 (swamp), Swim 3 (swamp) >**Powers:** >*Abominable Stench*, 5 points, Init +2, Auram: The Boglin may"
+   }
+  ]
+ },
+ {
+  "qid": "indep-040",
+  "entity": "Enchanted birthing chair",
+  "kind_of_thing": "Magic Item",
+  "aliases": [
+   "Enchanted birthing chair"
+  ],
+  "book": "heirs-to-merlin-stonehenge-tribunal",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter 10: The Order of Hermes",
+     "The Covenants",
+     "Voluntas",
+     "Covenfolk"
+    ],
+    "text": "Voluntas runs its mundane concerns like a normal manor, and most of the local mundanes think that that's what it is. The peasants in Wilton are split between the free and the serfs, but as the magi provide good housing and magical assistance in case of extreme need, none of the residents have any intention of leaving. In particular, an enchanted birthing chair means that almost all mothers and children survive childbirth, with the result that life expectancy is much higher here than elsewhere in the country. Ethelwald acts as the seneschal and autocrat, and plays the role of lord of the manor to the outside world. He is a competent manager, and has avoided becoming a knight so that he doesn't have to offer military service in person. The covenant is cautious about its involvement in mundane affairs, and doesn't want its seneschal off fighting in mundane wars. Ethelwald's son, Edward, is obsessed with becoming a knight, however, and spends much of his time training for such a post. The magi are not sure that he will make an adequate seneschal, which could be awkward as the surrounding nobility will expect him to inherit the land."
+   }
+  ]
+ },
+ {
+  "qid": "indep-048",
+  "entity": "Torture Chair of Zeus",
+  "kind_of_thing": "Magic Item",
+  "aliases": [
+   "Torture Chair of Zeus",
+   "mechanical torture chair",
+   "mechanized torture chair"
+  ],
+  "book": "houses-of-hermes-mystery-cults",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Four: House Verditius",
+     "Verditius Magi",
+     "The Contest"
+    ],
+    "text": "In 802, Verditius's filius Milo discovered one of the treasures of Hephaestus, the mechanized torture chair used by Zeus to interrogate his wife Hera. Returning it to Verdi, Milo and Verditius's first filius, Gelon, quarreled over who should possess the chair. Verditius decided that ownership would be awarded to the filius who could invent the most wondrous magical item, giving them a year to complete the task. He summoned all the Verditius magi in the Order to judge the event. Gelon won the contest, and benevolently gave the chair to Verdi rather than accepting the item himself. This was such a wellreceived event that Verditius decided to hold it again, eighteen years later, this time allowing all of his line to participate. This tradition has lasted throughout the centuries; even the Schism War did not interrupt the Contest of 1018. Every eighteen years, all able-bodied Verditius travel to Verdi for the Contest. Verdi fills with magi, apprentices, forgecompanions, selling agents, and other hangers-on, stuffing the unused towers of the previous Primi with guests. Magi bring their most fabulous magical item to enter in the competition. Those without an entry still come to participate in the judging, meet old friends, make new contacts, and cast sour glances at rivals. The event begins on Midsummer Eve and lasts for a week. The first half of the week is reserved for feasting, House meetings, Initiations, and other Verditius business. The judging of items occurs during the last"
+   },
+   {
+    "heading_path": [
+     "Chapter Four: House Verditius",
+     "Magic Items of Hephaestus"
+    ],
+    "text": "Hephaestus made many enchanted items for the Greek gods. Your troupe might know of some of them, like the armor of Achilles. Since quests for these items play a significant role in House Verditius Initiations, a list of Hephaestus' treasures follows. - A mechanical torture chair that was used by Zeus on his wife, Hera - A bronze hunting net that Hephaestus used to catch his wife, Aphrodite, and her adulterous lover Ares - An assortment of ornamental brooches and combs - Golden leg-supports that Hephaestus needed to walk - Twelve golden mechanical women (automata) - Twenty stools with three legs each, that moved and assisted Hephaestus at the forge - The weapons and armor for Athena - \"Pandora,\" a clay woman for Zeus - A golden ferry boat - Talos, the bull-headed bronze statue that guarded Crete - Dionysus's crown, made of fiery gold and gems from India - A golden mastiff (automata) - Bronze greaves and a stout shield for Hercules - Tin greaves for Achilles - The golden urn that was used to collect Achilles' ashes As the season ends, master and apprentice journey to one of the sacred sites revered by the House, one of the three Forges of Hephaestus, which are located at Verdi, the island of Lemnos, and the shoulders of Mount Olympus. Depending on where the pair reside, this journey might extend into a second season. The master acts as the Mystagogue, guiding the apprentice through the Initiation. The"
+   }
+  ]
+ },
+ {
+  "qid": "indep-056",
+  "entity": "House Tytalus Lore",
+  "kind_of_thing": "Hermetic Ability",
+  "aliases": [
+   "House Tytalus Lore"
+  ],
+  "book": "houses-of-hermes-societates",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Three: House Tytalus",
+     "History",
+     "The Betrayal"
+    ],
+    "text": "desires. Tasgillia was executed for diabolism by Archmage Erythravis of House Guernicus later that year. Her whole tradition, the Titanoi (see Characters, below) fell under suspicion, and the subsequent investigation resulted in the executions of 14 additional Titanoi, and three other Tytali, at the hands of the Order's hoplites. Of the lineage of the Titanoi, only Kalliste and her filii survived. With the endorsement and support of House Guernicus, Kalliste replaced Tasgillia, becoming the fifth Prima of House Tytalus, despite never winning that privilege in the time-honored manner of the house. This event came to be known as the Betrayal to Tytali, although the Order more commonly calls it the Corruption; it is viewed as a dark period in history by modern Tytali but not for the reason that other Houses think. They freely admit that Tasgillia was guilty of the crimes of which she was accused, yet fault *Kalliste* for betraying the principles of Tytalus by putting custom before nature, which is completely antithetical to the Founder's philosophy. Further, the Tytalan way would have been to settle the matter behind closed doors; instead the proud House was publicly shamed before the Order, and to this day has not recovered its former reputation. It is Kalliste to whom Tytali refer when they speak of the Betrayal, and her memory is ritually cursed every midwinter at Fudarus. > ## The Analects of Tytalus > > - Summa on House Tytalus Lore, Level 4, Quality 11 > -"
+   },
+   {
+    "heading_path": [
+     "Chapter Three: House Tytalus",
+     "History",
+     "The Betrayal"
+    ],
+    "text": "when they speak of the Betrayal, and her memory is ritually cursed every midwinter at Fudarus. > ## The Analects of Tytalus > > - Summa on House Tytalus Lore, Level 4, Quality 11 > - Summa on Philosophiae, Level 3, Quality 11 > - Tractatus on Order of Hermes Lore, Quality 8"
+   }
+  ]
+ },
+ {
+  "qid": "indep-064",
+  "entity": "Mythic Cathay",
+  "kind_of_thing": "Place",
+  "aliases": [
+   "Mythic Cathay"
+  ],
+  "book": "houses-of-hermes-true-lineages",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter One: House Bonisagus",
+     "The Magi of House Bonisagus",
+     "Magi Trianomae"
+    ],
+    "text": "Hermes, specifically visiting magi Bonisagi and generally keeping a watch on Hermetic magi. They are occasionally asked by the Tenentes Occultorum to monitor a nosy mundane or retrieve a missing text. They satisfy their adventurous cravings by searching for magical secrets, wizards or areas not included in Bonisagus's theory or Trianoma's Order. They are not interested in conquest or battle, as magi of Flambeau and Tytalus might be. Instead they are curious to find the secret knowledge that still exists within the less populated and unknown areas of Europe. They search for magical auras and explore magical regiones, all in this quest for knowledge. This information is passed to the Tenentes Occultorum. Some magi Trianomae become enthralled with this quest for ancient magical lore (see Seekers). Magi Trianomae have left Mythic Europe, seeking distant wizards and their magical knowledge, all in an effort to expand the model of a peaceful community of wizards. They serve as Hermetic emissaries, carrying the ideals of the Order to the farthest corners of the world, and have undertaken expeditions to Mythic Cathay, India and Africa. By 1220, no emissaries have reported any degree of success, either through failed efforts or by not returning at all."
+   }
+  ]
+ },
+ {
+  "qid": "indep-072",
+  "entity": "Toframenn",
+  "kind_of_thing": "Character Type",
+  "aliases": [
+   "Toframenn",
+   "toframen"
+  ],
+  "book": "icelandic-wars-land-of-fire-and-ice",
+  "passages": [
+   {
+    "heading_path": [
+     "Night of Tears"
+    ],
+    "text": "Under the cover of illusion crusader magi magically question mundanes for information on native magicians. In this manner, they identify the location of several galdramen, witches and seithkona. This group includes the leader of the galdramen hreppur, Biorn Egilsson. In a single night Hermetic magi descend on twelve farmsteads identified as harboring magicians, slaying all within. Having been forewarned moments before the attack Biorn Egilsson stands outside his farmstead and confronts archmagus Julius. Calling out in Latin, he requests a dialog. Julius does not waste an instant casting a spell that rips through Biorn's Ol-spirit and incinerates the old galdraman. His companions swiftly destroy the farmstead, killing all within. After this the magi retreat to their secret base and plan their next attack. If the player characters of Vindolanda are not with the Hermetics, they may be discovered at this point. Reports of the foreign Latin magi obviously point to a Hermetic covenant on Iceland. It is not be long before Julius begins searching for these treacherous magi. **Story Seed (Vindolanda, anti-crusader):** Gunnar Loftursson, a neighboring bondi, rides up to Vindolanda's Dagverdara farmstead in the late evening. He asks to see one of the toframen (magi) immediately. If a magus agrees to see him, Gunnar explains that his young daughter is gravely ill. His galdrakona wife Asta has used all her skill to help their daughter and protect the rest of his household. However, despit"
+   }
+  ]
+ },
+ {
+  "qid": "indep-080",
+  "entity": "Hatred Passion",
+  "kind_of_thing": "Virtue",
+  "aliases": [
+   "Hatred Passion"
+  ],
+  "book": "lion-of-the-north-the-loch-leglean-tribunal",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter 7: Scenario Ideas",
+     "The Return of Damhan-allaidh"
+    ],
+    "text": "any of the above scenarios, but the body of Damhan-allaidh has long since turned to dust. Damhan-allaidh has found a way to break the bond of flesh and is now a spirit, taking over bodies. Once the characters kill the current incarnation, they might be the next target receptacles for this ancient spirit. 6) Damhan-allaidh is truly dead: The players travel all over northern Scotland, with the fear that a major evil creature is waiting for them, only to find that the rumors of his rebirth have been greatly exaggerated. On the other hand, the characters will have plenty of opportunities to annoy or make enemies of the rest of the Order in Scotland. . . . >### Damhan-allaidh >Age: 650? >Size:+1 > >#### Characteristics >| | | | | >| --- | ------------------ | --- | ---------------------- | >| +6 | Int (malicious) | -6 | Pre (hideous) | >| -3 | Per (megalomaniac) | -5 | Com (egotistical) | >| 5 | Str (supernatural) | +3 | Dex (deft) | >| +10 | Sta (vital) | +6 | Qik (lightning quick) | > >#### Virtues & Flaws >External Soul +4, Hatred Passion (Order of Hermes) +5, Need Not Sleep +5; Chaotic Magic - 4, Deleterious Circumstances (under clear skies) -3, Disfigured -2, Fury (when thwarted) -3, - | Hunchback -2, Vulnerability (obsidian) -3, Vulnerable (Celtic holy relics) -3, Weakness (strong drink) -1 > >#### Personality Traits Reputation >Hate Order of Hermes +5, Insane (megalomaniac)"
+   }
+  ]
+ },
+ {
+  "qid": "indep-088",
+  "entity": "Flemish Pikemen",
+  "kind_of_thing": "Faction",
+  "aliases": [
+   "Flemish Pikemen"
+  ],
+  "book": "lords-of-men",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Eight: Massed Combat",
+     "Heroic Endeavors",
+     "The Aftermath of Battle"
+    ],
+    "text": "| +1 | +0 | > | | Bow, Long | –1 | +11 | +6 | +10 | +1 | +0 | > | | Crossbow | +6 | +12 | +11 | +8 | +1 | +0 | > | | Hatchet, Buckler | +1 | +9 | +6 | +6 | +1 | +0 | > | Levy | Spear, Round Shield | +3 | +6 | +6 | +7 | +2 | +0 | > | | Knife | +1 | +5 | +6 | +4 | +2 | +0 | > | Baggage | Bludgeon | –2 | +5 | +1 | +5 | +3 | +0 | > > ### Mercenary Troops > > The table above lists the statistics for standard units of each type, but throughout the **Ars Magica** period there are also specialist troops from Welsh longbowmen to Flemish pikemen to Genoese crossbowmen. Their combat statistics may vary from those above and these soldiers are highly sought after as mercenaries. And of course, as this is Mythic Europe, there is always the potential for strange and supernatural units to be deployed by the ambitious or the unwary. > > Most armies rely on mercenary forces for a large proportion of their skilled contingent. As can be expected of men paid to fight and kill, the conduct of many mercenary troops leaves much to be desired. Nearly thirty years ago, Richard Lionheart sought to create a paid standing"
+   }
+  ]
+ },
+ {
+  "qid": "indep-096",
+  "entity": "Son of Merchant",
+  "kind_of_thing": "Virtue",
+  "aliases": [
+   "Son of Merchant"
+  ],
+  "book": "magic-apprentices",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Four: Pueritia: Ages 8 to 14",
+     "Growing Up"
+    ],
+    "text": "as his future apprentice? >### Companion: Merchant's Son > >**Characteristics:** Int +1, Per 0, Pre +1, Com +3, Str 0, Sta 0, Dex –1, Qik 0 (Characteristic Modifier –1) > >**Size:** –1 > >**Age:** 13 (13) > >**Virtues and Flaws:** Son of Merchant; Wealthy, Inherited True Faith; Luck, Relic; Dark Secret, Overconfident; Obsessed (with saint's lives), Short of Breath > >**Personality Traits:** Bully +3, Brave +2, Loyal +1 > >**Combat:** > >*Dodge:* Init –1, Attack n/a, Defense +1, Damage n/a > >*Dagger:* Init +2, Attack +1, Defense +2, Damage +2 > >**Soak:** –1 > >**Fatigue Levels:** OK, 0, –1, –3, –5, Unconscious > >**Wound Penalties**: –1 (1–4), –3 (5–8), –5 (9–12), Incapacitated (13–16), Dead (17+) > >**Abilities:** Area Lore: Area A 1 (people), Area Lore: Area B 1 (history), Animal Handling 2 (pack mules), Bargain 2 (best price), Brawl 2 (dagger), Church Lore 3 (saints' days), Folk Ken 2 (merchants), Leadership 3 (teamsters), Living Language 3 (merchant terminology), Native Language 5 (merchant terminology), Profession: Merchant 2 (exchange rates), Ride 2 (long distances), Survival 2 (roads) > >**Equipment:** Fine merchant clothes > >**Encumbrance:** 0 (0) > >**Appearance:** The merchant's son is of average build and height, with features and color common to the area of his birth. Dressed in fine clothes, he looks uncomfortable, and continually shifts and picks at his clothing. > >The merchant's son is a good example of a character designed to develop according to a predesti"
+   }
+  ]
+ },
+ {
+  "qid": "indep-104",
+  "entity": "Jotun Lore",
+  "kind_of_thing": "Hermetic Ability",
+  "aliases": [
+   "Jotun Lore"
+  ],
+  "book": "magic-hedge-magic-revised",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Four: Gruagachan",
+     "Alternate Traditions",
+     "Trollsynir",
+     "Characterss"
+    ],
+    "text": "There is no formal apprenticeship for trollsynir. Because trollsynir usually maintain close ties with their families, they continue learning from each other throughout their lives. There is no stigma attached to an adult trollson learning from another. Likewise, there are no formal training requirements for trollsynir, and each family has different strengths and weaknesses. That said, there are certain Abilities that are universally taught, and all trollsynir will have some knowledge of the following Abilities: Jotun Language, Magic Lore, Faerie Lore, Penetration, Finesse, and Jotun Lore. Beyond those skills, each individual family and clan is liable to vary widely in the skills it emphasizes. Trollsynir often possess one or more of the following Virtues: Mythic Herbalism, Ways of the (Land), or Wilderness Sense. Beyond those Virtues and the ones found in this chapter, trollsynir are not known for any particular aptitude. The Flaws of Close Family Ties, Pagan, and Sheltered Upbringing are particularly appropriate, but not required. Educated and Temporal Influence are not appropriate for trollsynir, and a player selecting them must seek approval of the troupe."
+   }
+  ]
+ },
+ {
+  "qid": "indep-112",
+  "entity": "Wand of Dancing Flowers",
+  "kind_of_thing": "Magic Item",
+  "aliases": [
+   "Wand of Dancing Flowers"
+  ],
+  "book": "mythic-locations",
+  "passages": [
+   {
+    "heading_path": [
+     "Contents"
+    ],
+    "text": "Mercurian Rituals Reading the Mercurian Rituals Learning the Mercurian Rituals Casting the Mercurian Rituals Hermetic Versions of the Mercurian Rituals Purification The Scrying Pool Raising the Auxiliaries for a Day Penetrate the Regio Skin Blessing of Mercury Transformation of Flesh to Spirit Wizard’s Initiation Consecration of Mercury’s House Commune with Mercury Wizard’s Communion Opponents Story Seed: A Rival Expedition Story Seed: The Dead Amongst Us Story Seed: The Cult Returning to the Temple A Trip to the Toy Market Story Seed: A Tempting Portal Story Seed: The Baron’s Gift Story Seed: Toys that Break the Code Story Seed: Toy Courier Story Seed: To Hell and Beyond **Chapter 9: The Faerie Toy Market on Devil’s Lane** The Streets Devil’s Lane The Alleyways The Alley Wards The Rat Pack The Merchants Market Guild Councilors Buying Toys Commissioning Toys Limited Life-Time The Toys Angel Eyes Potion Bird Bane The Book of Beasts The Dove Hat The Forest Giant The Girdle of Change Green Flame Powder Hat That Grants the Over-Anxious Father Peace of Mind Hen Dust Inverted Water Wheel Love Potion The Magic Money Box Miraculous Beer Mug One Romantic Evening Rain Parasol The Rat Pipe The Siege of Constantinople The Silvery Miraculous Daffodil Wand The Scrying Bowls Wand of Dancing Flowers Wand of Horses The Wooden Knights The Workshops What Can Be Made? The Devil’s Lane Covenant Julia’s Laboratory Bartholomew’s Laboratory Returning to the Devil’s Lane Toymarket **Chapter 10: The T"
+   }
+  ]
+ },
+ {
+  "qid": "indep-120",
+  "entity": "Ritual Faerie Powers",
+  "kind_of_thing": "Virtue",
+  "aliases": [
+   "Ritual Faerie Powers"
+  ],
+  "book": "realms-of-power-faerie",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Three : Faerie Characters",
+     "Optional Virtues and Flaws",
+     "Greater and Lesser Faerie Powers",
+     "Personal Powers",
+     "Extended Glamour"
+    ],
+    "text": "spare spell levels, or he can convert them to 2 Intricacy points. If he does this, he can spend them to make his power cheaper or faster, or a little of both. He uses the spare Intricacy points to reduce the cost of the power by 2, to 0. (Players designing a power based on this example should note that perfect illusory copies require a Perception + Finesse roll against an Ease Factor of 12). > > There's a ritual in *House of Hermes: Societates* called *Donning the Mask of Another*, that allows the user to duplicate the memories of a particular individual (page 97). Neil considers it, but since it is level 35, it doesn't work. He'd need to buy the Ritual Faerie Powers Virtue twice to get his 30 spell levels, and he'd lose 6 Might for an extended period each time he used it. It would also be very slow (Initiative of –12). Neil reworks the spell description, dropping the Duration to Moon and the Range to Personal. This makes it a level 25 effect that can be purchased with the Personal Faerie Powers Virtue. It has a cost of 3 and an Initiative modifier of –3. > > Neil wants one final power: a sort of selective invisibility so that he, or the person he touches, can only be seen or heard by the person he is driving mad, and by those in his group. Selective invisibility is discussed in *House of"
+   }
+  ]
+ },
+ {
+  "qid": "indep-128",
+  "entity": "Acclimation Prone",
+  "kind_of_thing": "Flaw",
+  "aliases": [
+   "Acclimation Prone"
+  ],
+  "book": "realms-of-power-magic",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Four : Magic Characters",
+     "Qualities and Inferiorities",
+     "Major Magic Inferiorities"
+    ],
+    "text": "**Acclimation Prone:** It is twice as difficult for the character to protect itself against Acclimation (see Acclimation, under Advancement, below). You must treat the character's Might Score as double its actual value when remaining in a Magic aura or accounting for pawns of vis consumed, and double the number of seasons necessary to avoid Acclimation with magical effects. For example, each year a character with Might 25 would need to remain in a level 10 aura, consume 25 pawns of vis, or participate in a constant magical effect all year to avoid losing one of its Magic Qualities to Acclimation. **Major Flaw:** The character has a Major General or Supernatural (Magic) Flaw, which represents a disadvantage of its magical nature. This Inferiority may be taken more than once. **Miniature:** The character has been magically shrunk in size, making it smaller and harder to catch, and much weaker than other beings of its type. It is otherwise exactly the same, simply on a reduced scale. This reduces the character's Size and Strength, and increases its Quickness, as shown on the chart below. | Size | Size Decrease | Penalty Strength | Quickness Bonus | |---|---|---|---| | –10 or less | –5 | –10 | +5 | | –5 to –9 | –4 | –8 | +4 | | –1 to –4 | –3 | –6 | +3 | | 0 to +2 | –2 | –4 | +2 | | +3 or more | –1 | –2"
+   }
+  ]
+ },
+ {
+  "qid": "indep-136",
+  "entity": "Philosophic Magic",
+  "kind_of_thing": "Virtue",
+  "aliases": [
+   "Philosophic Magic"
+  ],
+  "book": "realms-of-power-the-divine-revised",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Six: Mythic Judaism",
+     "Characters",
+     "Virtues"
+    ],
+    "text": "Given the restrictions imposed upon Jews, certain Social Status Virtues are forbidden for Jewish characters. Both Knight and Landed Noble imply a feudal position within society, which Jews cannot occupy. Neither can they qualify for Magister in Artibus or any other standard scholastic position, and must take Educated (Hebrew) instead to gain access to Academic Abilities. Naturally, they are forbidden from taking Monastic Vows or any other role within the Christian church, and the proscription against swearing Oaths of Fealty prevents them from taking positions in Christian trade and craft guilds. Lastly, given the frequent restrictions or carrying arms and wearing armor that Jews experience they may not take the Warrior Virtue. >#### New Virtues > >**MINOR, GENERAL** > >Educated (Hebrew) > >**MAJOR, SOCIAL STATUS** > >Rosh Beth Din > >**MINOR, SOCIAL STATUS** > >Rabbi >Shadchan > >**FREE, SOCIAL STATUS** > >Ba'al Shem >Kabbalist >Shamash >Sofer > >**MAJOR, SUPERNATURAL** > >Dream Interpretation >Gematria >Kabbalah >Merkavah > >**MINOR, SUPERNATURAL** > >Astrological Magic >Craft Amulets >Philosophic Magic"
+   },
+   {
+    "heading_path": [
+     "Chapter Six: Mythic Judaism",
+     "Characters",
+     "Companion Templates"
+    ],
+    "text": "Tinker's tools, handcart, Jewish hat, weather-beaten traveling cloak with a Jewish symbol emblazoned upon it. **Notes**: This Ba'al Shem travels from community to community around Bremen working his wonders for pay and the benefit of his people. He is frequently on the road and tries not to look too harshly on those gentiles who mock him as he passes. The faeries, on the other hand, are a trial that he just can't stand. **KABBALIST** **Characteristics**: Int +2, Per 0, Pre 0, Com +2, Str 0, Sta +1, Dex 0, Qik 0 **Size**: 0 **Age**: 32 (32) **Warping Score**: 0 (0) **Confidence**: 1 (3) **Virtues and Flaws**: Kabbalist, Rabbi; Gematria, Kabbalah, Understanding, Wonders; Ceremony, Philosophic Magic, Clear Thinker, Good Teacher, Puissant Kabbalah, Social Contacts (Kabbalists), Educated (Hebrew); Outsider (Major, Jew), Driven (Major, Obtain kabbalistic secrets), Feud (Karaite kabbalists); Fragile Constitution **Personality Traits**: Inquisitive +2, Humble +1, Persistent +1 **Reputations**: Jew 2 (Christians) **Combat**: *Dodge*: Init +0, Attack N/A, Defense +0, Damage N/A *Fist*: Init +0, Attack +0, Defense +0, Damage +0 *Bludgeon*: Init –1, Attack +2, Defense +0, Damage +2 **Soak**: +1 **Fatigue Levels**: OK, 0, –1, –3, –5, Unconscious **Wound Penalties**: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+) **Abilities**: Aramaic 4 (scripture), Artes Liberales 2 (rhetoric), Ceremony 1 (Kabbalah), Civil & Canon Law 2 (as affects Jews), Dominion Lore 2 (angels), Fin"
+   }
+  ]
+ },
+ {
+  "qid": "indep-144",
+  "entity": "Corrupted (Ability)",
+  "kind_of_thing": "Flaw",
+  "aliases": [
+   "Corrupted (Ability)"
+  ],
+  "book": "realms-of-power-the-infernal",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter 6 : Demons as Deceivers",
+     "Nithael, the Great Leveller"
+    ],
+    "text": "eyes which cover their featureless skin. They are eternally silent, communicating their teaching directly into the minds of their pupils. All of these high-status demons have the rank of Duke. > > An example of a Watcher is **Forcas**. > > **Infernal Might:** 40 (Corpus) > > **Weakness:** Ordering > > **Powers:** > > *The Wordless Conversation*, 0 points, Init 0, Mentem: Watchers may speak directly into the mind of any creature whom they can see (assuming Magic Resistance is penetrated), and may choose to hear any mental or verbal response that the target may make. > > *Corrupted Knowledge*, 2 points, Init –3, Mentem: When a Watcher spends a season teaching an Ability (of any kind, including Supernatural), he uses this Power to corrupt the knowledge that he teaches, granting the Flaw Corrupted (Ability) (see Chapter 9: Infernal Characters, New Flaws). The Power only inflicts the Flaw if the character being schooled acquires an increase in the Ability score because of the teaching supplied by the demon. Those affected by this Power soon learn that they get greater rewards if they use their Ability for selfish or sinful purposes. **Fatigue Levels:** OK, 0, –1, –3, –5, Unconscious **Wound Penalties**: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20) **Abilities:** Brawl 5 (punch), Charm 6 (pandering), Folk Ken 8 (worthlessness), Guile 6 (removing self-worth), Leadership 5 (weak willed), Profession: Actor 6 (petitioner) **Powers** *Form of Man*, 2 points, Init 0, Corpus: Th"
+   }
+  ]
+ },
+ {
+  "qid": "indep-152",
+  "entity": "Belaquin",
+  "kind_of_thing": "Covenant",
+  "aliases": [
+   "Belaquin"
+  ],
+  "book": "sanctuary-of-ice-the-greater-alps-tribunal",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter 8: The Covenant of Valnastium",
+     "Magi",
+     "Angela filia Constance"
+    ],
+    "text": "Angela's mater was trained as a Verditius maga, so she uses casting foci, and is interested in creating magical objects. Angela specializes in crafting magical tools and instruments. Mundane musicians, Larta magi, and those Jerbiton magi who play music as a Necessary Condition prize these. She's a member of the Crafter movement and acts as the covenant's factor (chief buyer) at the Midsummer Fair. Like other Crafters, Angela purchases unpredictably at the Midsummer Fair, selecting items that enhance her art. For example, at the last fair but one she bought a club from a grog of the party from Belaquin in Provence. Later the magi of Belaquin discovered the transaction, and figured out that she desired the wood because it had been grown in a faerie forest. Although it contained no vis, it had odd acoustic properties, which made crafting an extraordinary instrument easier. The desire of Crafters to procure items for which other magi have little use can serve as a story hook, and can force the players to seriously consider what sorts of \"mundane\" items other magi might value. Crafters have an antipathy for Natural Magicians, because Crafters often want to incorporate objects of Virtue into their artifacts and Natural Magicians also collect them. Crafters are also interested in the natural products of distorted trees and wildlife, regularly found in autumn and winter covenants, but these tend to be one-off purchases."
+   }
+  ]
+ },
+ {
+  "qid": "indep-160",
+  "entity": "Organization Lore: Knights Templar",
+  "kind_of_thing": "Hermetic Ability",
+  "aliases": [
+   "Organization Lore: Knights Templar"
+  ],
+  "book": "the-church",
+  "passages": [
+   {
+    "heading_path": [
+     "Contents",
+     "VII. The Knights Templar"
+    ],
+    "text": "Order of Hermes - Templar Characters and Stories - Templars as Crusaders - Templars as Bankers and Merchants - Templars as Advisors and Diplomats - Templars as Spies - Templars as Priests - Templars as Lords - Templars as Sailors - Templars as Treasure Hunters - Creating Templar Characters - Modified Templar Virtues - Brother-Knight - Brother-Priest - Brother-Sergeant - New Templar Virtues - Templar Confrere or Consoeur - Templar Servant - Templar Specialist - Templar Administrator - Commander - Office Holder - Templar Prestige - New Ability - Organization Lore: Knights Templar - Sample Characters - Brother-Knight - Brother-Sergeant - Brother-Priest"
+   },
+   {
+    "heading_path": [
+     "Chapter Seven: The Knights Templar",
+     "Creating Templar Characters",
+     "New Ability",
+     "Organization Lore: Knights Templar"
+    ],
+    "text": "This Ability reflects knowledge and experience of the rule and regulations of the Poor Knights of the Temple of Solomon, familiarity with important members of the order, information about its provinces, military strategy, and current activities, and insight into the ongoing goals and concerns of the Templars. This Ability also gives the character knowledge of the Templar sign language, allowing him to communicate simple messages in silence to other Templars. Finally, this Lore grants knowledge of the Templar's encryption ciphers. This Ability is normally available only to characters possessing a Virtue that grants membership of the Templars, although outsiders may possess it with the troupe's permission. **Specialties**: personalities, history, politics, tactics, sign language, a particular region. (General) >#### Templar Ciphers > >The Templars have a system of encryptions and ciphers to protect their communications. Access to the ciphers is granted by the Organization Lore: Knights Templar Ability. Using the ciphers allows a Templar to write letters or messages that can only be read by someone with the cipher. If someone wants to decrypt the code without the cipher, the player must succeed in an Intelligence + Artes Liberales (Arithmetic) roll against an Ease Factor of 21. > >A Templar with an Organization Lore: Knights Templar Ability of 5 or more can attempt to decrypt the message, with an Intelligence + Organization Lore: Knights Templar roll against an Ease Factor of 12"
+   }
+  ]
+ },
+ {
+  "qid": "indep-168",
+  "entity": "Britannian Tribunal",
+  "kind_of_thing": "Tribunal",
+  "aliases": [
+   "Britannian Tribunal"
+  ],
+  "book": "the-lion-and-the-lily-the-normandy-tribunal",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Three: Hermetic History and Culture",
+     "The Shaping of the Tribunal"
+    ],
+    "text": "The Normandy Tribunal borders today are not those of the original Tribunal. This shaping of the Tribunal by subsequent events is currently an important subject in Hermetic circles. History is used as a powerful argument in the hands of the Lotharingian Tribunal movement, who are a group of covenants who wish to secede from the Tribunal (and the neighboring Rhine Tribunal) and reform the ancient Lotharingian Tribunal. (See Chapter 10, Normandy Sagas, The Lotharingian Tribunal). The West Frankish Tribunal initially included the county of Gascony, but did not include the regions of Flanders or Brittany. King Charles the Bald had been forced to acknowledge the independence of Brittany in 846, and faced with the Celtic culture, Breton language, and political independence of the region, it was decided at the Second Grand Tribunal that Brittany was properly situated in the Britannian Tribunal (which itself was later to divide into the Stonehenge, Loch Leglean, and Hibernian Tribunals). The association of Brittany with the British Isles went beyond the cultural, linguistic, and political however, for it also shared a magical heritage deeply influenced by the druids, House Diedne, and the stories of Merlin. The eastern part of what is today the Normandy Tribunal was originally part of the Lotharingian Tribunal. The mundane kingdom of Lotharingia was split after the abdication and death of King Lothair in 855, his sons dividing the kingdom into three new kingdoms — Italy, Provence, and"
+   },
+   {
+    "heading_path": [
+     "Chapter Three: Hermetic History and Culture",
+     "The Perthean Compact",
+     "Mundane Interference",
+     "Normandy Tribunal Ruling: Mundane Interference"
+    ],
+    "text": "There have been no specific rulings, which sets the Tribunal's policy regarding the use of agencies and masks on unstable ground. Magi who are new to the Tribunal may witness events that would be considered violations of the Code of Hermes in other Tribunals, and even by a strict interpretation of Normandy's Peripheral Code. However, there are numerous precedents that give a defendant legal standing when testing whether ruin was actually caused by his actions, and the Tribunal rarely convicts in situations where damage to a Hermetic magus cannot be unequivocally demonstrated. >##### An Ear for Distant Bells >InIm Level 15 R: Personal, D: Concentration, T: Hearing > >This spell allows the caster to precisely determine the distance and direction from their location to the source of a sound. This spell was invented in the Normandy Tribunal by the Quaesitor Fluvius. > >(Base 3, +1 Conc, +3 Hearing) >#### Further Excerpts from the Normandy Peripheral Code > >871 (The inaugural meeting of the Tribunal of the West Franks.): Present are the covenants of Confluensis, Pagus, Baiocassium, Bibracte, and Sinapis (the covenants of Fudarus and Branugurix both attend the Britannian Tribunal meeting). > >885 (3rd meeting of the Tribunal of the West Franks): Maga Adela of Jerbiton, a frequent attendant at court, was accused of acting as \"court wizard\" to King Louis III between 879 and 881. She maintained that the accusation was brought by a magus with whom she had a long-standing feud, and the"
+   }
+  ]
+ },
+ {
+  "qid": "indep-176",
+  "entity": "Mathematikoi",
+  "kind_of_thing": "Character Type",
+  "aliases": [
+   "Inner Order",
+   "Mathematikoi"
+  ],
+  "book": "the-mysteries-revised",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter 14: Mystery Cults",
+     "The Mystic Fraternity of Samos",
+     "The Fraternity of Samos Today"
+    ],
+    "text": "lesson of the House of Milo. While candidates can probably find where to apply fairly easily, as Pythagoreans do not hide their existence the way most Mystery Cultists do, the requirements for membership are extremely stringent and require excellence in a number of mundane abilities as well as proven moral character and discretion. Those who speak openly of cult secrets or, worse still, teach them, can expect to receive as brutal and swift a response as from any other cult, and to on death find their spirit reborn as a green bean — or so it is said. (Pythagoreans do not eat green beans, as they may contain the souls of the dead.) A large number of Akousmatics (Outer Order Initiates) proudly display their affiliation in Pythagorean symbols worn on their robes, marking them as part of an intellectual and moral elite. The most important sign known of the Akousmatics is that of the pentagram; that used by the Mathematikoi (the Inner Order), gained only by the most dedicated, is the triangle, the most perfect of shapes. > ## Beliefs of the Fraternity > > At its deepest level, reality is mathematical in nature. > > Philosophy can be used for spiritual purification. > > The soul can rise to union with the divine. > > Certain symbols have a mystical significance. > > All brothers and sisters of the fraternity should observe strict loyalty and secrecy, and bear responsibility for one another. > > We"
+   },
+   {
+    "heading_path": [
+     "Chapter 14: Mystery Cults",
+     "Structure of the Fraternity of Samos"
+    ],
+    "text": "Order deals with the principles of mathematics, and Initiates the Virtue Hermetic Numerology. The average Pythagorean Mystagogue may be reasonably charismatic, with a Presence of +1 not being unusual, and very learned in Fraternity of Samos Lore, with that ability at 7. Initiation Scripts with a bonus of +7 are very common, but many variations exist. > > Having already proven her ability with Artes Liberales, Mathematics and the other cult Abilities, (+1 special bonus), the Initiate may spend a season studying with the Mystagogue at a School learning the secrets of number magic and the Pythagorean system (+3) before taking a Minor Ordeal Vow to follow the Sacred Precepts of Pythagoras (+3) for a total Initiation Script bonus of +7. Scripts used by Mystagogues with lower Presence or Fraternity of Samos Lore typically add a Quest. There are two Orders of the Fraternity: the Outer Order, or Akousmatics, and the Inner Order, or Mathematikoi. Initiates must pass through the Akousmatics before admission to the Mathematikoi. The three degrees of the Akousmatics that must be passed through by all members of the Fraternity are, in order:"
+   }
+  ]
+ },
+ {
+  "qid": "indep-184",
+  "entity": "Mavens of Etiquette in the Court of the Purple Bower",
+  "kind_of_thing": "Creature",
+  "aliases": [
+   "Mavens of Etiquette in the Court of the Purple Bower",
+   "Mavens of the Purple Bower"
+  ],
+  "book": "transforming-mythic-europe",
+  "passages": [
+   {
+    "heading_path": [
+     "Contents",
+     "**List of Inserts**"
+    ],
+    "text": "Mac Lir Manannan Mac Lir cont. Treasures of Manannan Tursus Auvekoejaks Strategies For Players Feeling Swamped By Choice Story Seed: Faerie Tribes Elemental Spirit of the Waves Story Seeds For Turbulent Kingdoms Story Seed: The Coronation Story Seeds for the Hermetic Borderland Story Seeds for Theological Matters A Note on The Powers of Demons A Note on Tainted Vis The Wicked Boys of the Third Square The Mavens of Etiquette in the Court of the Purple Bower Story Seeds: Has Someone Else Done This Before? Saga Seed: Tartessos Emerges Story Seed: Earlier Floating Islands Story Seed: Inappropriate Use I’m Sorry, Your Call Could Not Be Arcanely Connected A Desire for Privacy Story Seed: Peeping Tom Rego Craft Magic Quality Remaining After Copying Discovering Mistakes Optional Rule: Hazardous Laboratory Texts Optional Rule: No Magical Copying of Laboratory Texts Rules for a Large Library Optional Rule: Limits on Instant Transportation New Guidelines for Instant Transportation What About The Hermes’ Portal? Plaustrum Pertinax Direct Creation of Wealth Story Seeds: Precious Goods Technological Cost Saving Enchantments are Arcane Connections Story Seed: Foreshadowing Luddites and Saboteurs Inanis The Other Houses"
+   },
+   {
+    "heading_path": [
+     "Chapter Three: The Island of the Magicians",
+     "Location: The North Sea",
+     "Three Demons and their Retinues",
+     "Neqael, The Lady of the Purple Bower, Corrupter of Lyonesse"
+    ],
+    "text": "is told, the hearer may make an Intelligence roll against an Ease factor of 9 to disbelieve it. The hearer may reroll every hour. *Obsession,* 1 point, Init –5, Vim. Unrequited passion. *Change Form,* 0 point, Init 0, Corpus or Animal: May take any animal or human form. The demon's form is not resisted by the Parma Magica if the demon makes a physical attack. *Summon Mavens of the Purple Bower:* Points equal Might, Init +1, Vim*.* This power summons lesser demons, although it does not control, them. Neqael usually calls a particular type of demon, and rules her minions without mystical compulsion, using a mixture of pleasure and threats. *Trust of the Innocent,* 1 point, Init +1, Mentem: The victim believes a single, plausible lie until evidence to the contrary is presented. An Intelligence roll against an Ease Factor of 6 allows a character to resist this effect. *The Serpent's Oracle:* 2 points, Init –3, Vim: The demon can duplicate the effect of any Intellego spell, or can gain an understanding of the immediate consequences of any specific act. **Weakness:** Protected group: nuns **Vis:** 8 pawns Imaginem vis sordida in clothes **Appearance:** The Lady of the Purple Bower is fairest by candlelight, or in the dappled light of her bower, with milky skin, fair hair and grey eyes. In direct sunlight her skin looks yellowed, and her eyes hollow. >#### The Mavens of Etiquette in the Court of the Purple Bower > >These courtiers are"
+   }
+  ]
+ },
+ {
+  "qid": "indep-192",
+  "entity": "Summon the Haunting Spirit",
+  "kind_of_thing": "Named Spell",
+  "aliases": [
+   "Summon the Haunting Spirit"
+  ],
+  "book": "tribunals-of-hermes-rome",
+  "passages": [
+   {
+    "heading_path": [
+     "Appendix: Templates",
+     "Magus Vocations",
+     "Necromander (Ex Miscellanea)"
+    ],
+    "text": "Intelligence +4 Presence -3 Perception +1 Communication -2 Strength 0 Dexterity -1 Stamina +2 Quickness -1 AGE: 24 VIRTUES & FLAWS: Cautious Sorcerer (ghosts and corpses) +1, Exceptional Talent +1, Extra Arts +1, Magical Affinity (ghosts and corpses) +1, Special Circumstances (someone dying nearby) +1, Ghostly Warder +3, Bad Reputation -1, The Blatant Gift -1, Haunted -2, Susceptibility to Divine Power -4 ABILITIES: Speak Italian 4, Speak Latin 5, Scribe Latin 3, Magic Theory 5, Hermes Lore 2, Hermes History 2, Parma Magica 3, Penetration 2, Second Sight 3, Certamen 1, Magical Affinity — ghosts and corpses 3, Area Lore — Rome 1, Occult Lore 2, Church Knowledge 1 CONFIDENCE: 3 REPUTATION: Necromancer 2 PERSONALITY TRAITS: Morbid +3, Uncaring +1 WEAPONS & ARMOR: None ENCUMBRANCE: 0 TECHNIQUES & FORMS: Creo 0, Intéllego 0, Muto 2, Perdo 0, Rego 10, Animál 3, Aquam 0, Auram 0, Córporem 9, Herbam 0, Ignem 0, Imágonem 0, Mentem 8, Terram 0, Vim 5 SPELLS: Charm Against Putrefaction (Creo Córporem 5), Awaken the Slumbering Corpse (Rego Córporem 20), Whispers Through the Black Gate (Intéllego Córporem 15), The Walking Corpse (Rego Córporem 25), Incantation of Summoning the Dead (Rego Mentem 25), Summon the Haunting Spirit (Rego Mentem 25), Coerce the Spirits of the Night (Rego Mentem 35) For 15 years you lived in the catacombs of Vardian's Tomb, where your master taught you the secret arts of Necromancy. Now you are ready to strike out on your own, to find your own"
+   }
+  ]
+ }
+]

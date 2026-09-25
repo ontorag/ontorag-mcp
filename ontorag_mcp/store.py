@@ -220,7 +220,7 @@ def chunk_in_scope(c, packs):
 
 class Dataset:
     def __init__(self, manifest, emb_cfg, entities, chunks, vid_to_vec, ollama_url, origin,
-                 retrieval="vector", registry=None):
+                 retrieval="vector", registry=None, ent_to_vec=None):
         self.manifest = manifest
         self.registry = registry or {}
         self.emb_cfg = emb_cfg or {}
@@ -248,6 +248,15 @@ class Dataset:
         self.mat = (np.asarray([vid_to_vec[cid] for cid in self.ids], dtype=np.float32)
                     if self.has_vectors else None)
         self._row_docs = np.asarray([chunks[cid].get("doc", "") for cid in self.ids], dtype=object)
+
+        # entity vector index (embeddings of entity descriptions), for `entity` mode:
+        # a question that describes a thing without naming it lands near the thing's
+        # description, then retrieval follows the entity's links to its chunks
+        ent_to_vec = ent_to_vec or {}
+        self.ent_ids = [iri for iri in entities if iri in ent_to_vec and iri in self._ent_chunks]
+        self.has_entity_vectors = bool(self.ent_ids)
+        self.ent_mat = (np.asarray([ent_to_vec[i] for i in self.ent_ids], dtype=np.float32)
+                        if self.has_entity_vectors else None)
 
         self.retrieval = retrieval if retrieval != "auto" else (
             "vector" if self.has_vectors else "ontology")
@@ -306,8 +315,17 @@ class Dataset:
             except Exception:
                 registry = {}
 
+        ent_to_vec = {}
+        ent_glob = (manifest.get("embeddings") or {}).get("entity_vectors_glob")
+        if retrieval in ("entity", "auto") and emb_cfg is not None and ent_glob:
+            for rel in await source.glob(ent_glob):
+                for r in await jsonl(rel):
+                    ent_to_vec[r["id"]] = r["vector"]
+        if retrieval == "entity" and not ent_to_vec:
+            raise ValueError("retrieval 'entity' needs embeddings.entity_vectors_glob in the manifest")
+
         return cls(manifest, emb_cfg, entities, chunks, vid_to_vec, ollama_url,
-                   source.describe(), retrieval, registry)
+                   source.describe(), retrieval, registry, ent_to_vec)
 
     # ---- scope ----
     def scope(self, scope=None, close_over_requires=False):
@@ -380,6 +398,8 @@ class Dataset:
             return self.search_ontology(query, k=k, packs=packs)
         if self.retrieval == "hybrid":
             return self.search_hybrid(query, k=k, qvec=qvec, packs=packs)
+        if self.retrieval == "entity":
+            return self.search_entity(query, k=k, qvec=qvec, packs=packs)
         if not self.ids:
             return []
         q = qvec if qvec is not None else self.embed(query)
@@ -464,6 +484,52 @@ class Dataset:
         order = np.argsort(-sims)[:k]
         return [(cids[i], float(sims[i])) for i in order], qe
 
+    # ---- entity: question -> nearest entity descriptions -> their chunks ----
+    def _entity_rank(self, query, k, qvec=None, packs=None, n_entities=None):
+        if not self.has_entity_vectors:
+            return [], []
+        qv = qvec if qvec is not None else self.embed(query)
+        rows = np.arange(len(self.ent_ids))
+        if packs is not None:
+            rows = np.fromiter((r for r in rows if entity_in_scope(self.entities[self.ent_ids[r]], packs)),
+                               dtype=np.int64)
+        if not len(rows):
+            return [], []
+        esims = self.ent_mat[rows] @ qv
+        n = min(n_entities or max(2 * k, 10), len(rows))
+        top = rows[np.argsort(-esims)[:n]]
+        ents = [(self.ent_ids[r], float(self.ent_mat[r] @ qv)) for r in top]
+        row = {cid: r for r, cid in enumerate(self.ids)} if self.has_vectors else {}
+        ranked, seen = [], set()
+        for iri, escore in ents:
+            cids = [c for c in self._scoped_chunks(self._ent_chunks.get(iri, []), packs) if c not in seen]
+            if row:   # within one entity, the passages closest to the question first
+                cids.sort(key=lambda c: -(float(self.mat[row[c]] @ qv) if c in row else -1.0))
+            for c in cids:
+                seen.add(c)
+                ranked.append((c, escore))
+                if len(ranked) >= k:
+                    return ranked, [i for i, _ in ents]
+        return ranked, [i for i, _ in ents]
+
+    def search_entity(self, query, k=6, qvec=None, packs=None):
+        ranked, _ents = self._entity_rank(query, k, qvec=qvec, packs=packs)
+        return [self._hit(cid, s) for cid, s in ranked]
+
+    def answer_entity(self, query, k=6, expand=3, packs=None):
+        ranked, ents = self._entity_rank(query, k + expand, packs=packs)
+        used = [cid for cid, _s in ranked]
+        facts = self._facts(set(ents[:k]) | {i for cid in used for i in self.chunks[cid].get("entities", [])},
+                            packs)
+        passages = [{"cite": cid, "doc": self.chunks[cid]["doc"],
+                     "heading_path": self.chunks[cid].get("heading_path", []),
+                     "entities": self._entity_labels(self.chunks[cid].get("entities", [])),
+                     "text": self.chunks[cid]["text"]} for cid in used]
+        return {"query": query, "matched_entities": self._entity_labels(ents[:k]),
+                "ontology_facts": facts, "passages": passages,
+                "instruction": "Answer the query using ONLY these passages; cite by [cite]. "
+                               "Use ontology_facts for grounding. Say so if insufficient."}
+
     def search_hybrid(self, query, k=6, qvec=None, packs=None):
         ranked, _qe = self._hybrid_rank(query, k, qvec=qvec, packs=packs)
         return [self._hit(cid, s) for cid, s in ranked]
@@ -503,6 +569,8 @@ class Dataset:
             return self.answer_ontology(query, k=k, expand=expand, packs=packs)
         if self.retrieval == "hybrid":
             return self.answer_hybrid(query, k=k, expand=expand, packs=packs)
+        if self.retrieval == "entity":
+            return self.answer_entity(query, k=k, expand=expand, packs=packs)
         q = self.embed(query)
         top, scores = self._dense_top(q, k, packs)
         chosen = [self.ids[i] for i in top]

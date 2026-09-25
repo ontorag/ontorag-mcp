@@ -19,7 +19,7 @@
       "recall@1": 0.65,
       "recall@5": 0.817,
       "recall@10": 0.85,
-      "MRR": 0.719
+      "MRR": 0.721
     }
   },
   "vector": {
@@ -55,10 +55,10 @@
     },
     "niah": {
       "n": 80,
-      "recall@1": 0.75,
+      "recall@1": 0.762,
       "recall@5": 0.85,
       "recall@10": 0.938,
-      "MRR": 0.801
+      "MRR": 0.81
     },
     "paraphrase": {
       "n": 120,
@@ -66,6 +66,29 @@
       "recall@5": 0.725,
       "recall@10": 0.808,
       "MRR": 0.592
+    }
+  },
+  "entity": {
+    "entity_named": {
+      "n": 120,
+      "recall@1": 0.942,
+      "recall@5": 0.958,
+      "recall@10": 0.975,
+      "MRR": 0.947
+    },
+    "niah": {
+      "n": 80,
+      "recall@1": 0.938,
+      "recall@5": 0.963,
+      "recall@10": 0.988,
+      "MRR": 0.946
+    },
+    "paraphrase": {
+      "n": 120,
+      "recall@1": 0.975,
+      "recall@5": 0.992,
+      "recall@10": 0.992,
+      "MRR": 0.983
     }
   }
 }

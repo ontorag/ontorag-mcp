@@ -1,0 +1,596 @@
+[
+ {
+  "qid": "indep-002",
+  "entity": "Madrasah",
+  "kind_of_thing": "Place",
+  "aliases": [
+   "Madrasah"
+  ],
+  "book": "art-academe",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Six: Institutional Education",
+     "Muslim Schools"
+    ],
+    "text": "in Baghdad is the most famous. The House of Wisdom is a center for the translation of Syriac, Persian, and Greek texts into Arabic, focusing on science. Historically, the House of Wisdom is destroyed in 1258 by invading Mongols. Madrasah masters follow a religious organization, which avoids many of the tensions found in Western universities between masters and cathedral chancellors, bishops, and secular lords. Students begin their studies in the **hifz** course, memorizing the Qur'an if they have not yet done so, then continuing in the **'alim** courses. 'Alim students study Artes Liberales, Islamic Law, and Theology: Islam, as well as optional courses in Latin, Greek, Medicine, and Muslim history. Other academic interests are natural philosophy, natural magic, alchemy, astrology, and divination, all of which are perceived as suitable topics of erudite exploration. No licenses or degrees are conferred, even though Muslim students study for the same length of time as Western students. At the end of his studies, a student is accepted as a scholar, and may teach in a madrasah or perform other religious roles. Muslim scholars are much more interested in Western science and religion than Westerners are interested in them. It is not unusual to find a Muslim 'Alim (scholar) learned in Christian Theology, or willing to debate theological points with a cleric. Their acceptance of foreigners makes them focal points for translated texts, translating the ancient Greek books into Arabic a"
+   }
+  ]
+ },
+ {
+  "qid": "indep-010",
+  "entity": "Hospitaller Knights of St. John",
+  "kind_of_thing": "Faction",
+  "aliases": [
+   "Hospitaller Knights",
+   "Hospitaller Knights of St. John"
+  ],
+  "book": "city-guild",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter One: Towns & Cities",
+     "Town Profiles",
+     "Acre"
+    ],
+    "text": "Acre is the major port in the Kingdom of Jerusalem and the center of Christian activity in Outremer, or the Holy Lands. It is a very dangerous place, which was captured from the Muslims in 1104, recaptured by Saladin in 1187, and recovered again in 1191 during the Third Crusade. Acre was the staging site for a recent Crusade that captured the Egyptian city of Damietta in 1219 — although, historically, these Crusaders were routed in 1221 — and Acre and the various fortresses in the surrounding countryside are constantly at risk from attack by Muslim forces. If your saga follows history, the city is again recaptured by Muslim forces in 1291. The inner town of Acre is protected by a wall and castle, and another wall and a moat surround the outer town. Acre's harbor is surrounded by enclaves of Pisan, Genoese, Venetian, and Marseilles merchants. Each enclave has its own charter, churches, fortifications, markets, and system of taxation. Acre's urban landscape is further complicated by the presence of the military orders, the Hospitaller Knights of St. John, the Teutonic Knights, and the Knights Templar, each of which control their own sections of the city. Finally, as Jerusalem has not been re-conquered, Acre is the nominal capital of the Kingdom of Jerusalem and a further section of the city is under the control of the king. St. Francis of Assisi visited Acre during his time with the Crusaders, but he departs for Venice in July"
+   }
+  ]
+ },
+ {
+  "qid": "indep-018",
+  "entity": "The Marvelous Hound",
+  "kind_of_thing": "Magic Item",
+  "aliases": [
+   "The Marvelous Hound"
+  ],
+  "book": "covenants",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Four: Covenfolk",
+     "Fantastical Covenfolk",
+     "The Virtuous Hound"
+    ],
+    "text": "the unique strengths and weaknesses of beasts. Exceptional beasts may take individual Virtues and Flaws, on top of their species types, but these must balance as normal. > > Normal Beasts cannot learn new Abilities unless Trained, but can improve existing Abilities; intelligent beasts can improve as normal. Beasts usually have a number of Abilities, which represent what members of their species can perform instinctually, rather than things they have learned. (Beasts are usually \"too young\" to have learned anything by the normal process of character generation.) > ## Lesser Device: The Marvelous Hound > > Muto Animal (Corpus, Mentem) 34 Pen +0, constant effect > > R: Touch, D: Constant Effect, T: Ind This collar transforms a normal hound into an ideal servant, who walks erect and has hands; has the intellect of a grog; but retains the devotion, willingness to please. and loyalty of a hound. The creature's overall appearance remains hound-like, but its limbs and intellect are transformed by the device. > > One defect is that the hounds suffer Warping from the constant effect, but over the lifetime of a dog, this is generally not too much of a problem. > > (Base 15, +1 Touch, +14 levels always on, requisites free) > ## Fantastical Device: The Remote Entrance Portal > > Rego Corpus 50 > > Pen +0, 24/day > > R: Sight, D: Mom, T: Group > > For the security-minded covenant, this is a magical transporter activated only from"
+   }
+  ]
+ },
+ {
+  "qid": "indep-026",
+  "entity": "Mateos, the Faerie Butler",
+  "kind_of_thing": "Creature",
+  "aliases": [
+   "Mateos",
+   "Mateos, the Faerie Butler"
+  ],
+  "book": "definitive-edition-core-rules",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter 13: Bestiary",
+     "Creatures of Faerie",
+     "Mateos, the Faerie Butler"
+    ],
+    "text": "Faerie Might: 10 (Herbam) Characteristics: Int -1, Per 0, Pre -1, Com +3, Str -2, Sta +2, Dex 0, Qik -3 Size: -2 Age: n/a (40) Virtues and Flaws: Narrowly Cognizant Personality Traits: Convivial +3, Generous +2, Careful –2 Reputations: None Combat: - Club: Init -2, Attack +4, Defense 0, Damage +1 Soak: +2 Wound Penalties: -1 (1-3), -3 (4-6), -5 (7-9), Incapacitated (10–12) Pretenses: Carouse 9 (drinking), Charm 4 (drunk people), Etiquette 2 (parties), Faerie Lore 3 (drinks), Folk Ken 3 (drunk people), Guile 9 (convincing people to drink more), Living Language 5 (metaphors for drinking and getting drunk), Music 1 (drinking songs), Single Weapon (club) 1 Powers: *Heady Brew*, 0 points, Init -10, Corpus: Any drink served by Mateos is three times as intoxicating as normal. Drinks that were non-alcoholic to start with become as alcoholic as ale. This does not change the taste of the drink. The extra intoxication is a magical effect, with Penetration 10, and can be resisted. *Unending Drinks*, 1 point, Init –10, Aquam: For as long as he is serving a particular person, the drink in Mateos's barrel does not run out, even if he serves other people as well. If the chosen person (who is not the target of the power, and thus cannot resist) leaves, passes out, or stops drinking for any other reason, the contents of the barrel start to run out. Equipment: Barrel of alcoholic drink. Encumbrance: 3 (3) Vis: 1 pawn of Herbam in"
+   },
+   {
+    "heading_path": [
+     "Chapter 13: Bestiary",
+     "Creatures of Faerie",
+     "Mateos, the Faerie Butler"
+    ],
+    "text": "thus cannot resist) leaves, passes out, or stops drinking for any other reason, the contents of the barrel start to run out. Equipment: Barrel of alcoholic drink. Encumbrance: 3 (3) Vis: 1 pawn of Herbam in each hand. Appearance: Mateos is the size of a child, with a large pot belly, full beard sprinkled with gray, and a slightly grubby apron. He is always smiling, and offers just about everyone he meets a drink from his barrel. Mateos lives for parties, particularly parties with lots of drunkenness and stupid behavior. If he arrives somewhere where there isn't a party, he tries to start one. With his faerie ale (or wine, or cider), it doesn't usually take him very long. Once people start getting drunk, he tries to convince them to do ridiculous and embarrassing things. He does not usually encourage people to do things that could kill them, however. The parties normally finish with everyone but Mateos passed out on the floor. The Gift makes Mateos feel that the Gifted individual is a killjoy opposed to parties, and someone to be hurried out of the way as soon as possible."
+   }
+  ]
+ },
+ {
+  "qid": "indep-034",
+  "entity": "Rübezahl",
+  "kind_of_thing": "Creature",
+  "aliases": [
+   "Rübezahl"
+  ],
+  "book": "guardians-of-the-forests-the-rhine-tribunal",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Four The Forest",
+     "The Forest",
+     "Woodland Spirits"
+    ],
+    "text": "German wood-faeries are known as *Waldgeister* (wood-spirits; singular *Waldgeist*) and *Holzfrauen* (wood-wives; singular *Holzfrau*). The Waldgeister reside in huge numbers in forests; some are benevolent, others the opposite. The proportions of each often depends upon the general temperament of the spirit of the forest in which they live. The Waldgeister have specific names in different parts of Germany, often sharing a name between them — it is not clear whether there is one Gübich or many who all share the same name and personality. Thus, Katzenveit haunts the forests of the Fichtelgebirge (Spruce Mountains). Gübich roams the woods of the Harz, and Rübezahl haunts the forests of the Riesengebirge (Giant Mountains). Wood-wives are particularly a phenomenon of south Germany, and are less common in the northern half of the kingdom. They are the quarry of the Wild Huntsmen (see Chapter 8: Central Germany, The Harz Mountains). Dirne-Weibl dresses in a red frock carrying a basket of apples. She gives away the apples, which later change into gold if she is treated with courtesy. Finz-Weibl wears a wide-brimmed hat, but is very hairy. Salgfräulein dresses in white and sits under old larch trees, singing. Frau Wacholder, genius of the juniper tree, is invoked to make thieves give up their booty."
+   }
+  ]
+ },
+ {
+  "qid": "indep-042",
+  "entity": "Maiden Castle",
+  "kind_of_thing": "Place",
+  "aliases": [
+   "Maiden Castle"
+  ],
+  "book": "heirs-to-merlin-stonehenge-tribunal",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter 12: Myths and Legends",
+     "Places",
+     "Maiden Castle"
+    ],
+    "text": "Maiden Castle is a set of earthworks surrounding the top of a large hill south of Dorchester, in Dorset. The enclosure is more than 2000 feet long and 1000 feet wide, and can be entered through twisting passages between the embankments at the east and west ends. The interior seems to be totally deserted, but local tales say that it is a faerie stronghold, and that people going there on the correct night may meet the fay."
+   },
+   {
+    "heading_path": [
+     "Bibliography",
+     "Myths and Legends"
+    ],
+    "text": "Bede [1955] *A History of the English Church and People* (Harmondsworth: Penguin) Layamon [1996] *Brut* (In *Arthurian* *Chronicles* (Toronto: University of Toronto Press)) Bord, J. and Bord, C. (1978) *A Guide to Ancient Sites in Britain* (London: Latimer) Bord, J. and Bord, C. (1985) *Sacred Waters* (London: Granada) Burl, A. (1979) *Rings of Stone* (London: Frances Lincoln) Crawford, H. ed. (1979) *Subterranean Britain* (London: John Baker) Malone, C. (1989) *Avebury* (London: Batsford) Newman, P. (1997) *Lost Gods of Albion* (Thrupp: Sutton) Richards, J. (1991) *Stonehenge* (London: Batsford) Sharples, N. M. (1991) *Maiden Castle* (London: Batsford) Thomas, C. (1985) *Exploration of a Drowned Landscape* (London: Batsford) Thomas, C. (1993) *Tintagel* (London: Batsford) Also Marie de France [1986], The Mabinogion [1976]"
+   }
+  ]
+ },
+ {
+  "qid": "indep-050",
+  "entity": "Form of the (Temperament) Heartbeast",
+  "kind_of_thing": "Named Spell",
+  "aliases": [
+   "Form of the (Temperament) Heartbeast"
+  ],
+  "book": "houses-of-hermes-mystery-cults",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter One: House Bjornaer",
+     "Characters of House Bjornaer",
+     "Virtues & Flaws",
+     "Mythic Blood"
+    ],
+    "text": "Birna had several natural children through her life, and her bloodline is carefully guarded by House Bjornaer, and watched for signs of The Gift. Magi of this lineage always have a bear heartbeast, but apart from this, the Founder's bloodline may manifest in a number of ways. Most commonly, those of Birna's blood receive a Minor Magical Focus in Legendary Creatures and acquire one of the *Form of the (Temperament) Heartbeast* spells as their magical feat. These spells were originally modeled from Birna's own innate abilities. The hereditary Minor Personality Flaw from Birna's line is Slothful (see New Flaws, below). It is also possible to bear the blood of one of the Great Beasts — Gifted children may arise from the interaction of the Great Beasts with shapechanged humans. The benefits of this Virtue are typically related to the supernatural powers of the Great Beast."
+   },
+   {
+    "heading_path": [
+     "Chapter One: House Bjornaer",
+     "Examples of Mythic Blood"
+    ],
+    "text": "| Blood | Magical feat | Minor Magical Focus | Personality Flaw | |----------------|-----------------------------------|------------------------------|------------------| | Birna | Form of the (Temperament) Heartbeast | Legendary Creatures | Slothful | | Wolf of Virtue | Paralyze a Man at R: Eye | Wolves | Envious | | Owl of Virtue | Silence of the Smothered Sound | Ghosts | Nocturnal | | Griffin | Panic of the Elephant's Mouse | Courage | Reckless | | Phoenix | Coat of Flame, R: Touch | Aging | Higher Purpose |"
+   }
+  ]
+ },
+ {
+  "qid": "indep-058",
+  "entity": "Green Dragon of Labin",
+  "kind_of_thing": "Creature",
+  "aliases": [
+   "Green Dragon of Labin"
+  ],
+  "book": "houses-of-hermes-societates",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter One: House Flambeau",
+     "Schools of Magical Combat at a Glance",
+     "Example Schools of Magical Combat",
+     "The School of Vilano"
+    ],
+    "text": "**Recommended Virtue: Puissant Finesse or Cautious With Ability (Finesse)** The School of Vilano relies on indirect attacks that bypass Magic Resistance. An example of an indirect attack is using magic to levitate a rock over someone's head, then dropping the rock. Several examples of indirect attacks are given in ArM5, page 86. Vilano was a ninth-century Flambeau magus from Istria in the Transylvanian Tribunal. He suffered from the Hermetic Flaw Weak Magic but remained determined to prove himself in battle. Vilano was the first member of House Flambeau to succeed using only indirect spells, most famously when he slew the Green Dragon of Labin by crushing it with two falling trees. His tactics have been widely emulated both within and outside his House. Using indirect spells allows a follower of Vilano to attack any opponent regardless of how strong its Magic Resistance may be. Members of this school don't need to worry about using low-magnitude spells in order to get a better Penetration Total: they may bring their mightiest spells to bear against even the most powerful opponent. This makes the School of Vilano surprisingly effective. The School of Vilano is very popular as a secondary school, to be used when a magus's primary attack doesn't work. It is probably the most commonly used school of magical combat in the Order as a whole, for it requires neither specific Arts nor Mastery of any spells. This makes it attractive to magi who want some combat capability"
+   }
+  ]
+ },
+ {
+  "qid": "indep-066",
+  "entity": "Heroic Personality",
+  "kind_of_thing": "Flaw",
+  "aliases": [
+   "Heroic Personality"
+  ],
+  "book": "houses-of-hermes-true-lineages",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Three: House Mercere",
+     "Virtues and Flaws",
+     "Blood of Heroes"
+    ],
+    "text": "You are descended from a great hero of legend or a powerfully supernatural being. You do not have The Gift, and taking this Virtue means that you are a Mythic Companion. You should have some idea of the character's heritage, linking your background to the story of some legendary ancient or medieval hero. You need not be descended from that figure, but you should give some thought as to how it has been reborn or made manifest in your character, and consider what you will be expected to accomplish because of it. This will help describe your personality and your heroic powers, though the specifics may remain a mystery to the character if you wish. You may take Heroic Virtues and Flaws, and each point of Flaws that you take during character creation balances two points of Virtues instead of one. You also receive one free Minor Virtue that describes your supernatural heritage. You must take the Heroic Personality Flaw (described below), and you must normally belong to House Mercere. For most hero characters, this means taking Redcap, and that leaves you with nine more points of Flaws for as many as eighteen points of Virtues. As a member of House Mercere, you are considered a full member of the Order of Hermes and are treated with special respect by your House. Other magi may think less of you, just as they might not think much of Redcaps, but you have much more chance of getting"
+   },
+   {
+    "heading_path": [
+     "Chapter Three: House Mercere",
+     "Virtues and Flaws",
+     "Mythic (Characteristic)",
+     "Vis Sensitivity"
+    ],
+    "text": "*Major, Heroic* You are unusually sensitive to raw vis, and can tell whether or not an object contains any simply by touching it. You can also determine how many pawns it is worth by weighing it in your hand, and learn what Art it is associated with by examining it closely. In this way you can recognize magic items, active rituals, familiars, and other objects that require vis to prepare, though you cannot identify them or determine any specific details about them. You may also begin with the Magic Sensitivity virtue at no cost. Magic Sensitivity is not compulsory, if you do not want the penalty to Magic Resistance. > ## Flaws > > **STORY, MAJOR** > > Pagan > > **HERMETIC, MINOR** > > Bound Magic > > Fettered Magic > > Illegitimate Lineage > > **HEROIC, MINOR** > > Heroic Personality > > Tragic (Characteristic) > > **STORY, MINOR** > > Hermetic Patron > > Legacy > > **STATUS, MINOR** > > Usurer"
+   }
+  ]
+ },
+ {
+  "qid": "indep-074",
+  "entity": "Speak Jotunn",
+  "kind_of_thing": "Hermetic Ability",
+  "aliases": [
+   "Speak Jotunn"
+  ],
+  "book": "icelandic-wars-land-of-fire-and-ice",
+  "passages": [
+   {
+    "heading_path": [
+     "The Grapes of Wrath",
+     "Gull Hellirsson"
+    ],
+    "text": "**Characteristics:** Int +3, Per +1, Pre –1, Com 0, Str +23, Sta +22, Dex +2, Qik +5 **Magic Might:** 68 **Age:** Irrelevant **Size:** +6 **Personality Traits:** Friend of Man –2, Calculating +3, Violent +1 **Reputations:** Leader of fire giants +3, with Icelandic giants; Suicidal to cross +4, with trolls **Important Abilities:** Jotunn Affinity with Fire 20 (molten metal), Shapeshift 19 (dragons), Transform 9 (trolls), External Soul, Survival 7 (volcanoes), Climb 5 (mountains), Great Weapon 14 (warhammer), Thrown Weapon 10 (molten metal), Speak Jotunn 12 (Clan of Geirrod), Potency 12 (Jotunn Affinity) **Weapon / Attack** Init Atk Dfn Dam Fat Warhammer +30 +27 +19 +48 +37 Thrown Molten Gold +20 +13 +n/a +50\\* +33 \\*On the following round apply +35 fire damage, each subsequent round subtracting 5 from this damage. Those within 12 feet of the target receive +20 fire damage the first round, +15 the second and so on. The gold is magical and so magic resistance is effective. The gold turns to dust at sunrise or sunset. **Soak:** +48 (with full scale mail armor) **Fatigue levels:** OK, 0, 0, 0, –1, –1, –1, –3, –3, –5, –5, Unconscious **Body levels:** OK, 0, 0, 0, –1, –1, –1, –3, –3, –5, –5, Incapacitated **Powers:** *Jotunn Spells*, CrIg, Te Varies, 0 magic points: Gull has become particularly proficient at a number of fire effects. Rather than calling on Jotunn spirits, Gull can invoke some fire magics directly, and when invoking such effects Gull uses his Stamina instead"
+   }
+  ]
+ },
+ {
+  "qid": "indep-082",
+  "entity": "Robes of Puissant Might",
+  "kind_of_thing": "Magic Item",
+  "aliases": [
+   "Robes of Puissant Might"
+  ],
+  "book": "lion-of-the-north-the-loch-leglean-tribunal",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter 5: Covenants",
+     "The Covenant of Crun Clach",
+     "Inhabitants",
+     "Caitlin Suil Uaine, House Merinita"
+    ],
+    "text": "when moving). Oak wand talisman: +7 protection from storms, +4 control things at a distance, +4 destroy things at a distance, +3 project bolt or missile, +2 repel things; focus for Curse ofCirce (MuCo 30), focus for Panic of the Elephant's Mouse (ReAn 15) > >Ring of Plant Mastery (a wooden ring): Allows spontaneous Rego Herbam spells of level 20 or less with no fatigue loss. > >Ring of the Sea's Command (a silver band surmounted by an aquamarine): Allows spontaneous Rego Aquam spells of level 25 or less with no fatigue loss; only works on salt water. > >Ring to Ward the Fire's Wrath (copper ring surmounted by a ruby): Grants +15 soak against fire, Ignem-based spells, dragon's fire, etc, > >Robes of Puissant Might: Protection 15 robes with no encumbrance. > >#### Faerie Powers >Faerie Eyes +0, Faerie Sight 0, Fascination +1, Healing +1, Speak with Animals +1, Very Tough +1 > >Faerie Sight: As the +1 Supernatural Virtue > >Fascination: Those who look at or listen to Caitlin see her as someone whose praise they desire. They are willing to follow reasonable requests. The effect may not be dispelled by magic, except on a personal basis. It is equivalent to a ReMe 25 spell. Caitlin may call on this power at will and need not use it all the time. > >Healing: For the cost of 1 fatigue level, Caitlin may heal one body level, either her own or another's. The recipient must"
+   }
+  ]
+ },
+ {
+  "qid": "indep-090",
+  "entity": "Noble Reputation",
+  "kind_of_thing": "Hermetic Concept",
+  "aliases": [
+   "Noble Reputation",
+   "Prudhomme",
+   "Prudhomme Reputation"
+  ],
+  "book": "lords-of-men",
+  "passages": [
+   {
+    "heading_path": [
+     "Contents"
+    ],
+    "text": "**Chapter One: Introduction** Noble Characters for Many Styles of Saga **Chapter Two: Politics** The Gratitude System The Projection of Power Retinue Family Designing a Family Inheritance Marriage and Dowries Military Clerical and Menial Criminals Offices Admiral Butler Chancellor Chamberlain Constable Counselor Justiciar Marshal Sheriff / Bailie / Sénéchal Steward Treasurer Offices Found Only Near England Coroner Forest Warden Vassals Why Bother With Vassals? Vassalage Allows Nobles to Express a Common Interest Vassalage Allows for Huge Transactions Vassalage is a Form of Truce Vassalage Limits Genocidal Warfare Money Warriors Scutage Advice Wardship of Heirs Wardship of Widows Affinity Secular Allies Church Allies Affinity Leadership Control Through Emotional Bonds Agents Design of Agents Acquiring Agents Using Agents Maintaining Agents Reputation Noble Reputation Prudhomme Improving Noble Reputation The Advantages of Reputation Reputation is Utterly Vital Public Power for Women Dressing as a Man Holding Land Absence Inheritance Political Success Conquest Widow’s Portion and Stewardship Nuns **Chapter Three: A Comparison of Titles** The French (and English) System Squire (Armiger, Écuyer) Knight (Miles, Chevalier) Bacheler Knight Knight Banneret Baron (Baro, Baron) Earl or Count (Comes, Comte) Viscount (Vice-comes, Viscomte) Count Palatine and Marcher Lord Duke (Dux, Duc) King (Rex, Roi) The German System Herr (Generosus, Lord) Freiherr Ritter (Miles, Knight) Ministeriales "
+   },
+   {
+    "heading_path": [
+     "Chapter Two: Politics",
+     "Reputation",
+     "Noble Reputation"
+    ],
+    "text": "This section extends the Reputation Table on page 19 of ArM5, providing a fourth style of Reputation to accompany Local, Hermetic, and Ecclesiastic. Noble Reputation allows members of the landed class to know about each other. For the purpose of these Reputations, the landed class contains every man or woman who holds land, who holds a significant office from a major nobleman, who acts as a major landholder on behalf of the Church, or who may inherit any of these states. There are some obvious overlaps between these types of Reputation, and troupes using these rules should allow characters' players to alter their scores to suit their history in play."
+   }
+  ]
+ },
+ {
+  "qid": "indep-098",
+  "entity": "Bellum",
+  "kind_of_thing": "Hermetic Concept",
+  "aliases": [
+   "Bellum"
+  ],
+  "book": "magic-apprentices",
+  "passages": [
+   {
+    "heading_path": [
+     "Contents"
+    ],
+    "text": "The Chameleon Cat The Cleric’s Pate The Cook’s Revenge The Curse of Diana Curse of the Baby’s Bladder Closing the Campfire The Dancer’s Dame Ears of the Hare An Evening’s Illumination Hurling the Droplet of Lye Hypnotic Gaze The Jongleur’s Steps Jupiter’s Tears The Laundress’ Clothesline Mimic the Christ’s Miracle A Pestilence of Fleas Physician’s Sense The Poor Performer’s Reward The Racing Rot The Reward Delivered Sense the Sleeping Hound Shattering Touch Slap of Awakening The Smokeless Campfire The Studious Doppleganger The Unruffled Traveler Whispering Fingers **Chaptere Five: Adolescentia: Ages 15 to 21** Coming of Age Marriage Supernatural Interests Life in the Covenant Life in the Laboratory Laboratory Turbulences Laboratory Adventures Bellum Failing an Apprentice Losing the Gift Apprenticeship’s End: The Gauntlet Learning Parma Magica Post-Apprenticeship Scholae Magicae"
+   },
+   {
+    "heading_path": [
+     "Chapter One: Introduction",
+     "How to Use This Book"
+    ],
+    "text": "give child apprentices the opportunity to cast formulaic spells in addition to their attempts at spontaneous magic. Chapter 5: Adolescentia describes ages 15 through 21, the core of Hermetic apprenticeship. Laboratory life is explored, from the mind-numbing daily chores to the opportunities for adventure within a season of lab activity. Some unfortunates fail apprenticeship, losing their Gift but still remaining useful in the Order. **Bellum** is magical game that adolescent apprentices and young magi play to practice their Arcane Abilities. An Hermetic apprenticeship closes with the Gauntlet, a test to determine if an apprentice is ready to swear the Oath of Hermes and join the ranks of magi as a true magus. Other aspects of adolescence are included, those that affect both Gifted and unGifted boys and girls: growing up, getting married, and navigating the supernatural forces that await every adolescent in Mythic Europe with interest. One final caveat: situations will occur in which you and your troupe must decide how to apply the information contained in this supplement to rules found in other **Ars Magica Fifth Edition** products. Every character has had a childhood and the childhood rules can be used for every character in Mythic Europe, but how that specifically happens depends on the character, her location, and her role in your stories. Learned Magicians, Muspelli, diabolists, spirit votaries, and faerie doctors all had childhoods, but a volume of this size cannot addre"
+   }
+  ]
+ },
+ {
+  "qid": "indep-106",
+  "entity": "Heriodas",
+  "kind_of_thing": "Creature",
+  "aliases": [
+   "Heriodas"
+  ],
+  "book": "magic-hedge-magic-revised",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Six: Nightwalkers",
+     "Processions",
+     "The Processions of the Dead"
+    ],
+    "text": "threaten) against an Ease factor as given below. | Ease Factor | Circumstances | |-------------|-----------------------------------------------| | 3 | Question may be answered with a yes or no. | | 6 | Question requires an answer a sentence long. | | 9 | Question requires an answer up to six sentences long. | No roll is required for questions that the nightwalker may answer just by observing the spirit. Are they are in a procession of happy, pious dead or a procession of wretches whipped along by demons? Do they have injuries that give clues as to their manner or death, or the location of their bodies? The Ease Factors above should be modified if the ghost has appropriate Personality Traits. Each nightwalker may ask one question of any particular ghost on a given night. >#### Other Processions of the Dead > >In Mythic Europe there are ghosts aligned to each Realm. With the exception of Divine ghosts, processions of each Realm are found, as well. There are people similar to nightwalkers who participate in the processions of the Faerie and Infernal ghosts, and the Magical nightwalkers described in this chapter keep a careful eye on these groups, sometimes mustering to fight them if they leave their designated route. > >The Faerie processions have various functions and leaders, but the ones best known to the nightwalkers are led by faeries that go by names like Diana or Perchte or Frau Holle or Ricella or Heriodas. The many"
+   },
+   {
+    "heading_path": [
+     "Chapter Six: Nightwalkers",
+     "Processions",
+     "The Processions of the Dead"
+    ],
+    "text": "Faerie processions have various functions and leaders, but the ones best known to the nightwalkers are led by faeries that go by names like Diana or Perchte or Frau Holle or Ricella or Heriodas. The many faeries who assume this role collect the dead and lead them, each year, to pagan underworlds. Their charges are not well restrained, and they sometimes cause damage because of a riotous desire to taste the final pleasures of the living world. > >Frau Holle is also known to steal naughty children and carry them away forever. On a few occasions, a Faerie procession has been interrupted by the nightwalkers and put to flight in order to rescue a child. Generally, the processions avoid each other. > >There are many Infernal processions. Some form spontaneously, when many people die tragically in the same area. Plague and war, for example, can create wandering hordes of ghosts. Other processions are not spontaneous: they are punishments for corrupt souls. The best known of these is led by the demon Herlichinus, who wears a fool's motley. If a charge of his escapes, the demon jester sends a minion to claw it back to him. The nightwalkers try to prevent too much damage from occurring as the demon seeks the fleeing shade, either by helping it to pass out of the world, or by capturing it and delivering back to the procession."
+   }
+  ]
+ },
+ {
+  "qid": "indep-114",
+  "entity": "Histria",
+  "kind_of_thing": "Covenant",
+  "aliases": [
+   "Histria"
+  ],
+  "book": "mythic-locations",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Five: The Farne Islands",
+     "A Mystical Archipelago",
+     "Variant: Alternative Locations",
+     "The Brijuni Islands"
+    ],
+    "text": "Found off the coast of Croatia in the northern Adriatic sea, the Brijuni (or Brioni, in Italian) islands are separated from the Istrian Peninsula by the Fažana Strait, about a mile and a quarter wide. There are two larger islands, Veliki Brijun and Mali Brijun (Big and Little Brijun, respectively), and twelve smaller islets. Bonosus, a repudiated fifth century bishop of Sardica (now Sredets in Bulgaria) exiled himself to Veliki Brijun, and named one of the other islands after his friend Saint Jerome (Sveti Jerolim in Slavonic). Bonosus was condemned for teaching (amongst other things) that after Jesus, Mary had several other children, thus initiating the Bonosian heresy that persisted into the eighth century. Bonosus takes the place of Saint Cuthbert; Osgood is instead called Obrad and is an exiled Serbian *župan*. The Istrian Peninsula and the nearby island of Cres are home to the oppida of Histria and Shrouded Bay (an oppidum is what magi of the Transylvanian Tribunal have instead of covenants). Magi assigned to Histria or visiting there may have reason to visit the Brijuni islands."
+   },
+   {
+    "heading_path": [
+     "Chapter Ten: The Truffle Matron",
+     "Truffles of the Realm",
+     "Varieties of Truffles in Your Saga"
+    ],
+    "text": "on the roots of oak, hazel, poplar, and beech trees. The best white truffles come from the Piedmont region, especially the area around the city of Alba, but they grow throughout the Roman Tribunal. They can be found in the south west portions of the Normandy Tribunal and the western most portions of the Provencal Tribunal. They also grow in Croatia on the Istria peninsula in the Motovun forest. For a further description of this area, see the Old Histria in Against the Dark: The Transylvania Tribunal, page 73. Their exteriors are off-white or beige, and their flesh is cream colored with white marbling. White truffles are harvested in autumn. They have a very strong earthy flavor and pungent aroma. They are generally about the same size as black truffles, but occasionally grow up to five inches in diameter and can weigh over a pound. **Bohemian truffles** are unlike the previous varieties in that they grow above ground, do not prefer a specific variety of tree, and may grow on rotting logs. They are widespread throughout the Rhine, Greater Alps, and Normandy Tribunals. Bohemian truffles are large spherical or oval balls with a hard brown or black exterior. The flesh of the Bohemian truffle is brown or white in young specimens, but turns dark brown to purple with age. They are collected and eaten in parts of Germany, especially near Bohemia, in the spring. If allowed to mature, they develop a black viscous gel inside, which"
+   }
+  ]
+ },
+ {
+  "qid": "indep-122",
+  "entity": "Borrowers",
+  "kind_of_thing": "Faction",
+  "aliases": [
+   "Borrowers",
+   "faerie borrowers"
+  ],
+  "book": "realms-of-power-faerie",
+  "passages": [
+   {
+    "heading_path": [
+     "Table of Contents"
+    ],
+    "text": "Faerie Sympathy Gaining Faerie Sympathy Traits Using Faerie Sympathy Traits Losing Faerie Sympathy Traits Faerie Warping Sources of Faerie Warping The Faerie Realm Faerie Auras Faerie Powers Botches Faerie Calling **Chapter 6: Faerie Wizardry** Rites of Faerie Performing Faerie Rites Hermetic Rites Faerie Methods Evocation Enchantment Empathy Faerie Powers Beguile Conjure Dream Grant Portage Ware Weal Woe Faerie Bargaining Ars Fabulosa Summoning Bonding Captivating Dismissing Pagan Traditions Borrowers Ollamhain Volkhvy Wise Folk **Chapter 7: Telling Faerie Stories** Revel in Anachronism & Appropriation Anachronism Appropriation Be Topical Use Other Stories Dissecting Stories Story Flow The Hook The Trigger The Setting The Twist The Resolution The Consequences Dramatic Elements Dramatis Personae The Hero The Villain The Donor The Helper The Princess The Task-Setter The False Hero Acts Interdiction Reconnaissance Trickery Villainy Receipt Transference Struggle Pursuit Ordeal Imposture Reconciliation **Appendix: Bibliography** >## List of Inserts > >### I. Nature of Faerie > > Where Did Faeries Come From? > > Story Seed: Base Slander > > Where Are the Rules for Faeries Feeding on Vitality? > > Faeries and Truth > > Does My Character Know This? > > >### II. The Faerie Realm > > Example Threshold > > Trods > > New Power: Spirit Away > > Faerie Adventurers > > The Power of God in the Faerie Realm > > Consequences of Creativity > > Leaving by Using Merinita Mysteries > > The Subjec"
+   },
+   {
+    "heading_path": [
+     "Chapter Six: Faerie Wizardry",
+     "Pagan Traditions",
+     "Borrowers"
+    ],
+    "text": "**Favored Arts:** Summoning, Bonding, Captivating, Dismissing The Ars Fabulosa have only just begun to spread through Mythic Europe, and among the people who practice them is a strange sort that call themselves \"faerie borrowers.\" These folk often seem especially foreign and exotic — like travelers from far-off lands with odd habits and unusual customs. They may present themselves as merchants or pilgrims, performers or messengers, or even soldiers or spies for distant lords. Their primary interest is in faeries, with whom they are especially skilled at dealing, and it is with faeries that they conduct their business. They essentially make their living selling goods to the faerie realm; their payment is the blessings of the fae. When asked what it is that they borrow, they might answer that they borrow the power of the faeries — though some of them \"borrow\" from humans as well, since not all of their wares are always obtained honestly. Borrowers usually trade in novelty; they pick up strange goods from distant places, including small animals, food and drink, fine art, and even magical artifacts (such as enchanted devices or other objects containing vis), and these wares often fetch a good price with faeries, since they usuallyaccept the claim that treasures from distant lands contain more vitality than items obtained locally. Through careful negotiation, Borrowers can sustain a burgeoning business on just a few faerie bargains a year, as long as their competition remains rela"
+   }
+  ]
+ },
+ {
+  "qid": "indep-130",
+  "entity": "River Aare",
+  "kind_of_thing": "Place",
+  "aliases": [
+   "Aare",
+   "River Aare"
+  ],
+  "book": "realms-of-power-magic",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Seven : Magic Spirits",
+     "Example Spirits of Places",
+     "Lake Brienz",
+     "Brienz"
+    ],
+    "text": "– Might cost, Aquam: duplicates any non-Ritual Muto Aquam or Perdo Aquam spell no greater than 30th level at a cost of 1 Might point per magnitude of the effect. (Focus Power x 2) *Presence*, 0 points, constant, Imaginem (Greater Power) *Ruler of Fog*, variable points, Init 0 – Might cost, Auram: duplicates any non-Ritual spell pertaining to fog or mist less no greater than 30th level, at a cost of 1 Might point per magnitude of the effect (Focus Power x 2) **Vis:** 6 pawns of Aquam vis; 3 pawns per year can also be harvested by diving deep into the lake. **Appearance**: Lake Brienz is located on the northern edge of the Alps, and is fed by the river Aare. It is nine miles long and a mile and a half wide. Its steep-sided slopes are very difficult to navigate by foot, and are thus sparsely settled."
+   }
+  ]
+ },
+ {
+  "qid": "indep-138",
+  "entity": "Tree Guarded by Michael",
+  "kind_of_thing": "Place",
+  "aliases": [
+   "Tree Guarded by Michael"
+  ],
+  "book": "realms-of-power-the-divine-revised",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Two: Heaven and Earth",
+     "Divine Auras in Play",
+     "Empyreal Auras",
+     "EMPYREAL AURA POWER"
+    ],
+    "text": "People and relics only radiate an Empyreal aura when they have five or more Faith Points (see Blessed By God, True Faith). A place where a powerful miracle has occurred, or where a Divine creature lives, may fall under an Empyreal aura. Empyreal auras from miracles have a rating of one point for every five levels of miracle above 50. A miracle with a magnitude of 50 generates an Empyreal aura of 1, and a level 65 miracle creates an Empyreal aura of 4, for as long as the miracle's effect is present or continues to have an influence on the person or area (note however that the Empyreal aura is static and does not move). Continued miraculous activity in the area will help sustain the Empyreal aura, which will extend in a sphere for as far as the miracles effect. The living places of divine creatures can also become sanctified and radiate Empyreal auras. If Lupersus the holy wolf were to spend significant time (such as a season) in a particular place, that place will begin to develop an Empyreal aura of 1, which increases by one each season that he spends there up to a maximum rating of his Divine Might divided by 10. Like all Empyreal auras, it radiates in a sphere as far as the borders of his dwelling. >#### Sample Empyreal Aura: The Tree Guarded by Michael > >When patriarch Enoch was shown heaven and hell by two fiery cherubim, he"
+   },
+   {
+    "heading_path": [
+     "Chapter Two: Heaven and Earth",
+     "Divine Auras in Play",
+     "Empyreal Auras",
+     "EMPYREAL AURA POWER"
+    ],
+    "text": "it radiates in a sphere as far as the borders of his dwelling. >#### Sample Empyreal Aura: The Tree Guarded by Michael > >When patriarch Enoch was shown heaven and hell by two fiery cherubim, he visited a ring of mountains somewhere on earth (most likely in the Caucus Mountains) where, upon the highest peak, stood a ring of trees unlike any others in the world. The most splendid one of all is beloved by God and no mortal is permitted to touch it, for its roots are linked to those of the divine World Tree, and it grew out of a seed from the greatest tree in the Garden of Eden. This tree stands guarded by the Archangel Michael (see Angels), where he endures with his flaming sword until the trumpet of Armageddon is sounded. Upon Judgment Day the tree will be transplanted to stand before the temple of the Eternal king, where its fruits shall be food for the elect. > >The tree guarded by Michael is a sacred plant from the Garden of Eden with a Divine Might of 50. Because it has grown for countless eons, the area radiates an Empyreal aura of 5. The other trees surrounding it are its seedlings. Each tree possesses a Divine Might of 5 and so do not cause their own Empyreal auras. > >While Michael will not allow anyone to approach or touch the greater tree, he will allow truly pious visitors to the mountain"
+   }
+  ]
+ },
+ {
+  "qid": "indep-146",
+  "entity": "Islamic Lore",
+  "kind_of_thing": "Hermetic Ability",
+  "aliases": [
+   "Islamic Lore"
+  ],
+  "book": "realms-of-power-the-infernal",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter 7 : Demons as Destroyers",
+     "Fictiles",
+     "Golab, Foe of the Seraphim"
+    ],
+    "text": "**Order:** Vessels of Iniquity **Infernal Might:** 30 (Vim) **Characteristics:** Int +1, Per 0, Pre +2, Com +2, Str +4, Sta +4, Dex +4, Qik 0 **Size:** +1 **Confidence Score**: 1 (3 points) **Personality Traits:** Depraved +6, Hateful +6, Pious –6 **Reputations:** Foe of the Seraphim 3 (Infernal) **Hierarchy:** 3 **Combat:** Club: Init +1, Attack +13, Defense +7, Damage +7 **Soak:** +6 **Fatigue Levels:** OK, 0, –1, –3, –5, Unconscious **Wound Penalties**: –1 (1–6), –3 (7–12), –5 (13–18), Incapacitated (19–24) **Abilities:** Church Lore 5 (sects), Divine Lore 5 (heresy), Islamic Lore 5 (sects), Jewish Lore 5 (sects), Leadership 6 (mobs), Single Weapon 6 (club), Theology 6 (errors in reasoning) **Powers** *Obsession*, 1 to 3 points, Init –5, Vim: Religious Intolerance. See Chapter 4: Infernal Legions, Demonic Powers. *Form of Wickedness*, 3 points, Init 0, Mentem: See Chapter 4: Infernal Legions, Vessels of Iniquity. *Form of Man*, 0 points, Init 0, Corpus: See Chapter 4: Infernal Legions, Vessels of Iniquity. *Contagious Obsession*, 1 point per victim, Init 0, Mentem: See Chapter 4: Infernal Legions, Vessels of Iniquity. **Weakness:** Abhorrent Material (blessed objects) **Vis:** 6 pawns of Vim, in genitalia **Appearance:** In common with all Vessels of Iniquity, his natural form is indescribable; it is hatred given solid form. Any who see it are driven to indulge in the desecration of those things they hold most sacred and spiritual. When appearing as a human, Golab takes th"
+   }
+  ]
+ },
+ {
+  "qid": "indep-154",
+  "entity": "Speak Romansch",
+  "kind_of_thing": "Hermetic Ability",
+  "aliases": [
+   "Speak Romansch"
+  ],
+  "book": "sanctuary-of-ice-the-greater-alps-tribunal",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter 3: The Covenant of the Cave of Twisting Shadows",
+     "Covenfolk"
+    ],
+    "text": "> >**Confidence:** 9 > >**Virtues and Flaws:** Wise One +1, Piercing Gaze +2, Destiny +4 (to serve the final Criamon magus) and many virtues. Her ghostly state is a Flaw. > >**Personality Traits:** Faithful to Criamon +5, Desires Rest +2 > >**Reputations:** Always knows what you are going to say before you say it 2, with covenfolk; First servant of the House 3, with Criamon magi > >|Wpn/Atk | Init | Atk | Dfn | Dam | Fat | >|------------------ |------|-----|-----|-----|-----| >| Brawling (fist)\\* | –1 | –2 | –2 | +0 | n/a | > \\*Requires magical glove > >**Soak:** 0, can only be harmed by Mentem or Vim magic > >**Abilities:** Awareness 6 (things out of place in the covenant), Bargain 9 (with Criamon magi), Chirurgy 3 (magical injuries), Cave of Twisting Shadows Lore 9 (history), Craft (many) 3 (repairs), Enigmatic Wisdom 3 (Primi succession), Etiquette 5 (covenfolk), Faerie Lore 3 (Alpine), Finesse 9 (telekinesis), Folk Ken 6 (her covenant), Forgery 6 (detection), Greater Alpine Tribunal Lore 6 (history of covenants), Guile 3 (magi), Hermetic Law 5 (applying to House Criamon), Hermes Lore 6 (history), House Criamon Lore 9 (history), Leadership 3 (times of crisis), Legend Lore 3 (dream spirits), Occult Lore 6 (detecting diabolists), Philosophae 3 (historical trivia), Scribe Latin 6 (instructions), Speak Latin 6 (with magi), Speak Romansch 6 (covenfolk) > >#### Powers: > >*Mementos,* ReTe(He) 10, 0 points: This ability allows Hera to handle objects to which she had a strong"
+   },
+   {
+    "heading_path": [
+     "Chapter 3: The Covenant of the Cave of Twisting Shadows",
+     "Covenfolk"
+    ],
+    "text": "trivia), Scribe Latin 6 (instructions), Speak Latin 6 (with magi), Speak Romansch 6 (covenfolk) > >#### Powers: > >*Mementos,* ReTe(He) 10, 0 points: This ability allows Hera to handle objects to which she had a strong emotional connection in life, as if she was still alive. Hera's magical gloves make this power unnecessary, but most powerful ghosts have this power. > >*Unquiet Spirit*, ReTe(An/Aq/Co/He) 25, 1 point: This ability allows Hera to fling objects with her thoughts. Hera's telekinesis is unusually powerful. While within the Cave she can fling an object of up to 250 pounds up to 100 paces. Lighter objects that reach the edge of this range fall vertically to the ground. Hera needs to make a targeting roll to have the objects land precisely. To hit a human-sized target with a small object has a +2 aiming modifier. > >*Posession (described below):* Hera will never use this power, as it violates her religious precepts to take on matter. > >**Decrepitude:** Dead due to corrosive poisoning > >**Equipment:** Gloves. Hera wears a pair of pale gray leather gloves that allow her to handle material objects. Chatelaine. Hera carries an elaborate galena key ring on a belt. The keys are a mixture of material, magical, spectral and illusionary. They open every lock in the covenant, and much else besides. > >The covenant's autocrat, Hera, was appointed by the Founder Criamon during life, and continues to serve today. She is tall and lean and her magical"
+   }
+  ]
+ },
+ {
+  "qid": "indep-162",
+  "entity": "Puissant Church Lore",
+  "kind_of_thing": "Virtue",
+  "aliases": [
+   "Puissant Church Lore"
+  ],
+  "book": "the-church",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Six: The Corrupt",
+     "The Cistercians",
+     "Sample Characters",
+     "Father Tino of Gradara"
+    ],
+    "text": "ultimate despair and damnation. >#### The Demon Jaevert > >**Order:** Duke of the Deluders (Watchers) > >**Infernal Might:** 40 > >**Characteristics:** Int 0, Per +1 , Pre +2, Com +1, Str +5, Sta +5, Dex +5, Qik +5 > >**Size:** +3 > >**Confidence Score:** 2 (6) > >**Personality Traits**: Credible +3, Sly +2 > >**Reputations:** Duke of False Millenniums 7 > >**Hierarchy:** 7 > >**Virtues and Flaws:** Corruption, Good Teacher, Noncombatant, Puissant Guile, Puissant Church Lore. > >**Combat:** > >*Dodge:* Init +5, Attack n/a, Defense +9, Damage n/a > >**Soak:** +5 > >**Fatigue Levels:** OK, 0, –1, –3, –5, Unconscious > >**Wound Penalties**: –1 (1–8), –3 (9–13), –5 (14–18), Incapacitated (19–23), Dead (24+) > >**Abilities**: Brawl 3 (dodge), Church Lore (eschatology) 8 +2, Ceremony 6, Debauchery 8, Guile 7+2 (prophecies), Incantation 7, Infernal Lore 6 (politics), Intrigue 4 (Church), Magic Lore 4 (prophecy), Psychomachia 6, Theology (end times) 8, Teaching, (corrupt abilities) 6 > >**Powers:** > >*Angel of Light,* 2 points, Init 0, Imaginem: Jaevert may appear as a shining angel of light, radiating peace and goodwill. He often appears in this form to impart false prophecies. > >*The Wordless Conversation,* 0 points, Init 0, Mentem: Jaevert may speak directly in to the mind of any creature who he can see (assuming Magic Resistance is penetrated), and may choose to hear any verbal or mental response that the target may make. > >*Coagulation*, 3 points, Init –1, Corpus: Jaevert may"
+   }
+  ]
+ },
+ {
+  "qid": "indep-170",
+  "entity": "Normandy Lore",
+  "kind_of_thing": "Hermetic Ability",
+  "aliases": [
+   "Normandy Lore"
+  ],
+  "book": "the-lion-and-the-lily-the-normandy-tribunal",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Four: Brittany",
+     "Exspectatio",
+     "Kybella of House Tytalus"
+    ],
+    "text": "(1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+) > >**Abilities:** Artes Liberales 3 (literature), Brawl 2 (fist), Breton 3 (arguments), Concentration 2+2 (Rego), Finesse 2 (Terram), Etiquette 1 (politeness), French 5 (Norman), Latin 4 (Hermetic), Leadership 1 (brow-beating), Magic Lore 1 (earth spirits), Magic Theory 4 (Terram), Normandy Lore 1 (hostilities), Parma Magica 1 (Mentem), Penetration 1 (Terram), Philosophiae 1 (debating) > >**Arts:** Cr**4, In** 2**, Mu** 2**, Pe** 2**, Re** 10**; An** 2**, Aq** 6**, Au** 6**, Co** 3**, He** 0**, Ig** 3**, Im** 5**, Me** 5**, Te** 6+3**, Vi** 4 > >**Spells Known:** > >*Chaos of the Angry Waves* (ReAq 30/+24) *Confusion of the Insane Vibrations* (ReIm 30/+22) *Confusion of the Numbed Will* (ReMe 15/+22) *Crest of the Earth's Wave* (ReTe 20/+21) *Panic of the Trembling Heart* (CrMe 15/+11) *Prying Eyes* (InIm 5/+9) > >*The Earth's Carbuncle* (ReTe (Mu) 15/+13) *Wielding the Invisible Sling* (ReTe 10/+21) > >**Appearance:** A thin man with long shaggy black hair and an unshaven face. In contrast to his unkempt features, his clothing is always impeccably turned out. > >Iasper is the youngest member of Exspectatio, having passed his Gauntlet just four years ago. He is a study in contrasts, since his magic is simultaneously tightly harnessed and unpredictable. He prides himself on his self-control, and yet has a natural affinity for turmoil and chaos, and delights in its execution. Given his master's interests in Terram,"
+   },
+   {
+    "heading_path": [
+     "Chapter Five: Normandy",
+     "Montverte",
+     "Magi",
+     "Eduardus of House Tytalus"
+    ],
+    "text": "(10) > >**Virtues and Flaws:** The Gift; Hermetic Magus; Gentle Gift; Affinity with Rego, Affinity with Terram, Cautious Sorcerer, Improved Characteristics, Large, Minor Magical Focus (certamen)\\*, Puissant Single Weapon, Subtle Magic; Feud, Proud; Deficient Form (Imaginem), Driven, Poor Hearing, Susceptibility to Faerie Power > >**Personality Traits:** Blunt +3, Honorable +2, Violent +1 > >**Reputations:** Tourney Champion 4 (Hermetic), Overbearing and Violent 2 (Local) > >**Combat:** > >*Mace and heater shield (mounted)*: Init –2, Attack +15, Defense +13, Damage +10 *Mace and heater shield (on foot)*: Init –2, Attack +12, Defense +10, Damage +10 > >*Lance and heater shield (mounted)*: Init –1, Attack +16, Defense +13, Damage +7 > >**Soak:** +11 > >**Fatigue Levels:** OK, 0, –1, –3, –5, Unconscious > >**Wound Penalties**: –1 (1–6), –3 (7–12), –5 (13–18), Incapacitated (19–24) > >**Abilities:** Animal Handling 1 (horses), Artes Liberales 3 (music), Code of Hermes 1 (acts of aggression), Concentration 3 (Rego), Craft Figurines 2 (of magi), Etiquette 2 (nobility), Finesse 5 (certamen), French 5 (Norman), Hunt 1 (mounted), Intrigue 2 (Hermetic), Latin 4 (Hermetic), Leadership 3 (battle), Magic Theory 5 (Rego), Normandy Lore 2 (nobility), Order of Hermes Lore 2 (Tourney), Parma Magica 5 (Corpus), Penetration 5 (Terram), Philosophiae 1 (Ritual magic), Profession: Scribe 2 (about Rego), Ride 3 (battle), Single Weapon 5+2 (heater shield), Teaching 2 (apprentices) > >**Arts:** Cr 10,"
+   }
+  ]
+ },
+ {
+  "qid": "indep-178",
+  "entity": "Green Stone Lore",
+  "kind_of_thing": "Hermetic Ability",
+  "aliases": [
+   "Green Stone Lore"
+  ],
+  "book": "the-mysteries-revised",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter 14: Mystery Cults",
+     "The Knights of the Green Stone",
+     "History of the Knights of the Green Stone"
+    ],
+    "text": "themselves into noble society, many magi of House Jerbiton and House Tytalus in particular find the challenge and mystery irresistible. Swearing vows of chivalry and romance, they set out upon the epic quest. It is said that deep within the Rhine Tribunal in a forest the Knights maintain a castle where their secrets are hoarded, and Initiations conferred, yet no outsider knows the truth of this. > ## Example Initiation Script for the Green Stone > > The first Virtue taught is Free Expression, and the Mystagogue is usually at least a Squire with Green Stone Lore 4 or higher, and a positive Presence. This Initiation Script confers a +7 bonus; it contains a Minor Ordeal that lowers the target level for this Initiation to 12. The new Initiate for the Knights always faces the same challenge as part of the Initiation Script: using Parzival as her guide, she must find the castle of the Knights, and journey there to arrive and present herself for Initiation on the feast of Pentecost (+3). She swears oaths to maintain the rules of the Order, and behave chivalrously, courteously, and bravely. This is the Minor Ordeal, which creates the flaw Dutybound (+3), and the Initiate then must accept the great mundane cost of outfitting herself in the garb of a noble knight, which grants a +1 bonus for the sacrifice. > > Some Initiates have to learn spells that allow them to magically render a horse docile and unafraid"
+   }
+  ]
+ },
+ {
+  "qid": "indep-186",
+  "entity": "Hind",
+  "kind_of_thing": "Place",
+  "aliases": [
+   "Hind"
+  ],
+  "book": "transforming-mythic-europe",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Four: Magic as Technology",
+     "Impede the Impertinent Interloper",
+     "Societal Impacts of Magical Transportation",
+     "Transport of Goods"
+    ],
+    "text": "The facility to bypass hundreds or thousands of miles of hostile countryside filled with untold dangers is highly attractive to a merchant adventurer. Caravan consignments go missing all the time, prey to robbers, dishonest carriers, and sheer bad luck. Sea travel is particularly hazardous; an estimated 10 percent of all ships on the Mediterranean Sea never reach their destination. It takes nearly 50 days for a consignment to travel from Genoa to Paris overland, and 70 days by sea (*City & Guild*, pages 88–90). If the same commodities could make the journey in a matter of minutes, through several uses of a magical item with an enchantment like *Portage of the Eagles*, this could save the merchant vast sums of money in carrier costs and lost consignments. Merchants with the capacity to instantly return valuable goods back home are likely to fund expeditions to distant places in search of fabled material. For example, nearly all the turquoise and malachite in Mythic Europe is sourced near the city of Nishapur in Persia, about as far as Mythic Europeans have ever gone. In the same part of the world in Badakhshan is the single source for lapis lazuli (for more on Nishapur and Badakhshan, see *The Cradle & the Crescent: the Mythic Middle East*). Other luxury goods from distant, almost mythical locations include silk from Serica, diamonds and spices from Hind, and gold and ivory from Africa. Such expeditions are far more attractive prospects if the goods (and"
+   },
+   {
+    "heading_path": [
+     "Chapter Four: Magic as Technology",
+     "Impede the Impertinent Interloper",
+     "Societal Impacts of Magical Transportation",
+     "Transport of Goods"
+    ],
+    "text": "Middle East*). Other luxury goods from distant, almost mythical locations include silk from Serica, diamonds and spices from Hind, and gold and ivory from Africa. Such expeditions are far more attractive prospects if the goods (and possibly the explorers, although this is of lesser importance) do not have to risk the perils of the journey home, but can be sent direct to the warehouses in Genoa or Paris. The short term consequence will be that those merchants who possess such fabulous devices get rich, very quickly. In the medium to long term, particularly if instant transportation of goods becomes readily available, the principle consequence is inflation. Luxury items become a lot more common, and towns and cities in particular experience a boom in material wealth. Whereas before the typical medieval society consisted of subsistence living, spending what wealth was earned rather than allowing it to accrue, a society enriched in this manner has more disposable income than it is capable of spending, so saving becomes more common. Of course, hoarding wealth constitutes the sin of avarice, and demons flock to the cities to corrupt the inhabitants. In the meantime, the people of the countryside are little affected by the economic boom. It takes much longer for the economic growth of the cities to filter through into the rural foodproducing communities since there is no direct acquisition of wealth occurring in the provinces. As a result, most farmers are unable to afford the highe"
+   }
+  ]
+ },
+ {
+  "qid": "indep-194",
+  "entity": "Greater Leadership",
+  "kind_of_thing": "Virtue",
+  "aliases": [
+   "Greater Leadership"
+  ],
+  "book": "tribunals-of-hermes-rome",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Five: Covenants",
+     "Harco",
+     "Inhabitants",
+     "Insatella"
+    ],
+    "text": "Prima of Mercere, Leader of Harco, Praeco of the Roman Tribunal Insatella is an old woman who has been Prima of Mercere for many years. She is also Praeco of the Roman Tribunal, which makes her feel her age even more. As Tribunal Praeco, Insatella finds herself assailed by political issues, her time constantly sought after by those with an issue to raise. She tries her best to remain neutral in matters, but occasionally fails, either because of personal feelings or bribes offered her. Insatella only finds true enjoyment in the mercantile world. She loves bargaining with others, revelling in victory when she gains some concession. Her love for trade is so great that she sometimes puts it ahead of Hermetic matters. When faced with important issues, Insatella usually tries to do what is right for the Order. Sometimes, however, the good of her House and her own mercantile enterprises cloud her judgement. > #### Insatella > > Characteristics: Intelligence (crafty) +2, Perception (discerning) +2, Strength (fragile) -1, Stamina (infirm) -2, Presence (small) -1, Communication (forceful) +2, Dexterity 0, Quickness (rickety) -1 > > Age: 147 (Longevity potion, Level 85, -17 on Aging rolls) > > Size: 0 > > Virtues & Flaws: Redcap +3, The Gentle Gift (no -3 penalty on social rolls) +1, Arthritis (Botch in a physical action results in seized joints; -5 to succeeding rolls) -3, Painful Magic (Ars Magica, p.72) -3, Temporal Influence (mundane influence) +2, Greater Leadership +6, Well-Travel"
+   },
+   {
+    "heading_path": [
+     "Chapter Five: Covenants",
+     "Harco",
+     "Inhabitants",
+     "Insatella"
+    ],
+    "text": "penalty on social rolls) +1, Arthritis (Botch in a physical action results in seized joints; -5 to succeeding rolls) -3, Painful Magic (Ars Magica, p.72) -3, Temporal Influence (mundane influence) +2, Greater Leadership +6, Well-Traveled +1, Wealth +4 > > Abilities: Speak Arabic (trading) 3, Speak French (messages) 5, Speak Italian (orders) 5, Speak Latin (magic) 6, Scribe Latin (magic) 5, Magic Theory (longevity potions) 9, Certámen (challenged by Tremere) 3, Concentration (loud noises) 5, Finesse (beauty) 4, Hermes Law (mundanes) 5, Hermes Lore (Mercere) 10, Hermes History (Mercere) 6, Meditation (resting body) 6, Parma Magica (Mentem) 8, Penetration (Mentem) 4, Athletics (running long distances) 5, Dodge (fleeing) 5, Chirurgy (binding wounds) 6, Evaluate Luxury Goods (from Levant) 8, Bargain (luxuries) 11, Diplomacy (poise) 9, Folk Ken (merchants) 8, Intrigue (rumors) 6, Leadership (Mercere) 12, Church Lore (corrupt priests) 5, French Lore (dangers) 4, Humanities (arts) 5, Levant Lore (luxury goods) 3, Lombardy Lore (merchants) 4 > > Confidence: 6 > > Reputation: Hard Bargainer (merchants) 6, Greedy (Roman Magi) 3 > > Personality Traits: Enjoys Luxuries +3, Fair +2, Greedy +1, Sad +1 > > Techniques and Forms: Creo 19, Intéllego 12, Muto 11, Perdo 10, Rego 20, Animál 10, Aquam 10, Auram 11, Córporem 17, Herbam 7, Ignem 10, Imágonem 11, Mentem 24, Terram 10, Vim 9 > > Spell Casting Speed: 3 > > Twilight Points: 12 > > Effects of Twilight: Painful Magic and Arthritis are both"
+   }
+  ]
+ }
+]

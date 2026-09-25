@@ -1,0 +1,565 @@
+[
+ {
+  "qid": "indep-004",
+  "entity": "Cautious with Chirurgy",
+  "kind_of_thing": "Virtue",
+  "aliases": [
+   "Cautious with Chirurgy"
+  ],
+  "book": "art-academe",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Four: Medicine",
+     "The Physicians",
+     "The Empiricus"
+    ],
+    "text": "Theriacs), but most of the time it is just pondwater and grass. A barber-surgeon is usually gainfully employed, and specializes in bloodletting to assist a resident medicus in maintaining the regimen of a community, particularly in a monastery where surgery is forbidden to the brothers. >#### Empiricus Characters > >An empiricus usually has the Surgical Empiricus Social Status (see below), and often have Virtues and Flaws such as Cautious with Chirurgy, Learn Chirurgy from Mistakes, and Famous (for their specialty). Such characters usually rely on a quick tongue and social Abilities to get them out of trouble should things go wrong. They may pick up Medicine on their journeys, but most lack this Ability, which is normally only available to the educated classes. > >Those specialized in bloodletting can normally find a job as a barber-surgeon, and take the Craftsman Social Status. In many cases the barber-surgeon has another job within the community as well, for only in large cities does this vocation have enough demand to keep him continuously employed. > >A midwife or herbwife is often eligible for the Wise One Social Status Virtue, although if suspected of being a witch the latter usually has the Outcast Flaw instead. Herbwives with the Herbalism Virtue (see below) are particularly beneficial to a community, and treated with respect, even if also feared. Such characters also rely on the Profession: Apothecary Ability to supply the raw materials of her craft. If a midwife has"
+   }
+  ]
+ },
+ {
+  "qid": "indep-012",
+  "entity": "Charlemagne's Loaf",
+  "kind_of_thing": "Magic Item",
+  "aliases": [
+   "Charlemagne's Loaf"
+  ],
+  "book": "city-guild",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Four: Crafts",
+     "Basic Craftsman Production",
+     "Wondrous Items"
+    ],
+    "text": "Platter:** Made by a silversmith, this silver serving tray copies the effects of the spell *Taste of the Spices and Herbs*. Craft Level 13: Magnitude 1 (Muto Imaginem base 2, +1 Touch, +2 Sun). > >**Bridle of the Talking Horse:** Made by a leather maker, this bridle allows a horse's rider to talk to his steed. Craft Level 17: Magnitude 5 (Intellego Animal base 10, +1 Touch, + 2 Sun). > >**Builder's Helper:** This miniature ladder, which can be easily carried in a builder's pack, expands to 15 feet upon command. Craft Level 15: Magnitude 3 (Muto Herbam base 3, +2 Sun, +2 for change in size from –1 to +1). > >**Charlemagne's Loaf:** The smallest nibble from this loaf of bread gives the eater incredible courage, granting him a +3 on all Bravery rolls. Craft Level 17: Magnitude 5 (Rego Mentem base 10, +1 Touch, +2 Sun). > >**Helm of Invisibility:** Made by an armorer, this helmet makes the wearer invisible. Craft Level 16: Magnitude 4 (Perdo Imaginem base 4, +1 Touch, +2 Sun, +1 changing image). > >**King Richard's Ring:** This gold ring protects the wearer from fire, granting him a +5 Soak. This is named after Richard the Lionhearted and the legendary ring he wore on crusade. Craft Level 16: Magnitude 4 (Rego Ignem base 4, +1 for up to +10 damage, +1 Touch, +2 Sun). > >**Neptune's Brooch:** This carved precious stone, made by a jeweler, prevents the wearer from drowning by"
+   }
+  ]
+ },
+ {
+  "qid": "indep-020",
+  "entity": "Craft: Percamenarius",
+  "kind_of_thing": "Hermetic Ability",
+  "aliases": [
+   "Craft: Percamenarius"
+  ],
+  "book": "covenants",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Seven: Library",
+     "The Hermetic Book Cycle",
+     "Acquisition",
+     "The Sale of Hermetic Books"
+    ],
+    "text": "Materials > > Players using these spells should remember that when using Finesse and the Art of Rego to replace skill at mundane crafts, the target scores representing levels of quality of goods increase by at least 3 points. > > ##### Hide to Parchment > > ReAn 10 > > R: Touch, D: Mom, T: Group > > This spell stretches, shaves, and dries a stack of animal hides, as if a percamenarius had worked on them. Stretching makes hide flexible instead of leathery, while shaving makes it smooth enough for writing and thin enough for binding. Drying prevents mold from forming on the vellum, but if excessive makes it brittle. > > A Perception + Finesse roll is treated as a Craft: Percamenarius roll to determine the quality of the vellum created. > > (Base 3,. +1 Touch, +2 Group) > > ##### Test of Fastness and Fading > > InAq 5 > > R: Touch, D: Mom, T: Part > > This spell confirms the quality of a container of ink, dye, or paint, verifying for the magus that it will not fade quickly, flake off rapidly, or eat through parchment. > > (Base 3, +1 Touch, +1 Part) > > This spell confirms the quality of a container of ink, dye, or paint, verifying for the magus that it will not fade quickly, flake off rapidly, or eat through parchment. > > (Base 3, +1 Touch, +1 Part) > > ##### The"
+   }
+  ]
+ },
+ {
+  "qid": "indep-028",
+  "entity": "Animal Ken (Ability)",
+  "kind_of_thing": "Hermetic Ability",
+  "aliases": [
+   "Animal Ken (Ability)"
+  ],
+  "book": "definitive-edition-core-rules",
+  "passages": [
+   {
+    "heading_path": [
+     "Reference Guide",
+     "Traditional Index"
+    ],
+    "text": "Alim (Virtue) | 69 | | All According to Plan (Virtue) | 69 | | Alluring to (Beings) (Virtue) | 69 | | Almogaten (Virtue) | 69 | | Almogavar (Virtue) | 69 | | Alpha Storyguides | 530 | | Alternative Characters | 529 | | Ambitious (Flaw) | 119 | | Amorphous (Virtue) | 70 | | Anachronisms | 514 | | Anchored to the (Land) (Flaw) | 119 | | Angels | 489-492 | | *see also Creatures of the Divine* | | | Animating Corpses | 462 | | Animals | 428-436 | | Animal (Art) | 208, 314 | | Animal Characters | 77 | | Animal Companion (Flaw) | 119 | | Animal Handling (Ability) | 159 | | Animal Ken (Ability) | 159 | | Animal Ken (Virtue) | 70, 386 | | Apostate (Flaw) | 119 | | Apostles | 501 | | Apparent Age | 30, 391 | | Apprentice (Virtue) | 70 | | Apprentices | 13, 21, 269 | | Apprentice's Gauntlet | 6, 273 | | Apprenticeship | 49 | | Apt Student (Virtue) | 70 | | Aptitude for (Sin) (Virtue) | 70 | | Aquam (Art) | 208, 320 | | Arcadia | 417 | | Arcane Abilities | 158 | | Arcane Connections | 219 | | Limit of | 211 | | Fixing | 250 | | Arcane Experimentation | 274 | | Arcane Lore (Virtue) | 70 | |"
+   }
+  ]
+ },
+ {
+  "qid": "indep-036",
+  "entity": "The God of Truth",
+  "kind_of_thing": "Hermetic Concept",
+  "aliases": [
+   "The God of Truth"
+  ],
+  "book": "guardians-of-the-forests-the-rhine-tribunal",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Ten: Bohemia",
+     "Irencillia",
+     "Covenfolk"
+    ],
+    "text": "although active duty has caused some to become more individual than others. Irencillia also employs a cadre of foresters who are more human than their other servants, primarily because they do not live in the covenant but rather in family groups in isolated forest bothies. >#### The God of Truth >In the last decade, a new religion has sprung up in the villages near the Bohemian Forest. It is a dualist faith: there is a God of Truth, who created the cosmos, and a God of Law, who created and rules the material world, but who cares not for its inhabitants. Proponents of the faith teach that the Church is in error, worshipping the stern God of Law rather than the God of Truth, who instead can only be found in the wild places of the world. The God of Truth is immaterial, unable to manifest in a world made and ruled by the cold god of the cities. Instead, he has sent his angels to show man the way. These angels are apparently what man calls faeries. The religion has no clear catechism other than a reverence for the wild and an abandonment of the churches; those churchmen who know of it are finding it difficult to crush a religion with no clear leader and no obvious means of transmission. > >There is a leader, however. Stories tell of the Prophet Iacob, identified by the presence of an albino crow who always accompanies him. The"
+   }
+  ]
+ },
+ {
+  "qid": "indep-044",
+  "entity": "Huarwar",
+  "kind_of_thing": "Creature",
+  "aliases": [
+   "Huarwar"
+  ],
+  "book": "heirs-to-merlin-stonehenge-tribunal",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Two: History",
+     "The Saxons"
+    ],
+    "text": "which took them to be the same. In the late eighth century Offa, king of Mercia, became overlord of the English. All the kingdoms south of the Humber acknowledged his authority, and he had influence in Northumbria. He built a great earthwork, Offa's Dyke, to mark the boundary between England and Wales, and he minted the first pennies, coins which were copied throughout Europe. Offa was one of the great lords of Europe, the only king able to deal with Charlemagne on equal terms, and a significant figure even to the distant Pope in Rome. He died in 796, at the height of his power. >#### Offa's Dyke > >Offa's Dyke stretches for more then seventy miles, and is clearly a work beyond the capacity of unaided mortals. It was completed in 787 with the assistance of Huarwar, a Welsh faerie who was bribed with 10,000 cattle. The bargain involved his being provided with 100 cattle every fourteen years thereafter, and recently the locals have neglected this. As a result, he has started to eat the northern parts of the dyke, and occasional villages. >#### Magi in Britain Before Pralix > >While Pralix was the first Hermetic maga to settle in Britain, she was not the first to visit the island. In the eighth century England was a major center of scholarship, and Jerbiton himself visited the Northumbrian monks. House Díedne had close links with the Welsh druids, although they did not join the Order. The"
+   }
+  ]
+ },
+ {
+  "qid": "indep-052",
+  "entity": "Roscius",
+  "kind_of_thing": "Character",
+  "aliases": [
+   "Roscius"
+  ],
+  "book": "houses-of-hermes-mystery-cults",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Four: House Verditius",
+     "Magic Items of Hephaestus",
+     "The Confraternity of Roland"
+    ],
+    "text": "**Description:** Roland was a great Frankish knight, one of Charlemagne's 12 peers, who was slain in a Saracen ambush in the Pyrenees, at the Battle of Roncesvals in 778. He slew hundreds of Saracen enemies with his magic sword, Durendal, before succumbing to his wounds. Wayland Smith, with Verditius serving as his apprentice, forged this sword. Charlemagne took Durendal after the battle, but the blade was later stolen by Verditius' filius Roscius and taken to Verdi. By studying the sword repeatedly, Roscius and his filii became famous makers of magical swords. Each blade is engraved with a miniature \"R,\" which initially stood for \"Roscius\" but is now taken to mean \"Roland\" in memory of the original owner. Swords made by this confraternity spread widely in the ninth and tenth centuries, but were more restricted after the Tribunal rulings of 1061. **Production:** The Confraternity of Roland makes swords, as well as other handheld weapons of war. All of the members have the Craft Ability Blacksmith, with specializations in sword crafting. They produce swords of quality attuned to harming humans (see Items of Quality, below), as well as a range of other enchanted blades. These swords are discretely sold to Christian knights, often crusaders. **Initiation Mystery:** Confraternity members have developed an Ordeal to impart the Minor Hermetic Virtue Minor Magical Focus (Swords). **Mystery Path:** Initiates learn the Outer Mystery, then Minor Magical Focus (Swords), Reforging, Items"
+   }
+  ]
+ },
+ {
+  "qid": "indep-060",
+  "entity": "Horn of the Champions",
+  "kind_of_thing": "Magic Item",
+  "aliases": [
+   "Horn of Champions",
+   "Horn of the Champions"
+  ],
+  "book": "houses-of-hermes-societates",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter One: House Flambeau",
+     "House Flambeau in 1220",
+     "Domus Magna"
+    ],
+    "text": "The original domus magna of House Flambeau was Val-Negra, a covenant on the Spanish side of the Pyrenees mountains. During the Schism War, the Primus Entisimon found that Val-Negra's remote location made it unsuitable as a headquarters, so he moved his command to the covenant of Castra Solis. His successor officially moved the House's headquarters to the new site; there are rumors that neo-Roman elements within the House had a hand in the decision to move the domus magna. Castra Solis was founded by Kaeso, a member of the Roman Cult of Mithras whom Apromor had recruited in 809. Kaeso built the covenant atop a subterranean cave that was once sacred to the cult: the covenant's name is a reference to Mithras's aspect as a sun god. Castra Solis is located in the Provençal Tribunal, several leagues south of Bordeaux. > ## The Horn of the Champions > > Castra Solis has a magical horn that can summon senior Flambeau magi from anywhere in Mythic Europe. The horn is kept by a magus known as the castellan. Magi who volunteer as defenders provide the castellan with a fixed Arcane Connection to themselves. As a gesture of trust and respect, the castellan gives each volunteer an Arcane Connection to himself in exchange. The Horn of Champions is an invested device with the following effects, each of which is activated by sounding a different note on the horn. > > ##### Sounding the Alarm > > CrIm 50"
+   },
+   {
+    "heading_path": [
+     "Chapter One: House Flambeau",
+     "House Flambeau in 1220",
+     "Domus Magna"
+    ],
+    "text": "exchange. The Horn of Champions is an invested device with the following effects, each of which is activated by sounding a different note on the horn. > > ##### Sounding the Alarm > > CrIm 50 > > Pen +70, 1/day > > The horn is audible to everyone in the target Group regardless of distance, provided the user has an Arcane Connection to each person. This effect has a high Penetration to ensure it will be heard by the intended magi. At the sound of the horn, the magi who have volunteered to defend Castra Solis lower their Parmae Magicae and await the summoning effect. > > (Effect: Base 1, +4 Arcane Connection, +2 Group; +35 for Penetration) > > ##### Summoning the Champions > > ReCo 65 > > Pen 0, 1/day > > Each member of the target Group is instantly transported into the horn's presence, provided the user has an Arcane Connection to him. This effect has no Penetration so magi can choose to resist the summons. > > (Effect: Base 35, +4 Arcane Connection, +2 Group) One might expect the domus magna of House Flambeau to be an imposing fortress, but in fact Castra Solis more closely resembles a large manor house. Kaeso realized that even the mightiest stone walls could be easily breached by magic, so he concentrated on building magical defenses rather than physical ones. The covenant has a number of enchanted items available for its defense. Castra Solis"
+   }
+  ]
+ },
+ {
+  "qid": "indep-068",
+  "entity": "Common White Wolves",
+  "kind_of_thing": "Creature",
+  "aliases": [
+   "Common White Wolves",
+   "white wolves"
+  ],
+  "book": "houses-of-hermes-true-lineages",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Three: House Mercere",
+     "Virtues and Flaws",
+     "Symbols",
+     "Wolves"
+    ],
+    "text": "Tremere thinking, art and literature praise the ethos of the wolf pack. Wolves are gentle with each other and savage to their enemies. They serve their families, particularly the dominant pair, and aid in the raising of their lair mates' cubs. The Dacians, from the word *daoi* meaning \"wolves\", ruled Transylvania before the Romans came, and went to war behind wolf-headed dragon banners. Tremere's familiar was a white wolf, of a pack sacred to Hermes. Familiars lead the packs about Coeris and many of the other House covenants. Odd rumors circulate concerning the House's link to wolves. Some say that Tremere magi know the ritual of Mount Lycaeon, which turns men into wolves for nine years, and use it upon rebellious Housemates to adjust their attitude. Some claim that werewolves serve the House, others that the House's servants are equipped with items that change their shapes. Many believe the white wolves of the forest are Tremere spies and saboteurs. > ## Key Facts > > **Population:** 92 magi (41 in Transylvania) > > **Domus Magna:** Coeris, in the Transylvanian Tribunal. > > **Prima:** Poena > > **Favored Tribunals:** Transylvania, where the House > > utterly dominates politics. > > ### Famous Figures > > **Tremere,** Founder, developer of certamen. **Cercistum,** Primus at the beginning of the Schism War, killed in battle. > ## Cult Stories > > The necromantic cult did not leave the cities to flee the Dominion. Most made lairs in the subterranean spaces"
+   },
+   {
+    "heading_path": [
+     "Chapter Three: House Mercere",
+     "Designing Magi of House Tremere",
+     "Arts and Spells",
+     "Animals"
+    ],
+    "text": "revised. > ## Animals: Magic Items that can be Trained > > Tremere magi often trap and study the magical animals they encounter, adding them to the House's resources. If a covenant has a population of interesting animals, perhaps as a vis source, a young Tremere magus may be sent to determine their usefulness. If they prove valuable, the magus will want to procure live samples for his superiors. The House might also secure breeding pairs, to start new colonies of the animals at a House Covenant. > > ### Common White Wolves > > There are several types of magical wolf that serve the House in its packs but this type, descended from Tremere's familiar, are the most common. > > **Magic Might:** 10 (Animal) > > **Characteristics:** Int +1, Per +3, Pre +1, Com +1, Str+2, Sta +2, Dex +2, Qik +2 > > **Size:** 1 **Age:** n/a > > **Decrepitude:** n/a > > **Virtues and Flaws:** The Visions Virtue occurs occasionally among these wolves. > > **Personality Traits:** Loyal +2, Amused by Humans +1 > > **Reputations:** None > > **Combat:** > > *Bite:* Init +12, Attack +10, Defense +14, Damage +9 > > **Soak:** +7 > > **Fatigue:** 0,–1/–1,–3/–3,–5,Unconscious > > **Wound Penalties**: –1 (1–6), –3 (7–12), –5 (13–18), Incapacitated (19–24) > > **Abilities:** \\[Area\\] Lore 6 (Pack land), Brawl 3 (bite), Folk Ken (Tremere magi) 3, Hunt 6 (in a pack), Latin\\* 3 (Hermetic terms). Stealth (forests) 3, Swim (lakes) 1,"
+   }
+  ]
+ },
+ {
+  "qid": "indep-076",
+  "entity": "Spirit bottle",
+  "kind_of_thing": "Magic Item",
+  "aliases": [
+   "Spirit bottle"
+  ],
+  "book": "icelandic-wars-land-of-fire-and-ice",
+  "passages": [
+   {
+    "heading_path": [
+     "Assault on the Guardians"
+    ],
+    "text": "any Magic Resistance. Nevertheless, with the host healing any injury Pan Caudarax takes, he may escape. If Albinus is part of the crusader force, the host is driven off by his magic; this leaves Pan Caudarax extremely vulnerable. Next Vindsvall leads an attack. If Albinus is present, he again drives off the host, leaving Vindsvall without his normal assistance. Once Vindsvall is spotted Albinus is able to capture him in a spirit bottle. If Albinus is not present, Vindsvall creates a massive storm and the ships are struck again and again by huge thunderbolts. Eventually a thunderbolt penetrates the *Aegis of the Hearth* ward on one vessel. Even with its other protections the ship is badly damaged and a number of people are slain. Vindsvall commands the host to concentrate on this vessel. They blow powerful gusts of wind onto waters surrounding the damaged ship, causing huge waves to crash over it. Many are swept overboard and the ship begins to sink. Eventually a magus spots Vindsvall through the clouds and casts a spontaneous *Kill the Living Air* with a two rooks of vis. Vindsvall is badly drained of Might and is only saved and helped to retreat by the host. However, the stricken vessel sinks with the loss of about seven magi and most of the mundanes. The remaining Hermetic vessel then makes it to the Icelandic coast and begins looking for a harbor. They find one on the southeastern quarter, where they drop anchor."
+   }
+  ]
+ },
+ {
+  "qid": "indep-084",
+  "entity": "Trained as a Gruagach",
+  "kind_of_thing": "Flaw",
+  "aliases": [
+   "Trained as a Gruagach"
+  ],
+  "book": "lion-of-the-north-the-loch-leglean-tribunal",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter 6: Character Generation",
+     "New Flaws",
+     "Trained as a Gruagach, -4 Hermetic"
+    ],
+    "text": "You were mistakenly trained as a gruagach for a year. Because of the vast differences between Hermetic and gruagach magic, you have a difficulty learning parma magica and magical Techniques and Forms. You suffer a -1 penalty on your Parma Magica and Magical Art scores (for example, if your score is 3, it is the equivalent of 2)."
+   }
+  ]
+ },
+ {
+  "qid": "indep-092",
+  "entity": "Castro Selvaggio",
+  "kind_of_thing": "Covenant",
+  "aliases": [
+   "Castro Selvaggio"
+  ],
+  "book": "lords-of-men",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Eight: Massed Combat",
+     "Siegecraft",
+     "Aftermath"
+    ],
+    "text": "With the castle taken and the siege over, the castle's new masters decide on its fate. The behavior of the victor is something to be roleplayed, but castles and cities generally suffer more the longer they hold out. Those responsible for holding out against the siege risk being taken and killed. Other men of value are likely to be ransomed, either bring imprisoned locally or forced out of the castle as a hostage of the attacker. Civilians are likely to be robbed, and worse, by the victorious army. Unless they escape, the defending garrison is frequently hanged as an example to others. Depending on its location, its importance, and the needs of the wider campaign, it is is usual for the attacking force to appoint a governor and leave behind a force in the castle to secure it. > ## Siege Magic > > On finding themselves besieged by a determined Milanese force, the magi of Castro Selvaggio worked together to create a number of spells and rituals to help them outlast their attackers. The following laboratory texts survived the sacking of the castle. It is not known precisely how the castle fell, but suspicion quickly fell upon the covenant's Milanese rivals. > > ### Conjuration of Bread > > CrHe 35 > > R: Touch, D: Mom, T: Group, Ritual > > This ritual creates enough bread to support a moderately sized covenant for a season. The bread is a long-lived ciabatta which lasts if"
+   }
+  ]
+ },
+ {
+  "qid": "indep-100",
+  "entity": "Urchin",
+  "kind_of_thing": "Character",
+  "aliases": [
+   "Urchin"
+  ],
+  "book": "magic-apprentices",
+  "passages": [
+   {
+    "heading_path": [
+     "Contents",
+     "List of Inserts"
+    ],
+    "text": "Aging Chart Example Childhoods Changing Social Status Optional Rule: Abilities for Infants More Powerful than Normal Companion: Noble Child Apprentice: Foundling Child Story Seed: An Introductory Adventure Story Seed: Fetch the Baby Turbulences and the Aegis of the Hearth Grog: Blacksmith’s Son Story Seed: A Toddler’s Tale Story Seed: Who Stole the Baby? Story Seed: The Curious Cleric Grog: Urchin Story Seed: An Unlikely Ghost Companion: Merchant’s Son Story Seeds: Finding a Parens Detecting the Gift Apprentice of House Bonisagus Story Seed: I’m Not Going Anywhere! Hermetic Terminology Teaching Schedule Story Seed: Midnight Rescue Story Seed: A Temporary Reprieve Story Seed: The Inheritance Story Seed: A Convenient Suspect Apprentice of House Verditius Story Seed: The Unlicensed Loan Tales of Wondrous Enchantments Optional Rule: Learning Cantations in Play The Dream Witches Story Seed: Against the Master’s Wishes Story Seed: The Thrills of Love More Marriage Story Seeds Story Seed: Time to Die Story Seed: Where’s the Money? New Laboratory Flaw: Shared Lab Story Seed: Where Did the Cat Go? Story Seed: Visiting a Colleague Story Seed: Where Are My Bat Wings? Story Seed: Investigating Evil Story Seed: Missing Mail New Spell: Ager Belli Story Seed: Trial by Fire Houses of Hermes Gauntlets"
+   },
+   {
+    "heading_path": [
+     "Chapter Four: Pueritia: Ages 8 to 14",
+     "Growing Up"
+    ],
+    "text": "mother will probably soothe a child who says that a faerie stole her shoes, while a village mother might beat the child for lying or offending the faerie. Supernatural Abilities are better accepted, and those with an aptitude may be asked by the magi to accept additional responsibilities. A child with Second Sight might be asked to look for new regiones in the nearby forest, and a child with Premonitions might be asked to accompany the covenfolk's products to the market. Naturally, the child's friends want to tag along. Life outside the covenant is harder, especially for a Gifted child. Depending on circumstances, his parents may still love and protect him. On the other hand, they may have been driven out of town due to their peculiar child. Friends should be few for a Gifted child living outside a covenant, where playmates are at least more likely, if not guaranteed. Everything depends on the player and the troupe, and the type of tales the group wishes to tell. A Gifted child could be ostracized from society and sent to live with the local witch, who forces the child to undertake dangerous missions into the faerie forest to collect ingredients for her foul potions. A Gifted child could also live in town, avoiding the street's bullies and finding peace only in his father's house, his sole friend a boy of the same age whom he has known since birth. >### Grog: Urchin > >**Characteristics:** Int –1, Per"
+   }
+  ]
+ },
+ {
+  "qid": "indep-108",
+  "entity": "Half Taltós",
+  "kind_of_thing": "Virtue",
+  "aliases": [
+   "Half Taltós"
+  ],
+  "book": "magic-hedge-magic-revised",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Six: Nightwalkers",
+     "Characters",
+     "Minor Virtues Related To Straying Traditions",
+     "Half Taltós"
+    ],
+    "text": "Minor, Supernatural A half taltós is a potential taltós — a regional variant of nightwalker described later — who failed to defeat an elder taltós at his initiatory battle. In folklore half taltós have a variety of powers, but this Virtue only grants a limited form of Second Sight and the ability to affect spiritual entities with a limited range of physical objects. Half-taltós player characters can be differentiated by selecting other supernatural Virtues. Second Sight comes only with difficulty to half taltós. They must perform a simple ritual, which varies by taltós and takes a minute, before they can use the Virtue for one minute or until the conclusion of one battle, whichever is longer. Using this ritual repeatedly is very tiring. Each use requires an Athletics + Stamina roll against an Ease Factor of 6, or the half taltós loses a fatigue level. The half taltós may affect spirits with his personal armaments. These are usually a sword or whip, with a smaller weapon for emergencies. These are physical weapons with a spiritual nature. If a half taltós loses a weapon, it takes a month of occasional work for him to create the Arcane Connection to a new weapon necessary for it to be used to harm spirits."
+   },
+   {
+    "heading_path": [
+     "Chapter Six: Nightwalkers",
+     "Local Traditions of Nightwalkers",
+     "Taltós",
+     "Becoming a Taltós"
+    ],
+    "text": "Taltós are marked by God within the womb: this mark usually appears as a minor deformity, like extra fingers and toes, or being born cauled or with teeth. Taltós children are notably hungrier than other children are, and are particularly greedy for dairy products, which is a trait that continues in later life. At the age of seven, the young taltós enters a coma for three days. Taltós comas have the appearance of a fever, and the taltós babbles disconnected words while his spirit strays. The young taltós usually hides his body somewhere safe, but taltós do not die if their bodies are moved. During the first coma, which lasts for three days, the young taltós is visited by an older taltós in cow or horse form. It is usual in some areas for the initiating taltós to be of the opposite gender as the initiate. The two fight, and if the young taltós fails, he becomes a half taltós, as described in the Minor Virtues section. If victorious, the young taltós faces other initiations. The young taltós' initiations are arduous and painful. These are vision quests that require the child to be cut into pieces, his bones counted, and then boiled in a cauldron to return him to life. Fortunately this harm is not reflected on the mundane body. The dream quests also involve climbing the tallest trees in the forest while distracted and aided by spirits. This represents climbing the Great Tree that holds"
+   }
+  ]
+ },
+ {
+  "qid": "indep-116",
+  "entity": "Creature of Virtue",
+  "kind_of_thing": "Creature",
+  "aliases": [
+   "Creature of Virtue",
+   "Creatures of Virtue"
+  ],
+  "book": "mythic-locations",
+  "passages": [
+   {
+    "heading_path": [
+     "Contents"
+    ],
+    "text": "of Horses The Wooden Knights The Workshops What Can Be Made? The Devil’s Lane Covenant Julia’s Laboratory Bartholomew’s Laboratory Returning to the Devil’s Lane Toymarket **Chapter 10: The Truffle Matron** Truffles of the Realm Varieties of Truffles in Your Saga Location of the Truffle Realm The Realm of the Truffles Regio Entrance Truffle Fields Truffle Holt Truffle Council Chamber Tests of the Truffle Matron Features of the Truffle Regio Aura Vis Sources Beech Tree of Virtue Poplar Tree of Virtue Creatures of Virtue Truffles of Virtue Spell-like Creo Herbam Vis Lesser Enchantment Imaginem Vis Lesser Enchantment Rego Animal Vis Spell-like Herbam Vis Inhabitants of the Truffle Regio Truffle Drones Truffle Workers Truffle Daughters The Truffle Matron Introducing the Truffle Regio into the Saga Invitation from a Daughter The Vanishing Familiar The Missing Hunters The Frightened Foresters Researching the Truffle Regio Chatty Kitty Old Grogs Never Die… A Trip to the Library Returning to the Truffle Regio The Matron’s Tasks Successor for the Wild Boar Request of a Daughter **Chapter 11: The Wolf’s Court** Myths, Legends, History, and Rumors Court or Courts? A Spirit of Vengeance The Mystery of the Lupercalia The Interpretatio Romana Variants: The She-Wolf in Other Cultures The Fane of Vengeance The Forest Encounters in the Forest The Court Inhabitants How the She-Wolf Grants Revenge The Ritual of Passing on the Power Variants: The She-Wolf Variant: The She-Wolf as a Faerie Variant"
+   },
+   {
+    "heading_path": [
+     "Chapter Ten: The Truffle Matron",
+     "The Realm of the Truffles",
+     "Regio Entrance"
+    ],
+    "text": "*Magic aura 3* The first level of the regio has a Magic aura of 3. The regio may only be entered on one of the solstices or equinoxes. This level encompasses the forests surrounding the truffle fields and holt. Once inside the regio, the characters step into a large forest, much like the one they left, except the trees here are improbably tall and thick. The trees all look to be centuries old. Beneath each tree grow truffles of all varieties. If the characters dig up the truffles, they can determine that some of them are Truffles of Virtue. The forest is also teeming with wildlife — wild boars, roe deer, skunks, squirrels, and other ground dwelling herbivores are present. After a while, alert characters may notice that predators are conspicuously absent. Many, if not all, of the animals in this regio are Creatures of Virtue. See the *Realms of Power: Magic*, page 55, for a description. With a Hunt + Perception roll against an Ease Factor of 9, the character notices a path leading away from the regio entrance. It is little more than a deer trail, but it is the only obvious choice other than blundering through the forest. If the characters begin wandering the forest, the Wild Boar of the Woods eventually intercepts them. If the characters attack any of the inhabitants of the forest or start digging for truffles, the Wild Boar intervenes, charges the characters, and may attack them if they"
+   }
+  ]
+ },
+ {
+  "qid": "indep-124",
+  "entity": "Birthing Faerie",
+  "kind_of_thing": "Creature",
+  "aliases": [
+   "Birthing Faerie"
+  ],
+  "book": "realms-of-power-faerie",
+  "passages": [
+   {
+    "heading_path": [
+     "Changes in Attitude",
+     "Eudokia",
+     "Eudokian Stories"
+    ],
+    "text": "Eudokian stories are typically mediated by a Threshold faerie, typically one who governs the particular transition that the character or characters are experiencing. So a pregnant mother attracts a birthing faerie, who inflicts upon her a story that either heightens or allays her fear of childbirth. An old man might meet a grave-faerie, and the result of the story is a peaceful death or a struggle to survive a few years longer. Eudokian stories tend to focus on a single character, which makes them difficult for most **Ars Magica** troupes. However, they need not be solo adventures, since anyone present when the Threshold arrives is taken into Faerie at the same time. Other characters can provide help and support, although usually only the focal character benefits directly from the story in any way other than Story Experience points. It is possible to have more than one focal character in a Eudokian story, though, if more than one character is undergoing a simultaneous transition of the same type. For example, children on the verge of adulthood might experience a Eudokian story together if they play near a faerie trod; a couple who meet (contrary to tradition) on the night before their wedding might be snatched away by the Threshold; and a group of apprentices about to take their Gauntlet might meet a faerie who claims to be the ghost of a famous member of the Order, perhaps even a Founder."
+   }
+  ]
+ },
+ {
+  "qid": "indep-132",
+  "entity": "Ash Branch of Muto Vis",
+  "kind_of_thing": "Magic Item",
+  "aliases": [
+   "Ash Branch of Muto Vis"
+  ],
+  "book": "realms-of-power-magic",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Eight : Magic Things",
+     "Vis",
+     "Extraordinary Vis",
+     "Spell-like Vis"
+    ],
+    "text": "Some extraordinary vis produces a magical effect that mimics a high-level spell, usually of level 60 or lower. Unlike lesser enchantment vis, spell-like vis cannot produce a continuous magical effect and is completely consumed at the end of the effect. The activation of the vis may require that it be consumed by the recipient of the effect, or it may wither and degrade in some other obvious way at the expiration of the magic. In any case, the operation of the magical effect completely depletes the vis. The magical effect generally requires some specific triggering event or special circumstances to initiate the spell-like effect. **Seed of Creo Vis** CrHe Level 40 R: Per, D: Mom, T: Ind, Ritual This Creo vis takes the form of a seed from a fruit tree. When planted the seed grows instantly into a mature non-magical tree laden with the appropriate fruit. The seed need not be planted deep in the earth; it grows to maturity if covered by just a handful of dirt. But the tree survives only if planted in an appropriate location and climate. (Base 40) **Ash Branch of Muto Vis** MuCo Combined Level 35 R: Touch, D: Sun, T: Ind This Muto vis is contained in a branch from an ash tree. The ash tree is known as the Tree of Odin and some believe that it grants success in battle. If the bearer of this Muto vis makes an Attack roll in battle, he gains the"
+   },
+   {
+    "heading_path": [
+     "Chapter Eight : Magic Things",
+     "Vis",
+     "Extraordinary Vis",
+     "Spell-like Vis"
+    ],
+    "text": "character remains invisible until the magic expires. (As per *Veil of Invisibility*, **ArM5**, page 146) **Silver Coin of Terram Vis** MuCo(Te) Level 45 R: Per, D: Moon, T: Ind This Terram vis takes the shape of a silver coin in the possession of a minor faerie. If a character takes the coin without the permission of the faerie, the next time the character stands under the noonday sun he turns into stone for Moon Duration. The effects of being a statute are detailed in the spell description for *The Silent Vigil*. (See **ArM5**, page 132). The character may not choose to end the effect before it expires. (Base 25, +3 Moon, +1 for special effect) >#### Story Seeds for Spell-like Vis > >**Enigmatic Apples** > >A very old apple tree sits in the heart of an ancient forest. The first apple that naturally falls from the tree each autumn contains spell-like Seed of Creo vis. An apple taken from the tree contains no vis. If the characters arrive too late in the fall, the ground will be covered with apples from the magical tree. The apples are delicious and local animals may eat them before the characters arrive. > >**The Bully and the Branch** > >A headstrong apprentice is tasked with collecting spell-like Ash Branch of Muto vis, but the master does not explain the special powers of the vis and only instructs the apprentice to avoid combat at all costs. The apprentice does not, and"
+   }
+  ]
+ },
+ {
+  "qid": "indep-140",
+  "entity": "Non-traditional",
+  "kind_of_thing": "Flaw",
+  "aliases": [
+   "Non-traditional"
+  ],
+  "book": "realms-of-power-the-divine-revised",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Three: Blessed By God",
+     "Holy Characters",
+     "New Virtues"
+    ],
+    "text": "#### New Virtues > >**MAJOR, HERMETIC** > >Holy Magic > >**MAJOR, SUPERNATURAL ABILITIES** > >Holy Magic > >**MAJOR, SUPERNATURAL METHODS** > >Invocation Meditation Purity > >**MAJOR, SUPERNATURAL POWERS** > >Adjuration > >Blessing > >Cursing > >Intervention > >Transcendence > >Understanding > >Wonders > >**MAJOR, SUPERNATURAL** > >Blood of the Nephilim > >**MAJOR, GENERAL** > >Powerful Relic > >**MINOR, SUPERNATURAL ABILITIES** > >Ceremony > >**MINOR, SUPERNATURAL** > >Strong Angelic Heritage > >#### New Flaws > >**MAJOR, STORY** > >Raised from the Dead > >**MAJOR, SUPERNATURAL** > >Eremite > >Raised from the Dead > >**MINOR, SUPERNATURAL** > >Non-traditional > >**MINOR, GENERAL** > >Apostate > >#### New Abilities > >**ARCANE** > >Holy Magic\\* > >**SUPERNATURAL** > >Adjuration\\* > >Blessing\\* > >Ceremony\\* > >Cursing\\* > >Holy Magic\\* > >Intervention\\* > >Transcendence\\* > >Understanding\\* > >Wonders\\* > >\\*Indicates an Ability that cannot be used at all if a character has no score in it. >"
+   }
+  ]
+ },
+ {
+  "qid": "indep-148",
+  "entity": "Ophites",
+  "kind_of_thing": "Faction",
+  "aliases": [
+   "Ophites"
+  ],
+  "book": "realms-of-power-the-infernal",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter 13 : Infernal Traditions",
+     "Corrupt Traditions",
+     "Infernal Tradition: Dark Gnostics"
+    ],
+    "text": "The priest is actually a Dark Gnostic. He keeps snakes in a basket in the basement of his church, one of which is a Spirit of Deceit in disguise. This demon is gradually corrupting the parish with its Obsession, and the priest is reinforcing those beliefs with his teaching. The corruption is a slow process, but will pay off in the long term with a whole parish of corrupted worshipers. One example is the Ophites, a Gnostic sect that worships the serpent of paradise, honoring him as the symbol of God in all things. They see the events of the Garden of Eden as the beginning of the world designed for man by God, and revel in original sin, which they regard as the freedom to follow their natural impulses in the spirit of scholastic inquiry. The serpent of Eden liberated mankind from the shackles of their joyless prison, by encouraging them to taste the fruit of knowledge. They teach that mankind should seek paradise on earth by following his advice, pursuing all the pleasures the world has to offer. Another Gnostic sect with Infernal ties is the Brethren of the Free Spirit, a name possibly taken from the writings of a medieval prophet named Joachim of Flora, though it embraces many different heresies with broadly similar philosophies. Essentially, those who belong to the tradition advocate giving way to their desires in all things, but doing so in the name of God. They are not simple"
+   },
+   {
+    "heading_path": [
+     "Chapter 13 : Infernal Traditions",
+     "Corrupt Traditions",
+     "Infernal Tradition: Dark Gnostics"
+    ],
+    "text": "embraces many different heresies with broadly similar philosophies. Essentially, those who belong to the tradition advocate giving way to their desires in all things, but doing so in the name of God. They are not simple hedonists, but men and women who conscientiously act out their most depraved fantasies as a form of religious devotion. These philosophies derive from the theological tenet that God is everywhere, a commonly accepted fact in medieval beliefs. God is wholly part of his creation, and so according to the Bible, God was part of everything in the Garden of Eden. So, the Ophites say, God was part of the serpent, making the serpent a part of God. Thus God *is* the serpent, just as he *is* the trees and the animals and the man and woman made in his own image — God *is* the Devil; they are one and the same, and everything he does in his devilish aspect is for a holy purpose. It also follows that if God is part of everything, everything is part of God. Thus, every person is God. From this, heretical medieval thinkers like the Brethren of the Free Spirit reason that each one of them being God, they need to obey no laws, for they can each perceive the truth from within. God cannot do evil, so anything that they feel a desire to do cannot be evil. In fact, urges to lust, greed, or other sins should be fulfilled as soon"
+   }
+  ]
+ },
+ {
+  "qid": "indep-156",
+  "entity": "Cubic Fluorite",
+  "kind_of_thing": "Magic Item",
+  "aliases": [
+   "Cubic Fluorite"
+  ],
+  "book": "sanctuary-of-ice-the-greater-alps-tribunal",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter 5: The Covenant Where Journeys And"
+    ],
+    "text": "in clusters of cubes, and varies widely in color, although those found at the Covenant Where Journeys End tend to be pink. The mystical uses of fluorite vary by color, with the most valuable being rainbow-hued. The extremely rare, octagonal fluorites make better materials for enchantment. Seneca and Pliny both remark that Romans drank wine from hollowed fluorites, and say that Romans spent stupidly extravagant amounts of money on these goblets. > >#### Form and Effect Additions > >All Quartz: +1 Resist cold Smoky quartz: +6 Obfuscation > >Black quartz: +6 Darkness, +3 the divination of secrets > >All Fluorites: +3 Inspire the desire to collect things, +1 Resist heat > >Cubic Fluorite: +1 to illusions primarily of the color of the stone. > >Octagonal Fluorite: +3 to illusions primarily of the color of the stone, +3 detect or resist faerie glamour > >Rainbow fluorite: double bonuses above. > >Quartz and fluorite naturally formed together: +9 transformation between elements >##### The Covenant Where Journeys End > >**Symbol:** A ring formed of sharp, upward circumflexes, the front ones overlapping the back to give the impression of depth. > >**Season:** Autumn > >**Founded:** 817 > >**Members:** > > Yselt filia Rosalia, follower of Merinita Carlo filius Innocu, follower of Merinita Charlotte filii Lupina, follower of Merinita > > Giselle filia Bertrand, follower of Merinita Capra filia Bullfinch, follower of Bjornaer Miklos filius Kosma, follower of Jerbiton Eginhard filius Casp"
+   },
+   {
+    "heading_path": [
+     "Index",
+     "General Index"
+    ],
+    "text": "Aareschlucht 97 Adrasteia 46 alcohol 34 amaranth 14 Andru filius Astrolabe, primus of Jerbiton 82 Angela filia Constance 87 Antares 52 Appenzellerland 97 Athena Alpina 45 Augsburg 111 Augustina filia Ragoneda 73 Baden 97 Baker's Day 26 Balbina filia Havelock 69 barbegazi 103, 105 Basel 97 baths 98 Bavaria 111, 120, 122 Bavarian Common 44 Bean-Spitting Day 24 Beloved Enemy 51 Bergenland 113 Berne 98 Black Lineage 86 black quartz 54 blizzard demons 107 blood of the Sun 100 Boot Burning 26 Botzberg 98 Bronwyn filia Astrolabe 88 Capra filia Bullfinch 59 Cara filia Sigurd 70 Carlo filius Innocu 58 Carmine filia Susannah 92 Cato 46 Cave of Twisting Shadows 29 chapters 10 Charlotte filia Lupina 58 Childermas 27 Chloe, Minstrel 91 Church 15, 93 Circum Perfico 36 Cirque d'Annibal 99 Constance 98 Constance filia Frederich et Vortimer 84 Copper Rooster Inn 97 Crucifixio 86 crystals of Montjoux 54 cubic fluorite 54 cuisine and banqueting 91 Cymena the Redcap 76 Dachstein 114 Danu 113 Danube 111 Darius filius Yannes 33 Days of Trembling 23 Díedne 99 disorder 15 distaff 70 Dolomite 114, 115 Domleschg 99 Dragon of Brand 111 dragons and dragonets 106 Eastern Marches 113, 121 Echo filia Gribbinus 33 Eginhard 62 Einsiedeln 100 Eisenstadt 114 emeralds 116 emigration 16 Entisimon 52 Esther filia Gribbinus 33 faeries, Jerbiton view 94 family law 11 ferns 100 fetiales 23 Fingerbone of Cyrian 86 fluorites 54 follies 100 Fortuito filius Circum Perfico 34 François, Blacksmith 90 Frustration Week"
+   }
+  ]
+ },
+ {
+  "qid": "indep-164",
+  "entity": "A Commentary on Isaiah and Jeremiah",
+  "kind_of_thing": "Magic Item",
+  "aliases": [
+   "A Commentary on Isaiah and Jeremiah"
+  ],
+  "book": "the-church",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Six: The Corrupt",
+     "The Cistercians",
+     "Sample Characters",
+     "Father Tino of Gradara"
+    ],
+    "text": "them. He has a sweet odor associated with him, but to those with True Faith it smells sickly sweet, like decaying meat. His demonic advisor tries to ensure no one that holy gets close enough to notice, though. Tino's greatest method of recruitment of brothers into his secret group within the Cistercians has been Corruption, an Ability described in *Realms of Power: The Infernal*, page 91. His books are *A Commentary on Isaiah and Jeremiah*, a corrupt tractatus on Theology, and *Expositio Sybillae et Merlini,* a work that claims to discuss the ancient prophecies of the sibyls and Merlin, but which is actually a corrupt summa on Church Lore, designed to subtly influence the reader towards Tino's position. These books are widely copied and distributed within the order, though the author remains anonymous. The demon behind this elaborate deception is Jaevert, Duke of the False Millennium. Jaevert does not create these heresies, but for centuries wherever a false prophet has announced the end, Jaevert has gained influence and meddled to ensure false doctrines are taught, false hopes are raised, and then they're dashed resulting in cynicism and loss of faith. He often appears to prophets and visionaries in the guise of an angel of light, leading them into corruption and ultimate despair and damnation. >#### The Demon Jaevert > >**Order:** Duke of the Deluders (Watchers) > >**Infernal Might:** 40 > >**Characteristics:** Int 0, Per +1 , Pre +2, Com +1, Str +5, Sta +5, Dex +5,"
+   }
+  ]
+ },
+ {
+  "qid": "indep-172",
+  "entity": "Korrigan",
+  "kind_of_thing": "Creature",
+  "aliases": [
+   "Korred",
+   "Korrigan"
+  ],
+  "book": "the-lion-and-the-lily-the-normandy-tribunal",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Four: Brittany",
+     "Lordship of Penthièvre",
+     "Rose Coast"
+    ],
+    "text": "Pink granite forms the moor-topped cliffs between St. Brieuc Bay and Morlaix Bay. Many oddly shaped rocks surround small, sandy beaches and creeks. Many of the rock shapes resemble animals and people, and a few have supernatural origins. Offshore lie numerous islands; most are very small. >#### Korrigan > >Anyone attempting to collect vis or investigate the mysteries of the forest will have to contend with the korrigan (singular: korred). A korred is a hunchbacked manikin about three feet tall with cat's claws on its hands and goat's hooves for feet; with the expenditure of Might, it may take on the form of a beautiful young woman. They are known as dancers and magicians. Since their queen, Viviane, lost interest in the Brocéliande forest and them, the korrigan in this region have become very dangerous. Elsewhere, they may live in forests, caves, or dolmens, where they collect valuable objects. They administer severe punishments to those who annoy them, but periodically give rewards from their treasures. In some places, they like to dance in a circle holding hands under the moonlight at a crossroads and, if they are in a good mood, invite all who pass to join them. Those who accept may be given a gift, but those who refuse are punished. > >These statistics apply to the korrigan of Brocéliande. Those encountered in other parts of Brittany are less dangerous; they are more interested in dancing and riches, though still unpredictable and short-tempered. > >**Faerie"
+   },
+   {
+    "heading_path": [
+     "Chapter Four: Brittany",
+     "Broërec",
+     "Carnac"
+    ],
+    "text": "of the ancient dead. They take shelter in the Church of St. Cornelius, bar the doors, and pray till dawn each Midsummer night, when the Infernal aura reaches 5 even in the churchyard. Long ago the Nains were Korrigan, faerie creatures, but their wickedness corrupted them and today they are clearly aligned with the Infernal realm. Nains attack in large groups, and are often accompanied by even darker, more horrific demons."
+   }
+  ]
+ },
+ {
+  "qid": "indep-180",
+  "entity": "Gallows Wood",
+  "kind_of_thing": "Place",
+  "aliases": [
+   "Gallows Wood"
+  ],
+  "book": "the-mysteries-revised",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter 2: Entering the Mysteries",
+     "Secrecy and the Mysteries"
+    ],
+    "text": "The first and central concept for any Mystery Cult is that *secrecy is power*. Part of the appeal of the Esoteric Mysteries is that they do not openly discuss what they know; the veil of secrecy is drawn tight around them, fastened by oaths and powerful rituals designed to prevent any disclosure. While some simply believe that sacred secrets should not be spoken openly, others say that a secret shared loses its potency, either figuratively or literally. Furthermore, a group whose extent and membership are unknown can claim power and give rise to fear in excess of its true capabilities. A magus who finds a still-living raven nailed to his sanctum door cawing a vile message, or who awakens to discover a whispering dagger on his pillow, knows in a dreadful instant that he has stumbled across a Mystery Cult. Who can such a magus trust? Even his sodales in the covenant could be members — did not Lucius vanish for three days last solstice? What of Svetlana's late-night journeys to Gallows Wood? She said she was harvesting vis, but who was the crooked old hag who walked under the oaks with her? Can such a magus sleep well knowing he has angered the mighty, yet not even knowing their names? In addition to engendering fear of the unknown, secrecy also keeps the members of a Mystery Cult safe. If the members of a secret order advertise their status openly, their enemies can break up their"
+   }
+  ]
+ },
+ {
+  "qid": "indep-188",
+  "entity": "Frangarach",
+  "kind_of_thing": "Magic Item",
+  "aliases": [
+   "Answerer",
+   "Fatal Sword",
+   "Frangarach"
+  ],
+  "book": "transforming-mythic-europe",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Three: The Island of the Magicians",
+     "Lack Of Vis",
+     "The Surrounding Seas"
+    ],
+    "text": "can, however, show the player characters the path to Mannanan's realm, which is called Tir Tairngire (the Land of Promise), or Emain Ablach (the Isle of Apples, or the Isle of Women, or Avalon, depending on your translation). > >Manannan is not designed as a player character. > >**Faerie Might:** 55 (Corpus) >**Characteristics:** Int +5, Per +2, Pre +2, Com 0, Str +2, Sta +1, Dex +1, Qik +1 >**Size:** Manannan is a shapeshifter of such skill that his Size is whatever his passing fancy makes it. To represent this he has been given the Huge Virtue and the Growth and Shrinking Focus powers. Assume he can take any form between size 6 and –6, and that he can use illusions to appear even bigger or smaller. >**Virtues and Flaws:** At least 4 Grant Major Virtue (each of his magic items), 6 x Focus Powers, 9 x Greater Faerie Power, Highly Cognizant, Extend Glamor, Huge; External Vis (all of his treasures), Faerie Sight, Faerie Speech, 10 x Increased Might (minor), Sight Beyond Sight; Traditional Ward (Dominion)\\* >\\* Although he cannot face down the Dominion, he often pretends to be a monk, to trick people into doing virtuous things. >**Personality Traits:** Mercurial +3, Proud +3 >**Combat:** > >*Giant Flaming Wheel\\** Init –2, Attack +11, Defense +8, Damage +10 \\*\\* > >*Size 0 Human form (Fatal Sword\\*\\*\\*):* Init +2, Attack +14, Defense +12, Damage +7 \\*\\*\\*\\* > >\\* In terms of physical combat, this is perhaps Manannan's most"
+   },
+   {
+    "heading_path": [
+     "Chapter Three: The Island of the Magicians",
+     "Lack Of Vis",
+     "The Surrounding Seas"
+    ],
+    "text": "–2, Attack +11, Defense +8, Damage +10 \\*\\* > >*Size 0 Human form (Fatal Sword\\*\\*\\*):* Init +2, Attack +14, Defense +12, Damage +7 \\*\\*\\*\\* > >\\* In terms of physical combat, this is perhaps Manannan's most dangerous form. It does, however, prevent him using his terrible sword and impenetrable armor. In this form he has +8 Strength, –2 Quickness due to his Size (+4) >\\*\\* In addition to the damage of being struck, Mannanan's flaming form does +15 damage. Since this is part of his body, rather than a Power, it is not resisted by the Parma Magica. >\\*\\*\\* For every +1 Size, add +2 Str and –1 Qik (and also therefore +2 Dmg and –1 Init and Dfn) >\\*\\*\\*\\*\\* In addition to this damage, the touch of the sword allows the use of the Stroke of Death power. > >**Soak:** +21 in his magical breastplate, +11 in his flaming wheel form; in his environmental forms his Soak is basically limitless. >**Wound Penalties** > >*Size 0 human form:* –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+) > >*Giant flaming wheel form:* –1 (1–10), –3 (11–20), –5 (21–30), Incapacitated (31–40), Dead (41+) > >**Powers:** > >The powers below assume Manannan is in size 0 human form. If he changes shape so that his Qik score declines the Init of his powers is similarly reduced. > >*Lord of Imaginem:* Magnitude/5 points, Init –Magnitude+1, Imaginem: This Focus Power, which requires three Greater Virtues, allows Manannan to use"
+   }
+  ]
+ },
+ {
+  "qid": "indep-196",
+  "entity": "Deriten",
+  "kind_of_thing": "Creature",
+  "aliases": [
+   "Deriten"
+  ],
+  "book": "tribunals-of-hermes-rome",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Two: Mythic History",
+     "Frederick Barbarossa"
+    ],
+    "text": "In A.D. 1155, the cities of northern Italy were given a new reason to battle each other. Frederick Barbarossa, on his way to coronation in Rome, decided to put down the rebellious communes and re-exert the power of the Empire. Few knew Frederick's secret to success in these wars, that he was a diabolist. Long ago he made a pact with a demon to gain power in Rome. The demon was named Deriten, and was a great enemy of Peris, who controlled many of the diabolists in the cities of northern Italy. While Frederick thought he controlled the creature that had promised him power, he was actually its pawn, used by Deriten to claim the earthly lands lorded over by Peris. After exerting his power in northern Italy, Frederick moved on to Rome, claimed the crown and returned over the Alps. Once recovered, the northern cities that had been sacked set to the task of paying their enemies back, plotting against those who had helped Frederick. Peris, too, was ready to help, for revenge and further collection of lost souls. It is said that the Della Torre family, which at that time controlled Milan, eagerly entered into a pact with Peris. If this is true, it was a great victory for the demon. Previously, it had largely been the weak of the north who joined the Shadow. Now, it seemed the strong did too. Shortly afterward, Milan's enemies were destroyed."
+   },
+   {
+    "heading_path": [
+     "Chapter Two: Mythic History",
+     "Fighting Continues"
+    ],
+    "text": "Once Emperor, Frederick decided to destroy Milan once and for all, with the consent of Lodi, Pavia, Como, Cremona and Novara, all cities tainted with evil and lured toward sin. Milan's survivors were spread among undefended villages. Only churches and convents were spared. During the exodus, Frederick took great care to seek out and slay the Della Torre family, for his Infernal patron, Deriten, had suggested that they were his greatest enemies. Many Della Torres managed to escape, however, and the demon Peris helped them begin plotting their revenge. Fearing the same destruction of Milan, many communes of Lombardy submitted to Imperial control, placed under the rule of Imperial appointees bearing the title \"Podesta.\" Needless to say, many of these appointees were under Frederick's direct control, and therefore the control of the Dark. Fighting under Frederick's reign continued when he sought to appoint his own Pope, Paschal III. Determined to see Paschal, who worshipped the same lord as he, made Pope, Frederick returned to Italy once more in 1166. In 1167, Frederick marched on Rome and captured the city. Paschal's seat did not last, however, as Frederick's forces were stricken by disease. This was Saint Peter's vengeance against the Emperor. Frederick's demonic patron had overstepped his bounds when he tried to take the Holy City itself. Peris, whose followers were even then making new preparations against Frederick's forces, was quite pleased. Faced with the prospect of bein"
+   }
+  ]
+ }
+]

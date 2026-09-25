@@ -1,0 +1,558 @@
+[
+ {
+  "qid": "indep-005",
+  "entity": "Poor Disputer",
+  "kind_of_thing": "Flaw",
+  "aliases": [
+   "Poor Disputer"
+  ],
+  "book": "art-academe",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Seven: Universities",
+     "New Virtues and Flaws",
+     "New Flaws"
+    ],
+    "text": "**Failed Student** *Story, Minor* The character has studied for a specific university license and failed his final examination. If he passed earlier exams, he may have a scholastic Social Status Virtue showing how far he got. (Obviously, this cannot be Doctor in (Faculty).) The character has a Bad Academic Reputation of 2. **Poor Disputer** *General, Minor* The character has a difficult time with disputationes and suffers a –3 penalty on disputatio die rolls. **Rector/Proctor** *Story, Major* The character is the representative leader of his faculty or nation, depending on whether he is a master or a student. He is responsible for his colleagues' behavior and is obliged to deal with their academic concerns. The character must have a Social Status Virtue dictating his place within the university. The character can expect to spend considerable time sorting out his fellows' affairs. **University Dean** *Story, Major* The character is the head of a university, having already acquired his doctor in (faculty) license. The character has been chosen to lead the university, overseeing external affairs with the town and internal affairs between students and masters. Though prestigious, the position imposes serious demands on the character's time. The character can expect many interruptions in his teaching during the school year. The character must have the Virtue: Doctor in (Faculty), be at least 40 years old, and can not have the Poor Flaw or any other Flaw that grants a Bad Reputatio"
+   }
+  ]
+ },
+ {
+  "qid": "indep-013",
+  "entity": "St. Crispianian",
+  "kind_of_thing": "Character",
+  "aliases": [
+   "Crispianian",
+   "St. Crispianian"
+  ],
+  "book": "city-guild",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Six: Fairs & Markets",
+     "God of Commerce"
+    ],
+    "text": "every week, but in a large, busy city market, sometimes a visitor or even a local resident can become confused. In a relatively quiet location, she may come across a previously unnoticed booth where the salesman is the patron saint of some trade. > >The saint and goods discovered depends on the situation; many options are listed below. A pious, holy person in need of something particular might have the opportunity to acquire something very special indeed. The goods on offer are, at the very least, particularly fine examples, and may bestow blessings of some sort. The seller may appear exactly as he looked in his prime, or perhaps his dress and speech betray very little of his origin. If it is the saint's feast day, the customer need not necessarily be pious at all to find the unusual booth, which could lead to an interesting meeting. > >The patron saints of merchants in general are Homobonus (see below) and Nicholas (the fourth century Bishop of Myra in Turkey), and either of these might serve if none of the following are appropriate. > >**St. Crispin and St. Crispianian:** Leatherworkers, cobblers especially. Feast: October 25. These brothers were members of a noble Roman family who preached in Gaul in the third century. Some say they traveled as far as Faversham in England. > >**St. Dunstan:** Metalworkers, locksmiths, and embroiderers. Feast: May 19. A tenth century English Benedictine monk who became Abbot of Glastonbury and later Archbishop of"
+   }
+  ]
+ },
+ {
+  "qid": "indep-021",
+  "entity": "Covenant of the Redbreasted Warriors",
+  "kind_of_thing": "Covenant",
+  "aliases": [
+   "Covenant of the Redbreasted Warriors"
+  ],
+  "book": "covenants",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Two: Boons & Hooks",
+     "Site",
+     "Major Site Hooks"
+    ],
+    "text": "ghetto to what people think an Arabic trading quarter must look like, and they find these insights into the human mind fascinating. **Magical Disaster:** Long ago, this was the site of a mystical tragedy. Many supernatural forces in the area press the local magi to cease work here, lest they repeat the mistakes of the past. Other forces encourage them, promising that — this time — all will be well. Some say that Durenmar is such a site. **Missing Aura:** The characters have settled in an area where they lack the most fundamental tool required to study their Art, a magical aura. Stories focus on how they better their situation, and how the covenant remains together when there is such a strong temptation for some magi to leave. Marco, widely considered a charlatan, claims to have met a faerie king who held the aura of the fallen Covenant of the Redbreasted Warriors in a wine bottle. He said that he would invite to dinner any magus who could meet his five challenges, and allow them to choose their menu from his entire demesne, including, presumably, the bottle. Marco, cowardly, refused to meet his challenges and, fed only on pea gruel and water, fled the king's hall by night. **Monster:** A powerful mystical creature lives inside the covenant. The creature can be aligned with any realm, and is too powerful for the player characters to defeat at the beginning of the campaign. Monsters are often large, and"
+   }
+  ]
+ },
+ {
+  "qid": "indep-029",
+  "entity": "Kassalan Dust",
+  "kind_of_thing": "Magic Item",
+  "aliases": [
+   "Kassalan Dust"
+  ],
+  "book": "definitive-edition-core-rules",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter 4: Virtues and Flaws",
+     "Virtues",
+     "Kassalan Exorcism"
+    ],
+    "text": "*Minor, Supernatural* You are capable of performing minor exorcism spells through your knowledge of the rites of the Mortuary Society of Kassala in Alodia, the most remote of the three Nubian kingdoms on the southern reaches of the Nile. You can cast spells in a very limited focus, namely wards against ghosts and the physical dead (using the Rego Corpus or Rego Mentem guidelines), and spells to strip Might from these same beings (using the Perdo Vim guidelines). You cannot create spells that affect other spirits or creatures who are not the walking dead, but your spells are equally effective against creatures from any Realm. Wards created with this Virtue need not be circular. but can instead block the threshold(s) of a room; this is still treated as a Duration: Ring, Target: Circle spell for level calculations. To cast a spell you must expend a Fatigue level, whether the spell succeeds or fails. You must also spend at least 5 minutes preparing the spell, during which time you need unbroken concentration and expend one handful of Kassalan Dust. The spell is designed exactly like a Hermetic spell; if affecting a ghost you must be able to sense your target. Your Casting Total is equal to (Stamina + Organization Lore: Mortuary Society + Aura modifier + stress die) / 2. Penetration is calculated in the normal fashion: Casting Total – Spell Level + Penetration modifiers. Kassalan Exorcism is aligned to the Magic Realm. > #### Kassalan Dust"
+   },
+   {
+    "heading_path": [
+     "Chapter 4: Virtues and Flaws",
+     "Virtues",
+     "Kassalan Exorcism"
+    ],
+    "text": "Society + Aura modifier + stress die) / 2. Penetration is calculated in the normal fashion: Casting Total – Spell Level + Penetration modifiers. Kassalan Exorcism is aligned to the Magic Realm. > #### Kassalan Dust > > Made by the Mortuary Society of Kassala, this dust has powdered gold as its main component, with myrrh and other spices making up the rest. Twenty handfuls contain about a Mythic Pound's worth of gold dust. > > Kassalan Dust is necessary for Kassalan Exorcism, but grants no bonus. A handful also adds +3 to uses of the Corpse Magic Supernatural Ability to command a corpse to return to its grave or prevent it from being affected by Corpse Magic. Multiple handfuls provide no additional effect. Kassalan Dust has a Shape & Material bonus of +3 against the dead. The recipe is known to anyone with Organization Lore: Mortuary Society. > > More details on the Kassalan Mortuary Society can be found in Lands of the Nile, from page 88."
+   }
+  ]
+ },
+ {
+  "qid": "indep-037",
+  "entity": "Nebelkönigin",
+  "kind_of_thing": "Magic Item",
+  "aliases": [
+   "Nebelkönigin"
+  ],
+  "book": "guardians-of-the-forests-the-rhine-tribunal",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Seven The Lowlands",
+     "Waddenzee",
+     "Culture and Traditions"
+    ],
+    "text": "Waddenzee was effectively formed anew about twenty years ago when Hygwald and Eric fought and killed the leader of a pirate band, and found themselves in possession of three powerful ships and a willing crew. In the following decades the magi of the covenant have adopted the pirate lifestyle, and now have five ships, all magically enhanced. The pride of the fleet is the *Nebelkönigin*, stolen from the covenant of Oculus Septentrionalis. The ship was carrying a substantial amount of vis and magical books when it was attacked by the magi of Waddenzee, but as no magus was present on the ship at the time. As it was involved with a substantial trading venture forbidden by the Quaesitores, Oculus Septentrionalis has not been successful in securing its return through legal means. The Lübeck covenant is determined to see an end to Waddenzee, but is currently held back by Fengheld, with whom the pirate covenant has shrewdly developed a mutual understanding. Waddenzee goes to great pains to keep its activities legal under the Code of Hermes (primarily by ensuring there are no witnesses), and thus far has avoided serious censure at Tribunal. They have been warned by the Quaesitores on numerous occasions that they are treading a fine line, and should the mundane authorities ever see fit to try to get rid of the pirates, they will find no support from the Tribunal, and will probably each face charges of High Crimes. Oculus Septentrionalis is just waiting"
+   },
+   {
+    "heading_path": [
+     "Chapter Seven The Lowlands",
+     "Waddenzee",
+     "Covenfolk"
+    ],
+    "text": "The majority of Waddenzee's covenfolk are pirates or their followers, a rough group of nearly 200 men from all the nations of Europe. They spend most of their time enjoying the fine foods and wine that comes from their raiding, and generally only two ships leave the covenant's harbor at any time, taking 80 men with them. Waddenzee probably has the largest turb of all of the Rhine's covenants, but at any one time nearly half of them will be at sea, and most of the others will be drunk. Discipline is poor, although all the men accept the authority of the magi and their chosen deputies. Among these are Aethelbald, who claims to be the Saxon heir to the Crown of England; Bjorn Ironside, who is the ship's master of the *Nebelkönigin*; Calum, a lapsed priest who provides a heretical form of spiritual sustenance to the pirates; and Aelfhere, a Friesian shipwright whose ability is nothing short of magical. >#### Story Seed: War Against the Pirates >If your saga follows real history, from the middle of the 13th century onwards, the Hanseatic League begins to take steps to counter and defeat the various pirates of the North Sea and Baltic. Larger ships are built, and captains adopt the habit of travelling in convoys for protection. This requires the pirates to attack with greater force and numbers. As the League grows in wealth and influence, it will later be able to recruit entire armies and petition"
+   }
+  ]
+ },
+ {
+  "qid": "indep-045",
+  "entity": "Roma Nova",
+  "kind_of_thing": "Covenant",
+  "aliases": [
+   "Roma Nova"
+  ],
+  "book": "heirs-to-merlin-stonehenge-tribunal",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Two: History",
+     "Vikings and Magi"
+    ],
+    "text": "North, and this did not recognize his authority at all. His son Athelstan continued and completed Edward's work, conquering the kingdom of York in 927, accepting the tribute of the Welsh kings from 931, and finally pacifying Cornwall in the same year. In 937 he was attacked by the Irish and Scots, in a grand alliance intended to break his power. He annihilated them at the battle of Brunanburh. Sursum fell during Athelstan's campaigns. It was closely involved with the Cornish nobility, and was connected with their revolt in 931. Athelstan's response involved the destruction of the covenant, and when the quaesitores investigated the ruins they found evidence that the Tytalus at the covenant had been involved in diabolism. This was one of the first pieces of evidence leading up to the disgrace of House Tytalus in 961. Although the southeast was at peace in these years, London covenant had trouble establishing itself in the city. It was constantly changing its lodgings, and as it was never keen on telling the rest of the Order about its activities Redcaps occasionally had trouble tracking it down to deliver messages. Finally, in 942, their best efforts failed to discover the covenant, and it was presumed to have been dispersed or destroyed. A group of traditionalist Latin magi founded the covenant of Roma Nova in Kent in 946, and quickly made themselves unpopular with the Bjornaer, Díedne, and Ex Miscellanea. In 952, they were challenged at one of their"
+   },
+   {
+    "heading_path": [
+     "Chapter Two: History",
+     "Vikings and Magi"
+    ],
+    "text": "group of traditionalist Latin magi founded the covenant of Roma Nova in Kent in 946, and quickly made themselves unpopular with the Bjornaer, Díedne, and Ex Miscellanea. In 952, they were challenged at one of their vis sources by magi claiming to be from London. The challengers were defeated, but investigations by the Redcaps found no other trace of the urban magi. In 984 a group of Flambeau magi founded Ungulus, \"The Claw,\" in the Lake District. Less than two decades later its purpose, as a forward post in the Schism War, was revealed. The Stonehenge Tribunal suffered badly in that war. Roma Nova was destroyed by the Díedne in 1008, and many other covenants were damaged and lost members. The destruction of the Nameless Covenant in 1011 was the last major engagement of the war, and the things the quaesitores found in the ruins led them to have the site razed completely, and most records of the covenant destroyed. In 1014 Blackthorn sponsored a group of magi, including many apprentices trained at the covenant, to found the covenant of Tagelyn in some caves fairly close to Blackthorn's site. Their stated aim was to begin repairing the damage wrought by the Schism War. In 1025 a small group of Criamon magi founded the covenant of Stellasper, in the Scilly Isles southwest of Cornwall. The covenant never took an active part in tribunal business, and the Redcaps only visited once every seven years. Sometime in 1030 or"
+   }
+  ]
+ },
+ {
+  "qid": "indep-053",
+  "entity": "Ceres",
+  "kind_of_thing": "Creature",
+  "aliases": [
+   "Ceres"
+  ],
+  "book": "houses-of-hermes-mystery-cults",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter One: House Bjornaer",
+     "The Huntress in the Wood",
+     "Structure of the Huntress",
+     "Hierophants"
+    ],
+    "text": "The three hierophants of the Huntress, who lead the cult, are elected by the eumolpids. One is always a priestess of Diana, a second is always a priestess of Ceres. The third can be either male or female, but is usually a priest of a pagan god. Upon being chosen as a hierophant, a magus is Initiated into the Mystery of Hermetic Synthemata (see *The Mysteries Revised Edition*) by the other two. This Mystery is vital in the Huntress's plans, as with it they hope to be able to control the messiah when they create him. During the rite, the Initiate reveals her identity to the other two hierophants; thus, the senior hierophant always knows the identity of the other two, whereas the junior knows the identity of neither of the others. The hierophants guard an Initiation Script for the innermost Mystery of the cult, Ascendancy to the Hall of Heroes (see *The Mysteries Revised Edition*, Chapter 9: Hermetic Theurgy). Once the pagan messiah has been chosen from amongst the kerykis, he will prove himself by slaying Quendalon, earning in the process the blessing of Diana, and become the focus of veneration by the eumolpids as he reforms the Order of Hermes. **Initiation to the Rank of Hierophant and the Mystery of Hermetic Synthemata** **Ease Factor**: 15 (Minor Virtue known to the Mystagogue) **Script Bonus**: +7 **Script Details**: The Initiate is stripped naked (Sacrifice of anonymity, +1). The Initiate must then track, chase, and bring down"
+   }
+  ]
+ },
+ {
+  "qid": "indep-061",
+  "entity": "Enchantment of the Pedestrian Pigeon",
+  "kind_of_thing": "Named Spell",
+  "aliases": [
+   "Enchantment of the Pedestrian Pigeon"
+  ],
+  "book": "houses-of-hermes-societates",
+  "passages": [
+   {
+    "heading_path": [
+     "Magic",
+     "The Magic of Intrigue"
+    ],
+    "text": "spells, such as ones to induce feelings of loyalty, or to spread malicious gossip about a rival (see *Burning Issue of the Day*, below), are far more popular. For meeting with co-conspirators, Tytalan magi often preserve their anonymity with face-changing or face-blurring magic (see *The Clandestine Mask*, below), or else meet in total darkness. Some do both, just in case one concealment method is negated by treachery. Spells can be employed to ensure the secure transfer of information between conspirators (see *Enchantment of the Pedestrian Pigeon*, below), or else communications can be written in Tytalan ink (see below)."
+   }
+  ]
+ },
+ {
+  "qid": "indep-069",
+  "entity": "The Whole from the Part",
+  "kind_of_thing": "Named Spell",
+  "aliases": [
+   "The Whole from the Part"
+  ],
+  "book": "houses-of-hermes-true-lineages",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Two: House Guernicus",
+     "Quaesitorial Magic",
+     "Spells and Guidelines",
+     "Intellego Corpus Spells",
+     "Sight of the Molting Magus"
+    ],
+    "text": "**R:** Per, **D:** Conc, **T:** Vision, **Level 25** This spell allows the caster to spot Corpus material (hair, blood, etc.) within his line of sight. Such material appears to glow with a reddish hue. The spell also allows the magus to estimate how long ago the item parted company from its owner by the brightness of the glow. This spell is used to place suspects in a particular time and place. The spell *The Whole from the Part* (see above) is often used to identify who the item belonged to. (Base 4, +1 Conc, +4 Vision)"
+   }
+  ]
+ },
+ {
+  "qid": "indep-077",
+  "entity": "Kill the Living Air",
+  "kind_of_thing": "Named Spell",
+  "aliases": [
+   "Kill the Living Air"
+  ],
+  "book": "icelandic-wars-land-of-fire-and-ice",
+  "passages": [
+   {
+    "heading_path": [
+     "Assault on the Guardians"
+    ],
+    "text": "any Magic Resistance. Nevertheless, with the host healing any injury Pan Caudarax takes, he may escape. If Albinus is part of the crusader force, the host is driven off by his magic; this leaves Pan Caudarax extremely vulnerable. Next Vindsvall leads an attack. If Albinus is present, he again drives off the host, leaving Vindsvall without his normal assistance. Once Vindsvall is spotted Albinus is able to capture him in a spirit bottle. If Albinus is not present, Vindsvall creates a massive storm and the ships are struck again and again by huge thunderbolts. Eventually a thunderbolt penetrates the *Aegis of the Hearth* ward on one vessel. Even with its other protections the ship is badly damaged and a number of people are slain. Vindsvall commands the host to concentrate on this vessel. They blow powerful gusts of wind onto waters surrounding the damaged ship, causing huge waves to crash over it. Many are swept overboard and the ship begins to sink. Eventually a magus spots Vindsvall through the clouds and casts a spontaneous *Kill the Living Air* with a two rooks of vis. Vindsvall is badly drained of Might and is only saved and helped to retreat by the host. However, the stricken vessel sinks with the loss of about seven magi and most of the mundanes. The remaining Hermetic vessel then makes it to the Icelandic coast and begins looking for a harbor. They find one on the southeastern quarter, where they drop anchor."
+   }
+  ]
+ },
+ {
+  "qid": "indep-085",
+  "entity": "Highland Giants",
+  "kind_of_thing": "Creature",
+  "aliases": [
+   "Highland Giants"
+  ],
+  "book": "lion-of-the-north-the-loch-leglean-tribunal",
+  "passages": [
+   {
+    "heading_path": [
+     "Lion of the North: The Loch Leglean Tribunal",
+     "CREDITS"
+    ],
+    "text": "the Coast, Inc. | Contents | | -------------------------------------------------- | | **Chapter 1: Introduction** | | Overview | | Bibliography | | **Chapter 2: Mythic History** | | Early Scotland | | The Ascendance of the Scots | | The House of Canmore: Scotland in the 12th Century | | Scotland after 1200 | | Kings of Scotland | | Kings of Man and the Isles | | Earl of Orkney | | Timeline of Major Events | | Timeline of Mundane Events | | **Chapter 3: Hermetic History** | | The War Against Damhan-allaidh | | Two Orders, the 13th House | | The Order and the Kings | | The Tribunal Today | | **Chapter 4: Scottish Landscape** | | The Borders and the Lowlands | | The Highlands | | The Islands | | Stone Monuments | | Things Scottish | | **Chapter 5: Covenants** | | The Covenant of Horsingas | | The Covenant of Crun Clach | | The Covenant of Mac Gruagach | | **Chapter 6: Character Creation** | | Lowland Characters | | Highland Characters | | Geasa, Gifts, and Curses | | Gruagach—The Highland Magician | | **Chapter 7: Scenario Ideas** | | Other Saga Dates | | Meeting Brude Deathless | | Cattle Raiding | | Blood Feud | | Highland Giants | | Lord Goulis and the Demons of Monksend Castle | | The Return of Damhan-allaidh | | **Appendix 1: Character Templates** | | Grog Templates"
+   },
+   {
+    "heading_path": [
+     "Lion of the North: The Loch Leglean Tribunal",
+     "CREDITS"
+    ],
+    "text": "Cattle Raiding | | Blood Feud | | Highland Giants | | Lord Goulis and the Demons of Monksend Castle | | The Return of Damhan-allaidh | | **Appendix 1: Character Templates** | | Grog Templates | | Magi Templates | | **Appendix 2: Gaelic Glossary** | | Pronunciation Notes | | Vocabulary | | **Mythic Scotland at a Glance** | > *When he had eaten and drunk his fill,* > *She said, \"Lay your head upon my knee,* > *And before we climb yon high, high hill* > *I will show you wonders three.* > > *\"See you that broad, broad road* > *That lies by the lify leaven?* > *That is the road to Hell,* > *Though some say it leads to Heaven.* > > *\"And see you that narrow, narrow road,* > *Beset with thorns and briars?* > *That is the way to rightcousness,* > *Though after it few inquire.* > > *But see you that bonny, bonny road* > *That winds about the ferny brae?* > *That is the road to fair Elfland,* > *Where you and I must go.\"* > > —The Ballad of Thomas the Rhymer"
+   }
+  ]
+ },
+ {
+  "qid": "indep-093",
+  "entity": "Falcon of Virtue",
+  "kind_of_thing": "Creature",
+  "aliases": [
+   "Falcon of Virtue"
+  ],
+  "book": "lords-of-men",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Five: Leisure",
+     "The Tournament",
+     "Staging a Tournament",
+     "The Tournament Site"
+    ],
+    "text": "A tournament site stretches over acres of land marked out by landmarks such as roads or villages. Most of this land is given over to the melee, allowing the fighting to sprawl out. > ## Story Seed: The Falcon of Virtue > > A nobleman sends to the covenant for help in trapping a rare bird that he intends to award as a tournament prize. He has heard of a falcon whose feathers burn with the sunlight, whose talons are sharp as flint, whose flight is as silent as the air, and whose temper is as calm as a summer lake. The nobleman is wealthy and prepared to lay down a handsome price for the bird. Upon capturing the bird the covenant discovers it carries a shocking secret. Can they now turn the falcon over to the lord? The lists, usually wooden hoardings, stakes, or earth embankments, mark out the starting points for both sides and are found next to the melee ground. It is here that many of the *commencailles* and much of the individual jousting takes place. Stands are often built close to the lists to afford the best view of the knights. Those of lower birth must content themselves with watching from the hillsides that usually overlook the fields. *Recets* are safe havens, clearly marked out within the melee fields. No fighting is allowed within these *recets,* and knights that have succumbed to their enemies make their way back to either the *recets*"
+   }
+  ]
+ },
+ {
+  "qid": "indep-101",
+  "entity": "Polyaigos",
+  "kind_of_thing": "Covenant",
+  "aliases": [
+   "Polyaigos"
+  ],
+  "book": "magic-apprentices",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Five: Adolescentia: Ages 15 to 21",
+     "Scholae Magicae"
+    ],
+    "text": "of energy and time. There are at least two covenants in Mythic Europe that function as schools, although both should be considered covenants first and schools second. Though dedicated to teaching, neither has overcome the difficulties involved in instruction groups of Gifted students, although both have found ways around that difficulty. The island covenant of Polyaigos runs a school that educates Gifted children in the liberal arts, a system that only works because of the Theban Tribunal's treatment of apprentices in general (*The Sundered Eagle; The Theban Tribunal*, page 33). The mysterious Scholomance in the Transylvanian Tribunal teaches 10 students at a time, and while all might work for the Order after graduation, only one is Gifted (see *Against the Darkness: The Transylvania Tribunal*, Chapter 6)."
+   }
+  ]
+ },
+ {
+  "qid": "indep-109",
+  "entity": "Domhnall the Gruagach Master",
+  "kind_of_thing": "Character",
+  "aliases": [
+   "Domhnall",
+   "Domhnall the Gruagach Master"
+  ],
+  "book": "magic-hedge-magic-revised",
+  "passages": [
+   {
+    "heading_path": [
+     "Contents",
+     "List of Inserts"
+    ],
+    "text": "Form Geas and Limit Duration Magnitudes Gruagach Alternative Give Blessing Guidelines Take Blessing Guidelines Give Curse Guidelines Take Curse Guidelines Give Shape Guidelines Take Shape Guidelines Gruagachan Form & Technique Story Seeds Give Vision Guidelines Take Vision Guidelines The God Gruagach and the Faerie Gruagachan Domhnall the Gruagach Master Conall the Gruagach Story Seed: Koshchey the Deathless V. Learned Magicians Lore of the Mathematici New Reagent Guidelines Example Reagents Ranges, Durations, & Targets for Charms Ranges, Durations, and Targets for Amulets and Chartae Tueor Fortunam Guidelines Succurro Fortunam Guidelines Vulnero Fortunam Guidelines Tueor Magicam Guidelines Succurro Magicam Guidelines Vulnero Magicam Guidelines Tueor Salutem Guidelines Succurro Salutem Guidelines Vulnero Salutem Guidelines Story Seeds for the Learned Magician Spell Guidelines Story Seed: Historical Investigation Story Seed: Second-hand Books Stefano the Master Marco the Student Minor Hermetic Virtue: Quick Charged Items VI. NIGHTWALKERS Born With a Caul Combat Statistics for Animal Phantastica Covenants Supplement Modifiers Story Seed: Saving the Falsely Accused Where Do Captains Come From? Intervening in the Battles Saga Considerations Other Processions of the Dead Fennel Story Seed: Aristeas Hawthorn Asphodel Statistics and Abilities for Flame Shape Rothiger, A Hound of God Companion Rothiger in Wolf Form Arno, a Benandante Companion VII. VITKIR The Order of Odin Female Vit"
+   },
+   {
+    "heading_path": [
+     "Chapter Four: Gruagachan",
+     "Gruagachan in Your Saga",
+     "Gruagachan in Play",
+     "Hermetic Gruagachan"
+    ],
+    "text": "Some gruagachan are nominally members of the Order of Hermes. They continue to practice their geas magic, but have joined the Order to avoid persecution or enjoy the benefits of Parma Magica. A nominal Hermetic gruagach character should take the Flaw Hedge Wizard and the Virtue Arcane Lore. The 50 experience points from the Arcane Lore can be used to learn any Arcane Abilities, but the character should have minimum scores of 1 in Code of Hermes and Parma Magica. Otherwise, the player generates the gruagach exactly as described earlier. >#### Domhnall the Gruagach Master > >Characteristics: Int +2, Per 0, Pre +2, Com 0, Str +1, Sta +2, Dex 0, Qik 0 > >Size: +1 > >Age: 31 > >Decrepitude: 0 > >Warping Score: 1 (2) > >Confidence Score: 1 (3) > >Virtues and Flaws: The Gift; Gruagach, Gruagach Master; Gentle Gift; Flexible Magic, Improved Characteristics, Large, Minor Magical Focus (self-transformation), Warrior, Envious, Waster of Vis, Careless Sorcerer, Close Family Ties, Pagan > >Personality Traits: Brave +3, Proud +2, > >Reputations: Wise beyond his years 3 (local) > >Combat: > >Cudgel (normal): Init 0, Attack +8, Defense +5, Damage +8 > >Cudgel (giant form): Init -3, Attack +8, Defense +2, Damage +16 > >Soak: +4 > >Fatigue Levels: OK, $O_1$ , -1, -3, -5, Unconscious > >Wound Penalties (normal): -1 (1-6), -3 (7–12), –5 (13–18), Incapacitated (19– 24), Dead (25+) > >Wound Penalties (giant form): -1 (1-10), (31-40), -3 (11-20), -5 (21-30), Incapacitated (31-40), Dead"
+   }
+  ]
+ },
+ {
+  "qid": "indep-117",
+  "entity": "Leda",
+  "kind_of_thing": "Character",
+  "aliases": [
+   "Leda"
+  ],
+  "book": "mythic-locations",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Nine: The Faerie Toy Market on Devil's Lane",
+     "The Devil's Lane Covenant",
+     "Julia's Laboratory"
+    ],
+    "text": "The ground floor of the covenant is the Hermetic laboratory of the Merinita maga Julia. Julia's laboratory is clearly marked as her sanctum, and it is a dark and spooky chamber filled with the bleached bones and skulls of animals, mythic beasts, and even people. Julia was once Bartholomew's apprentice, and after a brief sojourn city-side returned in 1215. Julia had a twin sister named Leda who was abducted by faeries when the sisters were aged five, and Julia's main goal is to recover her sister. Earlier Julia thought that her sister was killed by the faeries (hence her interest in necromantic magic), but Julia now thinks her sister is alive. Julia (wrongly) believes that the elderly Bartholomew somehow mediates the relationship between the underground elvish workshops and the faerie merchants. As Bartholomew seems decrepit and near death Julia intends to inherit this control when he dies, and then hold this control to ransom, to force the faeries to return her lost sister Leda. Upon his death, capturing and studying Bartholomew's lab notes is her first priority. Julia's magic is characterized by death and her sigil is a sound like the ominous tapping of a death-watch beetle. >#### Julia of House Merinita > >**Characteristics:** Int +2, Per +1, Pre 0, Com 0, Str 0, Sta +1, Dex +1, Qik +1 > >**Size:** 0 > >**Age:** 31 (31) > >**Decrepitude:** 0 (0) > >**Warping Score:** 1 (3) > >**Confidence Score:** 1 (3) > >**Virtues and Flaws:** The"
+   },
+   {
+    "heading_path": [
+     "Chapter Nine: The Faerie Toy Market on Devil's Lane",
+     "The Devil's Lane Covenant",
+     "Julia's Laboratory"
+    ],
+    "text": "Com 0, Str 0, Sta +1, Dex +1, Qik +1 > >**Size:** 0 > >**Age:** 31 (31) > >**Decrepitude:** 0 (0) > >**Warping Score:** 1 (3) > >**Confidence Score:** 1 (3) > >**Virtues and Flaws:** The Gift; Hermetic Magus; Major Magical Focus (Necromancy); Faerie Magic, Mastered Spells, Personal Vis Source (see below), Puissant Art (Corpus); Deficient Technique (Creo); Ambitious (to be mistress of the covenant), Lost Love (Twin Leda), Nocturnal > >**Personality Traits:** Obsessed (Leda) +3, Ambitious +2 > >**Reputations:** Merinita necromancer 1 (Hermetic) > >**Combat:** > >*Scythe (farm implement):* Init +2, Attack +7, Defense +5, Damage +5 > >**Soak:** +1 (+ 1 Sta) > >**Fatigue Levels:** OK, 0, –1, –3, –5, Unconscious > >**Wound Penalties**: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+) > >**Abilities:** Area Lore: City-side 2 (graveyards), Area Lore: Devil's Lane 3 (basements), Artes Liberales 2 (astronomy), Awareness 3 (ghosts), Civil and Canon Law 1 (graveyards), Code of Hermes 2 (faeries), Concentration 2 (spells), Dead Language: Latin 4 (Hermetic usage), Faerie Lore 3 (changelings), Finesse 2 (magic items), Great Weapon 2 (scythe), Infernal Lore 1 (ghosts), Leadership 3 (undead), Living Language: Greek 5 (speaking to dead), Magic Lore 1 (ghosts), Magic Theory 3 (corpus), Organization Lore: Order of Hermes 2 (Merinita), Parma Magica 3 (corpus), Penetration 2 (Vim), Stealth 3 (Graveyards). > >**Arts:** **Cr** 2, **In** 5, **Mu** 5, **Pe** 5, **Re** 8; **An** 3, **"
+   }
+  ]
+ },
+ {
+  "qid": "indep-125",
+  "entity": "Touch of the Merciless Lover",
+  "kind_of_thing": "Named Spell",
+  "aliases": [
+   "Touch of the Merciless Lover"
+  ],
+  "book": "realms-of-power-faerie",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Six: Faerie Wizardry",
+     "Faerie Powers",
+     "Woe"
+    ],
+    "text": "Faerie rites allow faerie wizards to damage a target directly, like the faeries whose power they channel. Consequently, Woe can cause grave injuries with greater ease than Hermetic magic. However, because of the universal properties of faerie rites, this damage immediately goes away as soon as the effect wears off. Those who wield this power thus usually seek to harass and delude their quarry with their rites rather than simply destroying them. And of course, it is generally much easier to simply cut off their enemies' heads once they are disoriented. **Curse of the Festering Bruise** Evocation/Woe 20 R: Touch, D: Moon, T: Medium This rite is cast on a weapon of some kind — typically an arrowhead or a knife — and targets the person struck by it. One of this target's wounds (probably the one caused by the weapon) heals as an Incapacitating wound for the duration of the effect. This means that the target must make a Recovery roll at sunrise and sunset, with the normal risk of death or a worsened condition, but is not actually incapacitated. Once the immediate danger has passed, the wound will remain a Heavy wound until the rite's duration ends, at which time it reverts to the level of wound it was previously. (Base 3, +1 Touch, +3 Moon, +1 Medium) **Touch of the Merciless Lover** Empathy/Woe 25 R: Touch, D: Hour+1, T: Ind The caster brushes against the target, and the target immediately wastes away and"
+   },
+   {
+    "heading_path": [
+     "Chapter Six: Faerie Wizardry",
+     "Faerie Powers",
+     "Woe"
+    ],
+    "text": "was previously. (Base 3, +1 Touch, +3 Moon, +1 Medium) **Touch of the Merciless Lover** Empathy/Woe 25 R: Touch, D: Hour+1, T: Ind The caster brushes against the target, and the target immediately wastes away and dies. When the effect's duration ends, the target is restored to life, waking in exactly the same physical state as before the spell took effect, assuming no additional damage has been dealt to his body. However, if the corpse is buried or hanged, the target will likely suffocate upon reawakening. If it is destroyed during the interim, the target might still return but as a faerie ghost or spirit. While under the effects of this rite, the target may undergo something similar to the Faerie Calling, returning to life with a Faerie Sympathy Trait that is appropriate to the experience. (Base 10, +1 Touch, +2 Hour+1) **Gaze of Gray Years** Enchantment/Woe 30 R: Eye, D: Held, T: Ind The caster performs a work of grim and chilling significance, and then concentrates until he can look his target directly in the eye to release the effect. That person, who must be at least 35 years of age, must immediately make an Aging roll. As an additional effect, this rite includes a curse that gives the target a +15 penalty to this roll. This is generally powerful enough to cause the target to gain a Decrepitude Point and suffer an Aging crisis, and since this is a natural consequence of age, these"
+   }
+  ]
+ },
+ {
+  "qid": "indep-133",
+  "entity": "Broken Branches",
+  "kind_of_thing": "Faction",
+  "aliases": [
+   "Broken Branches"
+  ],
+  "book": "realms-of-power-magic",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Six : Magic Humans",
+     "Magic Kin",
+     "Loamwalkers"
+    ],
+    "text": "they pretend to belong to other groups interested in nature, or join organizations that are open to anyone, guiding their members towards choices that serve their own interests. One such example is the group of Redcaps known as the Broken Branches, who are united in their love of nature and respect for the wild. Their founder was a Loamwalker who became a Redcap for the Order of Hermes, and so new Loamwalkers interested in magi often know to seek out that House. Loamwalkers are typically shy and antisocial, and usually spend several years growing accustomed to humans before joining them. One method they have for doing this is to go to a place very near people, perhaps right on the edge of a village's fields, and change into a tree. In this form, they can then watch the humans and learn, until they feel ready to join their community. This can take many years. >#### Story Seed: The Trees Conspire Against Us > >When a famous figure in the Order of Hermes dies suddenly (Vinaria, the former Prima of House Merinita, for example), her body reverts to the form of a tree. In her will, she admits to being a Loamwalker and explains what this entailed. Her words imply that there are other Loamwalkers in the Order, as she warns the magi to mend their ways. The matter is brought to an emergency Tribunal to force these other tree-people hiding in their midst to reveal themselves."
+   }
+  ]
+ },
+ {
+  "qid": "indep-141",
+  "entity": "Fire, and hail; snow, and vapour; stormy wind fulfilling his word",
+  "kind_of_thing": "Named Spell",
+  "aliases": [
+   "Fire, and hail; snow, and vapour; stormy wind fulfilling his word"
+  ],
+  "book": "realms-of-power-the-divine-revised",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Three: Blessed By God",
+     "Miraculous Effects",
+     "Powers and Effects",
+     "WONDERS"
+    ],
+    "text": "a gust of wind or a burst of flame. (Invocation) > >Create a nonliving natural object, such as an animal corpse, driftwood, or a rock. (Invocation) > >**Level 5:** Create and control an unusual force of nature, such as a sudden storm from a clear sky, or a light that shines like the day. (Invocation) > >Create nourishing food or drink, enough to sustain a single person. (Invocation) > >Create a nonliving object that has been processed in some way, such as a leather coat, a lance, or a coin. (Invocation) > >**Level 15:** Create and control a powerful force of nature, such as winds that lift a person off of the ground or a flame that lights up the sky for miles. (Invocation) > >Create a living, docile bird, fish, lizard, or amphibian. (Invocation) > >**Level 20:** Create a living, docile mammal. (Invocation) > >**Level 30:** Create an animal with Divine Might 5. Each 5 points of additional Might increases the Level by 10. (Invocation) **Fire, and hail; snow, and vapour; stormy wind fulfilling his word** (Invocation, Wonders, Level 35) **R:** Sight, **D:** Conc, **T:** Ind You summon a powerful force of nature: a column of flame, a cloud of icy rain and fog, or a great gale. The effects of this miracle are unpredictable, and the storyguide should judge exactly how they manifest. You control this force for the duration of the effect, and may guide it to move under its own power to"
+   }
+  ]
+ },
+ {
+  "qid": "indep-149",
+  "entity": "Command the Vile Spirit",
+  "kind_of_thing": "Named Spell",
+  "aliases": [
+   "Command the Vile Spirit"
+  ],
+  "book": "realms-of-power-the-infernal",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter 12 : Black Magic",
+     "Demon-Hunters",
+     "Apotropaic Spells",
+     "Rego Vim"
+    ],
+    "text": "becomes normal vis (see Chapter 1: The Infernal Realm, Infernal Vis). Note that casting this spell also incurs the extra botch dice inherent in handling Infernal vis, even though the Infernal vis is not consumed in its casting. (Base 10, +1 Touch) **Command the Vile Spirit** ReVi 20 R: Voice, D: Conc, T: Ind The caster may force a demon to obey his commands, through intimidation and the power of his will. If the spell penetrates the creature's Magic Resistance, make a Communication + Leadership roll, adding the caster's Hierarchy Score as a bonus. The storyguide subtracts the demon's Hierarchy Score and uses the total to determine the strength of the effect, though anything other than a botch always produces at least minimal results. (Base 5, +2 Voice, +1 Conc)"
+   }
+  ]
+ },
+ {
+  "qid": "indep-157",
+  "entity": "Lucent Faeries",
+  "kind_of_thing": "Creature",
+  "aliases": [
+   "Lucent Faeries"
+  ],
+  "book": "sanctuary-of-ice-the-greater-alps-tribunal",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter 9: Geography and History of the Greater Alps Tribunal",
+     "Bavaria",
+     "The Eastern Marches",
+     "Burgenland"
+    ],
+    "text": "but when he tried to touch her, his hand went through her, since she was made of moonlight. The prince chose none of the local women as his bride, and, to the concern of his peoples, spent increasing amounts of time haunting the dark places of his kingdom at night, awaiting moonrise. > >One evening he was met by a troop of Salvani, who were seeking a new home, having been forced from their woods by humans. The prince, who felt sympathy for their social exclusion, offered them one of his forests. In exchange they told the prince that he could reach the Moon by climbing the highest peak in the Dolomites, and just stepping across as the moon sailed by. The prince did so, and married the princess of the moon > >The marriage was happy, but seemed doomed. In time the intense light from the Moon began to blind the prince, so he bought his bride back to Earth. They lived happy for a time, but the princess became depressed and lethargic. When it seemed that either she would die, or the prince would have to accept blindness on the Moon, the Salvani returned and wove a web of moonlight into the mountains, turning them white. The princess recovered. > >The myth does not say that the couple had children, but Lucent Faeries are of extreme interest to the magi of the Alps. Both Valnastium, which rests in the web of moonlight, and Journeys"
+   },
+   {
+    "heading_path": [
+     "Chapter 9: Geography and History of the Greater Alps Tribunal",
+     "Bavaria",
+     "The Eastern Marches",
+     "Burgenland"
+    ],
+    "text": "recovered. > >The myth does not say that the couple had children, but Lucent Faeries are of extreme interest to the magi of the Alps. Both Valnastium, which rests in the web of moonlight, and Journeys End, which rests on a peak taller than the highest in the Dolomites, feel their rival is withholding the vital information that will allow access to the Lunar Faerie Realm. Bonisagus magi are fascinated by the idea that the entire Dolomite region might be a huge, weak regio. Merinita magi who study the area hope to find a technique for weaving moonlight into stones, either for harvest, or to create regiones."
+   }
+  ]
+ },
+ {
+  "qid": "indep-165",
+  "entity": "Acolyte",
+  "kind_of_thing": "Character Type",
+  "aliases": [
+   "Acolyte"
+  ],
+  "book": "the-church",
+  "passages": [
+   {
+    "heading_path": [
+     "Contents",
+     "III. The Diocese"
+    ],
+    "text": "- Clergy Characters - Virtues and Flaws - Senior Clergy - Priest - Clerk - Religious - License of Absence - Commanding Aura - Dark Secret - Regular - Vows - Faith Points - New Seasonal Activities - Worship - Good Works - Care of Souls - The Bishop - The Cathedral Chapter - Election of the Bishop - In Partibus Infidelium - Bishops as Feudal Lords - The Pope - The Cardinals - The Papal Curia - The Chancery - Proctors - The Camera - The Judiciary - The Capellani - Papal Legates - The Archbishop - Patriarch - The Archdeacon - The Dean - Clerics - Ordination - Rapid Ordinations - Minor Orders - Doorkeeper - Lector - Exorcist - Acolyte - Major Orders - Sub-Deacon - Deacon - Priest - Canon Law - Canon Courts - Secular Justice - Canon Law Jurisdiction - Court Procedures - Punishment - Canon Law Cases - Shedding of Blood - Marriage and Sexual Crimes - Sanctuary - Simony - Usury - Wills - Upkeep of the Church - Religious Practices - Tithes - Slander - Sorcery and Witchcraft - The Parish - The Parish Church - The Parish Priest - The Liturgy - The Sacraments - The Parish Clerk - The Curate - The Chaplain - The Co-adjudicator - The Perambulation - The Benefice - Benefices Held by Institutions - Tithe - Papal Appointments to Benefice - Rural Parishes - Chapels - Private Chapels - Urban Parishes"
+   },
+   {
+    "heading_path": [
+     "Chapter Three: The Diocese",
+     "Clerics",
+     "Ordination"
+    ],
+    "text": "Each step a clergyman takes through the orders is marked by an ordination ceremony, and in a populous diocese there might be 300 ordinations per year. Usually, a person is ordained in his birth-diocese; to be ordained elsewhere he needs the permission of the bishop of his birth-diocese. Ordination is a seasonal activity, with a Source Quality of 2 in either Civil and Canon Law or Church Lore. Prior to ordination, characters usually study the liturgies (Church Lore) or canon (Civil and Canon Law), and candidates for doorkeeper are usually taught en masse by the archdeacon. During the ordination season, the ordinand is examined by the bishop (or the delegated archdeacon or dean). The examination is oral and can take up to several hours; there is no requirement for clergy to be literate. Normally, the ordinand must travel for the examination, or he will have to wait until his parish receives a visitation. In game terms, the examination is represented by comparing the character's Examination Total against the appropriate Ease Factor for that rank: **Rank:** Doorkeeper **Church Lore Ease Factor:** 3 **Rank:** Lector **Church Lore Ease Factor:** 6 **Rank:** Exorcist: **Civil & Canon Law Ease Factor:** 3 **Rank:** Acolyte **Civil & Canon Law Ease Factor:** 6 **Rank:** Sub-deacon **Church Lore Ease Factor:** 9 **Rank:** Deacon **Civil & Canon Law Ease Factor:** 9 **Rank:** Priest **Church Lore Ease Factor:** 12 **Rank:** Bishop **Ease Factor:** None; bishops are elected. Whether the "
+   }
+  ]
+ },
+ {
+  "qid": "indep-173",
+  "entity": "Aura of Enobled Presence",
+  "kind_of_thing": "Named Spell",
+  "aliases": [
+   "Aura of Enobled Presence"
+  ],
+  "book": "the-lion-and-the-lily-the-normandy-tribunal",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Two: History of Mythic France",
+     "The Merovingian Franks",
+     "The Holy Oil of Consecration"
+    ],
+    "text": "After the great battle, as King Clovis knelt in humility before the archbishop. In sight of thousands of his warlike followers, a pure white dove descended from Heaven and placed an ampoule of oil on the altar. Clovis had obviously earned divine favor. Saint Rémi used the holy oil to anoint the king as part of the baptismal rite. From that time onwards, it has been used at the coronation of every Frankish, and later French, king, and the sacred ampoule of oil, France's holiest treasure, is kept in Reims Cathedral. The oil never runs out. The effects of coronation and anointing are described in Realms of Power: The Divine, pages 42-43, giving the king a Magic Resistance of 10, a Soak bonus of 2, and a Commanding Aura to Voice range with an effect equivalent to Aura of Rightful Authority with Penetration 0. Any additional benefits deriving from the divine origin of the holy oil are unclear because no one has been able to investigate it. Some believe, correctly, that it is the source of the Royal Touch (see insert The Blood of Merovech) and, incorrectly, that it bestows a permanent enchantment with the effect of Aura of Enobled Presence. If a maga could obtain some of the oil, she might be able to learn more of its powers. The ampoule is a 3-point relic, and kept very safely under lock and key, but if it were stolen and passed to a rival claimant to"
+   }
+  ]
+ },
+ {
+  "qid": "indep-181",
+  "entity": "Binding the Immortal Memory",
+  "kind_of_thing": "Named Spell",
+  "aliases": [
+   "Binding the Immortal Memory"
+  ],
+  "book": "the-mysteries-revised",
+  "passages": [
+   {
+    "heading_path": [
+     "Appendix A: Immortal Magi",
+     "Immortal Beings and Permanent Change",
+     "Learning Arts or Abilities",
+     "Binding the Immortal Memory"
+    ],
+    "text": "draw it along his chosen path to join the magus in his immortal state: ghostly, Daimonic, or as an alchemical magical beast. > > In game terms, the magus must add extra raw vis to his transformation rite, equal to their Familiar Bond Score/5 (round up). If this is done, the familiar transforms along with her magus, otherwise she remains as a mortal beast, severed from the new immortal, and will die soon. > > A magus with a spirit familiar benefits, as his familiar is already an immortal disembodied spirit: no extra vis is needed to transform a spirit familiar. *Example: A maga studies a tractatus with Quality 10 for a season. The next season, she instills another Binding the Immortal Memory effect into her talisman. She has a Creo Mentem lab total of 90, and can invest a level 45 effect in one season. This is enough to permanently bind 4 XP (a level 40 effect), but she will lose the remaining 6 XP.*"
+   }
+  ]
+ },
+ {
+  "qid": "indep-189",
+  "entity": "Ways of the Waters",
+  "kind_of_thing": "Virtue",
+  "aliases": [
+   "Ways of the Waters"
+  ],
+  "book": "transforming-mythic-europe",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Three: The Island of the Magicians",
+     "Mystical Features",
+     "Auras"
+    ],
+    "text": "the sea. Many others says a single telechine was allowed to live. The reasons they give vary: was she the wet-nurse of Poseidon? She went into exile, and made a home for herself deep in the sea, but she sometimes wanders the world, garbed with human contours. > >**Magic Might:** 45 (Terram) >**Season:** Winter >**Characteristics:** Int +5, Per +2, Pre 0, Com +2. Str +2, Sta +2, Dex +5, Qik +1 >**Size:** 0 >**Virtues and Flaws:** Magic Human; Death Prophecy; 3 x Improved Characteristics, Strong Willed; Magical Monster; Plagued by Olympian Faeries; Proud (Minor). >**Qualities and Inferiorities:** 4 x Focus Power (Crafter of Terram, Bringer of Storms and Snows, Self Transformation at level 50), Grant Major Virtue (Create Magic Item\\*), 2 x Greater Powers (Stygian Mixture, Toxic Visage), Greater Immunity: fire; Master of Aquam Creatures, Master of Terram Creatures, Minor Virtues (Good Teacher, 4 x Great Characteristic, 5 x Improved Characteristics, Keen Vision, Lesser Immunity: all weapons containing copper, Puissant Smith, Tough, Ways of the Deep Earth, Ways of the Waters), Personal Power (Human Shape), Voice of the Waters >\\* This power represents Dexithea's ability to craft magic items, but she has a stockpile, so she doesn't necessarily need it each time she gives a mortal an item. She recovers from the creation of permanent items only slowly, although she can speed her recovery by consuming vis. >**Combat:** >*Bite:* Init +1, Attack +15, Defense +8, Damage +5 >Dexithea is pe"
+   },
+   {
+    "heading_path": [
+     "Chapter Three: The Island of the Magicians",
+     "Mystical Features",
+     "Auras"
+    ],
+    "text": "vis to use, but produces sufficient poison to kill ten thousand men, or a vast number of plants and animals. The telechines can use their mastery of storms to spread this poison. > >(Base: CrAq 25, +1 Touch, +4 additional doses) > >*Toxic Visage,* 5 points, Init. –4, Corpus or Animal. People or animals who catch sight of the true face of the telechine die. The telechine is such a competent shapeshifter that it can alter just its face, and for just a moment, so that a single person in a group conversation dies. > >(Base PeCo 30, +1 for Animal requisite, +1 Eye, +2 Sun) > >**Vis:** 9 pawns Aquam, body >**Appearance:** In her natural form, Dexithea looks like a human torso with flippers for hands and feet, the head of a dog, and flaming eyes. The sight of her, in this shape, is fatal for most people. She is an exceptionally skilled shapeshifter, and may take any human form she wishes. Dexithea can perfectly replicate a particular human, if she has time to examine his or her features. > >#### Blood of the Telechines > >A character who has the blood of the telechines adds +1 to her Dexterity and gains an additional Major Virtue, usually Ways of the Waters. All telechines, and their descendants, are hated by faeries that claim descent from Olympians, and have the Supernatural Nuisance Flaw. >#### An Aspect of Phorcys > >Phorcys was the Lord of the Barren Sea"
+   }
+  ]
+ },
+ {
+  "qid": "indep-197",
+  "entity": "Venetian Spy",
+  "kind_of_thing": "Character Type",
+  "aliases": [
+   "Venetian Spy"
+  ],
+  "book": "tribunals-of-hermes-rome",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Four: Roman Landscape",
+     "The Republic of Venice",
+     "Hermetic Politics in Venice"
+    ],
+    "text": "who other Covenants deal with. For just this reason, many Covenants have one or more secret townhouses. Few secret townhouses are truly secret, though. The majority of Venetian spies are quietly in the employ of Rellantali. Rellantali knows of almost everything that occurs in Venice. The Covenant's Magi are quite careful with their information, using it only sparingly so as not to tip their hand. Occasionally, a Venetian spy learns too much or is found out by his victims. A month does not go by without a spy being killed, left dead before the townhouse of the Magi who hired him. Most Venetian Magi have learned to take these deaths in stride, as part of city politics."
+   }
+  ]
+ }
+]

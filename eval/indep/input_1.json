@@ -1,0 +1,533 @@
+[
+ {
+  "qid": "indep-001",
+  "entity": "Diseased Possession",
+  "kind_of_thing": "Hermetic Concept",
+  "aliases": [
+   "Diseased Possession"
+  ],
+  "book": "art-academe",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Four: Medicine",
+     "Malformations",
+     "Disease",
+     "Describing a Disease"
+    ],
+    "text": "the disease to become less severe. >#### Demons of Disease > >Demons that cause diseases do so through an infernal power (detailed below) which is a variety of Possession (see *Realms of Power: the Infernal*, pages 32–33). Minor demons can usually only possess one victim at a time, although more powerful demons may be capable of afflicting multiple victims with their disease. > >*Diseased Possession*, 2 or more points, Init +2, Mentem: If this power penetrates, the Might Points spent from the demon's Might Pool enter the possessed creature and are tracked separately from its normal Might Pool. The demon must then spend one point of this Might per five points (or fraction) of the disease's Severity to inflict its victim with the contagion; this Might expenditure does not cause another Penetration roll, but the victim receives a Disease Avoidance roll, which, if successful, immediately expels the demon. The symptoms of the demon's disease manifest immediately. There is no incubation period, but otherwise it progresses like any other disease. If the demon has remaining Might points from its initial possession attempt, it can spend them on its other powers, including inflicting the disease again if its victim recovers. The demon must retain at least one point of Might in reserve to maintain possession of the victim, and cannot refresh the Might Points used to possess the victim from its usual Might Pool without another use of the *Diseased Possession* Power. If the demon is exorc"
+   },
+   {
+    "heading_path": [
+     "Chapter Four: Medicine",
+     "Malformations",
+     "Disease",
+     "Describing a Disease"
+    ],
+    "text": "to maintain possession of the victim, and cannot refresh the Might Points used to possess the victim from its usual Might Pool without another use of the *Diseased Possession* Power. If the demon is exorcised or destroyed with magic, the symptoms of the disease cease immediately, although any damage caused by the disease remains. > >*Example: Grim is assailed by a Demon of Scrofula with an Infernal Might of 10. The demon possesses him with the minimum amount of Might to inflict the disease, which is 3 points (it needs 2 points to inflict this Severity 10 disease, plus one point to sustain the possession). Had Grim possessed Magic Resistance, this power would have a Penetration Total of –5 (the demon's Might – (5 x Might Pool spent); see **ArM5**, page 191). The demon then spends 2 of these 3 Might Points to inflict him with scrofula, retaining the last Might Point to remain in possession of the grog. Scrofula has a Stable Ease Factor of 6, so if Grim can make a Disease Avoidance roll of this Ease Factor or greater, he can expel the demon immediately.*"
+   }
+  ]
+ },
+ {
+  "qid": "indep-009",
+  "entity": "Puissant Swordsmith",
+  "kind_of_thing": "Virtue",
+  "aliases": [
+   "Puissant Swordsmith"
+  ],
+  "book": "city-guild",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Four: Crafts",
+     "Basic Craftsman Production",
+     "Selling Finished Goods"
+    ],
+    "text": "never replace roleplayed interactions between craftsmen and clients. Many troupes enjoy the verbal repartee of the market square, the boisterous bickering and price dickering. Use a die roll to quickly handle a sale, or to settle an argument that threatens to consume too much game time. >#### Example: Klaus’s Workshop > >Klaus is a companion-level craftsman character played by Toby. A master of the Swordsmiths' Guild, he has an apprentice named Gunter and a journeyman employee named Hans, both storyguide characters. Toby and his troupe have agreed that the swordsmith's primary Characteristic is Strength, which will be used to calculate Labor Points and Workshop Totals. Klaus has Strength +3, Swordsmith 6, Leadership 3, and Puissant Swordsmith. Gunter has Strength +1 and Swordsmith 3, and Hans has Strength +2 and Swordsmith 5. None of the characters has the Poor Flaw or the Wealthy Virtue, so each is considered to be a financially average craftsman. > >Everyone works the first season. Klaus's Workshop has Innovation and Raw Material scores of 0. Toby decides that both Gunter and Hans will contribute to Klaus's Workshop Total. Klaus's Workshop Total is 15: Strength (+3) + Swordsmith (6+2) equals 11, plus half of Gunter's Swordsmith Ability (3) and Han's Swordsmith Ability (5), or 4. The group makes an excellent quality greatsword, which has a +1 bonus to all its weapon statistics. Klaus receives 33 Labor Points: the sum of his Strength (+3) + Swordsmith (6+2), times three. Howe"
+   }
+  ]
+ },
+ {
+  "qid": "indep-017",
+  "entity": "Lousy Ingredients",
+  "kind_of_thing": "Flaw",
+  "aliases": [
+   "Lousy Ingredients"
+  ],
+  "book": "covenants",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Nine: Laboratories",
+     "Laboratory Personalization Rules",
+     "Outfittings Virtues and Flaws",
+     "Free Outfittings Flaws"
+    ],
+    "text": "potentially dangerous error exists in the lab's configuration. This is usually the fault of the owner, but it may also be caused by a malicious and clever third party. There is a chance to gain (or lose) this Flaw whenever a season of work is undertaken to improve the Refinement (see Refinement, above). Whenever this defect is the cause of a lab botch, make a Perception + Magic Theory roll against an Ease Factor of 12. If this succeeds, the defect is spotted and may be corrected with a few hours of work. *–3 Safety.* **Inferior Equipment**: The lab is outfitted with shoddy wares. It does not take a season to remove this Flaw, if sufficient funds are available to increase the Upkeep. *–1 General Quality, –1 Upkeep.* **Inferior Tools**: The lab's tools are crudely crafted, and are prone to breakage. It does not take a season to remove this Flaw, if sufficient funds are available to increase the Upkeep. *–1 Upkeep, –1 Safety.* **Infested**: The lab has an animal or plant infestation, for example a nest of mice, a vine, or fungi. Depending on the nature of the infestation, it may not necessarily take a season to remove this Flaw. *–1 Safety, –1 Aesthetics; +1 An or He.* **Lousy Ingredients**: The lab is supplied with dirty, impure, or poor-quality ingredients. It does not take a season to remove this Flaw, if sufficient funds are available to increase the Upkeep. –1 General Quality, –1 Upkeep. **Missing"
+   }
+  ]
+ },
+ {
+  "qid": "indep-025",
+  "entity": "Magians",
+  "kind_of_thing": "Faction",
+  "aliases": [
+   "Magians",
+   "Median tribe of Magians"
+  ],
+  "book": "definitive-edition-core-rules",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter 4: Virtues and Flaws",
+     "Virtues",
+     "Magian Lineage"
+    ],
+    "text": "*Minor or Major, General* This Virtue makes the character a true blood descendent of the Median tribe of Magians, the original priestly caste of Persia. Many mobeds, the priests of Zoroastrianism, possess this Virtue, either Minor or Major, but it is not a requisite. Details about Mythic Zoroastrianism can be found in The Cradle and the Crescent, Chapter 5. *Minor:* Your character's lineage is weak, although he or she is still ethnically Magian, and gains a strong constitution due to his purity. The character gains a -1 bonus to Aging rolls and a +3 bonus to resist the effects of disease. *Major:* In addition to the benefits of the Minor Virtue. your character has an affinity with the ancient prophetic and other mystical arts of their ancestors. The player must choose three Arcane or Supernatural Abilities which the character need not start play with, and which cannot be True Names. These Abilities are considered connected, so that whenever your character gains experience from a source dedicated to one of these Abilities, he gains half the Source Quality (round up) in experience points in each of the other two Abilities. A character must have access to a Supernatural Ability in one of the normal ways, such as taking the Virtue at character creation or Initiating it later, in order to put any experience points into it. If you choose a Supernatural Ability that your character does not yet have access to, any experience points generated for it"
+   }
+  ]
+ },
+ {
+  "qid": "indep-033",
+  "entity": "Slave-Owner",
+  "kind_of_thing": "Virtue",
+  "aliases": [
+   "Minor General Virtue: Slave-Owner",
+   "Slave-Owner"
+  ],
+  "book": "guardians-of-the-forests-the-rhine-tribunal",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Ten: Bohemia",
+     "Bohemia",
+     "Mount Blanik"
+    ],
+    "text": "As a possession of your master, you are beholden to his or her will completely, and are only likely to earn your freedom through some exceptional act of service, if ever. Disobedience, on the other hand, will earn you very severe punishment, possibly even death. You have no belongings of consequence, except that which is given to you by your master. Playing a slave will prove to be challenging, and may be difficult unless your master is another player character. > >#### NEW MINOR GENERAL VIRTUE: SLAVE-OWNER >You are the owner of one slave. Unless the slave is another player character, your slave will be largely unskilled, and be suitable only as a personal servant. While it is legal to own a slave in Germany, it is frowned upon by the Church and you are likely to receive negative attention in most major cities. You may free your slave at any time, in which case you lose this Virtue. You also lose this Virtue if your slave is killed. You may take this Virtue multiple times."
+   }
+  ]
+ },
+ {
+  "qid": "indep-041",
+  "entity": "Tribunal Summons",
+  "kind_of_thing": "Hermetic Concept",
+  "aliases": [
+   "Tribunal Summons"
+  ],
+  "book": "heirs-to-merlin-stonehenge-tribunal",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter 10: The Order of Hermes",
+     "Customs of Stonehenge",
+     "The Redcaps"
+    ],
+    "text": "make you popular with the Redcaps, however. It is also possible to convince a Redcap to stay longer at your covenant, perhaps to give you time to write a reply to a message. This simply requires inviting the Redcap, and if he wishes to stay, he will. Obviously, if his stay is being made pleasant, he is more likely to stop — using magic to influence him is against the Code, as is threatening him if he doesn't want to. The only limit to this is that he will leave in time to reach the next covenant on his itinerary, and that he might not have time to make any special journeys. Redcaps are required to deliver messages that they accept, to the magus to whom they are addressed, the next ime they visit his covenant. A message may also be addressed to a whole covenant, in which case the Redcap must read the message out to a council meeting. They may, however, pass the duty on to other Redcaps as they wish, although there is no obligation to do so. Since the Redcaps choose which covenants they visit, a message may be delayed indefinitely if the Redcap holding it avoids visiting the addressee's covenant. The only exception is a Tribunal Summons, which must be delivered at least six months before the tribunal takes place. This custom is rigorously enforced, because Stonehenge has recently called a tribunal outside the normal cycle. Redcaps are required to accept"
+   },
+   {
+    "heading_path": [
+     "Chapter 10: The Order of Hermes",
+     "Customs of Stonehenge",
+     "The Redcaps"
+    ],
+    "text": "Tribunal Summons, which must be delivered at least six months before the tribunal takes place. This custom is rigorously enforced, because Stonehenge has recently called a tribunal outside the normal cycle. Redcaps are required to accept messages for normal delivery, but have total discretion as to whether they will accept special journeys."
+   }
+  ]
+ },
+ {
+  "qid": "indep-049",
+  "entity": "The Edges of the World",
+  "kind_of_thing": "Place",
+  "aliases": [
+   "The Edges of the World",
+   "four Edges of the World"
+  ],
+  "book": "houses-of-hermes-mystery-cults",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Two: House Criamon",
+     "The Avenue That Is a Crossroad and the Station of Passing Through Seeming"
+    ],
+    "text": "This avenue allows the magus to approach a station that permits his to send his spirit traveling through the world's ocean of magical energy. A magus who liberates his spirit in this way finds it drawn, sequentially, to the four Edges of the World. These are regiones corresponding to the four elements and humors. The magus must escape each of these lands, coming eventually back to his body. Initiates of this station can ignore the world, accepting that much of it is an illusion. They seek a place by swimming through the Inspirato to view it. The part of the magus that travels is that which becomes a ghost after death. The ghostly magus ignores gravity, and so may swim through the air. The magus can see at his destination, and speak audibly, but may not handle mundane objects except in auras of eight or more. He may touch enchanted items and other ghostly beings, because they also have a magical nature. While the spirit of a magician is absent, the body appears to be a fresh corpse. The magus's body can starve or die of thirst. Its automatic reflexes allow it to swallow soft foods or water placed in its mouth. Caring for the body is a task often given to an apprentice. Magi traveling spectrally — or \"passing through seeming\" — have limited ability to cast spells. At their destination, they may cast spells at Arcane Connection range. They cannot sense their body's surroundings,"
+   }
+  ]
+ },
+ {
+  "qid": "indep-057",
+  "entity": "Restriction (True Feeling)",
+  "kind_of_thing": "Flaw",
+  "aliases": [
+   "Restriction (True Feeling)"
+  ],
+  "book": "houses-of-hermes-societates",
+  "passages": [
+   {
+    "heading_path": [
+     "Table of Contents"
+    ],
+    "text": "Supernatural Ability Characters Magi Ex Miscellanea Magi Orbi Gifted Companions New Virtue Exotic Casting New Flaws Flawed Powers Vulnerable to Folk Tradition Traditions of House Ex Miscellanea Beast Masters Damhadh-Duidsan Hermetic Haruspexes Karaites Malocchi Scinnfolk (Gifted Companions) Tempestaria (Weather Witch) Witches of Thessaly Columbae Key Facts History Culture Characters Major Supernatural Virtue: Warding Minor Hermetic Virtue: Ring/Circle Magic Major Hermetic Flaw: Necessary Condition The Donatores Requietis Aeternae Key Facts History Cult of the Dead Founding the Tradition Incorporation into the Order Culture Quieting the Restless Dead Traditions of the Donatores Requietis Aeternae Organization Surveillance by House Guernicus Characters New Virtue: Banishing Favored Virtues and Flaws Preferred Spells The Cult of Orpheus Key Facts History Culture Characters Major General Virtue: Sanguine Humor's Blessing Minor Hermetic Virtue: Orphic Magic Major Hermetic Flaw: Restriction (True Feeling) Orphic Spells The Pharmacopoeians Key Facts History Culture Characters Profession Apothecary Major Supernatural Virtue: Mythic Herbalism Minor Hermetic Virtue: Root-Cutter The Lineage of Pralix Key Facts History Culture Induction of Hedge Wizards into the Order Joint Training of Apprentices Characters New Major Supernatural Virtue: Comprehend Magic New Supernatural Ability: Comprehend Magic* Other Magical Interests New Spells New Mastery Special Ability: Unraveling New Mastery Spe"
+   },
+   {
+    "heading_path": [
+     "Columbae",
+     "The Cult of Orpheus",
+     "Key Facts"
+    ],
+    "text": "**Favored Tribunals:** Tribunal of Thebes, Transylvanian Tribunal, Roman Tribunal **Major Virtue:** Sanguine Humor's Blessing **Minor Hermetic Virtue:** Orphic Magic **Major Hermetic Flaw:** Restriction (True Feeling)"
+   }
+  ]
+ },
+ {
+  "qid": "indep-065",
+  "entity": "Dacians",
+  "kind_of_thing": "Faction",
+  "aliases": [
+   "Dacians"
+  ],
+  "book": "houses-of-hermes-true-lineages",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Three: House Mercere",
+     "Virtues and Flaws",
+     "Symbols",
+     "Wolves"
+    ],
+    "text": "Tremere thinking, art and literature praise the ethos of the wolf pack. Wolves are gentle with each other and savage to their enemies. They serve their families, particularly the dominant pair, and aid in the raising of their lair mates' cubs. The Dacians, from the word *daoi* meaning \"wolves\", ruled Transylvania before the Romans came, and went to war behind wolf-headed dragon banners. Tremere's familiar was a white wolf, of a pack sacred to Hermes. Familiars lead the packs about Coeris and many of the other House covenants. Odd rumors circulate concerning the House's link to wolves. Some say that Tremere magi know the ritual of Mount Lycaeon, which turns men into wolves for nine years, and use it upon rebellious Housemates to adjust their attitude. Some claim that werewolves serve the House, others that the House's servants are equipped with items that change their shapes. Many believe the white wolves of the forest are Tremere spies and saboteurs. > ## Key Facts > > **Population:** 92 magi (41 in Transylvania) > > **Domus Magna:** Coeris, in the Transylvanian Tribunal. > > **Prima:** Poena > > **Favored Tribunals:** Transylvania, where the House > > utterly dominates politics. > > ### Famous Figures > > **Tremere,** Founder, developer of certamen. **Cercistum,** Primus at the beginning of the Schism War, killed in battle. > ## Cult Stories > > The necromantic cult did not leave the cities to flee the Dominion. Most made lairs in the subterranean spaces"
+   }
+  ]
+ },
+ {
+  "qid": "indep-073",
+  "entity": "Landvaettir lords",
+  "kind_of_thing": "Creature",
+  "aliases": [
+   "Landvaettir lords"
+  ],
+  "book": "icelandic-wars-land-of-fire-and-ice",
+  "passages": [
+   {
+    "heading_path": [
+     "The Grapes of Wrath"
+    ],
+    "text": "These slayings send tremors through both the mundane and supernatural communities of Iceland. Ten galdramen, twelve seithkona and two trollsynir lie slain amongst over 120 farmers, laborers, and their families. Three priests are numbered among the slain, including a son of Bishop Magnus Gizurarson. As the perpetrators do not make themselves known, to the Icelanders this makes the killings cowardly murder. In response to this action, three Icelandic groups become personally involved in the conflict. Firstly the landvaettir lords held the galdramen leader in high esteem and they pledge to avenge him. After a number of giants and trollsynir are slain by Hermetic magi, their extended families (the entire giant community) gather behind Bard to oppose the invasion. The Bishop of Skalholt calls on all Christians to discover the killers and deliver them to God. From this moment, the landvaettir lords give attendants to all galdramen on Iceland. Galdramen no longer need to summon spirits as they constantly accompany them. For the duration of the conflict, each galdraman is given an attendant with a Might equal to his respective Song Talent x 5. A galdraman merely needs to communicate what effect he desires, effectively reducing his casting time to the spell phase. The landvaettir attendants are prepared to accept bargains for little if any vis. **Story Seed (pro-crusader):** Player magi may be uncomfortable with a plan that involves killing dozens of mundanes as well as the Icelandic "
+   }
+  ]
+ },
+ {
+  "qid": "indep-081",
+  "entity": "Clan Mac Donald",
+  "kind_of_thing": "Faction",
+  "aliases": [
+   "Clan Mac Donald"
+  ],
+  "book": "lion-of-the-north-the-loch-leglean-tribunal",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter 4: Scottish Landscape",
+     "The Highlands"
+    ],
+    "text": "falling sheer into the waves. Descendants of the Vikings rule the region, with the king of Norway as their overlord. The inhabitants speak Norse as frequently as they speak Gaelic. The remnants of many peoples inhabit these far hills and glens: descendants of the Picts, Broch-builders, and Britons. The isolation of the communities has helped preserve aspects of their cultures. Despite two and a half centuries of Anglo-Norman influence, the Highlands and Islands have preserved their traditional clan-based society, fiercely guarding their rights and culture. The Highland clans are tribal in nature. The leaders of the community live with their followers, rather than build castles in which to live. The clan consists of a large extended family, and all members claim descent from one ancestor, from whom the clan takes its name. The leader of the clan is the ceann cath (kyann ka, chief), normally called by the family name (for example, the ceann cath of Clan Mac Donald is called \"the\" Mac Donald). Below the chief are various clan officers: the seanachaidh (shenuchy), the tanaiste (tanishtu), and, if the chief cannot lead the clan into battle himself, the war leader. The seanachaidh is the main storyteller and historian of the clan, memorizing the genealogy of the chief and maintaining the oral history of the clan. The tanaiste, or tanist, is the man appointed by the ceann cath to succeed him to the chieftainship. While the ceann cath appoints the tanist, he must be approved by"
+   }
+  ]
+ },
+ {
+  "qid": "indep-089",
+  "entity": "Knightly Demands",
+  "kind_of_thing": "Flaw",
+  "aliases": [
+   "Knightly Demands"
+  ],
+  "book": "lords-of-men",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Three: A Comparison of Titles",
+     "The French (and English) System",
+     "Knight (Miles, Chevalier)",
+     "Knight Banneret"
+    ],
+    "text": "of allodial land need not have an Oath of Fealty. These characters also tend to use titles that are grander than others of similar power and influence, although that is ignored for the purpose of Virtue selection. > > Troupes are encouraged to permit knights who have taken oaths to a lord, but whose oaths lack consequences in play. These insignificant oaths are not treated as Flaws, so they cannot be balanced against Virtues. Troupes may choose to allow insignificant oaths because otherwise knights cannot begin with many of the Story Flaws that suit the chivalric genre, like Black Sheep, Dark Secret, Enemies, Higher Purpose, Heir, True Love, or Vow. Player character knights are more interesting if they can have a range of Story Flaws. > > #### Knightly Demands (Major Story Flaw) > > As an alternative to all of this tinkering with detail, troupes may simply state that all knights have a Major Story Flaw, called Knightly Demands, that allows the Storyguide to drag them into any plot related to the kind of things knights do in medieval ballads. This flaw works best for high fantasy, highly mobile sagas, because it includes quests, military service, romances, feuds, rescuing damosels, aiding kinfolk, and chasing monsters. This flaw replaces Oath of Fealty entirely. > > #### Knight (Minor Virtue) > > Some few women serve as knights in Mythic Europe. These women are discussed in greater depth at the end of Chapter Two: Politics. > >"
+   }
+  ]
+ },
+ {
+  "qid": "indep-097",
+  "entity": "Dependence",
+  "kind_of_thing": "Flaw",
+  "aliases": [
+   "Dependence"
+  ],
+  "book": "magic-apprentices",
+  "passages": [
+   {
+    "heading_path": [
+     "Contents"
+    ],
+    "text": "**Chapter One: Introduction** Stories About Children Ages of Man How to Use This Book **Chapter Two: Creating Young Characters** General Characteristics Age Characteristics and Size Virtues & Flaws Social Status Virtues & Flaws Apprentice Bastard Orphan Virtues That Grant Experience Points Virtues & Flaws That Affect Size Inherited Virtues & Flaws Child Virtues & Flaws Boundless Energy Bully Deft Characteristic Dependence Grows Quickly Inconspicuous Infatuation Know-It-All Late Bloomer Protection from Diseases Turbulence Prone New Flaws Abandoned Apprentice Frail Low Tolerance Short of Breath Slow Reflexes Suppressed Gift Abilities Transitions of Maturation A Standard Apprenticeship **Chapter Three: Infantia: Birth to Age 7** The First Years Birth and Blessing Childbearing Birth Apparitions Religious Rites for New Babies Illegitimate and Orphaned Children Early Childhood Born with The Gift Gifted Babies The Gift Revealed Turbulence Incurring a Turbulence Controlling Turbulences Effects of Turbulence Infant Characters and Stories Character Design Notes Infant Stories Children and Animals Story Ideas **Chapter Four: Pueritia: Ages 8 to 14** Growing Up Hermetic Apprenticeship Finding an Apprentice Becoming an Apprentice Opening the Arts Opening Arts with Supernatural Abilities After the Arts Are Opened Delaying Opening the Arts Legal Issues Teaching Hermetic Virtues Acquiring House Virtues Gaining Hermetic Flaws Study Teachers Book Learning Training Cantations The Apprentice’s D"
+   }
+  ]
+ },
+ {
+  "qid": "indep-105",
+  "entity": "Witches of Reims",
+  "kind_of_thing": "Covenant",
+  "aliases": [
+   "Witches of Reims",
+   "coven of Reims"
+  ],
+  "book": "magic-hedge-magic-revised",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Three: Folk Witches",
+     "Covens",
+     "Creating a Coven",
+     "The Witches of Reims"
+    ],
+    "text": "(143 build points) The coven of Reims is based in and around the French town of Reims (see *The Lion and the Lilly*, page 99). In the late 12th century several of the witches were burned at the stake at the order of the archbishop William, who mistook them for heretics. The coven was not entirely destroyed, however, and mistress Greta escaped the stake by flying out of the window of the archepiscopal court. **Initiation Scripts**: Rhyme of the Beast (+6), Unbound by Land (+6), Hands of Life (+10), The Devil's Eye (+7). **Forest Cave:** Mistress Greta (a Gifted folk witch) fled from the stake to this remote forest cave (Magic aura 6), where she has since lived, usually alone. The cave is in fact inside a regio, that can only be entered by someone who knows the correct path (the other coven members know the correct path). Mistress Greta only occasionally attends the coven's sabbat. **Hooks**: none. **Boons**: regio (major), aura (x 3) (minor). **Vis Sources**: 5 pawns Herbam per year (mushrooms from a forest grove), 1 pawn Auram per year (from the first wind of autumn), 1 pawn Animal per year (from first rabbit of spring). **Library**: Ars Grammatica, by Donatus (a very poor copy; Artes Liberales Ability Summa; Quality 5, Level 4), Scent of Water, anonymous (Dowsing Ability Summa; Quality 10, Level 5), The Piercing Tongue, by Luzabel (Penetration Ability Summa; Quality 10, Level 3). **Townhouse:** This ramshackle townhouse is built inside the"
+   }
+  ]
+ },
+ {
+  "qid": "indep-113",
+  "entity": "Field of Hooks",
+  "kind_of_thing": "Place",
+  "aliases": [
+   "Field of Hooks"
+  ],
+  "book": "mythic-locations",
+  "passages": [
+   {
+    "heading_path": [
+     "Contents"
+    ],
+    "text": "Car and Blue Caps Longstone and Northern Hares Knivestone Isolates Megstone, Swedman, Elbow, Goldstone Islestone Shad and Glororum Shad Crumstone, Callers, Fang Variant: Alternative Locations The Bréhat Archipelago The Brijuni Islands Loch Cuan The Pontine Islands Inhabitants A Selection of Fish The Remora Magical Seabirds Eider Ducks Puffins Storm Birds The Selkies Grey Seals The Demons of Megstone Introducing the Farnes into the Saga Story Hook: Flotsam Story Hook: Jetsam Story Hook: Lagan Researching the Farne Islands Hooks for Using the Farne Islands Again Story Hook: An Island Retreat **Chapter 6: The Poisoned Earth** Myths, Legends, History, and Rumors The Mendip Hills The Site of the Battle Alternative Locations Aura The Cave of the Inscription Vis The Blue Apples of Twilight The Witch of Wookey Hole The Teasels of Somerset Levels Introducing the Battlefield into the Saga Arsenic Assassin Demons Metallic Arsenic Rampaging Monster Researching the Battlefield Hooks for Using the Battlefield Again Return from Faerie The Second Inscription **Chapter 7: The Purgatory of Saint Patrick** Myths, Legends, History, and Rumors Reflections of Heaven and Hell The Islands The Canons of Patrick’s Island The Cave on Saint’s Island The Pilgrims’ Progress The Vision of Hell The Field of Chains The Field of Nails The Field of Hooks The Wheel of Fire The Mountain of Blood The House of Flames and Smoke The Abyssal Pit The Boiling River The Mouth of Hell The Bridge to Paradise The Vision of"
+   }
+  ]
+ },
+ {
+  "qid": "indep-121",
+  "entity": "The Soul in the Egg",
+  "kind_of_thing": "Magic Item",
+  "aliases": [
+   "The Soul in the Egg"
+  ],
+  "book": "realms-of-power-faerie",
+  "passages": [
+   {
+    "heading_path": [
+     "Changes in Attitude",
+     "Story Elements",
+     "Props",
+     "Mjollnir"
+    ],
+    "text": "The hammer of the mighty Thor — a thunderbolt imprisoned in iron. It was designed as a war hammer but its handle is a little short, subtracting 2 from both Attack and Defense scores. A successful hit inflicts +30 damage from the lightning imprisoned within it, as well as normal weapon damage. The penetration of the lightning is equal to the Might of the wielder; for a magus, use his Auram score. **Path of Chance:** Who would not want to smite giants with Thor's hammer? **Path of Destiny:** The characters may be enacting Mjollnir's forging, its theft by the giants, or its retrieval from said giants. **Forking Path:** Finding Mjollnir creates a dilemma — it is a mighty weapon, but if it is not returned to Thor, then mankind's defense against the powers of winter and frost is deprived of his power. >## Further Ideas for Prop Story Elements > > Some more ideas include: > > - The Soul in the Egg > - The Magic Ring > - The Self-Filling Purse > - The Horn that Furnishes Soldiers > - The Helm of Invisibility > - The Word That Opens All Locks"
+   }
+  ]
+ },
+ {
+  "qid": "indep-129",
+  "entity": "Aura Strengthening Table",
+  "kind_of_thing": "Hermetic Concept",
+  "aliases": [
+   "Aura Strengthening Table"
+  ],
+  "book": "realms-of-power-magic",
+  "passages": [
+   {
+    "heading_path": [
+     "Table of Contents",
+     "Contents"
+    ],
+    "text": "Kin Atlanteans Flame Dancers Forgotten Gods Loamwalkers Lost Children Men of the Lake Orphan Born People of the Clouds The Stoneskinned Warders of Mystery Transformed Humans Drowned Men Revenants, the Walking Dead Daimons and Heroes Living Ghosts Magi in Final Twilight **Chapter 7: Magic Spirits** Spirits as Characters Powers of the Spirits Airy Spirits Florae and Fauni Spirits of the Elements Imagines, the Spirits of Sensation Eidolons, the Spirits of Emotions Spirits of Place, Genii Loci Lugra, Spirits of Hardship The Named Spirits Theoi Astra Planeta The Leti Other Daimons Primal Spirits Spirits and Magic Spirits and Hermetic Magic Spirits and Non-Hermetic Magic Example Spirits of Places Mount Etna The Rhinefalls The Desert of al-Meraya Lake Brienz Aillwee Cave Ghosts Ghosts as Characters **Chapter 8: Magic Things** Vis Extraordinary Vis Dedicated Vis Vis Storage Herbs and Objects of Virtue Herbs of Virtue Objects of Virtue Formed Stones Awakened Trees Trees of Virtue Awakened Items Kelpie Elementals Magic and Elementals Designing Elementals Earth Elementals Water Elementals Air Elementals Fire Elementals **Appendix: Book of Mundane Beasts** Beast Statistics Modifying Beast Sizes Beast Virtues, Flaws, and Qualities New Virtues for Beasts Beasts in Combat Beasts of Mythic Europe Adder (Viperis) Bear (Ursus) Boar, Wild (Aper) Bull (Taurus) Cat (Felis) Falcon (Falco) Horse, Courser (Equus) Horse, Destrier (Equus) Hound (Canis) Lion (Leo) Stag (Cervus) Wolf (Lupus) >## Sidebar"
+   },
+   {
+    "heading_path": [
+     "Table of Contents",
+     "Contents"
+    ],
+    "text": "(Equus) Horse, Destrier (Equus) Hound (Canis) Lion (Leo) Stag (Cervus) Wolf (Lupus) >## Sidebars > >Theories Concerning Magic Auras > >Examples of Auras with Multiple Tethers > >Yearly Aura Modifier > >Aura Strengthening Table > >Aura Weakening Table > >Aura Variation Story Seeds > >New Spells and Spell Guidelines for Auras > >Aura Effect Table > >Aligned Aura Example > >Story Seed: Uniformity > >Aligning an Aura > >Covenant Boons and Hooks > >Story Seed: The Stubborn Summer > >Story Seed: South of the Sun > >Empedocles Was Sometimes Right > >Story Seed: Crimes Revisited > >Is This Twilight? > >Senses in the Void > >Positive and Negative Traits > >New Magic Realm Spells and Spell Guidelines > >Magic Character Creation Summary > >Auras and Might Recovery > >Character Guides > >Character Guide: A Magic Hound > >Cunning Characters > >PCs and NPCs > >Aeolus, Magical Horse > >Magic Powers > >Common Magic Powers > >Possible Abuses of Storms > >New Virtues > >New Flaws > >Environmental Temperatures > >Social Abilities and Magical Beings > >Magic Qualities and Initiation Scripts > >Vis Consumption > >Suggested Familiars by Art > >Beasts of Virtue Story Seeds > >Bestiary Story Seeds > >Bird of Nephelococcygia Character Guide > >Story Seed: Divine Gatekeepers > >Cat Character Template > >Cats as Example > >Character Guide: A Scitalis > >Claw and Fang > >Option: Constriction Attacks > >Dragon Story Seeds > >Character Guide: A Lindwurm > >Minor Covenant Hook: Warped Livestock >"
+   }
+  ]
+ },
+ {
+  "qid": "indep-137",
+  "entity": "Orthodox Church Lore",
+  "kind_of_thing": "Hermetic Ability",
+  "aliases": [
+   "Orthodox Church Lore"
+  ],
+  "book": "realms-of-power-the-divine-revised",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Four: Mythic Christianity",
+     "Characters",
+     "Companion Templates"
+    ],
+    "text": "Companion characters might live at the covenant, but are more likely outsiders with strong connections to the magi. Thus characters associated in some way with the Church have two masters, for they often deal with the Order, but they are also tied to their Church institution. Maintaining this balance between their piety and their society is probably their most difficult challenge. **BYZANTINE PRIEST** **Characteristics:** Int 0, Per +1, Pre +1, Com +2, Str 0, Sta +2, Dex –1, Qik 0 **Size:** 0 **Age:** 31 (31) **Decrepitude:** 0 **Warping Score:** 0 (0) **Confidence Score:** 1 (3) **Virtues and Flaws:** Eastern Priest; Intervention, Purity, Student of the Divine; Favors, Generous (Major); Fear (fire), No Sense of Direction **Personality Traits:** Generous +3, Helpful +2, Pessimistic +1 **Reputations:** None **Combat:** *Dodge:* Init 0, Atk n/a, Def 0, Dam n/a **Soak:** +2 (Stamina) **Fatigue Levels:** OK, 0, –1, –3, –5, Unconscious **Wound Penalties**: –1 (1-5), –3 (6-10), –5 (11-15), Incapacitated (16-20) **Abilities:** [Area] Lore 5 (people), Artes Liberales 2 (rhetoric), Charm 2 (faithful), Concentration 2 (ignoring pain), Dominion Lore 2+2\\* (Eastern saints), Etiquette 3 (Church), Folk Ken 4 (people he knows very well), Greek 5 (preaching), Intervention 4 (healing burns), Latin 3 (correspondence), Leadership 3 (preaching), Orthodox Church Lore 3 (practices), Purity 5 (vigils), Theology 2 (heresy) \\* Bonus for Student of the Divine *Equipment:** Eastern priest's clothes. **"
+   }
+  ]
+ },
+ {
+  "qid": "indep-145",
+  "entity": "Blight the Household",
+  "kind_of_thing": "Hermetic Concept",
+  "aliases": [
+   "Blight the Household"
+  ],
+  "book": "realms-of-power-the-infernal",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter 7 : Demons as Destroyers",
+     "Fictiles"
+    ],
+    "text": "**Order:** Aerial Powers In their natural form, the fictiles (singular fictilis) seem to be composed of wet clay. They are larger than a man in size, and have crudely formed limbs that are often mismatched as those of different animals. However, the fictiles are shapechangers who usually take the form of animals — particularly of domestic animals and pets — and dwell alongside man. They often remain with a family for a long period of time, subtly corrupting them in many minor ways, usually through the imposition usually through the imposition of minor calamities. **Infernal Might:** 10 (Terram) **Virtues and Flaws:** Shapeshifter **Weakness:** Running water **Powers** Elemental Control of Earth, variable points, Init +1, Terram: As the Power common to all Aerial Powers. They prefer effects such as Earth That Breaks No *More* and *Fist of Shattering*. *Blight the Household*, 1 point, Init 0, Herbam: Fictiles can cause misfortune to a family by spoiling food, rotting foundations, and even blighting crops. Each use of this Power can destroy three portions of food or an Individual amount of plant material. Alternatively, if used daily throughout the spring growing season, it can halve the productivity of a field of crops or fodder."
+   }
+  ]
+ },
+ {
+  "qid": "indep-153",
+  "entity": "Exceptional Strength",
+  "kind_of_thing": "Virtue",
+  "aliases": [
+   "Exceptional Strength"
+  ],
+  "book": "sanctuary-of-ice-the-greater-alps-tribunal",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter 8: The Covenant of Valnastium",
+     "Larta Magi",
+     "Larta Magi at Valnastium",
+     "Smith"
+    ],
+    "text": "An elderly, but powerful, man named François is the blacksmith in the Village of the Vale. His smithy is one of the most intensely magical places in the territory around the covenant. His family is large, both in number and in individual size, and many of them serve as grogs. Some have a valuable and frightening affinity for weapons (Knack), and these become grog sergeants at other covenants. Now that he's getting on a little, François oversees several apprentices, passing on the secrets of his craft. His journeymen are in great demand, and most find places in other covenants with little difficulty. A number of the blacksmiths at the Order's covenants are related to François in one way or another, since he prefers to keep his trade in the family. Blacksmiths are imbued with the properties of iron. Iron repels faeries because it is both intensely magical and easy for humans to use. Smiths are often the hedge magician of a village, like a crone on the hill, but more approachable. Many have extraordinary strength, the power to curse and heal, and, in some cases, the ability to command the weather. Since their abilities are a specialised form of Natural Magic, they ignore the Dominion. Magical blacksmiths often have virtues selected from the following list: Craft Lesser Charm, Craft Greater Charm, Heal, Curse, Exceptional Strength, Knack (Blacksmithing), Large, Weather Sense, Enduring Constitution, Long-winded, Tough, Reserves of Strength, Superior Armaments. Those who are Lartan"
+   },
+   {
+    "heading_path": [
+     "Chapter 8: The Covenant of Valnastium",
+     "Larta Magi",
+     "Larta Magi at Valnastium",
+     "Smith"
+    ],
+    "text": "selected from the following list: Craft Lesser Charm, Craft Greater Charm, Heal, Curse, Exceptional Strength, Knack (Blacksmithing), Large, Weather Sense, Enduring Constitution, Long-winded, Tough, Reserves of Strength, Superior Armaments. Those who are Lartans often have Free Expression or Inventive Genius, which allows them to find new ways to apply the power of iron."
+   }
+  ]
+ },
+ {
+  "qid": "indep-161",
+  "entity": "New Temple",
+  "kind_of_thing": "Place",
+  "aliases": [
+   "New Temple"
+  ],
+  "book": "the-church",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Seven: The Knights Templar",
+     "The Fifth Crusade",
+     "Templars in England"
+    ],
+    "text": "Shropshire, Oxfordshire, Cornwall, Lincolnshire, and Yorkshire — and in most cases the landholdings are extensive. In England, the Templars divide their holdings into revenue districts called *baillia*, with each governed by its own local commander. The English Master is based in London at the New Temple. In the future (if your saga follows history), the Templars gradually fall out of favor with King Henry III, and by the 1250s they are replaced in most of their positions by Hospitallers, who are generally seen as more educated and better administrators. >#### Grand Masters of the Temple of Solomon > >Hugh of Payns (1119-1136) >Robert of Craon (1136-1149) >Everard of Barres (1149-1152) – retired >Bernard of Trémélay (1152-1153) >Andrew of Montbard (1153-1156) >Bertrand of Blanquefort (1156-1169) >Philip of Nablus (1169-1171) – retired >Odo of Saint-Amand (1171-1179) >Arnold of Torroja (1180-1184) >Gérard of Ridefort (1185-1189) >Robert of Sabloel (1191-1193) >Gilbert Erail (1194-1200) >Philip of Plessiez (1201-1209) >William of Chartres (1210-1219) >Peter of Montaigu (1219-1232) >#### English Templar Commanders > >Richard of Hastings (1160-1171) >Richard Mallebeench (1172-1180) >Geoffrey Fitz Stephen (1180-1185) >William of Newenham (1185-1200) >Thomas Beard (1200-1200) >Aymeric of St. Maur (1200-1220) >Alan Marcell (1220-1229)"
+   },
+   {
+    "heading_path": [
+     "Chapter Seven: The Knights Templar",
+     "Templar Organization",
+     "Relations with Outsiders",
+     "Templars and Nobility"
+    ],
+    "text": "Most of the great nobles of Mythic Europe have excellent relations with the Templars, particularly in France, England, Italy and Iberia, and the Holy Land. Many kings, dukes, and barons have Templars as advisors, either permanently stationed in their court or as someone they regularly consult with on major issues. Many of these lords have been on crusade, or one of their relatives has, so they have a personal and direct relationship with the Templars. The Templars see lords, knights, and nobles as their key sources of donations, lands, and recruits, so most commanders try to keep good relationships with local lords. Similarly, the great wealth and power, and the lending capacity, of the Templars means that most lords want to keep the Poor Knights onside. Despite this good will, the Templars often create problems for local lords through their unilateral commercial activities. In London, for instance, the Templars have caused a lot of trouble for local fishermen and traders near the New Temple on the Thames by causing a blockage on the river to power their mill. The group of lords with whom the Templars are most likely to come into conflict are the Christian lords of the Holy Land, particularly the King of Jerusalem or leaders of crusades. The Templars largely act as free agents, often without consulting the lords of the Holy Land. >#### Woolen Cords > >Most Templars wear woolen cords around their waist in place of a belt, as a sign"
+   }
+  ]
+ },
+ {
+  "qid": "indep-169",
+  "entity": "Fool's Cap Bell",
+  "kind_of_thing": "Magic Item",
+  "aliases": [
+   "Fool's Cap Bell"
+  ],
+  "book": "the-lion-and-the-lily-the-normandy-tribunal",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Eleven: Confluensis",
+     "Magi",
+     "Proctor, Follower of Guernicus"
+    ],
+    "text": "**Age:** 93 (Apparent age 60) **Personality Traits:** Ruthless +3, Strict +2, Distrustful +2 Proctor is the Presiding Quaesitor of the Normandy Tribunal, and with the death of Renita Bjornaer, the nominal leader of Confluensis. He has served as Presiding Quaesitor for the last two Tribunal meetings. He seems unlikely to let his housemates elect anyone else for the next Tribunal, despite his House's tradition of rotating the position. His likely successor, in case of accident or Twilight, is his filius Aristarcus. Proctor's grandparens was killed by Tytalan diabolists, leaving his parens with an abiding hatred of that House. This has been passed on to Proctor, making him extremely suspicious of the Tytalus magi within the Tribunal. He is a strict enforcer of the Code, but also a staunch Transitionalist. His paranoia may yet lead him to take extreme measures in the name of the Order. Proctor is an older magus, who wears a white beard but has no mustache. His favorite robe is slate green. It is usually clipped with two crossed pins, each a miniature swan's feather, one of lead and the other of ivory. His familiar is a sacred ibis, a souvenir of his youthful rambling. His face is weathered and his hands are leathery, but his skin is pale. His talisman is a fool's cap bell. It is a palm-sized sphere of brass that has a metal ball within it, so that it chimes when he walks. Proctor carries his talisman in his"
+   },
+   {
+    "heading_path": [
+     "Chapter Eleven: Confluensis",
+     "Magi",
+     "Proctor, Follower of Guernicus"
+    ],
+    "text": "is pale. His talisman is a fool's cap bell. It is a palm-sized sphere of brass that has a metal ball within it, so that it chimes when he walks. Proctor carries his talisman in his pocket. He does not discuss its origin with people he distrusts, and so many members of the Tribunal think he carries it to remind himself not to act foolishly. He believes it to be one of the bells worn by Richard the Devil when serving his penance in Rome. It is enchanted with effects that defend against Infernal influence."
+   }
+  ]
+ },
+ {
+  "qid": "indep-177",
+  "entity": "Haruspicy",
+  "kind_of_thing": "Hermetic Concept",
+  "aliases": [
+   "Haruspicy"
+  ],
+  "book": "the-mysteries-revised",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter 7: Divination & Augury",
+     "Divination & Augury — Major Supernatural Virtue",
+     "Penetration"
+    ],
+    "text": "| Imaginem +2, dreams +2, mental illness +3 | > | Causimomancy | Behavior of objects placed in a fire | Curses and bindings +3, Ignem +2 | > | Cephalomancy | Severing the head of a goat or donkey | Animal +5, travel +5 | > | Ceroscopy | Patterns of wax dripped in water | Marriage +1, happiness +3 | > | Cleidomancy | Dangling a key from the Bible | Sin +3, lying +5 | > | Cleromancy | Casting dice or lots | Courts of justice +2, business +3, money +5 | > | Crystalomancy | Crystal-gazing | Friends +1, enemies +2, Vim +3 | > | **Dream Interpretation** | **(see Hermetic Dream Interpreter)** | **+5** | > | Geomancy | Patterns in earth | Kingdoms +2, Terram +5 | > | Haruspicy | Entrails of sacrificed animals | Animal +4, disease +5 | > | Hippomancy | Behavior of horses | Nobles +3, war +4 | > | Hydromancy | Observing water | Judgments +3, Aquam +5 | > | Lecanomancy | By bowls of fluid | Ghosts +5, spirits +3 | > | Myomancy | Behavior of mice and rats | Battle +2, disaster +5 | > | **Numerology** | **(requires Hermetic Numerology)** | **book bonus — see Chapter 11** | > | Onomancy | Comparing names | Mentem +2, Corpus +3, conflict resolution +5 | > | Ooscopy | Burning or cooking eggs | Youth +4, children +5 |"
+   }
+  ]
+ },
+ {
+  "qid": "indep-185",
+  "entity": "Covenant on the Isle of Arran",
+  "kind_of_thing": "Covenant",
+  "aliases": [
+   "Covenant on the Isle of Arran"
+  ],
+  "book": "transforming-mythic-europe",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Three: The Island of the Magicians",
+     "Lack Of Vis",
+     "The Surrounding Seas"
+    ],
+    "text": "island. This great being is able to maintain some control over the many minor spirits which follow settlers to the new land. If the player characters do not appoint a mortal king, it is possible that a faerie simply usurps that role. > >In nearby inserts two faerie kings are detailed: the fi rst must be courted, the second comes as an invader. Manannan Mac Lir is an Irish faerie sovereign known to anyone familiar with the faerie lore of Ireland or the Isle of Man. Tursus is a ferocious god of nortern merfolk, likely to accompany waves of invading Norse. >#### Manannan Mac Lir >Sometimes thought of as the god of the Isle of Man, Manannan was, before the coming of Saint Patrick, the god of Irish sailors. Faeries claiming the role have been found in many areas around the Irish Sea, responding to stories bought by Irish traders or settlers. When Manannan was cast out of the Isle of Man by Saint Patrick, a faerie set up a court on the Isle of Arran. The faerie wizard-king no longer dwells there, having withdrawn to Faerie centuries ago. The island is now claimed by a clutch of Criamon magi who study regiones. The covenant on the Isle of Arran can, however, show the player characters the path to Mannanan's realm, which is called Tir Tairngire (the Land of Promise), or Emain Ablach (the Isle of Apples, or the Isle of Women, or Avalon, depending on"
+   }
+  ]
+ },
+ {
+  "qid": "indep-193",
+  "entity": "Bellaquin",
+  "kind_of_thing": "Covenant",
+  "aliases": [
+   "Bellaquin"
+  ],
+  "book": "tribunals-of-hermes-rome",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Three: Hermetic History",
+     "Mundane Interference"
+    ],
+    "text": "At first look, the foundation of Literatus would seem to have been of great historical import. At the time, such a melding of the mundane and Hermetic was all but unheard of. Later, others, such as Bellaquin in Provençal, would follow Literatus' example, and many would find the union of mundane and magic a valuable one. However, the foundation of Literatus simply marked the end result of a hundred years of ever-increasing interaction with mundanes in the Roman Tribunal. In the early 10th century the Magi of Rome had supplanted their raw vis stores by trading books and services for pawns from beyond the Tribunal. However, as the years passed Magi realized it was easier to buy vis with silver, commonly available in the cities of Italy. Thus, they began to sell magic and services to mundanes, and used the silver collected to purchase raw vis. At first Roman Magi conducted their magical sales in secret, but rivalries between Covenants arose and competition for magic markets increased, making transactions more public. The Quaesitoris of Italy condoned such violations because those Magi were as guilty as any. If Magvillus spoke out against any in the Tribunal, they would have crippled their own Covenant, something they were not prepared to do. So the abuses continued. When it became clear that magic was nearly gone from the Tribunal, many great schisms were created, ones that would never be healed. By the end of the 10th century, Roman Magi were"
+   }
+  ]
+ }
+]

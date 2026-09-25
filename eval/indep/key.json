@@ -1,0 +1,2644 @@
+{
+ "indep-000": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/PeterLombard",
+  "label": "Peter Lombard",
+  "aliases": [
+   "Peter Lombard"
+  ],
+  "summary": "A scholar who taught at pre-university Bologna and Paris and wrote the Sentences and biblical glosses, compared in a story seed to the works of a Hermetic writer.",
+  "gold_ids": [
+   "art-academe::0378",
+   "art-academe::0399",
+   "art-academe::0400",
+   "art-academe::0645"
+  ],
+  "book": "art-academe"
+ },
+ "indep-001": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/DiseasedPossession",
+  "label": "Diseased Possession",
+  "aliases": [
+   "Diseased Possession"
+  ],
+  "summary": "An infernal power, a variety of Possession, by which a demon enters a victim and spends Might to inflict a disease's contagion.",
+  "gold_ids": [
+   "art-academe::0210",
+   "art-academe::0211"
+  ],
+  "book": "art-academe"
+ },
+ "indep-002": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/Madrasah",
+  "label": "Madrasah",
+  "aliases": [
+   "Madrasah"
+  ],
+  "summary": "An Islamic higher-education school attached to a mosque and run by religious leaders, privately endowed and supported by student tuition.",
+  "gold_ids": [
+   "art-academe::0407"
+  ],
+  "book": "art-academe"
+ },
+ "indep-003": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/AlchemicalSteel",
+  "label": "Alchemical Steel",
+  "aliases": [
+   "Alchemical Steel"
+  ],
+  "summary": "A Level 20 Alteration Reagent producing a purified, harder form of iron; blades made of it gain +2 damage and armor gains +2 Protection.",
+  "gold_ids": [
+   "art-academe::0362"
+  ],
+  "book": "art-academe"
+ },
+ "indep-004": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/CautiousWithChirurgy",
+  "label": "Cautious with Chirurgy",
+  "aliases": [
+   "Cautious with Chirurgy"
+  ],
+  "summary": "A Virtue commonly taken by empirici that reduces botch risk when using the Chirurgy Ability.",
+  "gold_ids": [
+   "art-academe::0254"
+  ],
+  "book": "art-academe"
+ },
+ "indep-005": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/PoorDisputer",
+  "label": "Poor Disputer",
+  "aliases": [
+   "Poor Disputer"
+  ],
+  "summary": "A Minor General Flaw causing a character to suffer a -3 penalty on disputatio die rolls.",
+  "gold_ids": [
+   "art-academe::0425"
+  ],
+  "book": "art-academe"
+ },
+ "indep-006": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/SonsOfThePeters",
+  "label": "Sons of the Peters",
+  "aliases": [
+   "Sons of the Peters",
+   "filii petrorum"
+  ],
+  "summary": "A small, argumentative group of northern speculative grammarians basing their method on Peter Helias and Peter of Spain; secretly aided in their disputationes by demonic tempters granting an Infernally tainted Puissant Artes Liberales.",
+  "gold_ids": [
+   "art-academe::0008",
+   "art-academe::0047",
+   "art-academe::0048"
+  ],
+  "book": "art-academe"
+ },
+ "indep-007": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/Medicus",
+  "label": "Medicus",
+  "aliases": [
+   "Medicus"
+  ],
+  "summary": "A general term for a practitioner who may perform medicine or surgery but has no formal claim to the higher title of doctor; the majority of practicing physicians.",
+  "gold_ids": [
+   "art-academe::0005",
+   "art-academe::0006",
+   "art-academe::0653"
+  ],
+  "book": "art-academe"
+ },
+ "indep-008": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/TheKeyOfTheodorus",
+  "label": "The Key of Theodorus",
+  "aliases": [
+   "The Key of Theodorus"
+  ],
+  "summary": "A ReTe 5 Hermetic spell (R: Touch, D: Mom, T: Part) that magically opens any single lock regardless of complexity, named for Theodorus of Samos.",
+  "gold_ids": [
+   "city-guild::0281",
+   "city-guild::0282"
+  ],
+  "book": "city-guild"
+ },
+ "indep-009": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/PuissantSwordsmith",
+  "label": "Puissant Swordsmith",
+  "aliases": [
+   "Puissant Swordsmith"
+  ],
+  "summary": "A Virtue providing a bonus to the Swordsmith Craft Ability, held by the example craftsman Klaus.",
+  "gold_ids": [
+   "city-guild::0269"
+  ],
+  "book": "city-guild"
+ },
+ "indep-010": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/HospitallerKnightsOfStJohn",
+  "label": "Hospitaller Knights of St. John",
+  "aliases": [
+   "Hospitaller Knights",
+   "Hospitaller Knights of St. John"
+  ],
+  "summary": "A military order present in Acre that controls its own section of the city.",
+  "gold_ids": [
+   "city-guild::0117"
+  ],
+  "book": "city-guild"
+ },
+ "indep-011": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/FaerieTarantula",
+  "label": "Faerie Tarantula",
+  "aliases": [
+   "Faerie Tarantula"
+  ],
+  "summary": "A faerie creature whose bite afflicts victims with tarantism, an excess of yellow bile causing an irresistible urge to dance.",
+  "gold_ids": [
+   "city-guild::0091"
+  ],
+  "book": "city-guild"
+ },
+ "indep-012": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/CharlemagneSLoaf",
+  "label": "Charlemagne's Loaf",
+  "aliases": [
+   "Charlemagne's Loaf"
+  ],
+  "summary": "A wondrous loaf of bread whose smallest nibble grants the eater incredible courage, giving a +3 on all Bravery rolls (Craft Level 17).",
+  "gold_ids": [
+   "city-guild::0255"
+  ],
+  "book": "city-guild"
+ },
+ "indep-013": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/StCrispianian",
+  "label": "St. Crispianian",
+  "aliases": [
+   "Crispianian",
+   "St. Crispianian"
+  ],
+  "summary": "Patron saint of leatherworkers and cobblers (with St. Crispin); brother of St. Crispin who preached in Gaul.",
+  "gold_ids": [
+   "city-guild::0342"
+  ],
+  "book": "city-guild"
+ },
+ "indep-014": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/WritOfReprisal",
+  "label": "Writ of Reprisal",
+  "aliases": [
+   "Writ of Reprisal"
+  ],
+  "summary": "A court order allowing a wronged merchant to seize goods from any merchant of a fraudster's home town; such a writ against the Order could trigger Quaesitor review of a covenant's representatives.",
+  "gold_ids": [
+   "city-guild::0005",
+   "city-guild::0006",
+   "city-guild::0442"
+  ],
+  "book": "city-guild"
+ },
+ "indep-015": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/Lorris",
+  "label": "Lorris",
+  "aliases": [
+   "Lorris"
+  ],
+  "summary": "A small town in France first granted customary rights by King Louis VI, later confirmed by Louis VII in 1155, whose generous customs included freeman status after a year and a day.",
+  "gold_ids": [
+   "city-guild::0035",
+   "city-guild::0038"
+  ],
+  "book": "city-guild"
+ },
+ "indep-016": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/ExcessiveLighting",
+  "label": "Excessive Lighting",
+  "aliases": [
+   "Excessive Lighting"
+  ],
+  "summary": "A Minor laboratory Outfittings Virtue: the lab is lit far more than necessary with hundreds of candles or lamps (+2 Upkeep, +2 Imaginem).",
+  "gold_ids": [
+   "covenants::0621",
+   "covenants::0638"
+  ],
+  "book": "covenants"
+ },
+ "indep-017": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/LousyIngredients",
+  "label": "Lousy Ingredients",
+  "aliases": [
+   "Lousy Ingredients"
+  ],
+  "summary": "A Free laboratory Outfittings Flaw: the lab is supplied with dirty, impure, or poor-quality ingredients (-1 General Quality, -1 Upkeep).",
+  "gold_ids": [
+   "covenants::0627"
+  ],
+  "book": "covenants"
+ },
+ "indep-018": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/TheMarvelousHound",
+  "label": "The Marvelous Hound",
+  "aliases": [
+   "The Marvelous Hound"
+  ],
+  "summary": "A Muto Animal (Corpus, Mentem) 34 enchanted collar that transforms a normal hound into an erect, handed servant with a grog's intellect while retaining hound loyalty.",
+  "gold_ids": [
+   "covenants::0284"
+  ],
+  "book": "covenants"
+ },
+ "indep-019": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/TheOverFamiliarCat",
+  "label": "The (Over) Familiar Cat",
+  "aliases": [
+   "Familiar Cat",
+   "The (Over) Familiar Cat"
+  ],
+  "summary": "A magical familiar cat with Magic Might 10 (Imaginem) bonded to a magus, with powers of night-vision and invisible movement and shared-senses bond effects.",
+  "gold_ids": [
+   "covenants::0287"
+  ],
+  "book": "covenants"
+ },
+ "indep-020": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/CraftPercamenarius",
+  "label": "Craft: Percamenarius",
+  "aliases": [
+   "Craft: Percamenarius"
+  ],
+  "summary": "The craft of making parchment; a Perception + Finesse roll substitutes for it to determine the quality of vellum produced by the spell Hide to Parchment.",
+  "gold_ids": [
+   "covenants::0500"
+  ],
+  "book": "covenants"
+ },
+ "indep-021": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/CovenantOfTheRedbreastedWarriors",
+  "label": "Covenant of the Redbreasted Warriors",
+  "aliases": [
+   "Covenant of the Redbreasted Warriors"
+  ],
+  "summary": "A fallen covenant whose aura a faerie king is said to hold captive in a wine bottle.",
+  "gold_ids": [
+   "covenants::0034"
+  ],
+  "book": "covenants"
+ },
+ "indep-022": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/WardAgainstFlame",
+  "label": "Ward Against Flame",
+  "aliases": [
+   "Ward Against Flame"
+  ],
+  "summary": "A Rego Ignem 15 spell creating a circle that mundane fires cannot cross, used around heat sources, grain stores, and sometimes whole laboratories.",
+  "gold_ids": [
+   "covenants::0555",
+   "covenants::0556"
+  ],
+  "book": "covenants"
+ },
+ "indep-023": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/Realia",
+  "label": "Realia",
+  "aliases": [
+   "Realia"
+  ],
+  "summary": "Collections of mundane or magical objects (preserved animals, minerals, gemstones, bones) that magi study as a tractatus and use as clues for Intellego magic.",
+  "gold_ids": [
+   "covenants::0541",
+   "covenants::0542"
+  ],
+  "book": "covenants"
+ },
+ "indep-024": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/AedesMercurii",
+  "label": "Aedes Mercurii",
+  "aliases": [
+   "Aedes Mercurii"
+  ],
+  "summary": "A powerful covenant in the Provençal Tribunal with two sites, one centered on a majestic stone edifice known as the Temple (Templum) and another carved out of the Pic du Midi d'Ossau.",
+  "gold_ids": [
+   "definitive-edition-core-rules::1136"
+  ],
+  "book": "definitive-edition-core-rules"
+ },
+ "indep-025": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/Magians",
+  "label": "Magians",
+  "aliases": [
+   "Magians",
+   "Median tribe of Magians"
+  ],
+  "summary": "The original priestly caste of Persia, of which the Median tribe of Magians were the true blood ancestors granting the Magian Lineage Virtue.",
+  "gold_ids": [
+   "definitive-edition-core-rules::0482"
+  ],
+  "book": "definitive-edition-core-rules"
+ },
+ "indep-026": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/MateosTheFaerieButler",
+  "label": "Mateos, the Faerie Butler",
+  "aliases": [
+   "Mateos",
+   "Mateos, the Faerie Butler"
+  ],
+  "summary": "A child-sized faerie (Might 10, Herbam) who lives for drunken parties, serving intoxicating drinks from an endless barrel and encouraging people to embarrass themselves.",
+  "gold_ids": [
+   "definitive-edition-core-rules::2558",
+   "definitive-edition-core-rules::2559",
+   "definitive-edition-core-rules::2927"
+  ],
+  "book": "definitive-edition-core-rules"
+ },
+ "indep-027": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/PhantasmalFire",
+  "label": "Phantasmal Fire",
+  "aliases": [
+   "Phantasmal Fire"
+  ],
+  "summary": "A Creo Imaginem spell with an Ignem requisite that makes an image of a fire that dances, illuminates, crackles, and apparently warms but does not actually burn; popular at gatherings of House Flambeau.",
+  "gold_ids": [
+   "definitive-edition-core-rules::2913"
+  ],
+  "book": "definitive-edition-core-rules"
+ },
+ "indep-028": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/AnimalKenAbility",
+  "label": "Animal Ken (Ability)",
+  "aliases": [
+   "Animal Ken (Ability)"
+  ],
+  "summary": "The Supernatural Ability to communicate with animals, conferred by the Animal Ken Virtue at score 1.",
+  "gold_ids": [
+   "definitive-edition-core-rules::2930"
+  ],
+  "book": "definitive-edition-core-rules"
+ },
+ "indep-029": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/KassalanDust",
+  "label": "Kassalan Dust",
+  "aliases": [
+   "Kassalan Dust"
+  ],
+  "summary": "A dust of powdered gold, myrrh, and spices made by the Mortuary Society of Kassala, required for Kassalan Exorcism and granting a +3 Shape & Material bonus against the dead.",
+  "gold_ids": [
+   "definitive-edition-core-rules::0450",
+   "definitive-edition-core-rules::0451",
+   "definitive-edition-core-rules::2952"
+  ],
+  "book": "definitive-edition-core-rules"
+ },
+ "indep-030": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/UncertainFaith",
+  "label": "Uncertain Faith",
+  "aliases": [
+   "Uncertain Faith"
+  ],
+  "summary": "A Minor General Flaw in which doubt stands between the character and the Divine, giving -3 to holy influence rolls and a +1 Personality Trait that demons exploit.",
+  "gold_ids": [
+   "definitive-edition-core-rules::0660",
+   "definitive-edition-core-rules::0937",
+   "definitive-edition-core-rules::2972"
+  ],
+  "book": "definitive-edition-core-rules"
+ },
+ "indep-031": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/ImmunityToCold",
+  "label": "Immunity to Cold",
+  "aliases": [
+   "Immunity to Cold"
+  ],
+  "summary": "A Minor, Supernatural Virtue making normal cold harmless to the character, though extreme magical cold still affects him.",
+  "gold_ids": [
+   "definitive-edition-core-rules::0285",
+   "definitive-edition-core-rules::2949"
+  ],
+  "book": "definitive-edition-core-rules"
+ },
+ "indep-032": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/HenryTheFowler",
+  "label": "Henry the Fowler",
+  "aliases": [
+   "Henry the Fowler"
+  ],
+  "summary": "Duke of the Saxons who received the German crown in 919 and defeated the Magyar hordes at Riade in 933.",
+  "gold_ids": [
+   "guardians-of-the-forests-the-rhine-tribunal::0030",
+   "guardians-of-the-forests-the-rhine-tribunal::0387"
+  ],
+  "book": "guardians-of-the-forests-the-rhine-tribunal"
+ },
+ "indep-033": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/SlaveOwner",
+  "label": "Slave-Owner",
+  "aliases": [
+   "Minor General Virtue: Slave-Owner",
+   "Slave-Owner"
+  ],
+  "summary": "A new Minor General Virtue making a character the legal owner of one (largely unskilled) slave, lost if the slave is freed or killed.",
+  "gold_ids": [
+   "guardians-of-the-forests-the-rhine-tribunal::0510"
+  ],
+  "book": "guardians-of-the-forests-the-rhine-tribunal"
+ },
+ "indep-034": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/RBezahl",
+  "label": "Rübezahl",
+  "aliases": [
+   "Rübezahl"
+  ],
+  "summary": "A Waldgeist who haunts the forests of the Riesengebirge (Giant Mountains).",
+  "gold_ids": [
+   "guardians-of-the-forests-the-rhine-tribunal::0160"
+  ],
+  "book": "guardians-of-the-forests-the-rhine-tribunal"
+ },
+ "indep-035": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/DurenmarLore",
+  "label": "Durenmar Lore",
+  "aliases": [
+   "Durenmar Lore"
+  ],
+  "summary": "An Ability reflecting a magus' familiarity with the contents of the Great Library, addable to study rolls there with a cumulative penalty.",
+  "gold_ids": [
+   "guardians-of-the-forests-the-rhine-tribunal::0077",
+   "guardians-of-the-forests-the-rhine-tribunal::0266",
+   "guardians-of-the-forests-the-rhine-tribunal::0269",
+   "guardians-of-the-forests-the-rhine-tribunal::0270",
+   "guardians-of-the-forests-the-rhine-tribunal::0271",
+   "guardians-of-the-forests-the-rhine-tribunal::0282"
+  ],
+  "book": "guardians-of-the-forests-the-rhine-tribunal"
+ },
+ "indep-036": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/TheGodOfTruth",
+  "label": "The God of Truth",
+  "aliases": [
+   "The God of Truth"
+  ],
+  "summary": "The creator deity of a new dualist faith in the villages near the Bohemian Forest, said to be immaterial and found only in wild places, opposed to the God of Law; his angels are said to be faeries, and his prophet is Iacob.",
+  "gold_ids": [
+   "guardians-of-the-forests-the-rhine-tribunal::0533"
+  ],
+  "book": "guardians-of-the-forests-the-rhine-tribunal"
+ },
+ "indep-037": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/NebelkNigin",
+  "label": "Nebelkönigin",
+  "aliases": [
+   "Nebelkönigin"
+  ],
+  "summary": "A magically enhanced ship, pride of Waddenzee's pirate fleet, stolen from Oculus Septentrionalis (built by the Verditius shipwright Marcus) while it carried vis and magical books.",
+  "gold_ids": [
+   "guardians-of-the-forests-the-rhine-tribunal::0326",
+   "guardians-of-the-forests-the-rhine-tribunal::0331",
+   "guardians-of-the-forests-the-rhine-tribunal::0353",
+   "guardians-of-the-forests-the-rhine-tribunal::0354"
+  ],
+  "book": "guardians-of-the-forests-the-rhine-tribunal"
+ },
+ "indep-038": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/LindenGild",
+  "label": "Linden Gild",
+  "aliases": [
+   "Linden Gild",
+   "Linden Gild Trained",
+   "Lindengilde"
+  ],
+  "summary": "A peace-striving go-between gild founded by former magi of Fengheld after the Schism War, seeking cooperation between magi and covenants; led by Occultes of Durenmar.",
+  "gold_ids": [
+   "guardians-of-the-forests-the-rhine-tribunal::0086",
+   "guardians-of-the-forests-the-rhine-tribunal::0095",
+   "guardians-of-the-forests-the-rhine-tribunal::0120",
+   "guardians-of-the-forests-the-rhine-tribunal::0127",
+   "guardians-of-the-forests-the-rhine-tribunal::0128",
+   "guardians-of-the-forests-the-rhine-tribunal::0277",
+   "guardians-of-the-forests-the-rhine-tribunal::0356",
+   "guardians-of-the-forests-the-rhine-tribunal::0357",
+   "guardians-of-the-forests-the-rhine-tribunal::0472",
+   "guardians-of-the-forests-the-rhine-tribunal::0702"
+  ],
+  "book": "guardians-of-the-forests-the-rhine-tribunal"
+ },
+ "indep-039": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/TheMagicFountain",
+  "label": "The Magic Fountain",
+  "aliases": [
+   "The Magic Fountain"
+  ],
+  "summary": "A spring near the Brocken that grants visions to those who drink from it.",
+  "gold_ids": [
+   "guardians-of-the-forests-the-rhine-tribunal::0396"
+  ],
+  "book": "guardians-of-the-forests-the-rhine-tribunal"
+ },
+ "indep-040": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/EnchantedBirthingChair",
+  "label": "Enchanted birthing chair",
+  "aliases": [
+   "Enchanted birthing chair"
+  ],
+  "summary": "An enchanted chair at Voluntas's village that ensures almost all mothers and children survive childbirth, giving Wilton unusually high life expectancy.",
+  "gold_ids": [
+   "heirs-to-merlin-stonehenge-tribunal::0436"
+  ],
+  "book": "heirs-to-merlin-stonehenge-tribunal"
+ },
+ "indep-041": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/TribunalSummons",
+  "label": "Tribunal Summons",
+  "aliases": [
+   "Tribunal Summons"
+  ],
+  "summary": "A formal summons to a Hermetic tribunal that Redcaps must deliver at least six months before the tribunal takes place; rigorously enforced.",
+  "gold_ids": [
+   "heirs-to-merlin-stonehenge-tribunal::0359",
+   "heirs-to-merlin-stonehenge-tribunal::0360"
+  ],
+  "book": "heirs-to-merlin-stonehenge-tribunal"
+ },
+ "indep-042": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/MaidenCastle",
+  "label": "Maiden Castle",
+  "aliases": [
+   "Maiden Castle"
+  ],
+  "summary": "A large set of hilltop earthworks south of Dorchester in Dorset, seemingly deserted but said in local tales to be a faerie stronghold where the fay may be met on the correct night.",
+  "gold_ids": [
+   "heirs-to-merlin-stonehenge-tribunal::0505",
+   "heirs-to-merlin-stonehenge-tribunal::0539"
+  ],
+  "book": "heirs-to-merlin-stonehenge-tribunal"
+ },
+ "indep-043": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/KingSBench",
+  "label": "King's Bench",
+  "aliases": [
+   "King's Bench",
+   "court of the King's Bench"
+  ],
+  "summary": "One of the highest English courts of appeal, fixed at Westminster by Magna Carta, trying important civil and treason cases and issuing writs; its senior justice is Martin of Pattishall.",
+  "gold_ids": [
+   "heirs-to-merlin-stonehenge-tribunal::0310",
+   "heirs-to-merlin-stonehenge-tribunal::0311",
+   "heirs-to-merlin-stonehenge-tribunal::0325"
+  ],
+  "book": "heirs-to-merlin-stonehenge-tribunal"
+ },
+ "indep-044": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/Huarwar",
+  "label": "Huarwar",
+  "aliases": [
+   "Huarwar"
+  ],
+  "summary": "A Welsh faerie who helped complete Offa's Dyke in 787 in exchange for cattle; now eats parts of the dyke and villages when not paid.",
+  "gold_ids": [
+   "heirs-to-merlin-stonehenge-tribunal::0031"
+  ],
+  "book": "heirs-to-merlin-stonehenge-tribunal"
+ },
+ "indep-045": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/RomaNova",
+  "label": "Roma Nova",
+  "aliases": [
+   "Roma Nova"
+  ],
+  "summary": "A covenant of traditionalist Latin magi founded in Kent in 946, unpopular with Bjornaer, Díedne, and Ex Miscellanea; destroyed by the Díedne in 1008.",
+  "gold_ids": [
+   "heirs-to-merlin-stonehenge-tribunal::0038",
+   "heirs-to-merlin-stonehenge-tribunal::0039",
+   "heirs-to-merlin-stonehenge-tribunal::0044",
+   "heirs-to-merlin-stonehenge-tribunal::0045"
+  ],
+  "book": "heirs-to-merlin-stonehenge-tribunal"
+ },
+ "indep-046": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/StErkenwald",
+  "label": "St. Erkenwald",
+  "aliases": [
+   "St. Erkenwald"
+  ],
+  "summary": "A seventh-century bishop of London and patron saint of the city; the blasphemer Eustace who mocked his shrine was struck down by divine judgment.",
+  "gold_ids": [
+   "heirs-to-merlin-stonehenge-tribunal::0241",
+   "heirs-to-merlin-stonehenge-tribunal::0531"
+  ],
+  "book": "heirs-to-merlin-stonehenge-tribunal"
+ },
+ "indep-047": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/GwennTheWhiteMantle",
+  "label": "Gwenn (the white mantle)",
+  "aliases": [
+   "Gwenn",
+   "Gwenn (the white mantle)",
+   "the white mantle"
+  ],
+  "summary": "King Arthur's white mantle in the Dream of Rhonabwy; anyone wrapped in it can see everyone while remaining invisible.",
+  "gold_ids": [
+   "heirs-to-merlin-stonehenge-tribunal::0348"
+  ],
+  "book": "heirs-to-merlin-stonehenge-tribunal"
+ },
+ "indep-048": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/TortureChairOfZeus",
+  "label": "Torture Chair of Zeus",
+  "aliases": [
+   "Torture Chair of Zeus",
+   "mechanical torture chair",
+   "mechanized torture chair"
+  ],
+  "summary": "A mechanized chair Hephaestus made that Zeus used to torture Hera; rediscovered by Milo and prize of the first Verditius Contest, won by Gelon.",
+  "gold_ids": [
+   "houses-of-hermes-mystery-cults::0556",
+   "houses-of-hermes-mystery-cults::0566"
+  ],
+  "book": "houses-of-hermes-mystery-cults"
+ },
+ "indep-049": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/TheEdgesOfTheWorld",
+  "label": "The Edges of the World",
+  "aliases": [
+   "The Edges of the World",
+   "four Edges of the World"
+  ],
+  "summary": "Four regiones corresponding to the four elements and humors to which a spirit-traveling Criamon magus is sequentially drawn, and from which he must escape back to his body.",
+  "gold_ids": [
+   "houses-of-hermes-mystery-cults::0309"
+  ],
+  "book": "houses-of-hermes-mystery-cults"
+ },
+ "indep-050": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/FormOfTheTemperamentHeartbeast",
+  "label": "Form of the (Temperament) Heartbeast",
+  "aliases": [
+   "Form of the (Temperament) Heartbeast"
+  ],
+  "summary": "A Muto Animal 20 spell with four temperament versions (sanguine, choleric, melancholic, phlegmatic) that enhances an animal form's humoral correspondences; modeled from Birna's innate abilities.",
+  "gold_ids": [
+   "houses-of-hermes-mystery-cults::0155",
+   "houses-of-hermes-mystery-cults::0160"
+  ],
+  "book": "houses-of-hermes-mystery-cults"
+ },
+ "indep-051": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/BrittleBones",
+  "label": "Brittle Bones",
+  "aliases": [
+   "Brittle Bones"
+  ],
+  "summary": "A Major Curse (Rego Corpus effect) making the victim's bones fragile, risking broken bones (treated as Heavy Wounds) during strenuous activity.",
+  "gold_ids": [
+   "houses-of-hermes-mystery-cults::0642"
+  ],
+  "book": "houses-of-hermes-mystery-cults"
+ },
+ "indep-052": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/Roscius",
+  "label": "Roscius",
+  "aliases": [
+   "Roscius"
+  ],
+  "summary": "Filius of Verditius who stole the sword Durendal and took it to Verdi; by studying it he and his filii became famous makers of magical swords, founding the Confraternity of Roland.",
+  "gold_ids": [
+   "houses-of-hermes-mystery-cults::0582"
+  ],
+  "book": "houses-of-hermes-mystery-cults"
+ },
+ "indep-053": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/Ceres",
+  "label": "Ceres",
+  "aliases": [
+   "Ceres"
+  ],
+  "summary": "A goddess one of whose priestesses always serves as a hierophant of the Huntress in the Wood.",
+  "gold_ids": [
+   "houses-of-hermes-mystery-cults::0146"
+  ],
+  "book": "houses-of-hermes-mystery-cults"
+ },
+ "indep-054": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/CraftAutomata",
+  "label": "Craft Automata",
+  "aliases": [
+   "Craft Automata"
+  ],
+  "summary": "A Major Hermetic Virtue and Ability (initial score 1) granted by the Automata Mystery, allowing a character to construct mechanical men and beasts.",
+  "gold_ids": [
+   "houses-of-hermes-mystery-cults::0619",
+   "houses-of-hermes-mystery-cults::0621",
+   "houses-of-hermes-mystery-cults::0622",
+   "houses-of-hermes-mystery-cults::0631",
+   "houses-of-hermes-mystery-cults::0658"
+  ],
+  "book": "houses-of-hermes-mystery-cults"
+ },
+ "indep-055": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/HuntressInTheWoodLore",
+  "label": "Huntress in the Wood Lore",
+  "aliases": [
+   "Huntress Lore",
+   "Huntress in the Wood Lore"
+  ],
+  "summary": "The Ability required to Initiate the grades of the Huntress in the Wood cult, with set thresholds for advancing from kerykes to eumolpids.",
+  "gold_ids": [
+   "houses-of-hermes-mystery-cults::0143",
+   "houses-of-hermes-mystery-cults::0144",
+   "houses-of-hermes-mystery-cults::0145"
+  ],
+  "book": "houses-of-hermes-mystery-cults"
+ },
+ "indep-056": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/HouseTytalusLore",
+  "label": "House Tytalus Lore",
+  "aliases": [
+   "House Tytalus Lore"
+  ],
+  "summary": "A Hermetic lore Ability concerning the history and customs of House Tytalus, exemplified by the Analects of Tytalus summa.",
+  "gold_ids": [
+   "houses-of-hermes-societates::0366",
+   "houses-of-hermes-societates::0367"
+  ],
+  "book": "houses-of-hermes-societates"
+ },
+ "indep-057": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/RestrictionTrueFeeling",
+  "label": "Restriction (True Feeling)",
+  "aliases": [
+   "Restriction (True Feeling)"
+  ],
+  "summary": "A Major Hermetic Flaw of the Cult of Orpheus.",
+  "gold_ids": [
+   "houses-of-hermes-societates::0006",
+   "houses-of-hermes-societates::0608",
+   "houses-of-hermes-societates::0612"
+  ],
+  "book": "houses-of-hermes-societates"
+ },
+ "indep-058": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/GreenDragonOfLabin",
+  "label": "Green Dragon of Labin",
+  "aliases": [
+   "Green Dragon of Labin"
+  ],
+  "summary": "A dragon famously slain by the Flambeau magus Vilano, who crushed it with two falling trees using only indirect spells.",
+  "gold_ids": [
+   "houses-of-hermes-societates::0130"
+  ],
+  "book": "houses-of-hermes-societates"
+ },
+ "indep-059": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/HouseOfFlambeau",
+  "label": "House of Flambeau",
+  "aliases": [
+   "House of Flambeau"
+  ],
+  "summary": "(Not present)",
+  "gold_ids": [
+   "houses-of-hermes-societates::0055"
+  ],
+  "book": "houses-of-hermes-societates"
+ },
+ "indep-060": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/HornOfTheChampions",
+  "label": "Horn of the Champions",
+  "aliases": [
+   "Horn of Champions",
+   "Horn of the Champions"
+  ],
+  "summary": "An invested magical horn kept at Castra Solis that can alert and instantly summon senior Flambeau magi from anywhere in Mythic Europe via Arcane Connections.",
+  "gold_ids": [
+   "houses-of-hermes-societates::0046",
+   "houses-of-hermes-societates::0047"
+  ],
+  "book": "houses-of-hermes-societates"
+ },
+ "indep-061": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/EnchantmentOfThePedestrianPigeon",
+  "label": "Enchantment of the Pedestrian Pigeon",
+  "aliases": [
+   "Enchantment of the Pedestrian Pigeon"
+  ],
+  "summary": "A MuMe 15 spell that occludes a person's memory of told information until a key phrase unlocks it, used for secure transfer of information between conspirators.",
+  "gold_ids": [
+   "houses-of-hermes-societates::0487"
+  ],
+  "book": "houses-of-hermes-societates"
+ },
+ "indep-062": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/FirstSinger",
+  "label": "First Singer",
+  "aliases": [
+   "First Singer"
+  ],
+  "summary": "A leadership title of the Seirenes won at a grand competition every 12 years, hosting the next competition at her covenant.",
+  "gold_ids": [
+   "houses-of-hermes-societates::0709",
+   "houses-of-hermes-societates::0710"
+  ],
+  "book": "houses-of-hermes-societates"
+ },
+ "indep-063": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/MajorMagicalFocusInSpirits",
+  "label": "Major Magical Focus in Spirits",
+  "aliases": [
+   "Magical Focus in Spirits",
+   "Major Magical Focus in Spirits"
+  ],
+  "summary": "A Major Magical Focus developed by Titanoi magi during apprenticeship, applying to all supernatural entities with a naturally insubstantial form including ghosts.",
+  "gold_ids": [
+   "houses-of-hermes-societates::0469"
+  ],
+  "book": "houses-of-hermes-societates"
+ },
+ "indep-064": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/MythicCathay",
+  "label": "Mythic Cathay",
+  "aliases": [
+   "Mythic Cathay"
+  ],
+  "summary": "Distant land to which emissaries went.",
+  "gold_ids": [
+   "houses-of-hermes-true-lineages::0071"
+  ],
+  "book": "houses-of-hermes-true-lineages"
+ },
+ "indep-065": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/Dacians",
+  "label": "Dacians",
+  "aliases": [
+   "Dacians"
+  ],
+  "summary": "People who ruled Transylvania before the Romans, fighting under wolf-headed dragon banners.",
+  "gold_ids": [
+   "houses-of-hermes-true-lineages::0493"
+  ],
+  "book": "houses-of-hermes-true-lineages"
+ },
+ "indep-066": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/HeroicPersonality",
+  "label": "Heroic Personality",
+  "aliases": [
+   "Heroic Personality"
+  ],
+  "summary": "Minor Heroic Flaw granting strong Personality traits and Confidence, but letting the storyguide sometimes dictate the character's heroic actions.",
+  "gold_ids": [
+   "houses-of-hermes-true-lineages::0460",
+   "houses-of-hermes-true-lineages::0481"
+  ],
+  "book": "houses-of-hermes-true-lineages"
+ },
+ "indep-067": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/Pluto",
+  "label": "Pluto",
+  "aliases": [
+   "Pluto"
+  ],
+  "summary": "God of the Underworld and hidden wealth whom Tremere's ancestors served, symbolized by the two-pronged pitchfork.",
+  "gold_ids": [
+   "houses-of-hermes-true-lineages::0495",
+   "houses-of-hermes-true-lineages::0498",
+   "houses-of-hermes-true-lineages::0505"
+  ],
+  "book": "houses-of-hermes-true-lineages"
+ },
+ "indep-068": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/CommonWhiteWolves",
+  "label": "Common White Wolves",
+  "aliases": [
+   "Common White Wolves",
+   "white wolves"
+  ],
+  "summary": "Magical wolves descended from Tremere's familiar, serving the House.",
+  "gold_ids": [
+   "houses-of-hermes-true-lineages::0493",
+   "houses-of-hermes-true-lineages::0565",
+   "houses-of-hermes-true-lineages::0567"
+  ],
+  "book": "houses-of-hermes-true-lineages"
+ },
+ "indep-069": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/TheWholeFromThePart",
+  "label": "The Whole from the Part",
+  "aliases": [
+   "The Whole from the Part"
+  ],
+  "summary": "InCo 20 spell giving a mental image of a person's essential nature via an Arcane Connection.",
+  "gold_ids": [
+   "houses-of-hermes-true-lineages::0307"
+  ],
+  "book": "houses-of-hermes-true-lineages"
+ },
+ "indep-070": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/RomanArmyLore",
+  "label": "Roman Army Lore",
+  "aliases": [
+   "Roman Army Lore"
+  ],
+  "summary": "Ability referenced as used or valued by Tremere magi or creatures.",
+  "gold_ids": [
+   "houses-of-hermes-true-lineages::0559"
+  ],
+  "book": "houses-of-hermes-true-lineages"
+ },
+ "indep-071": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/SkullOfGuornaTheFetid",
+  "label": "Skull of Guorna the Fetid",
+  "aliases": [
+   "Skull of Guorna the Fetid"
+  ],
+  "summary": "Relic sought by necromancers to learn Guorna's techniques.",
+  "gold_ids": [
+   "houses-of-hermes-true-lineages::0555"
+  ],
+  "book": "houses-of-hermes-true-lineages"
+ },
+ "indep-072": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/Toframenn",
+  "label": "Toframenn",
+  "aliases": [
+   "Toframenn",
+   "toframen"
+  ],
+  "summary": "Icelandic term for the magi of Vindolanda.",
+  "gold_ids": [
+   "icelandic-wars-land-of-fire-and-ice::0032"
+  ],
+  "book": "icelandic-wars-land-of-fire-and-ice"
+ },
+ "indep-073": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/LandvaettirLords",
+  "label": "Landvaettir lords",
+  "aliases": [
+   "Landvaettir lords"
+  ],
+  "summary": "Powerful landvaettir who held the galdramen leader in esteem and give attendant spirits to all galdramen during the conflict.",
+  "gold_ids": [
+   "icelandic-wars-land-of-fire-and-ice::0035"
+  ],
+  "book": "icelandic-wars-land-of-fire-and-ice"
+ },
+ "indep-074": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/SpeakJotunn",
+  "label": "Speak Jotunn",
+  "aliases": [
+   "Speak Jotunn"
+  ],
+  "summary": "Giant language skill.",
+  "gold_ids": [
+   "icelandic-wars-land-of-fire-and-ice::0038"
+  ],
+  "book": "icelandic-wars-land-of-fire-and-ice"
+ },
+ "indep-075": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/LandvaettirBargains",
+  "label": "Landvaettir bargains",
+  "aliases": [
+   "Landvaettir bargains"
+  ],
+  "summary": "Deals galdramen make with spirits that can give magic resistance.",
+  "gold_ids": [
+   "icelandic-wars-land-of-fire-and-ice::0017"
+  ],
+  "book": "icelandic-wars-land-of-fire-and-ice"
+ },
+ "indep-076": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/SpiritBottle",
+  "label": "Spirit bottle",
+  "aliases": [
+   "Spirit bottle"
+  ],
+  "summary": "Device Albinus uses to capture Vindsvall.",
+  "gold_ids": [
+   "icelandic-wars-land-of-fire-and-ice::0027"
+  ],
+  "book": "icelandic-wars-land-of-fire-and-ice"
+ },
+ "indep-077": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/KillTheLivingAir",
+  "label": "Kill the Living Air",
+  "aliases": [
+   "Kill the Living Air"
+  ],
+  "summary": "Spell cast spontaneously with vis that badly drains Vindsvall's Might.",
+  "gold_ids": [
+   "icelandic-wars-land-of-fire-and-ice::0027"
+  ],
+  "book": "icelandic-wars-land-of-fire-and-ice"
+ },
+ "indep-078": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/WarTribunal",
+  "label": "War Tribunal",
+  "aliases": [
+   "War Tribunal"
+  ],
+  "summary": "Special Tribunal called by Lavinia at Durenmar in 1230 to organize the Hermetic Crusade, declaring all Icelandic magicians enemies of the Order.",
+  "gold_ids": [
+   "icelandic-wars-land-of-fire-and-ice::0011",
+   "icelandic-wars-land-of-fire-and-ice::0013",
+   "icelandic-wars-land-of-fire-and-ice::0023"
+  ],
+  "book": "icelandic-wars-land-of-fire-and-ice"
+ },
+ "indep-079": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/Scartaris",
+  "label": "Scartaris",
+  "aliases": [
+   "Scartaris",
+   "Scartaris Sanctum",
+   "Scartaris complex"
+  ],
+  "summary": "Vindolanda's Icelandic complex and sanctum beneath glacial ice, target of Julius's assault.",
+  "gold_ids": [
+   "icelandic-wars-land-of-fire-and-ice::0013",
+   "icelandic-wars-land-of-fire-and-ice::0014",
+   "icelandic-wars-land-of-fire-and-ice::0036",
+   "icelandic-wars-land-of-fire-and-ice::0037",
+   "icelandic-wars-land-of-fire-and-ice::0054"
+  ],
+  "book": "icelandic-wars-land-of-fire-and-ice"
+ },
+ "indep-080": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/HatredPassion",
+  "label": "Hatred Passion",
+  "aliases": [
+   "Hatred Passion"
+  ],
+  "summary": "Virtue of Damhan-allaidh (Order of Hermes).",
+  "gold_ids": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0429"
+  ],
+  "book": "lion-of-the-north-the-loch-leglean-tribunal"
+ },
+ "indep-081": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/ClanMacDonald",
+  "label": "Clan Mac Donald",
+  "aliases": [
+   "Clan Mac Donald"
+  ],
+  "summary": "Highland clan used as an example; its chief is called 'the Mac Donald'.",
+  "gold_ids": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0099"
+  ],
+  "book": "lion-of-the-north-the-loch-leglean-tribunal"
+ },
+ "indep-082": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/RobesOfPuissantMight",
+  "label": "Robes of Puissant Might",
+  "aliases": [
+   "Robes of Puissant Might"
+  ],
+  "summary": "Caitlin's protection 15 robes with no encumbrance.",
+  "gold_ids": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0225"
+  ],
+  "book": "lion-of-the-north-the-loch-leglean-tribunal"
+ },
+ "indep-083": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/JohnComyn",
+  "label": "John Comyn",
+  "aliases": [
+   "John Comyn"
+  ],
+  "summary": "Leader who rivals Robert the Bruce and attacks him in Selkirk forest in 1299.",
+  "gold_ids": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0050",
+   "lion-of-the-north-the-loch-leglean-tribunal::0051"
+  ],
+  "book": "lion-of-the-north-the-loch-leglean-tribunal"
+ },
+ "indep-084": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/TrainedAsAGruagach",
+  "label": "Trained as a Gruagach",
+  "aliases": [
+   "Trained as a Gruagach"
+  ],
+  "summary": "-4 Hermetic Flaw: mistakenly trained as a gruagach for a year, giving -1 to Parma Magica and Art scores.",
+  "gold_ids": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0320"
+  ],
+  "book": "lion-of-the-north-the-loch-leglean-tribunal"
+ },
+ "indep-085": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/HighlandGiants",
+  "label": "Highland Giants",
+  "aliases": [
+   "Highland Giants"
+  ],
+  "summary": "Nearly extinct race of giants in Sutherland and Strathnavar, in two kinds.",
+  "gold_ids": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0002",
+   "lion-of-the-north-the-loch-leglean-tribunal::0003",
+   "lion-of-the-north-the-loch-leglean-tribunal::0274",
+   "lion-of-the-north-the-loch-leglean-tribunal::0407",
+   "lion-of-the-north-the-loch-leglean-tribunal::0426"
+  ],
+  "book": "lion-of-the-north-the-loch-leglean-tribunal"
+ },
+ "indep-086": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/DestroyFurAndHide",
+  "label": "Destroy Fur and Hide",
+  "aliases": [
+   "Destroy Fur and Hide"
+  ],
+  "summary": "PeAn 5 spell known by Edwin.",
+  "gold_ids": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0184"
+  ],
+  "book": "lion-of-the-north-the-loch-leglean-tribunal"
+ },
+ "indep-087": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/LochOadh",
+  "label": "Loch Oadh",
+  "aliases": [
+   "Loch Oadh"
+  ],
+  "summary": "Loch where Damhan-allaidh ambushed Pralix in 814.",
+  "gold_ids": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0061",
+   "lion-of-the-north-the-loch-leglean-tribunal::0062",
+   "lion-of-the-north-the-loch-leglean-tribunal::0063",
+   "lion-of-the-north-the-loch-leglean-tribunal::0085"
+  ],
+  "book": "lion-of-the-north-the-loch-leglean-tribunal"
+ },
+ "indep-088": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/FlemishPikemen",
+  "label": "Flemish Pikemen",
+  "aliases": [
+   "Flemish Pikemen"
+  ],
+  "summary": "Specialist mercenary troops.",
+  "gold_ids": [
+   "lords-of-men::0580"
+  ],
+  "book": "lords-of-men"
+ },
+ "indep-089": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/KnightlyDemands",
+  "label": "Knightly Demands",
+  "aliases": [
+   "Knightly Demands"
+  ],
+  "summary": "Optional Major Story Flaw that replaces Oath of Fealty. The storyguide can use it to pull knights into ballad-style plots such as quests, feuds and rescues.",
+  "gold_ids": [
+   "lords-of-men::0146"
+  ],
+  "book": "lords-of-men"
+ },
+ "indep-090": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/NobleReputation",
+  "label": "Noble Reputation",
+  "aliases": [
+   "Noble Reputation",
+   "Prudhomme",
+   "Prudhomme Reputation"
+  ],
+  "summary": "A fourth style of Reputation alongside Local, Hermetic, and Ecclesiastic, allowing members of the landed class to know about each other.",
+  "gold_ids": [
+   "lords-of-men::0005",
+   "lords-of-men::0113",
+   "lords-of-men::0116",
+   "lords-of-men::0276",
+   "lords-of-men::0317",
+   "lords-of-men::0318",
+   "lords-of-men::0321",
+   "lords-of-men::0332",
+   "lords-of-men::0345",
+   "lords-of-men::0350",
+   "lords-of-men::0352",
+   "lords-of-men::0356"
+  ],
+  "book": "lords-of-men"
+ },
+ "indep-091": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/Ricohombre",
+  "label": "Ricohombre",
+  "aliases": [
+   "Ricohombre"
+  ],
+  "summary": "Iberian great men of the aristocratic upper class who hold honores from kings. They have the Great Noble Virtue.",
+  "gold_ids": [
+   "lords-of-men::0005",
+   "lords-of-men::0006"
+  ],
+  "book": "lords-of-men"
+ },
+ "indep-092": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/CastroSelvaggio",
+  "label": "Castro Selvaggio",
+  "aliases": [
+   "Castro Selvaggio"
+  ],
+  "summary": "Covenant castle whose magi created siege spells when besieged by a Milanese force; it was eventually sacked.",
+  "gold_ids": [
+   "lords-of-men::0621"
+  ],
+  "book": "lords-of-men"
+ },
+ "indep-093": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/FalconOfVirtue",
+  "label": "Falcon of Virtue",
+  "aliases": [
+   "Falcon of Virtue"
+  ],
+  "summary": "Rare falcon with burning feathers sought as a tournament prize in a story seed.",
+  "gold_ids": [
+   "lords-of-men::0334"
+  ],
+  "book": "lords-of-men"
+ },
+ "indep-094": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/SealTheBreach",
+  "label": "Seal the Breach",
+  "aliases": [
+   "Seal the Breach"
+  ],
+  "summary": "CrTe 20 ritual conjuring a section of wall that knits with existing fortifications, restoring up to five damage levels.",
+  "gold_ids": [
+   "lords-of-men::0623"
+  ],
+  "book": "lords-of-men"
+ },
+ "indep-095": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/PhillipAugustus",
+  "label": "Phillip Augustus",
+  "aliases": [
+   "Phillip Augustus"
+  ],
+  "summary": "The current king of France, the first of his dynasty not to have his heir acclaimed while he lives.",
+  "gold_ids": [
+   "lords-of-men::0157"
+  ],
+  "book": "lords-of-men"
+ },
+ "indep-096": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/SonOfMerchant",
+  "label": "Son of Merchant",
+  "aliases": [
+   "Son of Merchant"
+  ],
+  "summary": "Social Status Virtue of the Merchant's Son.",
+  "gold_ids": [
+   "magic-apprentices::0108"
+  ],
+  "book": "magic-apprentices"
+ },
+ "indep-097": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/Dependence",
+  "label": "Dependence",
+  "aliases": [
+   "Dependence"
+  ],
+  "summary": "Minor Child Personality Flaw: uncomfortable without a trusted mentor, -3 when alone.",
+  "gold_ids": [
+   "magic-apprentices::0005"
+  ],
+  "book": "magic-apprentices"
+ },
+ "indep-098": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/Bellum",
+  "label": "Bellum",
+  "aliases": [
+   "Bellum"
+  ],
+  "summary": "A game invented by Casius in the 10th century where apprentices duel with illusionary Roman soldiers via Ager Belli.",
+  "gold_ids": [
+   "magic-apprentices::0006",
+   "magic-apprentices::0013",
+   "magic-apprentices::0211",
+   "magic-apprentices::0213",
+   "magic-apprentices::0214",
+   "magic-apprentices::0215"
+  ],
+  "book": "magic-apprentices"
+ },
+ "indep-099": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/InfernalHawk",
+  "label": "Infernal Hawk",
+  "aliases": [
+   "Infernal Hawk"
+  ],
+  "summary": "Infernal bird in a story seed that follows grogs hoping to snatch a Gifted baby.",
+  "gold_ids": [
+   "magic-apprentices::0075"
+  ],
+  "book": "magic-apprentices"
+ },
+ "indep-100": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/Urchin",
+  "label": "Urchin",
+  "aliases": [
+   "Urchin"
+  ],
+  "summary": "Sample eleven-year-old grog, daughter of a branded outlaw living on city streets who aims to lead a gang of child thieves.",
+  "gold_ids": [
+   "magic-apprentices::0007",
+   "magic-apprentices::0105",
+   "magic-apprentices::0106"
+  ],
+  "book": "magic-apprentices"
+ },
+ "indep-101": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/Polyaigos",
+  "label": "Polyaigos",
+  "aliases": [
+   "Polyaigos"
+  ],
+  "summary": "Island covenant in the Theban Tribunal running a school for Gifted children.",
+  "gold_ids": [
+   "magic-apprentices::0237"
+  ],
+  "book": "magic-apprentices"
+ },
+ "indep-102": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/TheBookOfNimiane",
+  "label": "The Book of Nimiane",
+  "aliases": [
+   "The Book of Nimiane"
+  ],
+  "summary": "The legendary journal in which Nimiane recorded Merlin's secrets and three great names; sought in the Stonehenge and Normandy Tribunals.",
+  "gold_ids": [
+   "magic-apprentices::0152"
+  ],
+  "book": "magic-apprentices"
+ },
+ "indep-103": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/GiftedLabAssistant",
+  "label": "Gifted Lab Assistant",
+  "aliases": [
+   "Gifted Lab Assistant"
+  ],
+  "summary": "A Gifted child kept as a lab helper without having her Arts Opened; most Tribunals declare this practice a low crime.",
+  "gold_ids": [
+   "magic-apprentices::0126",
+   "magic-apprentices::0127"
+  ],
+  "book": "magic-apprentices"
+ },
+ "indep-104": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/JotunLore",
+  "label": "Jotun Lore",
+  "aliases": [
+   "Jotun Lore"
+  ],
+  "summary": "Lore universally taught to trollsynir.",
+  "gold_ids": [
+   "magic-hedge-magic-revised::0439"
+  ],
+  "book": "magic-hedge-magic-revised"
+ },
+ "indep-105": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/WitchesOfReims",
+  "label": "Witches of Reims",
+  "aliases": [
+   "Witches of Reims",
+   "coven of Reims"
+  ],
+  "summary": "A folk witch coven in and around Reims, several of whose witches were burned by Archbishop William in the late 12th century.",
+  "gold_ids": [
+   "magic-hedge-magic-revised::0272"
+  ],
+  "book": "magic-hedge-magic-revised"
+ },
+ "indep-106": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/Heriodas",
+  "label": "Heriodas",
+  "aliases": [
+   "Heriodas"
+  ],
+  "summary": "Faerie leader of processions of the dead, collecting the dead and leading them to pagan underworlds.",
+  "gold_ids": [
+   "magic-hedge-magic-revised::0638",
+   "magic-hedge-magic-revised::0639"
+  ],
+  "book": "magic-hedge-magic-revised"
+ },
+ "indep-107": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/BorrowTheWingsOfTheEagle",
+  "label": "Borrow the Wings of the Eagle",
+  "aliases": [
+   "Borrow the Wings of the Eagle"
+  ],
+  "summary": "GvSh 10 spell turning the caster's arms into giant wings allowing flight as fast as a galloping horse.",
+  "gold_ids": [
+   "magic-hedge-magic-revised::0393",
+   "magic-hedge-magic-revised::0432",
+   "magic-hedge-magic-revised::0433"
+  ],
+  "book": "magic-hedge-magic-revised"
+ },
+ "indep-108": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/HalfTaltS",
+  "label": "Half Taltós",
+  "aliases": [
+   "Half Taltós"
+  ],
+  "summary": "Minor Supernatural Virtue of a failed taltós candidate, granting limited Second Sight and spirit-harming weapons.",
+  "gold_ids": [
+   "magic-hedge-magic-revised::0596",
+   "magic-hedge-magic-revised::0667"
+  ],
+  "book": "magic-hedge-magic-revised"
+ },
+ "indep-109": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/DomhnallTheGruagachMaster",
+  "label": "Domhnall the Gruagach Master",
+  "aliases": [
+   "Domhnall",
+   "Domhnall the Gruagach Master"
+  ],
+  "summary": "Gifted gruagach master from a Scottish highland village, a large cudgel-wielding man who fought the English and seeks to rebuild a collective.",
+  "gold_ids": [
+   "magic-hedge-magic-revised::0007",
+   "magic-hedge-magic-revised::0429",
+   "magic-hedge-magic-revised::0430",
+   "magic-hedge-magic-revised::0431",
+   "magic-hedge-magic-revised::0433"
+  ],
+  "book": "magic-hedge-magic-revised"
+ },
+ "indep-110": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/AnneSHouse",
+  "label": "Anne's House",
+  "aliases": [
+   "Anne's House"
+  ],
+  "summary": "Manor a few miles from Kilkenny with a lab outbuilding and a bog where a dying giant is pinned.",
+  "gold_ids": [
+   "magic-hedge-magic-revised::0281"
+  ],
+  "book": "magic-hedge-magic-revised"
+ },
+ "indep-111": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/Aesc",
+  "label": "Aesc",
+  "aliases": [
+   "Aesc"
+  ],
+  "summary": "Additional Anglo-Saxon Futhorc rune meaning \"Ash\", with no Elder Futhark equivalent.",
+  "gold_ids": [
+   "magic-hedge-magic-revised::0788"
+  ],
+  "book": "magic-hedge-magic-revised"
+ },
+ "indep-112": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/WandOfDancingFlowers",
+  "label": "Wand of Dancing Flowers",
+  "aliases": [
+   "Wand of Dancing Flowers"
+  ],
+  "summary": "Magical toy sold at the faerie toy market.",
+  "gold_ids": [
+   "mythic-locations::0009"
+  ],
+  "book": "mythic-locations"
+ },
+ "indep-113": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/FieldOfHooks",
+  "label": "Field of Hooks",
+  "aliases": [
+   "Field of Hooks"
+  ],
+  "summary": "Field of Purgatory where perpetrators of fraud hang from hooks over flames.",
+  "gold_ids": [
+   "mythic-locations::0007"
+  ],
+  "book": "mythic-locations"
+ },
+ "indep-114": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/Histria",
+  "label": "Histria",
+  "aliases": [
+   "Histria"
+  ],
+  "summary": "Oppidum on the Istrian Peninsula in the Transylvanian Tribunal.",
+  "gold_ids": [
+   "mythic-locations::0289",
+   "mythic-locations::0604"
+  ],
+  "book": "mythic-locations"
+ },
+ "indep-115": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/BlessingOfMercury",
+  "label": "Blessing of Mercury",
+  "aliases": [
+   "Blessing of Mercury"
+  ],
+  "summary": "CrVi 30 ritual granting +3 to Casting and Laboratory totals for a Year.",
+  "gold_ids": [
+   "mythic-locations::0009"
+  ],
+  "book": "mythic-locations"
+ },
+ "indep-116": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/CreatureOfVirtue",
+  "label": "Creature of Virtue",
+  "aliases": [
+   "Creature of Virtue",
+   "Creatures of Virtue"
+  ],
+  "summary": "Magic animals such as Ravens, Stags, Hares and Mice of Virtue that inhabit the truffle regio.",
+  "gold_ids": [
+   "mythic-locations::0010",
+   "mythic-locations::0611",
+   "mythic-locations::0639",
+   "mythic-locations::0664"
+  ],
+  "book": "mythic-locations"
+ },
+ "indep-117": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/Leda",
+  "label": "Leda",
+  "aliases": [
+   "Leda"
+  ],
+  "summary": "Julia's twin sister, abducted by faeries at age five.",
+  "gold_ids": [
+   "mythic-locations::0585",
+   "mythic-locations::0586",
+   "mythic-locations::0588"
+  ],
+  "book": "mythic-locations"
+ },
+ "indep-118": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/EnterTheSylvanGlen",
+  "label": "Enter the Sylvan Glen",
+  "aliases": [
+   "Enter the Sylvan Glen"
+  ],
+  "summary": "Daktyl power to enter any Faerie regio.",
+  "gold_ids": [
+   "mythic-locations::0148",
+   "mythic-locations::0149"
+  ],
+  "book": "mythic-locations"
+ },
+ "indep-119": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/PuissantCarouse",
+  "label": "Puissant Carouse",
+  "aliases": [
+   "Puissant Carouse"
+  ],
+  "summary": "Virtue or creature Quality listed for a being (Anne, Minerva Sulis, Balneator) or setting feature described here.",
+  "gold_ids": [
+   "mythic-locations::0060"
+  ],
+  "book": "mythic-locations"
+ },
+ "indep-120": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/RitualFaeriePowers",
+  "label": "Ritual Faerie Powers",
+  "aliases": [
+   "Ritual Faerie Powers"
+  ],
+  "summary": "Virtue granting ritual-level faerie powers.",
+  "gold_ids": [
+   "realms-of-power-faerie::0389"
+  ],
+  "book": "realms-of-power-faerie"
+ },
+ "indep-121": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/TheSoulInTheEgg",
+  "label": "The Soul in the Egg",
+  "aliases": [
+   "The Soul in the Egg"
+  ],
+  "summary": "Further idea for a prop story element.",
+  "gold_ids": [
+   "realms-of-power-faerie::0227"
+  ],
+  "book": "realms-of-power-faerie"
+ },
+ "indep-122": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/Borrowers",
+  "label": "Borrowers",
+  "aliases": [
+   "Borrowers",
+   "faerie borrowers"
+  ],
+  "summary": "Exotic traveling faerie wizards practicing the Ars Fabulosa who trade novel goods to faeries for blessings.",
+  "gold_ids": [
+   "realms-of-power-faerie::0007",
+   "realms-of-power-faerie::0820",
+   "realms-of-power-faerie::0821"
+  ],
+  "book": "realms-of-power-faerie"
+ },
+ "indep-123": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/TheForbiddenChamber",
+  "label": "The Forbidden Chamber",
+  "aliases": [
+   "The Forbidden Chamber"
+  ],
+  "summary": "Scenery story element: a room in a castle everyone is forbidden to enter, testing curiosity against obedience.",
+  "gold_ids": [
+   "realms-of-power-faerie::0005",
+   "realms-of-power-faerie::0006",
+   "realms-of-power-faerie::0235"
+  ],
+  "book": "realms-of-power-faerie"
+ },
+ "indep-124": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/BirthingFaerie",
+  "label": "Birthing Faerie",
+  "aliases": [
+   "Birthing Faerie"
+  ],
+  "summary": "Threshold faerie attracted by a pregnant mother.",
+  "gold_ids": [
+   "realms-of-power-faerie::0206"
+  ],
+  "book": "realms-of-power-faerie"
+ },
+ "indep-125": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/TouchOfTheMercilessLover",
+  "label": "Touch of the Merciless Lover",
+  "aliases": [
+   "Touch of the Merciless Lover"
+  ],
+  "summary": "Empathy/Woe 25 rite making the target waste away and die until the duration ends.",
+  "gold_ids": [
+   "realms-of-power-faerie::0795",
+   "realms-of-power-faerie::0796"
+  ],
+  "book": "realms-of-power-faerie"
+ },
+ "indep-126": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/FaerieAntipathy",
+  "label": "Faerie Antipathy",
+  "aliases": [
+   "Faerie Antipathy"
+  ],
+  "summary": "Major or Minor Supernatural Flaw giving a negative Sympathy Trait.",
+  "gold_ids": [
+   "realms-of-power-faerie::0687",
+   "realms-of-power-faerie::0707",
+   "realms-of-power-faerie::0730"
+  ],
+  "book": "realms-of-power-faerie"
+ },
+ "indep-127": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/TouchOfFaerie",
+  "label": "Touch of Faerie",
+  "aliases": [
+   "Touch of Faerie"
+  ],
+  "summary": "Condition gained by children who survive being stolen or raised by faeries.",
+  "gold_ids": [
+   "realms-of-power-faerie::0440",
+   "realms-of-power-faerie::0454"
+  ],
+  "book": "realms-of-power-faerie"
+ },
+ "indep-128": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/AcclimationProne",
+  "label": "Acclimation Prone",
+  "aliases": [
+   "Acclimation Prone"
+  ],
+  "summary": "Major Inferiority doubling difficulty of avoiding Acclimation.",
+  "gold_ids": [
+   "realms-of-power-magic::0215"
+  ],
+  "book": "realms-of-power-magic"
+ },
+ "indep-129": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/AuraStrengtheningTable",
+  "label": "Aura Strengthening Table",
+  "aliases": [
+   "Aura Strengthening Table"
+  ],
+  "summary": "Table rolled when the yearly aura modifier is +4 or more, with outcomes from new regio levels to permanent aura increase.",
+  "gold_ids": [
+   "realms-of-power-magic::0008",
+   "realms-of-power-magic::0009",
+   "realms-of-power-magic::0042",
+   "realms-of-power-magic::0064",
+   "realms-of-power-magic::0065",
+   "realms-of-power-magic::0067"
+  ],
+  "book": "realms-of-power-magic"
+ },
+ "indep-130": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/RiverAare",
+  "label": "River Aare",
+  "aliases": [
+   "Aare",
+   "River Aare"
+  ],
+  "summary": "River feeding Lake Brienz.",
+  "gold_ids": [
+   "realms-of-power-magic::0660"
+  ],
+  "book": "realms-of-power-magic"
+ },
+ "indep-131": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/LocusOfTheLiteratus",
+  "label": "Locus of the Literatus",
+  "aliases": [
+   "Locus of the Literatus"
+  ],
+  "summary": "CrIm 20 Ritual that draws the caster's location as a vestige in a book, producing a map for travel in the Magic Realm.",
+  "gold_ids": [
+   "realms-of-power-magic::0143"
+  ],
+  "book": "realms-of-power-magic"
+ },
+ "indep-132": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/AshBranchOfMutoVis",
+  "label": "Ash Branch of Muto Vis",
+  "aliases": [
+   "Ash Branch of Muto Vis"
+  ],
+  "summary": "Ash-branch vis granting Reserves of Strength and Toughness in battle.",
+  "gold_ids": [
+   "realms-of-power-magic::0694",
+   "realms-of-power-magic::0697",
+   "realms-of-power-magic::0698"
+  ],
+  "book": "realms-of-power-magic"
+ },
+ "indep-133": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/BrokenBranches",
+  "label": "Broken Branches",
+  "aliases": [
+   "Broken Branches"
+  ],
+  "summary": "A group of Redcaps united by love of nature, founded by a Loamwalker.",
+  "gold_ids": [
+   "realms-of-power-magic::0531"
+  ],
+  "book": "realms-of-power-magic"
+ },
+ "indep-134": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/TransformedHumans",
+  "label": "Transformed Humans",
+  "aliases": [
+   "Transformed Humans"
+  ],
+  "summary": "Humans transformed by magic into beings of the Magic Realm, losing their humanity.",
+  "gold_ids": [
+   "realms-of-power-magic::0007",
+   "realms-of-power-magic::0008",
+   "realms-of-power-magic::0635"
+  ],
+  "book": "realms-of-power-magic"
+ },
+ "indep-135": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/Barcas",
+  "label": "Barcas",
+  "aliases": [
+   "Barcas",
+   "Barcas the Giant"
+  ],
+  "summary": "Example magical giant (Might 16 Terram), a boastful wrestler nearly invulnerable to metal except for a spot below his sternum; based on Ferragus.",
+  "gold_ids": [
+   "realms-of-power-magic::0485",
+   "realms-of-power-magic::0495",
+   "realms-of-power-magic::0496",
+   "realms-of-power-magic::0501",
+   "realms-of-power-magic::0502"
+  ],
+  "book": "realms-of-power-magic"
+ },
+ "indep-136": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/PhilosophicMagic",
+  "label": "Philosophic Magic",
+  "aliases": [
+   "Philosophic Magic"
+  ],
+  "summary": "Minor Supernatural Virtue adding Philosophiae to Kabbalah totals.",
+  "gold_ids": [
+   "realms-of-power-the-divine-revised::0703",
+   "realms-of-power-the-divine-revised::0751"
+  ],
+  "book": "realms-of-power-the-divine-revised"
+ },
+ "indep-137": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/OrthodoxChurchLore",
+  "label": "Orthodox Church Lore",
+  "aliases": [
+   "Orthodox Church Lore"
+  ],
+  "summary": "Lore Ability of the Byzantine Priest.",
+  "gold_ids": [
+   "realms-of-power-the-divine-revised::0498"
+  ],
+  "book": "realms-of-power-the-divine-revised"
+ },
+ "indep-138": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/TreeGuardedByMichael",
+  "label": "Tree Guarded by Michael",
+  "aliases": [
+   "Tree Guarded by Michael"
+  ],
+  "summary": "Sample Empyreal aura: a sacred tree from Eden (Divine Might 50) on a mountain, likely in the Caucasus, radiating aura 5; its seedlings' fruit grants Joyful and slows aging.",
+  "gold_ids": [
+   "realms-of-power-the-divine-revised::0052",
+   "realms-of-power-the-divine-revised::0053"
+  ],
+  "book": "realms-of-power-the-divine-revised"
+ },
+ "indep-139": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/BookOfSolomon",
+  "label": "Book of Solomon",
+  "aliases": [
+   "Book of Solomon"
+  ],
+  "summary": "Book whose copies teach the Notory Art.",
+  "gold_ids": [
+   "realms-of-power-the-divine-revised::0471",
+   "realms-of-power-the-divine-revised::0505"
+  ],
+  "book": "realms-of-power-the-divine-revised"
+ },
+ "indep-140": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/NonTraditional",
+  "label": "Non-traditional",
+  "aliases": [
+   "Non-traditional"
+  ],
+  "summary": "Minor Supernatural Flaw: belonging to no holy tradition, with no favored Abilities; requires True Faith.",
+  "gold_ids": [
+   "realms-of-power-the-divine-revised::0164"
+  ],
+  "book": "realms-of-power-the-divine-revised"
+ },
+ "indep-141": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/FireAndHailSnowAndVapourStormyWindFulfillingHisWord",
+  "label": "Fire, and hail; snow, and vapour; stormy wind fulfilling his word",
+  "aliases": [
+   "Fire, and hail; snow, and vapour; stormy wind fulfilling his word"
+  ],
+  "summary": "Invocation Wonders effect (Level 35) summoning and controlling a powerful force of nature.",
+  "gold_ids": [
+   "realms-of-power-the-divine-revised::0281"
+  ],
+  "book": "realms-of-power-the-divine-revised"
+ },
+ "indep-142": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/Sunnis",
+  "label": "Sunnis",
+  "aliases": [
+   "Sunni",
+   "Sunnis"
+  ],
+  "summary": "Mainstream Muslims whose doctrines follow al-Ash'ari and al-Maturidi; they recognize the caliph in Baghdad.",
+  "gold_ids": [
+   "realms-of-power-the-divine-revised::0221",
+   "realms-of-power-the-divine-revised::0537",
+   "realms-of-power-the-divine-revised::0548",
+   "realms-of-power-the-divine-revised::0578",
+   "realms-of-power-the-divine-revised::0579",
+   "realms-of-power-the-divine-revised::0588",
+   "realms-of-power-the-divine-revised::0592",
+   "realms-of-power-the-divine-revised::0593",
+   "realms-of-power-the-divine-revised::0597"
+  ],
+  "book": "realms-of-power-the-divine-revised"
+ },
+ "indep-143": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/AvengingAngels",
+  "label": "Avenging Angels",
+  "aliases": [
+   "Avenging Angels"
+  ],
+  "summary": "Angels in Mathey.",
+  "gold_ids": [
+   "realms-of-power-the-divine-revised::0030"
+  ],
+  "book": "realms-of-power-the-divine-revised"
+ },
+ "indep-144": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/CorruptedAbility",
+  "label": "Corrupted (Ability)",
+  "aliases": [
+   "Corrupted (Ability)"
+  ],
+  "summary": "Flaw granted by the Watchers' Corrupted Knowledge Power, rewarding selfish or sinful use of the Ability.",
+  "gold_ids": [
+   "realms-of-power-the-infernal::0290"
+  ],
+  "book": "realms-of-power-the-infernal"
+ },
+ "indep-145": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/BlightTheHousehold",
+  "label": "Blight the Household",
+  "aliases": [
+   "Blight the Household"
+  ],
+  "summary": "Fictiles Power spoiling food and blighting crops.",
+  "gold_ids": [
+   "realms-of-power-the-infernal::0311"
+  ],
+  "book": "realms-of-power-the-infernal"
+ },
+ "indep-146": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/IslamicLore",
+  "label": "Islamic Lore",
+  "aliases": [
+   "Islamic Lore"
+  ],
+  "summary": "Lore Ability possessed by Golab.",
+  "gold_ids": [
+   "realms-of-power-the-infernal::0312"
+  ],
+  "book": "realms-of-power-the-infernal"
+ },
+ "indep-147": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/BerithTheEnnobler",
+  "label": "Berith the Ennobler",
+  "aliases": [
+   "Berith",
+   "Berith the Ennobler"
+  ],
+  "summary": "A Spirit of Deceit appearing as a red-clad crowned soldier on a red horse, who makes things seem nobler than they are and produces unworthy noblemen; popular with alchemists.",
+  "gold_ids": [
+   "realms-of-power-the-infernal::0227",
+   "realms-of-power-the-infernal::0272",
+   "realms-of-power-the-infernal::0273",
+   "realms-of-power-the-infernal::0274"
+  ],
+  "book": "realms-of-power-the-infernal"
+ },
+ "indep-148": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/Ophites",
+  "label": "Ophites",
+  "aliases": [
+   "Ophites"
+  ],
+  "summary": "Gnostic sect that worships the serpent of paradise as the symbol of God and revels in original sin.",
+  "gold_ids": [
+   "realms-of-power-the-infernal::0637",
+   "realms-of-power-the-infernal::0638"
+  ],
+  "book": "realms-of-power-the-infernal"
+ },
+ "indep-149": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/CommandTheVileSpirit",
+  "label": "Command the Vile Spirit",
+  "aliases": [
+   "Command the Vile Spirit"
+  ],
+  "summary": "ReVi 20 forcing a demon to obey.",
+  "gold_ids": [
+   "realms-of-power-the-infernal::0581"
+  ],
+  "book": "realms-of-power-the-infernal"
+ },
+ "indep-150": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/RudolphusOfHouseBonisagus",
+  "label": "Rudolphus of House Bonisagus",
+  "aliases": [
+   "Rudolphus",
+   "Rudolphus of House Bonisagus"
+  ],
+  "summary": "One of the most infamous Venatores, Wizard's Marched in 1151 A.D. for persecuting demons so much that they turned their wrath on the Order.",
+  "gold_ids": [
+   "realms-of-power-the-infernal::0570"
+  ],
+  "book": "realms-of-power-the-infernal"
+ },
+ "indep-151": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/GoodCharacteristics",
+  "label": "Good Characteristics",
+  "aliases": [
+   "Good Characteristics"
+  ],
+  "summary": "Virtue for points spent on Characteristics.",
+  "gold_ids": [
+   "realms-of-power-the-infernal::0549"
+  ],
+  "book": "realms-of-power-the-infernal"
+ },
+ "indep-152": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/Belaquin",
+  "label": "Belaquin",
+  "aliases": [
+   "Belaquin"
+  ],
+  "summary": "Covenant in Provence whose grog sold Angela a club of faerie-forest wood.",
+  "gold_ids": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0242"
+  ],
+  "book": "sanctuary-of-ice-the-greater-alps-tribunal"
+ },
+ "indep-153": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/ExceptionalStrength",
+  "label": "Exceptional Strength",
+  "aliases": [
+   "Exceptional Strength"
+  ],
+  "summary": "Virtue named in the text, associated with Larta chefs, smiths, minstrels or muses.",
+  "gold_ids": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0253",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0254"
+  ],
+  "book": "sanctuary-of-ice-the-greater-alps-tribunal"
+ },
+ "indep-154": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/SpeakRomansch",
+  "label": "Speak Romansch",
+  "aliases": [
+   "Speak Romansch"
+  ],
+  "summary": "Ability listed in the Alpine redcap template or Hera's statistics.",
+  "gold_ids": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0115",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0116",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0217"
+  ],
+  "book": "sanctuary-of-ice-the-greater-alps-tribunal"
+ },
+ "indep-155": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/Antares",
+  "label": "Antares",
+  "aliases": [
+   "Antares"
+  ],
+  "summary": "Rumored supreme war leader appointed by the Council of Archmagi, named for a great ruby badge of office.",
+  "gold_ids": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0153",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0154",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ],
+  "book": "sanctuary-of-ice-the-greater-alps-tribunal"
+ },
+ "indep-156": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/CubicFluorite",
+  "label": "Cubic Fluorite",
+  "aliases": [
+   "Cubic Fluorite"
+  ],
+  "summary": "Cubic Fluorite listed in the Tribunal index among minerals and substances.",
+  "gold_ids": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0162",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ],
+  "book": "sanctuary-of-ice-the-greater-alps-tribunal"
+ },
+ "indep-157": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/LucentFaeries",
+  "label": "Lucent Faeries",
+  "aliases": [
+   "Lucent Faeries"
+  ],
+  "summary": "Moon faeries of great interest to Alpine magi.",
+  "gold_ids": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0332",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0333"
+  ],
+  "book": "sanctuary-of-ice-the-greater-alps-tribunal"
+ },
+ "indep-158": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/Rauhnachte",
+  "label": "Rauhnachte",
+  "aliases": [
+   "Rauhnachte"
+  ],
+  "summary": "Austrian festival in late October when some animals gain speech and powers; celebrated by familiars.",
+  "gold_ids": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0079",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ],
+  "book": "sanctuary-of-ice-the-greater-alps-tribunal"
+ },
+ "indep-159": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/Vervay",
+  "label": "Vervay",
+  "aliases": [
+   "Vervay"
+  ],
+  "summary": "Center of the Abbaye des Vignerons.",
+  "gold_ids": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0318",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0369"
+  ],
+  "book": "sanctuary-of-ice-the-greater-alps-tribunal"
+ },
+ "indep-160": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/OrganizationLoreKnightsTemplar",
+  "label": "Organization Lore: Knights Templar",
+  "aliases": [
+   "Organization Lore: Knights Templar"
+  ],
+  "summary": "Knowledge of Templar rule, members, provinces, sign language and ciphers.",
+  "gold_ids": [
+   "the-church::0013",
+   "the-church::0588",
+   "the-church::0589",
+   "the-church::0592",
+   "the-church::0593"
+  ],
+  "book": "the-church"
+ },
+ "indep-161": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/NewTemple",
+  "label": "New Temple",
+  "aliases": [
+   "New Temple"
+  ],
+  "summary": "Templar chapterhouse in London on the Thames, seat of the English Master.",
+  "gold_ids": [
+   "the-church::0488",
+   "the-church::0560"
+  ],
+  "book": "the-church"
+ },
+ "indep-162": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/PuissantChurchLore",
+  "label": "Puissant Church Lore",
+  "aliases": [
+   "Puissant Church Lore"
+  ],
+  "summary": "Virtue listed in this text.",
+  "gold_ids": [
+   "the-church::0463"
+  ],
+  "book": "the-church"
+ },
+ "indep-163": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/Patarus",
+  "label": "Patarus",
+  "aliases": [
+   "Patarus",
+   "The Demon Patarus"
+  ],
+  "summary": "Demon of the Order of Accusers serving BaalBaruth, who appears as a thin horned monk in Cluniac garb and uses powers like Whispers Behind the Back.",
+  "gold_ids": [
+   "the-church::0019",
+   "the-church::0436",
+   "the-church::0437",
+   "the-church::0438",
+   "the-church::0439"
+  ],
+  "book": "the-church"
+ },
+ "indep-164": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/ACommentaryOnIsaiahAndJeremiah",
+  "label": "A Commentary on Isaiah and Jeremiah",
+  "aliases": [
+   "A Commentary on Isaiah and Jeremiah"
+  ],
+  "summary": "Tino's corrupt Theology tractatus.",
+  "gold_ids": [
+   "the-church::0462"
+  ],
+  "book": "the-church"
+ },
+ "indep-165": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/Acolyte",
+  "label": "Acolyte",
+  "aliases": [
+   "Acolyte"
+  ],
+  "summary": "Greatest of the minor orders, symbolized by an extinguished candlestick and empty vessel; often parish clerks, scribes, or messengers.",
+  "gold_ids": [
+   "the-church::0007",
+   "the-church::0141"
+  ],
+  "book": "the-church"
+ },
+ "indep-166": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/TheGreatDiscord",
+  "label": "The Great Discord",
+  "aliases": [
+   "The Great Discord"
+  ],
+  "summary": "CrVi 55 Ritual that taints a parish so everyone suffers The Gift's social penalties for a Moon.",
+  "gold_ids": [
+   "the-church::0193"
+  ],
+  "book": "the-church"
+ },
+ "indep-167": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/JohnOfCapella",
+  "label": "John of Capella",
+  "aliases": [
+   "John of Capella"
+  ],
+  "summary": "Early follower of Francis who, while Francis was away, gathered lepers and began to develop a new religious order for them.",
+  "gold_ids": [
+   "the-church::0610",
+   "the-church::0611",
+   "the-church::0652"
+  ],
+  "book": "the-church"
+ },
+ "indep-168": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/BritannianTribunal",
+  "label": "Britannian Tribunal",
+  "aliases": [
+   "Britannian Tribunal"
+  ],
+  "summary": "Original Tribunal that initially included Brittany; later divided into the Stonehenge, Loch Leglean, and Hibernian Tribunals.",
+  "gold_ids": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0057",
+   "the-lion-and-the-lily-the-normandy-tribunal::0110"
+  ],
+  "book": "the-lion-and-the-lily-the-normandy-tribunal"
+ },
+ "indep-169": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/FoolSCapBell",
+  "label": "Fool's Cap Bell",
+  "aliases": [
+   "Fool's Cap Bell"
+  ],
+  "summary": "Proctor's talisman, a brass bell enchanted against Infernal influence.",
+  "gold_ids": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0705",
+   "the-lion-and-the-lily-the-normandy-tribunal::0706"
+  ],
+  "book": "the-lion-and-the-lily-the-normandy-tribunal"
+ },
+ "indep-170": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/NormandyLore",
+  "label": "Normandy Lore",
+  "aliases": [
+   "Normandy Lore"
+  ],
+  "summary": "Ability appearing in character or creature statistics in this text.",
+  "gold_ids": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0214",
+   "the-lion-and-the-lily-the-normandy-tribunal::0287"
+  ],
+  "book": "the-lion-and-the-lily-the-normandy-tribunal"
+ },
+ "indep-171": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/CentralMassif",
+  "label": "Central Massif",
+  "aliases": [
+   "Central Massif"
+  ],
+  "summary": "Volcanic highland in eastern Aquitaine.",
+  "gold_ids": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0314"
+  ],
+  "book": "the-lion-and-the-lily-the-normandy-tribunal"
+ },
+ "indep-172": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/Korrigan",
+  "label": "Korrigan",
+  "aliases": [
+   "Korred",
+   "Korrigan"
+  ],
+  "summary": "Breton faeries: hunchbacked manikins with cat's claws and goat's hooves who dance and may take the form of a beautiful woman; dangerous in Brocéliande.",
+  "gold_ids": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0172",
+   "the-lion-and-the-lily-the-normandy-tribunal::0234"
+  ],
+  "book": "the-lion-and-the-lily-the-normandy-tribunal"
+ },
+ "indep-173": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/AuraOfEnobledPresence",
+  "label": "Aura of Enobled Presence",
+  "aliases": [
+   "Aura of Enobled Presence"
+  ],
+  "summary": "Effect wrongly believed bestowed permanently by the Holy Oil.",
+  "gold_ids": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0024"
+  ],
+  "book": "the-lion-and-the-lily-the-normandy-tribunal"
+ },
+ "indep-174": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/PuissantBows",
+  "label": "Puissant Bows",
+  "aliases": [
+   "Puissant Bows"
+  ],
+  "summary": "Virtue boosting the Bows ability; held by Baudouin.",
+  "gold_ids": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0387"
+  ],
+  "book": "the-lion-and-the-lily-the-normandy-tribunal"
+ },
+ "indep-175": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/BloodHaze",
+  "label": "Blood Haze",
+  "aliases": [
+   "Blood Haze"
+  ],
+  "summary": "Minor Hermetic Flaw: the maga is crazed by bloodshed, penalizing Formulaic magic and Concentration in combat.",
+  "gold_ids": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0613"
+  ],
+  "book": "the-lion-and-the-lily-the-normandy-tribunal"
+ },
+ "indep-176": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/Mathematikoi",
+  "label": "Mathematikoi",
+  "aliases": [
+   "Inner Order",
+   "Mathematikoi"
+  ],
+  "summary": "The Inner Order of the Fraternity of Samos, robed in black or white, who abstain from meat and beans and must teach new Initiates.",
+  "gold_ids": [
+   "the-mysteries-revised::0594",
+   "the-mysteries-revised::0597",
+   "the-mysteries-revised::0601",
+   "the-mysteries-revised::0602"
+  ],
+  "book": "the-mysteries-revised"
+ },
+ "indep-177": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/Haruspicy",
+  "label": "Haruspicy",
+  "aliases": [
+   "Haruspicy"
+  ],
+  "summary": "Divinatory method using entrails of sacrificed animals, listed among Ceremonial Augury Phenomena.",
+  "gold_ids": [
+   "the-mysteries-revised::0279"
+  ],
+  "book": "the-mysteries-revised"
+ },
+ "indep-178": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/GreenStoneLore",
+  "label": "Green Stone Lore",
+  "aliases": [
+   "Green Stone Lore"
+  ],
+  "summary": "The cult Lore of the Knights of the Green Stone.",
+  "gold_ids": [
+   "the-mysteries-revised::0619"
+  ],
+  "book": "the-mysteries-revised"
+ },
+ "indep-179": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/Caduceus",
+  "label": "Caduceus",
+  "aliases": [
+   "Caduceus"
+  ],
+  "summary": "Symbol of Mercury/Hermes: a winged staff with entwined serpents.",
+  "gold_ids": [
+   "the-mysteries-revised::0534"
+  ],
+  "book": "the-mysteries-revised"
+ },
+ "indep-180": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/GallowsWood",
+  "label": "Gallows Wood",
+  "aliases": [
+   "Gallows Wood"
+  ],
+  "summary": "Wood where Svetlana harvested vis.",
+  "gold_ids": [
+   "the-mysteries-revised::0023"
+  ],
+  "book": "the-mysteries-revised"
+ },
+ "indep-181": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/BindingTheImmortalMemory",
+  "label": "Binding the Immortal Memory",
+  "aliases": [
+   "Binding the Immortal Memory"
+  ],
+  "summary": "CrMe Mystery enchantment that binds studied experience into an immortal's talisman at level 10 x XP.",
+  "gold_ids": [
+   "the-mysteries-revised::0634"
+  ],
+  "book": "the-mysteries-revised"
+ },
+ "indep-182": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/LanguedocTribunal",
+  "label": "Languedoc Tribunal",
+  "aliases": [
+   "Languedoc Tribunal"
+  ],
+  "summary": "Tribunal where Mathematikoi robes resemble Cathar perfecti.",
+  "gold_ids": [
+   "the-mysteries-revised::0601"
+  ],
+  "book": "the-mysteries-revised"
+ },
+ "indep-183": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/Demiurge",
+  "label": "Demiurge",
+  "aliases": [
+   "Demiurge"
+  ],
+  "summary": "God's intermediary per theurgists, seen variously as good or as an evil spirit creating Divine and Infernal auras.",
+  "gold_ids": [
+   "the-mysteries-revised::0354",
+   "the-mysteries-revised::0355"
+  ],
+  "book": "the-mysteries-revised"
+ },
+ "indep-184": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/MavensOfEtiquetteInTheCourtOfThePurpleBower",
+  "label": "Mavens of Etiquette in the Court of the Purple Bower",
+  "aliases": [
+   "Mavens of Etiquette in the Court of the Purple Bower",
+   "Mavens of the Purple Bower"
+  ],
+  "summary": "Chaste sexual demons (Tempters, Infernal Might 5) serving Neqael, who teach courtiers a distorted moral code and seduction techniques.",
+  "gold_ids": [
+   "transforming-mythic-europe::0011",
+   "transforming-mythic-europe::0363",
+   "transforming-mythic-europe::0364"
+  ],
+  "book": "transforming-mythic-europe"
+ },
+ "indep-185": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/CovenantOnTheIsleOfArran",
+  "label": "Covenant on the Isle of Arran",
+  "aliases": [
+   "Covenant on the Isle of Arran"
+  ],
+  "summary": "Covenant of Criamon magi studying regiones who can show the path to Manannan's realm.",
+  "gold_ids": [
+   "transforming-mythic-europe::0280"
+  ],
+  "book": "transforming-mythic-europe"
+ },
+ "indep-186": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/Hind",
+  "label": "Hind",
+  "aliases": [
+   "Hind"
+  ],
+  "summary": "Semi-mythical source of diamonds and spices.",
+  "gold_ids": [
+   "transforming-mythic-europe::0501",
+   "transforming-mythic-europe::0502",
+   "transforming-mythic-europe::0519"
+  ],
+  "book": "transforming-mythic-europe"
+ },
+ "indep-187": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/PerfumeSorcerersOfSoqotra",
+  "label": "Perfume-sorcerers of Soqotra",
+  "aliases": [
+   "Perfume-sorcerers of Soqotra"
+  ],
+  "summary": "Sorcerers sent by spirits guarding incense trees.",
+  "gold_ids": [
+   "transforming-mythic-europe::0515"
+  ],
+  "book": "transforming-mythic-europe"
+ },
+ "indep-188": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/Frangarach",
+  "label": "Frangarach",
+  "aliases": [
+   "Answerer",
+   "Fatal Sword",
+   "Frangarach"
+  ],
+  "summary": "Manannan's sword, the Answerer, which always kills his opponent.",
+  "gold_ids": [
+   "transforming-mythic-europe::0281",
+   "transforming-mythic-europe::0282",
+   "transforming-mythic-europe::0288",
+   "transforming-mythic-europe::0289"
+  ],
+  "book": "transforming-mythic-europe"
+ },
+ "indep-189": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/WaysOfTheWaters",
+  "label": "Ways of the Waters",
+  "aliases": [
+   "Ways of the Waters"
+  ],
+  "summary": "Virtue granting bonuses in water, usual extra Major Virtue for telechine blood.",
+  "gold_ids": [
+   "transforming-mythic-europe::0267",
+   "transforming-mythic-europe::0269",
+   "transforming-mythic-europe::0320",
+   "transforming-mythic-europe::0321"
+  ],
+  "book": "transforming-mythic-europe"
+ },
+ "indep-190": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/WardingCircle",
+  "label": "Warding Circle",
+  "aliases": [
+   "Warding Circle"
+  ],
+  "summary": "Circle into which a summoned spirit is called.",
+  "gold_ids": [
+   "transforming-mythic-europe::0176"
+  ],
+  "book": "transforming-mythic-europe"
+ },
+ "indep-191": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/CraftBookbinding",
+  "label": "Craft: Bookbinding",
+  "aliases": [
+   "Craft: Bookbinding"
+  ],
+  "summary": "Ability listed in the text (e.g. in character statistics or rolls).",
+  "gold_ids": [
+   "transforming-mythic-europe::0131"
+  ],
+  "book": "transforming-mythic-europe"
+ },
+ "indep-192": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/SummonTheHauntingSpirit",
+  "label": "Summon the Haunting Spirit",
+  "aliases": [
+   "Summon the Haunting Spirit"
+  ],
+  "summary": "Hermetic spell (ReMe 25) in a Roman Tribunal magus vocation template.",
+  "gold_ids": [
+   "tribunals-of-hermes-rome::0394"
+  ],
+  "book": "tribunals-of-hermes-rome"
+ },
+ "indep-193": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/Bellaquin",
+  "label": "Bellaquin",
+  "aliases": [
+   "Bellaquin"
+  ],
+  "summary": "Provençal covenant that followed Literatus' example of joining mundane and magic.",
+  "gold_ids": [
+   "tribunals-of-hermes-rome::0113"
+  ],
+  "book": "tribunals-of-hermes-rome"
+ },
+ "indep-194": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/GreaterLeadership",
+  "label": "Greater Leadership",
+  "aliases": [
+   "Greater Leadership"
+  ],
+  "summary": "Major leadership virtue.",
+  "gold_ids": [
+   "tribunals-of-hermes-rome::0206",
+   "tribunals-of-hermes-rome::0207",
+   "tribunals-of-hermes-rome::0234",
+   "tribunals-of-hermes-rome::0254",
+   "tribunals-of-hermes-rome::0298"
+  ],
+  "book": "tribunals-of-hermes-rome"
+ },
+ "indep-195": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/MinorMagicDeficiency",
+  "label": "Minor Magic Deficiency",
+  "aliases": [
+   "Minor Magic Deficiency"
+  ],
+  "summary": "Flaw appearing in a Roman Tribunal vocation template.",
+  "gold_ids": [
+   "tribunals-of-hermes-rome::0388",
+   "tribunals-of-hermes-rome::0390"
+  ],
+  "book": "tribunals-of-hermes-rome"
+ },
+ "indep-196": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/Deriten",
+  "label": "Deriten",
+  "aliases": [
+   "Deriten"
+  ],
+  "summary": "Demon who made a pact with Frederick Barbarossa and sought to claim Peris' lands.",
+  "gold_ids": [
+   "tribunals-of-hermes-rome::0067",
+   "tribunals-of-hermes-rome::0069",
+   "tribunals-of-hermes-rome::0072",
+   "tribunals-of-hermes-rome::0073"
+  ],
+  "book": "tribunals-of-hermes-rome"
+ },
+ "indep-197": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/VenetianSpy",
+  "label": "Venetian Spy",
+  "aliases": [
+   "Venetian Spy"
+  ],
+  "summary": "Companion vocation: a Venetian spy selling secrets to the highest bidder.",
+  "gold_ids": [
+   "tribunals-of-hermes-rome::0164"
+  ],
+  "book": "tribunals-of-hermes-rome"
+ },
+ "indep-198": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/RobertGuiscard",
+  "label": "Robert Guiscard",
+  "aliases": [
+   "Robert Guiscard"
+  ],
+  "summary": "Norman mercenary who conquered southern Italy with magic items bought from Roman Magi.",
+  "gold_ids": [
+   "tribunals-of-hermes-rome::0060",
+   "tribunals-of-hermes-rome::0061",
+   "tribunals-of-hermes-rome::0094",
+   "tribunals-of-hermes-rome::0114",
+   "tribunals-of-hermes-rome::0115"
+  ],
+  "book": "tribunals-of-hermes-rome"
+ },
+ "indep-199": {
+  "iri": "https://www.fantasymaps.org/amol-ontorag/id/SicilianVespers",
+  "label": "Sicilian Vespers",
+  "aliases": [
+   "Sicilian Vespers"
+  ],
+  "summary": "1282 Palermo revolt against French rule aided by Mistridge Magi.",
+  "gold_ids": [
+   "tribunals-of-hermes-rome::0090",
+   "tribunals-of-hermes-rome::0095"
+  ],
+  "book": "tribunals-of-hermes-rome"
+ }
+}

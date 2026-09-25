@@ -17,7 +17,7 @@ by its GitHub `<org>/<repo>` (or a local path).
    `GITHUB_TOKEN` authenticates private repos.
 3. It reads `manifest.json` and loads the ontology entities, chunks, and vectors
    from that virtual disk into memory.
-4. Retrieval runs in one of two modes (`ONTORAG_RETRIEVAL`), both **graph-aware**
+4. Retrieval runs in one of these modes (`ONTORAG_RETRIEVAL`), all **graph-aware**
    (results carry the ontology entities each chunk mentions, and `answer` expands
    via shared entities + injects ontology facts):
 
@@ -37,6 +37,12 @@ by its GitHub `<org>/<repo>` (or a local path).
      quality (entity-bearing queries match in-memory `vector` scores) without
      loading the whole index, so it stays serverless. Needs a query embedder; pays
      one embed call per request.
+   - **`entity`** — **question → entity → chunks**: embeds the query and finds the
+     nearest **entity descriptions** (`embeddings.entity_vectors_glob` in the manifest),
+     then returns those entities' linked chunks, closest passage first. Built for
+     questions that describe a thing without naming it ("which spell makes a lock
+     spring open?"), where `ontology` has no name to match and chunk vectors compare
+     a question with rulebook prose. In memory only; needs a query embedder.
 
 > **Cold load:** the first access to a dataset streams its files through Mirage
 > (~2 min for the ~140 MB amol-ontorag dataset), then everything is in memory and
@@ -56,7 +62,8 @@ by its GitHub `<org>/<repo>` (or a local path).
 
 Retrieval modes: `vector` (dense, needs the dataset's embeddings), `ontology`
 (embedding-free: entity graph + BM25), `hybrid` (entity/lexical candidates re-ranked
-densely) and `auto` (`vector` when the dataset has embeddings, otherwise `ontology`).
+densely), `entity` (nearest entity descriptions, then their chunks; needs
+`embeddings.entity_vectors_glob`) and `auto` (`vector` when the dataset has embeddings, otherwise `ontology`).
 
 `repo` defaults to `ONTORAG_DEFAULT_REPO`, so clients can omit it.
 
@@ -122,7 +129,7 @@ claude mcp add ontorag -- docker run --rm -i \
 |-----|---------|---------|
 | `ONTORAG_DEFAULT_REPO` | – | `<org>/<repo>` (or local path) so tools can omit `repo` |
 | `ONTORAG_REF` | `main` | git ref for GitHub-backed datasets |
-| `ONTORAG_RETRIEVAL` | `vector` | `vector` (dense, in-memory) \| `ontology` (embedding-free entity-graph + BM25) \| `hybrid` (Redis: sparse candidates + dense re-rank) \| `auto` |
+| `ONTORAG_RETRIEVAL` | `vector` | `vector` (dense, in-memory) \| `ontology` (embedding-free entity-graph + BM25) \| `hybrid` (Redis: sparse candidates + dense re-rank) \| `entity` (nearest entity descriptions → their chunks) \| `auto` |
 | `REDIS_URL` | – | if set (with `ontology` or `hybrid` mode), materialize the index into Redis (24 h TTL) and query from there — no per-instance load (serverless) |
 | `ONTORAG_REDIS_TTL` | `86400` | Redis index TTL in seconds |
 | `OLLAMA_URL` | `http://localhost:11434` | embedding server (only used in `vector` mode) |

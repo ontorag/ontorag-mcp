@@ -59,7 +59,7 @@ async def main():
 
     emb = json.load(open(os.path.join(args.dataset, "embeddings/config.json")))
     qvec = {}
-    if any(m in args.modes for m in ("vector", "hybrid")) and emb["provider"] == "ollama":
+    if any(m in args.modes for m in ("vector", "hybrid", "entity")) and emb["provider"] == "ollama":
         print("batch-embedding %d queries via %s ..." % (len(queries), emb["model"]), file=sys.stderr)
         qvec = batch_embed({q["qid"]: q["text"] for q in queries}, emb["model"], args.ollama_url)
 

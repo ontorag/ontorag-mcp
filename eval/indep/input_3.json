@@ -1,0 +1,564 @@
+[
+ {
+  "qid": "indep-003",
+  "entity": "Alchemical Steel",
+  "kind_of_thing": "Magic Item",
+  "aliases": [
+   "Alchemical Steel"
+  ],
+  "book": "art-academe",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Five: Experimental Philosophy",
+     "Alchemical Reagents",
+     "Example Reagents"
+    ],
+    "text": "components. This acid is enough to cover an arm-sized object. If it is poured on a single person, it will inflict +10 damage. This acid will also dissolve stone and base metal, and rot wood in an instant; an object the size of a wand, lock, or small bottle can be affected. The acid will dissolve precious metal in about two minutes. The only substance proof against the acid is glass. (base 5, +2 Substantial) **Alchemical Steel** Reagent Level 20 Alteration: Substantial This metal is a purified form of iron created in the alchemist's laboratory. It can then be forged by any smith capable of working steel. Objects made of this steel are harder and more resilient to damage without affecting its weight. A blade of alchemical steel need not be sharpened so frequently and has a +2 to damage. Metal armor gains a +2 to its Protection. The formula creates enough Reagent to make a dagger; three doses would make a sword, and six doses would make a suit of partial armor. (base 10, +2 Substantial) **Lapis Minor** Reagent Level 20 Alteration: Major This formula creates a reddish stone, waxy in texture, the touch of which purifies a precious metal from its alloy. For example, gold that has been adulterated with brass separates into pure gold, pure copper, and pure tin. Only a small object can be altered; no larger than a dagger. This is called the \"Lesser Stone;\" alchemists have long sought the Greater"
+   }
+  ]
+ },
+ {
+  "qid": "indep-011",
+  "entity": "Faerie Tarantula",
+  "kind_of_thing": "Creature",
+  "aliases": [
+   "Faerie Tarantula"
+  ],
+  "book": "city-guild",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter One: Towns & Cities",
+     "Disease",
+     "Tarantism"
+    ],
+    "text": "Tarantism is an excess of yellow bile, caused by the bite of a faerie tarantula. The disease triggers an irresistible urge to dance — to the point of exhaustion — along with thirst, unusual sexual urges, and pain around the bite mark. Tarantism is at its worst during summer, although it may take years to manifest, and the disease predominately afflicts young women. A character bitten by a faerie tarantula is afflicted with tarantism unless a Stamina roll is made against an Ease Factor of 9. Once per season a Stamina Roll against an Ease Factor of 3 (or 6 in summer) must be made for each afflicted character. If this is failed she may do nothing for the entire season except dance every day until exhausted. Tarantism is not fatal, but the character requires care during her bouts of frenzied dancing; at a minimum she must be fed by others. Hearing a particular tune, the tarentella, cures the listener, and often an epidemic of tarantism is followed by the arrival in town of faerie minstrels who offer to cure the disease — for a price. >#### Black Death >Black Death, or the plague, does not exist in Mythic Europe. If your saga follows history, then Black Death arises in 1347 in Constantinople. It is a demon that appears as the shrouded reaper, although it is invisible to the mundane senses. Black Death is summoned by an Infernal ritual, and members of the Hermetic Order might"
+   }
+  ]
+ },
+ {
+  "qid": "indep-019",
+  "entity": "The (Over) Familiar Cat",
+  "kind_of_thing": "Creature",
+  "aliases": [
+   "Familiar Cat",
+   "The (Over) Familiar Cat"
+  ],
+  "book": "covenants",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Four: Covenfolk",
+     "Fantastical Covenfolk",
+     "The (Over) Familiar Cat"
+    ],
+    "text": "The cat can see in near, but not absolute, darkness. *Invisible Movement*, 1 point, Init +10, Imaginem: The cat can move from place to place without being seen, even if people thought it was in plain sight. **Bond Effects:** *Speech*: MuAn 20, Touch, Concentration, Individual. Gives an animal the unnatural ability to form human speech. *Mental Communication*: CrMe 15, Touch, Momentary, Individual, unlimited use Allows complex thoughts to be shared. *Shared Senses (Sight)*: InMe 30, Touch, Concentration, Individual, bond maintains concentration. The magus can share the cat's sight. *Shared Senses (Sight)*: InMe 30, Touch, Concentration, Individual, bond maintains concentration; the cat can share the magus' sight. **Equipment**: None **Encumbrance:** 0 (0) **Vis:** 2 Imaginem, in eyes **Customization Notes:** The Familiar Cat's species Virtues and Flaws are Perfect Balance, Puissant Awareness, Sharp Ears, and Nocturnal. Since being awakened Intelligence has replaced Cunning, and her Presence and Communication have improved since she gained the power of speech. She has gained 4 years experience since joining her master as a young (1 year old) cat. Changing this familiar's type is straightforward using *The Book of Mundane Beasts*. Bond effects are the choice of the magus; these are but a sample of a familiar that grogs may encounter. (Bond scores are not included here.)"
+   }
+  ]
+ },
+ {
+  "qid": "indep-027",
+  "entity": "Phantasmal Fire",
+  "kind_of_thing": "Named Spell",
+  "aliases": [
+   "Phantasmal Fire"
+  ],
+  "book": "definitive-edition-core-rules",
+  "passages": [
+   {
+    "heading_path": [
+     "Reference Guide",
+     "Spells Index"
+    ],
+    "text": "353 | | Palm Of Flame | CrIg | 5 | 343 | | Panic Of The Elephant's Mouse | ReAn | 15 | 319 | | Panic Of The Trembling Heart | CrMe | 15 | 353 | | Parching Wind | PeAq | 20 | 323 | | Parting The Waves | ReAq | 30 | 324 | | Pass The Unyielding Portal | MuHe | 5 | 340 | | Passion's Lost Feeling | PeMe | 25 | 356 | | Past Of Another | MuMe | 35 | 355 | | Peering Into The Mortal Mind | InMe | 30 | 354 | | Perception Of The Conflicting Motives | InMe | 15 | 354 | | Phantasm Of The Human Form | CrIm | 25 | 348 | | Phantasm Of The Talking Head | CrIm | 10 | 348 | | Phantasmal Animal | CrIm | 20 | 348 | | Phantasmal Fire | CrIm | 20 | 348 | | Phantom Gift, The | CrVi | 15 | 365 | | Physician's Eye | InCo | 5 | 333 | | Piercing Shaft Of Wood | MuHe | 10 | 341 | | Piercing The Faerie Veil | InVi | 20 | 367 | | Pilum Of Fire | CrIg | 20 | 344 | | Pit Of The Gaping Earth | PeTe | 15 | 361 | | Plant's Withering Bane | PeHe | 20 | 341 |"
+   }
+  ]
+ },
+ {
+  "qid": "indep-035",
+  "entity": "Durenmar Lore",
+  "kind_of_thing": "Hermetic Ability",
+  "aliases": [
+   "Durenmar Lore"
+  ],
+  "book": "guardians-of-the-forests-the-rhine-tribunal",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Three Tribunal History \\& Customs",
+     "Upon Being a Rhine Magus",
+     "MINOR HERMETIC VIRTUE"
+    ],
+    "text": "**(Gild) Trained**: You have been trained for a number of seasons at the covenant of Durenmar during the end of your apprenticeship in the Rhine Tribunal. In addition to a season of training by a magus of House Bonisagus, you have also been inducted into one of the Rhine's political gilds, receiving two or more seasons of training by one of its masters. You gain an additional 30 experience points, which may be spent on Order of Hermes Lore, Intrigue, and Durenmar Lore (or, rarely, the Lore of another covenant where you were trained by your gild). You gain a further 60 experience points that may be spent on any General or Arcane Abilities, Arts, and spells (one point per level) that are appropriate to your gild. For example, the Ash Gild Trained Virtue can confer Hunt, Penetration, and battle magics, whereas Elder Gild Trained might grant Etiquette, Faerie Lore, and faerie spells. This extra training may negate the effect of the Weak Parens Flaw, in which case the Virtue and Flaw cancel out and both can be dropped. With the approval of the storyguide, it may be combined with the Skilled Parens Virtue. This Virtue is not compulsory for Rhine magi — not all magi apprenticed here opt to receive this training and join a gild immediately, although many do. A magus who joins a gild post-apprenticeship usually still receives gild training, but in this case the Virtue should not be taken — instead the"
+   },
+   {
+    "heading_path": [
+     "Chapter Six: The Black Forest",
+     "Durenmar",
+     "Culture and Traditions",
+     "THE CONTENTS OF THE GREAT LIBRARY"
+    ],
+    "text": "This is an outline of the contents of the Great Library. The storyguide should feel free to adjust these numbers and determine levels and Qualities as best fits the saga. Bear in mind that it is the greatest library known to the Order of Hermes, and will contain many near-legendary texts. A magus' familiarity with its contents is reflected by his Durenmar Lore Ability. Around the walls of the visitable floors of the tower are arrayed a series of sturdy oak tables, stacked high with books and scrolls, as well as large desks at which magi study. Many of the tomes are copies of originals penned by magi of renown centuries ago. **The First Floor:** Upon entering the tower, one reaches the scriptorium, where books are scribed, bound, and copied. At one end is also an eclectic and disparate collection of mostly ancient mundane books, assembled from a variety of faraway places. Endless stacks of lab notes (describing the obscure, forgotten, and incomplete research projects of long-dead magi — Lab Texts for completed projects are found on the second floor) sit here gathering dust, along with the voluminous complete records of gatherings of the Rhine Tribunal and Grand Tribunals since the Order's founding. A magus may spend a season in an effort to discover a set of lab notes relevant to a particular project or research interest. The success should be determined by an Intelligence + Magic Theory roll against an appropriate Ease Factor. If a"
+   }
+  ]
+ },
+ {
+  "qid": "indep-043",
+  "entity": "King's Bench",
+  "kind_of_thing": "Faction",
+  "aliases": [
+   "King's Bench",
+   "court of the King's Bench"
+  ],
+  "book": "heirs-to-merlin-stonehenge-tribunal",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter 8: Law and Governance",
+     "Common Law",
+     "Courts"
+    ],
+    "text": "There are many courts in England, ranging from the humble manor court to the court coram rege (in the presence of the king). None of them have particularly fixed procedures, although the broad outlines, as described in this chapter, are prescribed by custom. No courts are officially in constant session, although the court of the King's Bench does sit most of the time. The others have specified intervals at which they meet, and criminals are imprisoned until they can be brought to trial. The hundred court, which is very local, might meet every week, while the county court meets roughly once a month (the precise interval varies from one county to another). People are reluctant to have the courts meet more often, as many people owe suit of court, which means that they are required to be present when the court is meeting. Since this can mean a long journey to the county seat, fewer meetings are better. The king's justices often travel round the country on an eyre, when they investigate all pending cases of the king's pleas. One such general eyre is currently in progress, and has been since 1218, as civil war tends to produce many cases. The justices in eyre summon courts when they arrive in a county, generally in the county town, and leave when they have heard all the cases. Eyres come in several kinds. General eyres deal with all offenses, and are the most common type. Special eyres are"
+   },
+   {
+    "heading_path": [
+     "Chapter 8: Law and Governance",
+     "Common Law",
+     "Courts"
+    ],
+    "text": "a county, generally in the county town, and leave when they have heard all the cases. Eyres come in several kinds. General eyres deal with all offenses, and are the most common type. Special eyres are given particular terms of reference, such as investigating the behavior of local officials. A particularly important kind of special eyre is the eyre of gaol (jail) delivery, which simply goes around the country trying everyone held in prison, so that they can be either hanged or released. The court of the King's Bench sits at Westminster, and is one of the highest courts of appeal. Important civil cases and cases of treason are often tried there, and cases may be taken there between eyres if a royal decision is required. Indeed, one of the provisions of Magna Carta is that it must sit in one place, rather than following the king around the country, so that people can find it easily. This court also issues the writs which begin civil actions in the county courts. For a writ \"of course\" (see page 103) it is only necessary to talk to one of the junior clerks — they are issued automatically. The senior professional justice at this court is Martin of Pattishall. The highest court of the land is the court coram rege, where the king himself sits in judgment. This sits wherever the king is, whenever he wants, and the only way to get its decisions changed is to convince"
+   }
+  ]
+ },
+ {
+  "qid": "indep-051",
+  "entity": "Brittle Bones",
+  "kind_of_thing": "Flaw",
+  "aliases": [
+   "Brittle Bones"
+  ],
+  "book": "houses-of-hermes-mystery-cults",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Four: House Verditius",
+     "Verditius Elder Runes",
+     "Bind Curse (Major House Mystery)",
+     "Major curses"
+    ],
+    "text": "**Aging:** The victim must make an immediate Aging roll, followed by an additional Aging roll for every season that the Curse lasts. (Perdo Corpus \\[Vim\\] effect) **Leprosy:** A severe case of advanced leprosy overcomes the victim, whose nose, fingers, and toes immediately blacken and start to fall off. Roll a simple die for the number of fingers and toes that fall off, one per month. Aging rolls are penalized by –6. (Perdo Corpus effect) **Burning Flesh:** The victim's flesh begins to itch as angry red splotches grow over her entire body. Any activity besides scratching requires a Stamina + Concentration + a stress die roll against an Ease Factor of 9 to perform. Botching this roll means that the victim has scratched herself hard enough to cause a Light Wound. (Rego Corpus effect) **Brittle Bones:** The victim's bones become as fragile as a bird's. Whenever the person falls down, lifts something heavy, or does any strenuous activity that might threaten a limb, he must make a Stamina + simple die roll of against an Ease Factor of 9 or break a bone. A broken bone is treated as a Heavy Wound and heals normally. (Rego Corpus effect) **Demon's Visage:** The victim's head transforms into the shape of a demon's, appearing like a lion, dog, or boar head. The victim does not gain any combat advantages from this change. Peasants are likely to run away from such a person. Communication and social rolls are penalized by –6,"
+   }
+  ]
+ },
+ {
+  "qid": "indep-059",
+  "entity": "House of Flambeau",
+  "kind_of_thing": "Hermetic House",
+  "aliases": [
+   "House of Flambeau"
+  ],
+  "book": "houses-of-hermes-societates",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter One: House Flambeau",
+     "House Flambeau in 1220",
+     "Societas Flambonis: The Milites"
+    ],
+    "text": "under Schools of Magical Combat, later in this chapter), disdaining ranged spellcasting as ignoble. > ## The Code of Garus > > The concept of chivalry has evolved throughout the history of Mythic Europe: knighthood in 1220 is not the same as it was in the days of Charlemagne. Mundanes in different lands have different ideas about what the ideal knight is like. So, too, have ideas of chivalry differed across House Flambeau. One of the achievements of the Primus Garus has been to bring the milites to a consensus on the code of conduct they should uphold. His code is loosely based on that put forth by Charlemagne for his knights. Already, magi are calling it the Code of Garus. It reads: > > *As a magus in the Order of Hermes, of the honorable House of Flambeau, I now solemnly swear:* > > *To serve the Order with constancy and faithfulness, even unto my own death;* > > *To uphold and defend the Code of Hermes by word and by deed;* > > *To obey the Primus of my House; > >To protect the weak and defend the innocent;* > > *To always speak the truth and remain faithful to my pledged word;* > > *To persevere in every task I shall undertake despite all hardship and opposition;* > > *To display at all times courtesy and decorum, and uphold the good name of my House;* > > *To respect the Holy Church;* >"
+   }
+  ]
+ },
+ {
+  "qid": "indep-067",
+  "entity": "Pluto",
+  "kind_of_thing": "Character",
+  "aliases": [
+   "Pluto"
+  ],
+  "book": "houses-of-hermes-true-lineages",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Three: House Mercere",
+     "Virtues and Flaws",
+     "Butterfly and Two - Pronged Fork"
+    ],
+    "text": "These two, ancestral symbols are sometimes seen on items significant to the House. The Aita priesthood from which the House descends had the butterfly as its mark. During its period as servants of Pluto, the God of the Underworld and hidden wealth, its symbol was a twopronged pitchfork. Items with these marks are rarely used publicly. Many Romanians believe that moths, particularly the death's head moth, are shapes of the *moro*. *Moro* are a type of vampire created when parents murder their unbaptized children through exposure in the wilderness. Exposure still happens at times, particularly to Gifted children. Members of the House like to adopt these foundlings, as apprentices or servants, since they tend to be loyal to their saviors. The pitchfork motif has one noticeable effect on Tremere magi. Many see two as a balanced, sufficient number. They prefer to work in pairs, train two apprentices, make two copies of letters and so on. This attitude explains why certamen duelists may disallow the first Art that their rival offers, but not the second. Tremere magi call a magus's preferred certamen arts his \"tines\"."
+   },
+   {
+    "heading_path": [
+     "Chapter Three: House Mercere",
+     "History",
+     "Before the Order"
+    ],
+    "text": "House Tremere's ancestors were a tradition of diviners who summoned the ghosts of the recently dead and forced secrets from them. Initially servants of Aita, later Pluto, they became priests of Mercury Psychopompos the Conductor of Souls — when the Cult of Mercury swallowed their tradition during the reign of Augustus. They did not have temples, and met in secret, in the places of the dead. When the catacombs under Rome became the meeting sites of the furtive Christian churches, Tremere's ancestors sensed the welling of the Dominion. They could not agree on a response, and their sect shattered into acrimonious shards. After centuries of surreptitious warfare, the cult consolidated into several rival groups. Trianoma met Guorna the Fetid, the ruler of the remnant group in Naples, in 757. Guorna's tradition had secularized since its desertion by Pluto, then by Hermes. They retained their power over ghosts and dreams, but became increasingly competent in the animation of the dead. Guorna was perhaps the finest necromancer of her age, but the primitive rituals that extended her lifespan had made her pus-filled and cadaverous. She designed a ritual that would move her spirit to a younger body, but her apprentices, Tytalus and Tremere, fled before she had the chance to use it. While Guorna studied with Bonisagus, Tytalus and Tremere brutally slaughtered her followers, looting their subterranean stronghold. Where and how Guorna died is unrecorded, but few doubt her vengeful apprenti"
+   }
+  ]
+ },
+ {
+  "qid": "indep-075",
+  "entity": "Landvaettir bargains",
+  "kind_of_thing": "Hermetic Concept",
+  "aliases": [
+   "Landvaettir bargains"
+  ],
+  "book": "icelandic-wars-land-of-fire-and-ice",
+  "passages": [
+   {
+    "heading_path": [
+     "Vindsvall"
+    ],
+    "text": "his duties. He does not have any patience for idle conversation. **Appearance**: An immense eagle whose wing tips seem to brush either side of the sky. He is the color of a stormy sky, with a beak and talons that appear lightning–bright. The beating of his wings seems to be the sound of thunder itself. If they wish, the magi can teach galdramen Parma fairly quickly. However, they do not have much time to practice it before the initial invasion. Alternatively, many galdramen are able to give themselves good magic resistance by landvaettir bargains. Even so, direct confrontation with experienced Hermetic magi is suicidal. The best advice the magi can give is to hide. If they remain concealed, the Hermetic magi are left chasing shadows. **Story Seed (pro-crusader):** The exact nature of the opposition on Iceland is currently unknown. The crusade would greatly benefit from more information. It is proposed that a number of scouting parties attempt to reach Iceland and investigate the opposition. Magi who make this attempt are confronted by Pan Caudarax and may suffer the same fate as Hadrianus. However, Pan Caudarax is a mercurial creature and if he perceives the magi as weak, he does not kill them immediately. He inquires as to their business on Iceland. From this conversation, the magi may learn that Pan Caudarax denies being a pawn of the Order of Odin and claims that his decision to kill Hadrianus was his alone. He also claims that their"
+   }
+  ]
+ },
+ {
+  "qid": "indep-083",
+  "entity": "John Comyn",
+  "kind_of_thing": "Character",
+  "aliases": [
+   "John Comyn"
+  ],
+  "book": "lion-of-the-north-the-loch-leglean-tribunal",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter 2: Mythic History",
+     "Scotland After 1200",
+     "Opposing the English"
+    ],
+    "text": "With the king out of the way, major strongholds taken, and loyal English lords installed in prominent positions, Edward assumes that it is only a matter of time before England absorbs Scotland, much as it had absorbed Wales only shortly before. However, the pride of the Scots will not allow the English to long rule unopposed. All over the country small rebellions flare up against the foreigners. William Wallace rises to prominence after 1297, when he defeats the Sheriff of Lanark. Wallace soon leads a large army, and the Governor of Scotland, John de Warrenne, Earl of Surry, advances against him. At Stirling, Wallace allows the English to begin a long, slow march across Stirling Bridge—then attacks. The Scots capture, kill, or drive off all the major English lords. The Scots flay Hugh de Cressingham, the Treasurer of Scotland (and a man hated by all), and many take part of his skin as a souvenir. Wallace makes his piece into a belt. Edward, angered by this display of Scottish insolence, marches north at the head of a great army. On the 22nd of July, 1298, the English and Scots clash on the field of Falkirk, but this time the English defeat Wallace's men. Wallace escapes from the slaughter and flees to France, disgraced in Scottish eyes. The country is still rebellious, and two men rise to lead armies. Robert the Bruce, grandson of the Robert Bruce who claimed the throne in 1190, and John Comyn, descended"
+   },
+   {
+    "heading_path": [
+     "Chapter 2: Mythic History",
+     "Scotland After 1200",
+     "Opposing the English"
+    ],
+    "text": "to France, disgraced in Scottish eyes. The country is still rebellious, and two men rise to lead armies. Robert the Bruce, grandson of the Robert Bruce who claimed the throne in 1190, and John Comyn, descended from David II, join to fight the English. However, in 1299 John Comyn attacks Bruce in Selkirk forest, and Bruce barely escapes with his life. As the century ends, the English are in possession of southeast Scotland. Pockets of insurrection and rebellion are flaring up everywhere, but the might of England and the rivalry between Bruce and Comyn make the future look bleak for the struggle to maintain Scottish independence."
+   }
+  ]
+ },
+ {
+  "qid": "indep-091",
+  "entity": "Ricohombre",
+  "kind_of_thing": "Character Type",
+  "aliases": [
+   "Ricohombre"
+  ],
+  "book": "lords-of-men",
+  "passages": [
+   {
+    "heading_path": [
+     "Contents"
+    ],
+    "text": "**Chapter One: Introduction** Noble Characters for Many Styles of Saga **Chapter Two: Politics** The Gratitude System The Projection of Power Retinue Family Designing a Family Inheritance Marriage and Dowries Military Clerical and Menial Criminals Offices Admiral Butler Chancellor Chamberlain Constable Counselor Justiciar Marshal Sheriff / Bailie / Sénéchal Steward Treasurer Offices Found Only Near England Coroner Forest Warden Vassals Why Bother With Vassals? Vassalage Allows Nobles to Express a Common Interest Vassalage Allows for Huge Transactions Vassalage is a Form of Truce Vassalage Limits Genocidal Warfare Money Warriors Scutage Advice Wardship of Heirs Wardship of Widows Affinity Secular Allies Church Allies Affinity Leadership Control Through Emotional Bonds Agents Design of Agents Acquiring Agents Using Agents Maintaining Agents Reputation Noble Reputation Prudhomme Improving Noble Reputation The Advantages of Reputation Reputation is Utterly Vital Public Power for Women Dressing as a Man Holding Land Absence Inheritance Political Success Conquest Widow’s Portion and Stewardship Nuns **Chapter Three: A Comparison of Titles** The French (and English) System Squire (Armiger, Écuyer) Knight (Miles, Chevalier) Bacheler Knight Knight Banneret Baron (Baro, Baron) Earl or Count (Comes, Comte) Viscount (Vice-comes, Viscomte) Count Palatine and Marcher Lord Duke (Dux, Duc) King (Rex, Roi) The German System Herr (Generosus, Lord) Freiherr Ritter (Miles, Knight) Ministeriales "
+   },
+   {
+    "heading_path": [
+     "Contents"
+    ],
+    "text": "Markgraf (Marchio, Margrave) Herzog (Dux, Duke) König (Rex, King) Römischer Kaiser (Romanorum Imperator, Roman Emperor) Iberian Systems Infanzone Caballero Caballero Villano Caballero Hidalgo (or Fidalgo) Ricohombre The Italian Model Byzantine Models **Chapter Four: Interference** Methods of Interference Alternatives to Conspiracy Making Riches Magic Items Involvement Self-Defense Defense of Sodales Defense of the Art How Much Do Nobles Know? Why Don’t Magi Break Mythic European Feudalism? Ignore It The Code Works as Intended Lucky Coincidence A Conspiracy of Realms God Has A Plan Mythic Europe is Made for Sin Faeries Inadvertently Defend the Status Quo Magi Helped Design Feudalism **Chapter Five: Leisure** Pets Outdoor Pursuits Board Games Gambling Good Drink, Song, and Dance The Feast Preparing the Feast The Noble Diet Seating the Guests, and Good Manners Time to Eat The Host The Hunt Varieties of Hunting Hounds Hounds and Aging Hunting with Hounds The Quest The Assembly The Relay The Finding The Chase The Kill The Unmaking and Curee Bow and Stable Hunting Hunting Stories The Prey Horses The Types of Horses The Care of Horses Horses and Aging Hawking Birds and Aging Running an Establishment The Kennels The Mews The Stables Living Conditions and Specialists Romance The Pursuit of Love The Rules of Love Patronage The Tournament Staging a Tournament Patronage Costs Team Sponsors The Tournament Site Lodgings Tournament as Fair Rules of Melee Ransom Companies of Men Tournament C"
+   }
+  ]
+ },
+ {
+  "qid": "indep-099",
+  "entity": "Infernal Hawk",
+  "kind_of_thing": "Creature",
+  "aliases": [
+   "Infernal Hawk"
+  ],
+  "book": "magic-apprentices",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Three: Infantia: Birth to Age 7",
+     "Born with The Gift",
+     "The Gift Revealed"
+    ],
+    "text": "Fetch the Baby > >One of the covenant's magi hears of a child whom she suspects is Gifted, based on reports of spontaneous fires igniting in the child's presence. The village is day's walk distant so she sends a group of grogs, the player characters, on a simple mission: retrieve the newborn. Upon arrival, the baby has incinerated its parent's hut and angered the villagers, who are on the verge of burning the baby and its parents as witches. Even if the grogs can save the family and convince them to bring the baby to the covenant, the return journey is anything but easy. Small fires continue to ignite and draw the irate attention of the valley's faerie folk, who strike back at the travelers. Meanwhile an Infernal hawk follows the party, hoping to snatch the baby away while the grogs are not paying attention. Can the players return from such a \"simple\" mission? >### Story Seed: An Introductory Adventure > >The largest town in the area is having a holiday, and folks from near and far attend. Hundreds of children have come, including the player characters. Each player should have a six or sevenyear-old infant character. One or two players should have Gifted infants, although their Gift has not revealed itself yet. During the festivities, a game of football commences in a nearby field, and the children begin kicking an inflated pig's bladder around. As the game builds in excitement, one of the Gifted children"
+   }
+  ]
+ },
+ {
+  "qid": "indep-107",
+  "entity": "Borrow the Wings of the Eagle",
+  "kind_of_thing": "Named Spell",
+  "aliases": [
+   "Borrow the Wings of the Eagle"
+  ],
+  "book": "magic-hedge-magic-revised",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Four: Gruagachan",
+     "Spell Guidelines",
+     "Shape Spells",
+     "Give Shape"
+    ],
+    "text": "of a bird for flight. While the transformation is in effect, the character suffers a –6 penalty to all rolls involving trust because of her monstrous appearance. > >Level 5: Turn a human into a bird or fish. Level 5: Change an animal into another animal. > >Level 5: Increase a human's Size to no more than +5. > >Level 10: Turn a human into a solid inanimate object. > >Level 10: Turn a human into a plant. > >Level 15: Turn a human into an insubstantial object. **Borrow the Nose of the Hound** GvSh Level 3 R: Per, D: Sun, T: Ind The caster's nose turns into that of a hound. The gruagach gets a bonus of +6 to all Perception rolls associated with smelling. The character receives a -3 modifier to all rolls involving interaction with individuals who aren't frequently exposed to the effects of magic. (Base 1, +2 Sun) **Borrow the Wings of the Eagle** GvSh Level 10 R: Per, D: Sun, T: Ind The caster's arms turns into giant wings. The gruagach is able to fly as quickly as a normal horse gallops. The character receives a -6 modifier to all rolls involving trust. (Base 4, +2 Sun) **Assume the Form of the Ancestors** GvSh Level 15 R: Per, D: Sun, T: Ind For the duration of the spell, the caster grows to giant size. The character's Size increases by +5, but to no more than +5, and for each point of"
+   },
+   {
+    "heading_path": [
+     "Chapter Four: Gruagachan",
+     "Gruagachan in Your Saga",
+     "Gruagachan in Play",
+     "Hermetic Gruagachan"
+    ],
+    "text": ">Warping Score: 0 > >Confidence Score: 1 (3) > >Virtues and Flaws: Gruagach, Peasant; Give, Shapeshifter, Take, Shape, Warrior, Dark Secret, Restriction (cannot use magic while bald); Judged Unfairly, Mentor, No Magical Defenses, Unimaginative Learner, Weak Tattoo Magic > >Personality Traits: Loyal +2, Brave +1 Reputations: Unlucky 3 (local) > >Combat: > >Short Bow: Init -1, Attack +9, Defense +6, Damage +6 > >Claws (in bear form): Init 0, Attack +13, Defense +9, Damage +10 > >Soak: +3 (+10 in bear form) > >Fatigue Levels: OK, 0, -1, Unconscious > >Wound Penalties (normal): -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead (21+) > >Wound Penalties (bear form): -1 (1-7), -3 (8-14), -5 (15-21), Incapacitated (22-28), Dead (29+) > >Abilities: Athletics 1 (climbing), Awareness 3 (highlands), Bows 4 (shooting from cover), Brawl 3 (dodging), Gaelic 5 (defending himself), Gruagach Lore 1 (history), Hunt 5 (deer), Magic Lore 1 (animals), Pictish 2 (traditions), Shapeshifter 4 (bear), Stealth 3 (ambushes), Survival 4 (highlands), Village Lore 2 (game trails) > >Arts: Gv 1, Ta 1, Bl (n/a), Cu (n/a), Sh 10, Vs (n/a) > >Equipment: Partial heavy leather armor, short bow, arrows, and survival kit. > >Encumbrance: 2 (2) > >Spells Known: > >Borrow the Nose of the Hound (GvSh 3/+12) > >Borrow the Eyes of the Cat (GvSh 5/+12) (Voice Range) > >Borrow the Wings of the Eagle (GvSh 10/+12) > >Turn the Man into his Appropriate Form (TaSh 20/+12) > >Appearance: Conall is a medium-built ma"
+   }
+  ]
+ },
+ {
+  "qid": "indep-115",
+  "entity": "Blessing of Mercury",
+  "kind_of_thing": "Named Spell",
+  "aliases": [
+   "Blessing of Mercury"
+  ],
+  "book": "mythic-locations",
+  "passages": [
+   {
+    "heading_path": [
+     "Contents"
+    ],
+    "text": "Mercurian Rituals Reading the Mercurian Rituals Learning the Mercurian Rituals Casting the Mercurian Rituals Hermetic Versions of the Mercurian Rituals Purification The Scrying Pool Raising the Auxiliaries for a Day Penetrate the Regio Skin Blessing of Mercury Transformation of Flesh to Spirit Wizard’s Initiation Consecration of Mercury’s House Commune with Mercury Wizard’s Communion Opponents Story Seed: A Rival Expedition Story Seed: The Dead Amongst Us Story Seed: The Cult Returning to the Temple A Trip to the Toy Market Story Seed: A Tempting Portal Story Seed: The Baron’s Gift Story Seed: Toys that Break the Code Story Seed: Toy Courier Story Seed: To Hell and Beyond **Chapter 9: The Faerie Toy Market on Devil’s Lane** The Streets Devil’s Lane The Alleyways The Alley Wards The Rat Pack The Merchants Market Guild Councilors Buying Toys Commissioning Toys Limited Life-Time The Toys Angel Eyes Potion Bird Bane The Book of Beasts The Dove Hat The Forest Giant The Girdle of Change Green Flame Powder Hat That Grants the Over-Anxious Father Peace of Mind Hen Dust Inverted Water Wheel Love Potion The Magic Money Box Miraculous Beer Mug One Romantic Evening Rain Parasol The Rat Pipe The Siege of Constantinople The Silvery Miraculous Daffodil Wand The Scrying Bowls Wand of Dancing Flowers Wand of Horses The Wooden Knights The Workshops What Can Be Made? The Devil’s Lane Covenant Julia’s Laboratory Bartholomew’s Laboratory Returning to the Devil’s Lane Toymarket **Chapter 10: The T"
+   }
+  ]
+ },
+ {
+  "qid": "indep-123",
+  "entity": "The Forbidden Chamber",
+  "kind_of_thing": "Place",
+  "aliases": [
+   "The Forbidden Chamber"
+  ],
+  "book": "realms-of-power-faerie",
+  "passages": [
+   {
+    "heading_path": [
+     "Table of Contents"
+    ],
+    "text": "Faerie Environment and the Faerie Aura The Mother Road Glamour Lands of Story and Fable Vitality and Fable in Faerie Gaining Fable Points Becoming Faerie Through Fable Creativity in the Faerie Realm Crafting an Offer Offer Modifiers The Promise of Service Changes in Environment Changes in Attitude Changes in Symbolism An Example of Using Creativity Leaving Faerie Warping and the Passage of Time Living in the Story Spinning Tales in the Faerie Realm Audience Participation Player-Driven Stories Player-Influenced Stories Pitfalls in Player-Run Stories Arcadia The Inhabitants of Arcadia The Path of Chance Typical Arcadian Guardians of the Threshold Arcadian Stories Planning Arcadian Stories Elysium The Bible Legends of Ancient Greece and Dead Rome Pagan Legends Romances and Märchen A Thousand and One Nights The Road of Destiny Typical Elysian Guardians of the Threshold Identification as the Hero Elysian Stories Planning Elysian Stories Adding New Scenes Running Elysian Stories The Measure of Success Eudokia The Forking Path Typical Eudokian Guardians of the Threshold Eudokian Stories Planning Eudokian Stories Leaving Eudokia Faerie Boons Story Elements Title Actors The Pied Stranger Grateful Lions The Captive Princess The Task-Setting Ogre The Mouse-Groom The Ferryman The Pale Man Props The Poisoned Apple Mjollnir The Dragon’s Tongue The Swan Cloak The Dull Knife Snake Soup Scenery The Market at the Crossroads Winter The Forbidden Chamber Summer The Glass Mountain The Perilous Fo"
+   },
+   {
+    "heading_path": [
+     "Table of Contents"
+    ],
+    "text": "The Market at the Crossroads Winter The Forbidden Chamber Summer The Glass Mountain The Perilous Forest The Abandoned Shrine **Chapter 3: Faerie Characters** Faerie Character Creation Role and Personality Might and Powers Characteristics and Qualities Personality Traits Abilities and Virtues Equipment and Appearance Faerie Might Faerie Powers Types of Faerie Powers Power Levels Learning Powers Faerie Qualities and Inferiorities Improved Characteristics Increased Faerie Might Personal Powers Lesser Powers Greater Powers Skilled Parens Wealth Reduction Susceptible to Deprivation Poor Characteristics Decreased Faerie Might No Fatigue Incognizant Narrowly Cognizant Reduced Might Traditional Ward Vulnerability Pretenses Long-Winded Poor Liar Poor Memory Poor Sense of Direction Compassionate Fearful Proud Wrathful Envious Greedy Gluttonous Lustful Designing Faerie Characters The Black Dog The White Lady The Green Man **Chapter 4: Faerie Bestiary** Animals Black Dogs Cats Hounds and Huntsmen Horses Owls Ravens Stags Swan Maidens Wolves Humanoids Bacchae and Maenads Dwarfs Elves Giants Hags Nymphs Old Men of the Sea Satyrs and Fauns Trolls Women in White Monsters Basilisks Dragons Ettins Gorgons Grendels Harpies Hydras Kelpies Manticores Unicorns Spirits Fetches Genii Loci Ghosts Nightmares Will-o’-the-Wisps **Chapter 5: Touches of Faerie** Humans and Faerie The Legacy of Faerie Vitality and Humans Faerie Warping Faerie Blood Faerie Upbringing Faerie Friend Faerie Speech Second Sight"
+   }
+  ]
+ },
+ {
+  "qid": "indep-131",
+  "entity": "Locus of the Literatus",
+  "kind_of_thing": "Named Spell",
+  "aliases": [
+   "Locus of the Literatus"
+  ],
+  "book": "realms-of-power-magic",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Three : The Magic Realm",
+     "Magic Realm Magic"
+    ],
+    "text": "Realm, or increase the strength of existing boundaries. These boundaries are magically connected to other boundaries, and characters can travel across them, though it is impossible to predict exactly where in the Magic Realm this path may lead. If the caster has an Arcane Connection to another place in the Realm, he may connect a newly created boundary to it. > >**General:** Create a boundary in a part of the Magic Realm that has no boundary, with a score equal to (the magnitude of the effect – 4), so that a Base Level 25 spell creates a level 1 boundary. The boundary is associated with the Form of this spell, which must use T: Boundary. > >**Level 10:** Increase the score of a Magic Realm boundary associated with the Form of this effect by 1, to no greater than 2. Each additional magnitude increases the maximum score or the amount by which the boundary level is increased. > >**Level 15:** Create a magical vestige, which is tangible to creatures of the associated Form. If the caster has an Arcane Connection to something in the Magic Realm, including another vestige, he may connect it to this vestige. > >#### New Creo Spells > >##### **Locus of the Literatus** >CrIm 20 >R: Touch, D: Mom, T: Ind, Ritual > >With this spell, the caster creates a drawing of his location as a vestige, illuminated on a page inside a book that he carries with him. By casting this"
+   }
+  ]
+ },
+ {
+  "qid": "indep-139",
+  "entity": "Book of Solomon",
+  "kind_of_thing": "Magic Item",
+  "aliases": [
+   "Book of Solomon"
+  ],
+  "book": "realms-of-power-the-divine-revised",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Four: Mythic Christianity",
+     "Characters",
+     "Virtues",
+     "ARS NOTORIA"
+    ],
+    "text": "*Major, Hermetic, Supernatural Ability* By studying one of the copies of the Book of Solomon, you have learned the Notory Art and may recite the different orations possible through those secrets, called the Rings of Solomon. You gain the Supernatural Ability Ars Notoria 1. You must have a score of 4 in Artes Liberales, Latin, Greek, Hebrew, and Chaldean, and if you are taking this Virtue during character creation, you must have The Gift and be a Hermetic magus or have the Social Status of Magister in Artibus, Clerk, or Priest. You receive 50 experience points to help you achieve the language requirements, reflecting various teachers' help you received during your apprenticeship or student days. See Ars Notoria, later in this chapter, for more information about this ancient art."
+   },
+   {
+    "heading_path": [
+     "Chapter Four: Mythic Christianity",
+     "Ars Notoria",
+     "Finding a Text"
+    ],
+    "text": "The Ars Notoria is written in books titled *The Book of Solomon* and *The Keys of Solomon.* While copies exist, they are rare. Copies are suspected to exist in the University of Paris, the Jewish ghetto of Jerusalem, and in the bishop of Armagh's library in Ireland — a bastion of Christianity since the fifth century. no one knows how many total copies of the texts there are. The first step in learning the Notory Art is finding one of the copies. An interested player should ask her storyguide to create an adventure centering around a search for a copy of the text. The suspected locations are a good place to start. The text is difficult to copy and you will have to deal with the current owners to view their copy. None of the owners are interested in relinquishing ownership of this valuable tome, and this conflict would make an excellent story. Less entertainingly, you may devote a single season in search of a copy of Ars Notoria. You may make a Intelligence + Divine Lore + a stress die roll against an Ease Factor of 21. If you succeed you find a copy of the book. If you botch you travel to a distant location and discover a different book, whose subject matter is up to your storyguide. Perhaps it is a lesser religious manuscript that will further a current religious heresy, or maybe an insidious demonic ruse hidden within a seemingly benign manuscript."
+   }
+  ]
+ },
+ {
+  "qid": "indep-147",
+  "entity": "Berith the Ennobler",
+  "kind_of_thing": "Creature",
+  "aliases": [
+   "Berith",
+   "Berith the Ennobler"
+  ],
+  "book": "realms-of-power-the-infernal",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter 3 : The Devil and the Origin of Demons",
+     "Using Demons in Your Saga",
+     "The Role of Demons",
+     "Demons as Corrupters"
+    ],
+    "text": "the Conjurer | 10 | Deluders | — | Deceiver (Chapter 6) | > | Architechus, Demon Builder | 25 | Furies | — | Destroyer (Chapter 7) | > | Ataf the Separator | 20 | Spirits of Deceit | — | Deceiver (Chapter 6) | > | Baal-Peor, Lord of Filth | 30 | False Gods | — | Corrupter (Chapter 5) | > | Bael, Destroyer of Nations | 30 | Furies | — | Destroyer (Chapter 7) | > | Berith the Ennobler | 25 | Spirits of Deceit | — | Deceiver (Chapter 6) | > | Bomburkhan | 5 | Tempters | Ruchin | Corrupter (Chapter 5) | > | Bordelon, Personal Tormentor | 15 | Accusers | — | Deceiver (Chapter 6) | > | Decani (Family) | 30 | Avengers of Evil | — | Corrupter (Chapter 5) | > | Demons of the Fifth Trump (Family) | 20 | Furies | — | Destroyer (Chapter 7) | > | Dibbukim (Family) | 15 | Furies | — | Destroyer (Chapter 7) | > | Druia, a seducer | 5 | Tempters | Incubi & Succubae | Corrupter (Chapter 5) | > | Enervators (Family) | 20 | Deluders | — | Deceiver (Chapter 6) | > | Famuli (Family) | 10 | False Gods | — | Corrupter (Chapter 5) | > | Fictiles (Family) | 10 | Aerial Powers | — | Destroyer (Chapter 7) |"
+   },
+   {
+    "heading_path": [
+     "Chapter 6 : Demons as Deceivers",
+     "Berith the Ennobler"
+    ],
+    "text": "**Order:** Spirits of Deceit **Infernal Might:** 25 (Corpus) **Characteristics:** Int +3, Per +1, Pre 0, Com 0, Str +5, Sta +5, Dex –3, Qik 0 **Size:** +3 **Confidence Score**: 2 (6 points) **Virtues and Flaws:** Landed Noble\\*, Long–Winded \\*Not a true title, but he is treated as such. **Personality Traits:** Arrogant +6, Deceitful +6, Trustworthy –5 **Reputations:** Ennobler of Riches 3 (Infernal), Teacher of Alchemists 1 (Infernal) **Hierarchy:** 3 **Combat:** Great sword: Init +2, Attack +11\\*, Defense +11\\*, Damage +14 Hooves: Init +2, Attack +5, Defense +8, Damage +6 \\*Includes a +3 bonus for being mounted. **Soak:** +15 **Fatigue Levels:** OK, 0/0/0, –1/–1, –3/–3, –5, Unconscious **Wound Penalties**: –1 (1–8), –3 (9–16), –5 (17–24), Incapacitated (25–32) **Abilities:** Athletics 6 (galloping), Brawl 6 (hooves), Folk Ken 6 (noble land claims), Great Weapon 6 (great sword), Guile 6 (ennobling things), Intrigue 8 (mortal nobles) **Powers:** *Ennoble the Base*, 1 point, Init 0, Mentem: Makes any one target see a situation, argument, idea, or object as more noble than it is. *Face of the Count*, 5 points, Init 0, Corpus*:* Transforms a volunteer into a facsimile of a particular nobleman. This transformation does not change the memories or personality of the target, and is dispelled by participation in any sacrament. *Seven Leagues in One Night,* 1 point, Init –3, Animal: This Power allows Berith to travel at tremendous speed, three times faster than any normal horse. He can"
+   }
+  ]
+ },
+ {
+  "qid": "indep-155",
+  "entity": "Antares",
+  "kind_of_thing": "Character Type",
+  "aliases": [
+   "Antares"
+  ],
+  "book": "sanctuary-of-ice-the-greater-alps-tribunal",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter 4: The Covenant of the Icy North",
+     "Juno's Spire and Archmage Pietro"
+    ],
+    "text": "This chapter house is the personal demesne of Archmagus Pietro, the most senior hoplite in the tribunal. Pietro is a spry, small man, elderly and fascinated by structured conflict. Pietro was originally trained as a Tytalus magus, but he won membership of House Flambeau by defeating its champions using powerful lightning effects. He did this because it was difficult, and because some Tytalus magi see it as their duty to convert the other Houses to the philosophy of struggle by creating new lineages within them. Pietro's descendants are considered interlopers by some Flambeau, but he trusts they will prove resilient should a pogrom be attempted after his death. Pietro's familiar is a leopard. He went hunting for a leopard to skin for his hoplite's sash, but his quarry circled him and attacked him from behind. Realizing that the leopard was sneakier than he was, Pietro courted it as his familiar. Now that it is bound Pietro's leopard, called Cinnamon, likes to catch birds by ambushing them from behind cloudbanks. Pietro is rumored to be the Antares, the supreme war leader appointed by the Council of Archmagi. This role, if it exists at all, is purely ceremonial, the stories say, unless the Order faces a grave crisis that requires decisive, united military action. Those who believe in the Antares say that the role takes its name from its badge of office. They claim that great generals in the order's history, like Pralix, who was sent against Dav'nalleous,"
+   },
+   {
+    "heading_path": [
+     "Chapter 4: The Covenant of the Icy North",
+     "Juno's Spire and Archmage Pietro"
+    ],
+    "text": "military action. Those who believe in the Antares say that the role takes its name from its badge of office. They claim that great generals in the order's history, like Pralix, who was sent against Dav'nalleous, and Entisimon, who marshaled the Flambeau during the Schism War, wore an enormous ruby that gave them extra-ordinary powers. A Hermetic Portal links the motherhouse to the Spire. The ancient defenses placed here during the time of intracovenant strife remain. The portal, which can be barred with a thick, metal plate, rests within a room that has been enchanted so that, on command, it incinerates all human flesh within it. The existence of this avenue of rapid communication is widely known in the Tribunal and adds fuel to the rumor that Pietro is the Antares. >#### Beloved Enemy (flaw, usually –2) > >Some magi thrive on conflict, but find that it's difficult to nurture an enemy over the decades. Many don't understand the way a good enemy can force you to grow, and so they do foolish things, like trying to kill their enemies. Some very few magi are lucky; they find the one enemy who's right for them. > >Beloved enemy is a flaw that mixes the Enemy flaw (variable) and the True Friend virtue (+1). It cost varies, depending on the power of the enemy. Since true enemies are usually equivalent in power, this is a –2 Flaw for a magus. The value can rise or fall, depending"
+   }
+  ]
+ },
+ {
+  "qid": "indep-163",
+  "entity": "Patarus",
+  "kind_of_thing": "Creature",
+  "aliases": [
+   "Patarus",
+   "The Demon Patarus"
+  ],
+  "book": "the-church",
+  "passages": [
+   {
+    "heading_path": [
+     "List of Inserts",
+     "VI. The Corrupt"
+    ],
+    "text": "- Was There a Cluniac Order? - Mortuary Masses - The Hermit and the Devils - Story Seed: Fleeing the Mob - The Demon BaalBaruth, - Corrupter of Monks - The Demon Patarus - Bernard of Clairvaux (1090–1153) - Story Seed: - The Ring of Saint Bernard - The Three Ages of the World - A Note on the Illuminati - The Demon Jaevert - The Demon Varriar"
+   },
+   {
+    "heading_path": [
+     "Chapter Six: The Corrupt",
+     "The Order of Cluny",
+     "The Corrupt Cluniacs"
+    ],
+    "text": "corrupt the burial of any person who might be in any way holy, or have died with their sins shriven, lest God visit his vengeance upon them. A small number of monks remain who are completely innocent, pious, and struggling to reform the order, fully aware that something is terribly wrong, but isolated and frightened. With the absolute authority of the abbot guaranteed by the rule, very few manage any kind of trouble, and bishops and even papal legates have no way of investigating claims, even terrible ones of black Masses, demon worship, and the walking dead. Those who are obviously incorruptible and dangerous are either sent to Cluny, and vanish or die there, or are sent into exile in one of the small cells where three or four monks live far from the rest of the order in some unhealthy backwater. Discovering the nature of the Cluniac corruption, if it exists in your saga, may be easier than convincing the papacy of the terrible truth. >#### The Demon Patarus > >**Order:** Accusers > >**Infernal Might:** 15 > >**Characteristics:** Int +1, Per +1, Pre +2, Com +1, Str +2, Sta +3, Dex +2, Qik +1 > >**Size:** 0 > >**Confidence Score:** 1 (3) > >**Personality Traits**: Cruel +6, Cowardly +3, Rebellious +2 > >**Reputations:** Servant of BaalBaruth 1 > >**Hierarchy:** 1 > >**Combat:** > >*Dodge:* Init +5, Attack n/a, Defense +9, Damage n/a > >**Soak:** +5 > >**Fatigue Levels:** OK, 0, –1, –3, –5, Unconscious >"
+   }
+  ]
+ },
+ {
+  "qid": "indep-171",
+  "entity": "Central Massif",
+  "kind_of_thing": "Place",
+  "aliases": [
+   "Central Massif"
+  ],
+  "book": "the-lion-and-the-lily-the-normandy-tribunal",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Six: Anjou and Aquitaine",
+     "Aquitaine"
+    ],
+    "text": "The duchy of Aquitaine is the largest in France. It extends over 240 miles from the Bay of Biscay on the west coast to the upper reaches of the River Loire, and the northern boundary lies 100 to 150 miles from its southern border. The west is limestone plateau covered in deciduous woodland and carved deeply by rivers, which flow north into the Loire or south into the Dordogne. Both of these two great rivers rise in the Central Massif, a rugged area of hard volcanic rock punctuated by mountain peaks known as puys, which makes up the eastern part of the duchy. The mountain climate is harsh, supporting little agriculture but suiting sheep and goats. The south-facing slopes in the limestone country are perfect for viticulture. The primary special trade goods carried away from here along the great rivers are wine, truffles (see insert), and walnut oil. Along the coast, extensive marshes lie behind sand dunes. Castles stand guard over every road and river route, and there are monasteries, churches and chapels almost everywhere, leaving little space outside the direct influence of the mundane authorities and the Dominion. This area was civilized when Gaul was part of the Roman Empire, and the cities all contain traces, at least, of former Roman occupation. The kingdom of Aquitaine was founded by Charlemagne in 778. By the tenth century, powerful barons in their strongly fortified castles were locked into feuds with each other, largely ignoring any central authority."
+   }
+  ]
+ },
+ {
+  "qid": "indep-179",
+  "entity": "Caduceus",
+  "kind_of_thing": "Magic Item",
+  "aliases": [
+   "Caduceus"
+  ],
+  "book": "the-mysteries-revised",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter 13: Mercurian Magic",
+     "The Neo-Mercurians"
+    ],
+    "text": "Festival of Mercuralia on May 15th, when the Priest sprinkles the Congregations' hands with enchanted water as was done in ancient times. > ## Mercury > > The Roman deity Mercury, often represented as a youth wearing winged sandals, was primarily associated with trade, profit, and commerce, but also looked after travelers, roads, and thieves. The Latin words *mercator* and *merx* (\"merchant\") are related to Mercury. His main festival, Mercuralia, was celebrated on May 15th. The Greeks knew him as Hermes, and his symbol is the Caduceus, or a winged staff with entwined serpents. They organize loosely in congregations based at a temple, served by one officiating Priest. Initiation is based on aptitude and the Priest decides in which order the Initiate learns the Mystery Virtues. Despite this lack of local organization, the Neo-Mercurian Cult maintains temples across Mythic Europe, or so it is whispered, and it is rumored to have an excellent network of communications, and a hierarchy of Priests, all looking to a secret temple somewhere within the ruins of old Rome, outside the modern city boundaries. Only those who have contributed greatly to the recovery of the ancient secrets and risen to the rank of Priest know the truth. The members preserve, as far as possible, imperial Roman dress, customs, and traditions, and are fond of using Classical Latin, as opposed to more modern forms of the language (although they are mutually intelligible), and seek out even the non-magical Roman"
+   }
+  ]
+ },
+ {
+  "qid": "indep-187",
+  "entity": "Perfume-sorcerers of Soqotra",
+  "kind_of_thing": "Faction",
+  "aliases": [
+   "Perfume-sorcerers of Soqotra"
+  ],
+  "book": "transforming-mythic-europe",
+  "passages": [
+   {
+    "heading_path": [
+     "Chapter Four: Magic as Technology",
+     "Creating Wealth with Magic",
+     "A Cashless Economy",
+     "Flooding the Market"
+    ],
+    "text": "cramping muscles, and intestinal distress in any who consume even small amounts. Finding the alchemist who poisoned the salt before he strikes closer to home could develop into a paranoid witch-hunt amongst the covenant's employees. > >*A Harvest of Figs* afflicts a Warping point on the target plant thanks to a powerful mystical effect, and *Nourish the Displaced Vines* inflicts another Warping point as a continuing mystical effect each year it is used. After several years of being affected by these spells, the covenant's spice trees develop the (Form) Monstrosity Flaw (*Realms of Power: Magic*, page 48–49). > >Cinnamon trees are wellknown for their propensity to spontaneously burst into flames, and many other spice and incense trees are famous for attracting deadly serpents who live amongst their branches. > >Some incense trees are guarded by powerful spirits, who may resent the theft and farming of the sacred incense, and send a team of sorcerers to reclaim their child (see *Rival Magic*, Chapter Five for details of the perfume-sorcerers of Soqotra)."
+   }
+  ]
+ },
+ {
+  "qid": "indep-195",
+  "entity": "Minor Magic Deficiency",
+  "kind_of_thing": "Flaw",
+  "aliases": [
+   "Minor Magic Deficiency"
+  ],
+  "book": "tribunals-of-hermes-rome",
+  "passages": [
+   {
+    "heading_path": [
+     "Appendix: Templates",
+     "Magus Vocations",
+     "Commune Mercenary (Tytalus)"
+    ],
+    "text": "Intelligence +2 Presence -2 Perception +0 Communication -3 Strength +2 Dexterity +1 Stamina +2 Quickness -2 AGE: 26 VIRTUES & FLAWS: Gentle Gift +1, Knack (swords) +1, Mastered Spells +1, Magical Affinity (making magic weapons and armor) +2, Subtle Magic +2, Highly Skilled +3, Bad Reputation -1, Weak Writer -1, Incomprehensible -2, Lack of Control -2, Minor Magic Deficiency (Intéllego) -4 ABILITIES: Speak Italian 5, Speak Latin 5, Scribe Latin 3, Magic Theory 5, Hermes Lore 2, Hermes History 2, Parma Magica 2, Morning Star Attack 4, Knight Shield Parry 4, Magical Affinity — making magic weapons and armor 3, Certámen 1, Finesse 1, Penetration 1, Brawl 2, Alertness 2, Scan 2, Diplomacy 2, Drinking 1, Leadership 2, Area Lore — northern Italy) 1 CONFIDENCE: 3 REPUTATION: Icy-Hearted Mercenary 2 PERSONALITY TRAITS: Brave +2, Loyal -2, Calculating +2 WEAPONS & ARMOR: Morning Star, Knight's Shield, Ring Mail Hauberk ENCUMBRANCE: 2 TECHNIQUES & FORMS: Creo 1, Intéllego 0, Muto 10, Rego 2, Perdo 0, Animál 3, Aquam 0, Auram 0, Córporem 10, Herbam 0, Ignem 0, Imágonem 0, Mentem 0, Terram 5, Vim 5 SPELLS: Eyes of the Cat (Muto Córporem 10), Preternatural Growth and Shrinking (Muto Córporem 20), Gift of the Bear's Fortitude (Muto Córporem 30), Rise of the Feathery Body (Rego Córporem 10), Endurance of the Berserkers (Rego Córporem 15), Edge of the Razor (Muto Terram 5), Statue to Animal (Muto Terram 25), Fist of Shattering (Perdo Terram 5), Rusted Decay of Ten Score Years"
+   },
+   {
+    "heading_path": [
+     "Appendix: Templates",
+     "Magus Vocations",
+     "Independent Rebel (Tremere)"
+    ],
+    "text": "Intelligence +2 Presence +1 Perception -1 Communication +2 Strength -2 Dexterity -2 Stamina +2 Ouickness -2 AGE: 22 VIRTUES & FLAWS: Learn From Mistakes (Certámen) +1, Vengeance Passion +1, Knack (Certámen) +2, Self-Confident +3, Highly Skilled +3, Blatant Gift -1, Dark Secret -1, Infamous Master -1, No Sigil -1, Obsessed (Power) -1, Stingy Master -1, Minor Magic Deficiency (Creo) -4 ABILITIES: Speak Italian 4, Speak Latin 5, Scribe Latin 3, Magic Theory 5, Hermes Law 1, Hermes Lore 2, Hermes History 2, Parma Magica 3, Certámen 6, Finesse 1, Penetration 2, Guile 2, Intimidation 2, Intrigue 1, Leadership 2, Subterfuge 2 CONFIDENCE: 6 REPUTATION: Trouble Maker 2 PERSONALITY TRAITS: Brave -1, Liar +3, Back-Stabber +3 WEAPONS & ARMOR: None ENCUMBRANCE: 0 TECHNIQUES & FORMS: Creo 4, Intéllego 0, Muto 0, Perdo 0, Rego 7, Animál 6, Aquam 0, Auram 0, Córporem 6, Herbam 0, Ignem 7, Imágonem 1, Mentem 6, Terram 0, Vim 0 SPELLS: Circle of Beast Warding (Rego Animál 20), Despair of the Quivering Manacles (Rego Córporem 10), Lifting the Dangling Puppet (Rego Córporem 20), Pilum of Fire (Creo Ignem 20), Wizard's Sidestep (Rego Imágonem 20), Memory of the Distant Dream (Creo Mentem 20), Aura of Rightful Authority (Rego Mentem 20) When your master came to the Roman Tribunal long ago, he was full of hope, ready to create a new Covenant in one of the oldest Tribunals. His hopes were dashed by Italy's constant politicking. Stubborn, he remained in Italy, determined that one"
+   }
+  ]
+ }
+]

@@ -1,0 +1,66 @@
+{
+  "ontology": {
+    "indep": {
+      "n": 200,
+      "recall@1": 0.77,
+      "recall@5": 0.845,
+      "recall@10": 0.86,
+      "MRR": 0.804
+    },
+    "indep_strict": {
+      "n": 148,
+      "recall@1": 0.723,
+      "recall@5": 0.818,
+      "recall@10": 0.838,
+      "MRR": 0.765
+    }
+  },
+  "vector": {
+    "indep": {
+      "n": 200,
+      "recall@1": 0.505,
+      "recall@5": 0.69,
+      "recall@10": 0.75,
+      "MRR": 0.582
+    },
+    "indep_strict": {
+      "n": 148,
+      "recall@1": 0.5,
+      "recall@5": 0.669,
+      "recall@10": 0.73,
+      "MRR": 0.569
+    }
+  },
+  "hybrid": {
+    "indep": {
+      "n": 200,
+      "recall@1": 0.535,
+      "recall@5": 0.725,
+      "recall@10": 0.755,
+      "MRR": 0.609
+    },
+    "indep_strict": {
+      "n": 148,
+      "recall@1": 0.514,
+      "recall@5": 0.689,
+      "recall@10": 0.723,
+      "MRR": 0.582
+    }
+  },
+  "entity": {
+    "indep": {
+      "n": 200,
+      "recall@1": 0.69,
+      "recall@5": 0.78,
+      "recall@10": 0.835,
+      "MRR": 0.731
+    },
+    "indep_strict": {
+      "n": 148,
+      "recall@1": 0.655,
+      "recall@5": 0.757,
+      "recall@10": 0.818,
+      "MRR": 0.703
+    }
+  }
+}
