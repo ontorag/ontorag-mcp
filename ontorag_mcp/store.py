@@ -148,10 +148,17 @@ def _tokenize(text):
     return _TOKEN_RE.findall(text.lower())
 
 
+_TOKEN_RE = re.compile(r"\w+|[^\w\s]")
+
+
 def build_alias_matcher(entities, linkable_iris):
-    """Two combined alternation regexes for detecting entity mentions in a query.
-    Multi-word aliases match case-insensitively; single-word aliases exact-case."""
-    ci, cs = {}, {}
+    """Alias tables for detecting entity mentions in a query. Multi-word aliases
+    match case-insensitively; single-word aliases exact-case. Matching (see
+    match_aliases) is leftmost-longest and non-overlapping — the semantics of a
+    longest-first regex alternation — by looking up token-aligned spans, which stays
+    fast with tens of thousands of aliases (a 30k-way alternation took ~10 s per
+    query). Returns (ci, cs, longest)."""
+    ci, cs, longest = {}, {}, 1
     for iri in linkable_iris:
         e = entities.get(iri)
         if not e:
@@ -161,14 +168,28 @@ def build_alias_matcher(entities, linkable_iris):
             if len(a) < 3:
                 continue
             (ci if " " in a else cs).setdefault(a.lower() if " " in a else a, set()).add(iri)
+            longest = max(longest, len(_TOKEN_RE.findall(a)))
+    return ci, cs, longest
 
-    def rx(keys, flags):
-        if not keys:
-            return None
-        body = "|".join(re.escape(k) for k in sorted(keys, key=len, reverse=True))
-        return re.compile(r"\b(?:" + body + r")\b", flags)
 
-    return (rx(list(ci), re.IGNORECASE), ci, rx(list(cs), 0), cs)
+def match_aliases(text, matcher):
+    ci, cs, longest = matcher
+    spans = [m.span() for m in _TOKEN_RE.finditer(text)]
+    hits = set()
+    for table, key in ((ci, str.lower), (cs, lambda x: x)):
+        if not table:
+            continue
+        i, n = 0, len(spans)
+        while i < n:
+            found = None
+            for j in range(min(n, i + longest) - 1, i - 1, -1):      # longest first
+                iris = table.get(key(text[spans[i][0]:spans[j][1]]))
+                if iris:
+                    hits.update(iris)
+                    found = j
+                    break
+            i = found + 1 if found is not None else i + 1
+    return hits
 
 
 # --------------------------------------------------------------------------- #
@@ -260,16 +281,18 @@ class Dataset:
 
         self.retrieval = retrieval if retrieval != "auto" else (
             "vector" if self.has_vectors else "ontology")
-        if self.retrieval in ("ontology", "hybrid"):
+        if self.retrieval in ("ontology", "hybrid", "fused"):
             self._build_ontology_index()
 
     def _build_ontology_index(self):
         # query-time entity matcher over entities actually linked to chunks
         self._qmatch = build_alias_matcher(self.entities, set(self._ent_chunks))
         # lexical statistics for a BM25-lite fallback (df only — light on memory)
-        self._df, self._doc_len, total = {}, {}, 0
+        from collections import Counter
+        self._df, self._doc_len, self._tf, total = {}, {}, {}, 0
         for cid, c in self.chunks.items():
             toks = _tokenize(c.get("text", ""))
+            self._tf[cid] = Counter(toks)          # kept: re-tokenising per query was the hot path
             self._doc_len[cid] = len(toks)
             total += len(toks)
             for t in set(toks):
@@ -317,12 +340,13 @@ class Dataset:
 
         ent_to_vec = {}
         ent_glob = (manifest.get("embeddings") or {}).get("entity_vectors_glob")
-        if retrieval in ("entity", "auto") and emb_cfg is not None and ent_glob:
+        if retrieval in ("entity", "fused", "auto") and emb_cfg is not None and ent_glob:
             for rel in await source.glob(ent_glob):
                 for r in await jsonl(rel):
                     ent_to_vec[r["id"]] = r["vector"]
-        if retrieval == "entity" and not ent_to_vec:
-            raise ValueError("retrieval 'entity' needs embeddings.entity_vectors_glob in the manifest")
+        if retrieval in ("entity", "fused") and not ent_to_vec:
+            raise ValueError("retrieval '%s' needs embeddings.entity_vectors_glob in the manifest"
+                             % retrieval)
 
         return cls(manifest, emb_cfg, entities, chunks, vid_to_vec, ollama_url,
                    source.describe(), retrieval, registry, ent_to_vec)
@@ -400,6 +424,8 @@ class Dataset:
             return self.search_hybrid(query, k=k, qvec=qvec, packs=packs)
         if self.retrieval == "entity":
             return self.search_entity(query, k=k, qvec=qvec, packs=packs)
+        if self.retrieval == "fused":
+            return self.search_fused(query, k=k, qvec=qvec, packs=packs)
         if not self.ids:
             return []
         q = qvec if qvec is not None else self.embed(query)
@@ -408,19 +434,10 @@ class Dataset:
 
     # ---- embedding-free (ontology + lexical) retrieval ----
     def match_query_entities(self, query):
-        rx_ci, ci, rx_cs, cs = self._qmatch
-        hits = set()
-        if rx_ci:
-            for m in rx_ci.finditer(query):
-                hits.update(ci.get(m.group(0).lower(), ()))
-        if rx_cs:
-            for m in rx_cs.finditer(query):
-                hits.update(cs.get(m.group(0), ()))
-        return hits
+        return match_aliases(query, self._qmatch)
 
     def _lexical_score(self, cid, qterms, k1=1.2, b=0.75):
-        from collections import Counter
-        tf = Counter(_tokenize(self.chunks[cid].get("text", "")))
+        tf = self._tf[cid]
         L = self._doc_len.get(cid, 1) or 1
         s = 0.0
         for t in qterms:
@@ -442,7 +459,7 @@ class Dataset:
         else:
             # no entity in the query -> lexical scan over the whole corpus
             cand = set(self.chunks)
-        cand = self._scoped_chunks(cand, packs)
+        cand = sorted(self._scoped_chunks(cand, packs))    # sorted: deterministic ties
         rows = []
         for cid in cand:
             ce = self.chunks[cid].get("entities", [])
@@ -456,7 +473,7 @@ class Dataset:
         for r in rows:
             we = 0.6 if qe else 0.0
             r.append(we * (r[1] / emax) + (1 - we) * (r[2] / lmax))
-        rows.sort(key=lambda r: -r[3])
+        rows.sort(key=lambda r: (-r[3], r[0]))
         return rows[:k], qe
 
     def search_ontology(self, query, k=6, packs=None):
@@ -530,6 +547,44 @@ class Dataset:
                 "instruction": "Answer the query using ONLY these passages; cite by [cite]. "
                                "Use ontology_facts for grounding. Say so if insufficient."}
 
+    # ---- fused: ontology + entity, reciprocal-rank fusion ----
+    FUSION_DEPTH = 50
+    FUSION_K = 60
+
+    def _fused_rank(self, query, k, qvec=None, packs=None):
+        """Reciprocal-rank fusion of the ontology ranking (names and keywords in the
+        question) and the entity ranking (what the question describes). Either one
+        alone misses questions the other answers; fused, the right passage is in the
+        top 5-10 far more often (eval/README.md)."""
+        rows, qe = self._rank(query, self.FUSION_DEPTH, packs)
+        ents, ent_iris = self._entity_rank(query, self.FUSION_DEPTH, qvec=qvec, packs=packs)
+        score = {}
+        for r, (cid, *_rest) in enumerate(rows, 1):
+            score[cid] = score.get(cid, 0.0) + 1.0 / (self.FUSION_K + r)
+        for r, (cid, _s) in enumerate(ents, 1):
+            score[cid] = score.get(cid, 0.0) + 1.0 / (self.FUSION_K + r)
+        ranked = sorted(score.items(), key=lambda kv: (-kv[1], kv[0]))[:k]
+        return ranked, qe, ent_iris
+
+    def search_fused(self, query, k=6, qvec=None, packs=None):
+        ranked, _qe, _ents = self._fused_rank(query, k, qvec=qvec, packs=packs)
+        return [self._hit(cid, s) for cid, s in ranked]
+
+    def answer_fused(self, query, k=6, expand=3, packs=None):
+        ranked, qe, ents = self._fused_rank(query, k + expand, packs=packs)
+        used = [cid for cid, _s in ranked]
+        matched = sorted(set(qe)) + [e for e in ents[:k] if e not in qe]
+        facts = self._facts(set(matched) | {i for cid in used[:k] for i in self.chunks[cid].get("entities", [])},
+                            packs)
+        passages = [{"cite": cid, "doc": self.chunks[cid]["doc"],
+                     "heading_path": self.chunks[cid].get("heading_path", []),
+                     "entities": self._entity_labels(self.chunks[cid].get("entities", [])),
+                     "text": self.chunks[cid]["text"]} for cid in used]
+        return {"query": query, "matched_entities": self._entity_labels(matched),
+                "ontology_facts": facts, "passages": passages,
+                "instruction": "Answer the query using ONLY these passages; cite by [cite]. "
+                               "Use ontology_facts for grounding. Say so if insufficient."}
+
     def search_hybrid(self, query, k=6, qvec=None, packs=None):
         ranked, _qe = self._hybrid_rank(query, k, qvec=qvec, packs=packs)
         return [self._hit(cid, s) for cid, s in ranked]
@@ -571,6 +626,8 @@ class Dataset:
             return self.answer_hybrid(query, k=k, expand=expand, packs=packs)
         if self.retrieval == "entity":
             return self.answer_entity(query, k=k, expand=expand, packs=packs)
+        if self.retrieval == "fused":
+            return self.answer_fused(query, k=k, expand=expand, packs=packs)
         q = self.embed(query)
         top, scores = self._dense_top(q, k, packs)
         chosen = [self.ids[i] for i in top]

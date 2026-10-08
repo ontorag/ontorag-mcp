@@ -38,28 +38,30 @@ the source passages or the description.
 
 | set | mode | recall@1 | recall@5 | recall@10 | MRR |
 |-----|------|---------:|---------:|----------:|----:|
-| indep (200) | ontology | **0.77** | 0.85 | 0.86 | **0.80** |
+| indep (200) | ontology | **0.75** | 0.84 | 0.86 | **0.79** |
+| | fused | 0.71 | **0.87** | **0.92** | 0.78 |
 | | entity | 0.69 | 0.78 | 0.84 | 0.73 |
 | | hybrid | 0.54 | 0.73 | 0.76 | 0.61 |
 | | vector | 0.51 | 0.69 | 0.75 | 0.58 |
-| | ontology + entity (RRF) | 0.70 | **0.89** | **0.93** | 0.78 |
-| indep_strict (148) | ontology | **0.72** | 0.82 | 0.84 | **0.77** |
+| indep_strict (148) | ontology | **0.70** | 0.80 | 0.83 | **0.75** |
+| | fused | 0.66 | **0.85** | **0.90** | 0.74 |
 | | entity | 0.66 | 0.76 | 0.82 | 0.70 |
 | | hybrid | 0.51 | 0.69 | 0.72 | 0.58 |
 | | vector | 0.50 | 0.67 | 0.73 | 0.57 |
-| | ontology + entity (RRF) | 0.66 | **0.87** | **0.91** | 0.75 |
 
-(`results.indep.json`, `results.fusion.json`; fusion by `fuse_eval.py`,
-reciprocal-rank fusion of the two modes' top 50.)
+(`results.indep.json`. `fused` is the server's `ontology` + `entity` reciprocal-rank
+fusion. Ties in the ontology ranking are broken by chunk id since 2026-10, so runs
+are reproducible; earlier figures drifted by ±0.02 between runs.)
 
 - **`entity` mode** (question → nearest entity descriptions → their chunks) beats
   `vector` by 0.16–0.18 recall@1: comparing a question with short entity
   descriptions works better than comparing it with rulebook prose.
 - **`ontology` still wins at rank 1.** Real questions carry other names ("Bologna",
   "Rego Terram", "Pyrenean") that the entity matcher and BM25 exploit.
-- **Fusion is best for retrieval-augmented answers:** recall@5 0.89 / @10 0.93
-  (strict 0.87 / 0.91) — the correct passage is in the context handed to the model
-  far more often than with any single mode, at a small cost at rank 1.
+- **`fused` is best for retrieval-augmented answers:** recall@5 0.87 / @10 0.92
+  (strict 0.85 / 0.90) — the correct passage is in the context handed to the model
+  more often than with any single mode, at a small cost at rank 1. On the 320-question
+  set it stays close to `ontology` (named 0.99, needle 0.975 recall@1).
 - On the **old, leaky `paraphrase` set**, `entity` scores 0.975 recall@1 — exactly
   the inflation expected when the index embeds the texts the questions were made
   from. Don't use that set to judge description-based retrieval.
@@ -82,9 +84,9 @@ where the v0.4.2 set could only reach 17.
 | | hybrid | 0.49 | 0.81 | 0.59 |
 | | vector | 0.48 | 0.78 | 0.58 |
 
-(`results.json`, from `queries.jsonl`.) With `entity` mode added on the same set:
-entity_named 0.94, niah 0.94 recall@1 (below `ontology` but far above `vector`),
-and paraphrase 0.975 — inflated, see above.
+(`results.json`, from `queries.jsonl`, now with all five modes.) `entity`: named
+0.94, niah 0.94 recall@1; `fused`: named 0.99, niah 0.975; on the leaky paraphrase
+kind entity 0.975 and fused 0.88 — inflated, see above.
 
 ### Same questions, old vs new dataset
 
@@ -106,8 +108,10 @@ entities (`results.amol-v0.4.2.json` → `results.oldqueries-on-v0.6.0.json`):
 
 Vector is unchanged (same embeddings) and ontology holds. **Hybrid regresses:** with
 three times as many entities, a query matches more of them, so the candidate set
-hybrid re-ranks is larger and noisier. Its candidate selection needs tightening
-(e.g. weight matches by entity specificity) before hybrid is the default.
+hybrid re-ranks is larger and noisier. Restricting the candidates to the 3 most
+specific matched entities did not change the scores (tried 2026-09, reverted), and
+`fused` now beats `hybrid` on every question set, so `hybrid` is kept only for the
+Redis serverless path, where `fused` is not available.
 
 ### Previous results — amol-ontorag v0.4.2 (8 books extracted) (n: 120 named / 120 paraphrase / 80 niah)
 

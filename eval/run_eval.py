@@ -7,6 +7,7 @@ dataset's declared model) and reused across modes via the store's `qvec` param.
 import argparse
 import asyncio
 import json
+import time
 import os
 import sys
 import urllib.request
@@ -24,7 +25,14 @@ def batch_embed(qid_text, model, url, batch=32):
         payload = json.dumps({"model": model, "input": [t for _, t in part]}).encode()
         req = urllib.request.Request(url.rstrip("/") + "/api/embed", data=payload,
                                      headers={"Content-Type": "application/json"})
-        d = json.loads(urllib.request.urlopen(req, timeout=120).read())
+        for attempt in range(5):   # a shared CPU ollama can stall past one timeout
+            try:
+                d = json.loads(urllib.request.urlopen(req, timeout=300).read())
+                break
+            except Exception:
+                if attempt == 4:
+                    raise
+                time.sleep(30 * (attempt + 1))
         for (qid, _), v in zip(part, d["embeddings"]):
             a = np.asarray(v, dtype=np.float32)
             n = float(np.linalg.norm(a))
@@ -59,7 +67,7 @@ async def main():
 
     emb = json.load(open(os.path.join(args.dataset, "embeddings/config.json")))
     qvec = {}
-    if any(m in args.modes for m in ("vector", "hybrid", "entity")) and emb["provider"] == "ollama":
+    if any(m in args.modes for m in ("vector", "hybrid", "entity", "fused")) and emb["provider"] == "ollama":
         print("batch-embedding %d queries via %s ..." % (len(queries), emb["model"]), file=sys.stderr)
         qvec = batch_embed({q["qid"]: q["text"] for q in queries}, emb["model"], args.ollama_url)
 
@@ -101,4 +109,5 @@ async def main():
     print("\nwrote", args.out)
 
 
-asyncio.run(main())
+if __name__ == "__main__":
+    asyncio.run(main())

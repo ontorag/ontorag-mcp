@@ -71,3 +71,29 @@ async def test_answer_names_the_matched_entities(entity_dataset):
     ds.embed = lambda text: _embed_hashed(text, DIM)
     r = ds.answer("which winged reptile beast has a venomous tail", k=2, expand=1)
     assert "Wyvern" in r["matched_entities"] and r["passages"]
+
+
+# ---- fused: ontology + entity (reciprocal-rank fusion) ----
+
+async def test_fused_finds_named_and_described_things(entity_dataset):
+    ds = await _load(entity_dataset, "fused")
+    named = "Fireball"                                   # the ontology side names it
+    hits = ds.search(named, k=3, qvec=_embed_hashed(named, DIM))
+    assert hits and hits[0]["id"].startswith("core::")
+    described = "which winged reptile beast has a venomous tail"   # the entity side
+    hits = ds.search(described, k=3, qvec=_embed_hashed(described, DIM))
+    assert hits and any(h["id"].startswith("supp::") for h in hits)
+
+
+async def test_fused_respects_scope_and_keeps_k(entity_dataset):
+    ds = await _load(entity_dataset, "fused")
+    q = "Fireball Gift core rules"
+    hits = ds.search(q, k=3, qvec=_embed_hashed(q, DIM), scope=["supp"])
+    assert len(hits) == 3 and {h["doc"] for h in hits} == {"supp"}
+
+
+async def test_fused_answer(entity_dataset):
+    ds = await _load(entity_dataset, "fused")
+    ds.embed = lambda text: _embed_hashed(text, DIM)
+    r = ds.answer("which winged reptile beast has a venomous tail", k=2, expand=1)
+    assert r["passages"] and "Wyvern" in r["matched_entities"]

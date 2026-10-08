@@ -2,24 +2,24 @@
   "ontology": {
     "entity_named": {
       "n": 120,
-      "recall@1": 0.992,
+      "recall@1": 1.0,
       "recall@5": 1.0,
       "recall@10": 1.0,
-      "MRR": 0.996
+      "MRR": 1.0
     },
     "niah": {
       "n": 80,
-      "recall@1": 0.975,
-      "recall@5": 0.988,
+      "recall@1": 1.0,
+      "recall@5": 1.0,
       "recall@10": 1.0,
-      "MRR": 0.983
+      "MRR": 1.0
     },
     "paraphrase": {
       "n": 120,
-      "recall@1": 0.65,
-      "recall@5": 0.817,
+      "recall@1": 0.642,
+      "recall@5": 0.808,
       "recall@10": 0.85,
-      "MRR": 0.721
+      "MRR": 0.716
     }
   },
   "vector": {
@@ -48,17 +48,17 @@
   "hybrid": {
     "entity_named": {
       "n": 120,
-      "recall@1": 0.825,
-      "recall@5": 0.908,
-      "recall@10": 0.917,
-      "MRR": 0.866
+      "recall@1": 0.833,
+      "recall@5": 0.917,
+      "recall@10": 0.925,
+      "MRR": 0.874
     },
     "niah": {
       "n": 80,
-      "recall@1": 0.762,
+      "recall@1": 0.787,
       "recall@5": 0.85,
       "recall@10": 0.938,
-      "MRR": 0.81
+      "MRR": 0.823
     },
     "paraphrase": {
       "n": 120,
@@ -89,6 +89,29 @@
       "recall@5": 0.992,
       "recall@10": 0.992,
       "MRR": 0.983
+    }
+  },
+  "fused": {
+    "entity_named": {
+      "n": 120,
+      "recall@1": 0.992,
+      "recall@5": 0.992,
+      "recall@10": 0.992,
+      "MRR": 0.992
+    },
+    "niah": {
+      "n": 80,
+      "recall@1": 0.975,
+      "recall@5": 1.0,
+      "recall@10": 1.0,
+      "MRR": 0.985
+    },
+    "paraphrase": {
+      "n": 120,
+      "recall@1": 0.883,
+      "recall@5": 0.967,
+      "recall@10": 0.983,
+      "MRR": 0.922
     }
   }
 }

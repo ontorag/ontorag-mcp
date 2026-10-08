@@ -97,7 +97,8 @@ async def load_dataset(repo: str, ref: str = "", retrieval: str = "") -> dict:
     `retrieval` overrides the mode: 'vector' (dense embeddings), 'ontology'
     (embedding-free entity-graph + lexical), 'hybrid', 'entity' (nearest entity
     descriptions, then their chunks — for questions that describe a thing without
-    naming it), or 'auto'."""
+    naming it), 'fused' (ontology + entity, rank fusion; best recall when the
+    dataset has entity vectors), or 'auto'."""
     spec = repo.strip()
     src = resolve_source(spec, ref=ref or DEFAULT_REF, token=GITHUB_TOKEN)
     mode = retrieval or RETRIEVAL
