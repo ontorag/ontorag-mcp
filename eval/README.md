@@ -66,6 +66,45 @@ are reproducible; earlier figures drifted by ±0.02 between runs.)
   the inflation expected when the index embeds the texts the questions were made
   from. Don't use that set to judge description-based retrieval.
 
+## Small models end to end (`small_model_eval.py`, `small_model_choose.py`)
+
+Can a small local model answer questions over this dataset, and where does the work
+happen? 200 independent questions, CPU-only ollama, four models, five arms:
+
+- **A** retrieval only (`fused`, top 5) — no model;
+- **B** the model fills `{kind, keywords, name_guess}` under a JSON schema, added to the query;
+- **C** the model names the thing from the question + A's top-5 passages;
+- **D** closed book — the question alone (control);
+- **E** code proposes, the model chooses: the entities linked to the retrieved
+  passages, with one-line summaries, offered as an `enum` under grammar-constrained
+  decoding (no free text possible); either all of them (≤40, passage order) or the
+  **10 whose descriptions are closest to the question**.
+
+| model | A R@5 | D closed | C from passages | E choose (≤40) | **E choose (top 10)** | s/q C → E10 |
+|-------|------:|---------:|----------------:|---------------:|----------------------:|------------:|
+| Bonsai-1.7B (1-bit) | 0.86 | 0.00 | 0.38 | 0.34 | **0.46** | 22 → 4 |
+| Ternary-Bonsai-1.7B | 0.86 | 0.00 | 0.35 | 0.36 | **0.39** | 17 → 3 |
+| Bonsai-4B (1-bit) | 0.86 | 0.00 | 0.39 | 0.51 | **0.57** | 45 → 8 |
+| gemma4 8B | 0.86 | 0.03 | 0.64 | 0.75 | **0.75** | 36 → 7 |
+
+(`results.small_models.json` has the strict subset too — same picture, ±0.03.
+Per-question records: `small_models*.jsonl`.)
+
+- **The knowledge comes from retrieval.** Closed book, every model scores ~0: none
+  knows Ars Magica. Everything they get right comes from the dataset.
+- **Reading is the bottleneck, not finding.** The right passage is in the top 5 for
+  86% of questions, but small models turn it into the right answer only 35–39% of
+  the time — they ramble, name the wrong thing, or say "unknown".
+- **Let code propose and the model choose.** Offering the graph's candidates as a
+  constrained choice lifts every model and makes it 4–6× faster (short prompt, a
+  few output tokens). It needs the list short and relevant: with ≤40 candidates the
+  1.7B models drown (the ternary one answers "none" half the time); the top 10 by
+  description similarity still contain the answer for 84% of questions.
+- **Bigger helps, but not linearly.** The 1-bit 4B gains most from the choice
+  format (0.39 → 0.57); gemma4 8B reaches 0.75 of an attainable 0.84.
+- Slot filling (B) changes retrieval by only +1–3 points, and small models never
+  guess names correctly — don't build on their recall.
+
 ## Results — amol-ontorag v0.6.0 (n: 120 named / 120 paraphrase / 80 niah)
 
 Since v0.6.0, entities are extracted from **all 25 books** (before: 8), and the query

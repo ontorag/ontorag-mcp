@@ -1,0 +1,98 @@
+{
+ "hf.co/prism-ml/Bonsai-1.7B-gguf:Q1_0": {
+  "all": {
+   "n": 200,
+   "A_retrieval_R@5": 0.865,
+   "B_slots_R@5": 0.875,
+   "D_closed_book": 0.0,
+   "C_rag_answer": 0.375,
+   "E_choose_40": 0.335,
+   "E_choose_top10": 0.46,
+   "C_seconds_per_q": 22.2,
+   "E10_seconds_per_q": 3.7
+  },
+  "strict": {
+   "n": 148,
+   "A_retrieval_R@5": 0.845,
+   "B_slots_R@5": 0.858,
+   "D_closed_book": 0.0,
+   "C_rag_answer": 0.351,
+   "E_choose_40": 0.338,
+   "E_choose_top10": 0.453,
+   "C_seconds_per_q": 22.1,
+   "E10_seconds_per_q": 3.7
+  }
+ },
+ "hf.co/prism-ml/Ternary-Bonsai-1.7B-gguf:F16": {
+  "all": {
+   "n": 200,
+   "A_retrieval_R@5": 0.865,
+   "B_slots_R@5": 0.885,
+   "D_closed_book": 0.0,
+   "C_rag_answer": 0.355,
+   "E_choose_40": 0.365,
+   "E_choose_top10": 0.385,
+   "C_seconds_per_q": 17.2,
+   "E10_seconds_per_q": 3.2
+  },
+  "strict": {
+   "n": 148,
+   "A_retrieval_R@5": 0.845,
+   "B_slots_R@5": 0.865,
+   "D_closed_book": 0.0,
+   "C_rag_answer": 0.372,
+   "E_choose_40": 0.372,
+   "E_choose_top10": 0.405,
+   "C_seconds_per_q": 17.1,
+   "E10_seconds_per_q": 3.2
+  }
+ },
+ "hf.co/prism-ml/Bonsai-4B-gguf:Q1_0": {
+  "all": {
+   "n": 200,
+   "A_retrieval_R@5": 0.865,
+   "B_slots_R@5": 0.87,
+   "D_closed_book": 0.0,
+   "C_rag_answer": 0.39,
+   "E_choose_40": 0.51,
+   "E_choose_top10": 0.57,
+   "C_seconds_per_q": 45.2,
+   "E10_seconds_per_q": 7.7
+  },
+  "strict": {
+   "n": 148,
+   "A_retrieval_R@5": 0.845,
+   "B_slots_R@5": 0.851,
+   "D_closed_book": 0.0,
+   "C_rag_answer": 0.385,
+   "E_choose_40": 0.486,
+   "E_choose_top10": 0.547,
+   "C_seconds_per_q": 45.2,
+   "E10_seconds_per_q": 7.8
+  }
+ },
+ "gemma4:latest": {
+  "all": {
+   "n": 200,
+   "A_retrieval_R@5": 0.865,
+   "B_slots_R@5": 0.875,
+   "D_closed_book": 0.025,
+   "C_rag_answer": 0.64,
+   "E_choose_40": 0.75,
+   "E_choose_top10": 0.75,
+   "C_seconds_per_q": 36.1,
+   "E10_seconds_per_q": 7.0
+  },
+  "strict": {
+   "n": 148,
+   "A_retrieval_R@5": 0.845,
+   "B_slots_R@5": 0.858,
+   "D_closed_book": 0.027,
+   "C_rag_answer": 0.615,
+   "E_choose_40": 0.736,
+   "E_choose_top10": 0.73,
+   "C_seconds_per_q": 36.0,
+   "E10_seconds_per_q": 6.9
+  }
+ }
+}
